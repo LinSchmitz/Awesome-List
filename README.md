@@ -322,7 +322,7 @@ A list of **beautiful, emotional, and powerful movies** from all kinds of genres
 ## 📺 Series
 
 | Title                                               |
-| --------------------------------------------------- |
+| --------------------------------------------------- | --- |
 | _After Life_                                        |
 | _Murder to Mercy_                                   |
 | _Vis a Vis_                                         |
@@ -333,6 +333,7 @@ A list of **beautiful, emotional, and powerful movies** from all kinds of genres
 | _Death Parade_                                      |
 | _Atlanta's Missing and Murdered: The Lost Children_ |
 | _The Spy_                                           |
+| _Undone_                                            |     |
 
 ---
 
@@ -495,3 +496,239 @@ A list of **beautiful, emotional, and powerful movies** from all kinds of genres
 | —    | _The Girl Who Leapt Through Time_ (Animation)                                   |
 | —    | _Still Walking_                                                                 |
 | —    | _Lady Snowblood_                                                                |
+
+## South Korea
+
+| Year | Title                |
+| ---- | -------------------- |
+| 2003 | _Memories of Murder_ |
+| —    | _Oldboy_             |
+| —    | _Handmaiden_         |
+| —    | _Taegukgi_           |
+| —    | _I Saw The Devil_    |
+| —    | _The Chaser_         |
+| —    | _The Scarlet Letter_ |
+
+## Italian Neorealism
+
+| Year | Title               |
+| ---- | ------------------- |
+| 1945 | _Rome, Open City_   |
+| 1946 | _Shoeshine_         |
+| 1948 | _Germany Year Zero_ |
+| 1948 | _Bicycle Thieves_   |
+| 1948 | _La Terra Trema_    |
+| 1949 | _Bitter Rice_       |
+| 1950 | _Stromboli_         |
+| 1952 | _Europe '51_        |
+| 1952 | _Umberto D._        |
+| 1952 | _Rome 11:00_        |
+| 1957 | _White Nights_      |
+| 1963 | _The Leopard_       |
+
+## Christopher Nolan
+
+| Year | Title             |
+| ---- | ----------------- |
+| 2008 | _The Dark Knight_ |
+| 2010 | _Inception_       |
+
+## Classic & Notable Films
+
+| Year | Title                                               |
+| ---- | --------------------------------------------------- |
+| 1939 | _Gone with the Wind_                                |
+| 1943 | _The Song of Bernadette_                            |
+| 1946 | _It's a Wonderful Life_                             |
+| 1953 | _Ugetsu_                                            |
+| 1954 | _Rear Window_                                       |
+| 1960 | _Le Trou_                                           |
+| 1960 | _Psycho_                                            |
+| 1960 | _The Island_                                        |
+| 1963 | _The Great Escape_                                  |
+| 1964 | _Woman in the Dunes_                                |
+| 1966 | _The Good, the Bad and the Ugly_                    |
+| 1972 | _Solaris_                                           |
+| 1972 | _The Godfather I_                                   |
+| 1974 | _Chinatown_                                         |
+| 1974 | _The Godfather II_                                  |
+| 1976 | _Network_                                           |
+| 1976 | _Taxi Driver_                                       |
+| 1979 | _Stalker_                                           |
+| 1980 | _The Elephant Man_                                  |
+| 1982 | _Blade Runner_                                      |
+| 1982 | _Salyut 7_                                          |
+| 1982 | _The Thing_                                         |
+| 1984 | _Amadeus_                                           |
+| 1984 | _The Terminator_                                    |
+| 1985 | _Back to the Future_                                |
+| 1985 | _Brazil_                                            |
+| 1988 | _Die Hard_                                          |
+| 1988 | _The Navigator: A Medieval Odyssey_                 |
+| 1989 | _Visitor of a Museum_                               |
+| 1990 | _Goodfellas_                                        |
+| 1991 | _Beauty and the Beast_                              |
+| 1992 | _Basic Instinct_                                    |
+| 1993 | _In the Name of the Father_                         |
+| 1993 | _Jurassic Park_                                     |
+| 1993 | _Schindler's List_                                  |
+| 1994 | _Death and the Maiden_                              |
+| 1994 | _Forrest Gump_                                      |
+| 1994 | _Léon: The Professional_                            |
+| 1994 | _Pulp Fiction_                                      |
+| 1994 | _The Shawshank Redemption_                          |
+| 1995 | _Braveheart_                                        |
+| 1995 | _Seven_                                             |
+| 1995 | _Twelve Monkeys_                                    |
+| 1995 | _Underground_                                       |
+| 1997 | _Cube_                                              |
+| 1997 | _Life Is Beautiful_                                 |
+| 1997 | _Lost Highway_                                      |
+| 1997 | _The Fifth Element_                                 |
+| 1997 | _The Game_                                          |
+| 1998 | _Saving Private Ryan_                               |
+| 1998 | _The Truman Show_                                   |
+| 1999 | _The Green Mile_                                    |
+| 1999 | _The Matrix_                                        |
+| 1999 | _The Sixth Sense_                                   |
+| 1999 | _The Thirteenth Floor_                              |
+| 2000 | _Catch Me If You Can_                               |
+| 2000 | _Gladiator_                                         |
+| 2000 | _Malena_                                            |
+| 2000 | _Memento_                                           |
+| 2000 | _Quills_                                            |
+| 2001 | _A Beautiful Mind_                                  |
+| 2001 | _Mulholland Drive_                                  |
+| 2001 | _The Lord of the Rings: The Fellowship of the Ring_ |
+| 2001 | _The One_                                           |
+| 2002 | _City of God_                                       |
+| 2002 | _Frida_                                             |
+| 2002 | _Irreversible_                                      |
+| 2002 | _The Hours_                                         |
+| 2002 | _The Lord of the Rings: The Two Towers_             |
+| 2002 | _The Pianist_                                       |
+| 2003 | _Identity_                                          |
+| 2003 | _Memories of Murder_                                |
+| 2003 | _Mystic River_                                      |
+| 2003 | _Spring, Summer, Fall, Winter and Spring_           |
+| 2003 | _The Dreamers_                                      |
+| 2003 | _The Lord of the Rings: The Return of the King_     |
+| 2004 | _3-Iron_                                            |
+| 2004 | _Hotel Rwanda_                                      |
+| 2004 | _Primer_                                            |
+| 2004 | _Troy_                                              |
+| 2005 | _Match Point_                                       |
+| 2005 | _The Jacket_                                        |
+| 2006 | _Basic Instinct 2_                                  |
+| 2006 | _Deja Vu_                                           |
+| 2006 | _Goya's Ghosts_                                     |
+| 2006 | _Peaceful Warrior_                                  |
+| 2006 | _The Departed_                                      |
+| 2006 | _The Fountain_                                      |
+| 2006 | _The Lives of Others_                               |
+| 2006 | _The Prestige_                                      |
+| 2006 | _V for Vendetta_                                    |
+| 2007 | _Becoming Jane_                                     |
+| 2007 | _Lost in Beijing_                                   |
+| 2008 | _Gran Torino_                                       |
+| 2009 | _3 Idiots_                                          |
+| 2009 | _District 9_                                        |
+| 2009 | _Mr. Nobody_                                        |
+| 2009 | _The Girl with the Dragon Tattoo_                   |
+| 2009 | _Triangle_                                          |
+| 2010 | _127 Hours_                                         |
+| 2010 | _Biutiful_                                          |
+| 2010 | _Black Swan_                                        |
+| 2010 | _Exam_                                              |
+| 2010 | _Incendies_                                         |
+| 2010 | _Inception_                                         |
+| 2010 | _Shutter Island_                                    |
+| 2010 | _The King's Speech_                                 |
+| 2010 | _The Lovely Bones_                                  |
+| 2011 | _A Dangerous Method_                                |
+| 2011 | _Detachment_                                        |
+| 2011 | _The Help_                                          |
+| 2011 | _The Hidden Face_                                   |
+| 2011 | _The Tree of Life_                                  |
+| 2011 | _Warrior_                                           |
+| 2012 | _Barbara_                                           |
+| 2012 | _Gravity_                                           |
+| 2012 | _Like Someone in Love_                              |
+| 2012 | _Looper_                                            |
+| 2012 | _Man on a Ledge_                                    |
+| 2012 | _Prometheus_                                        |
+| 2012 | _The Hunt_                                          |
+| 2012 | _The Words_                                         |
+| 2013 | _12 Years a Slave_                                  |
+| 2013 | _Blue Is the Warmest Color_                         |
+| 2013 | _Coherence_                                         |
+| 2013 | _Her_                                               |
+| 2013 | _Night Train to Lisbon_                             |
+| 2013 | _Oldboy_                                            |
+| 2013 | _Prisoners_                                         |
+| 2013 | _Rush_                                              |
+| 2013 | _Stoker_                                            |
+| 2013 | _Upstream Color_                                    |
+| 2014 | _Coherence_                                         |
+| 2014 | _Gone Girl_                                         |
+| 2014 | _Interstellar_                                      |
+| 2014 | _Lucy_                                              |
+| 2014 | _PK_                                                |
+| 2014 | _Predestination_                                    |
+| 2014 | _Son of God_                                        |
+| 2014 | _Under the Skin_                                    |
+| 2014 | _Whiplash_                                          |
+| 2014 | _Who Am I_                                          |
+| 2015 | _A Man Called Ove_                                  |
+| 2015 | _Delibal_                                           |
+| 2015 | _III_                                               |
+| 2015 | _Mad Max: Fury Road_                                |
+| 2015 | _Our Little Sister_                                 |
+| 2015 | _Room_                                              |
+| 2015 | _The Martian_                                       |
+| 2016 | _10 Cloverfield Lane_                               |
+| 2016 | _Arrival_                                           |
+| 2016 | _Atomic Blonde_                                     |
+| 2016 | _Dangal_                                            |
+| 2016 | _Elle_                                              |
+| 2016 | _Hacksaw Ridge_                                     |
+| 2016 | _Silence_                                           |
+| 2016 | _Split_                                             |
+| 2017 | _Bokeh_                                             |
+| 2017 | _Denial_                                            |
+| 2017 | _Logan_                                             |
+| 2017 | _The Battleship Island_                             |
+| 2017 | _The Invisible Guest_                               |
+| 2017 | _The Shack_                                         |
+| 2017 | _Three Billboards Outside Ebbing, Missouri_         |
+| 2017 | _Voice from the Stone_                              |
+| 2018 | _A Quiet Place_                                     |
+| 2018 | _A Star Is Born_                                    |
+| 2018 | _Annihilation_                                      |
+| 2018 | _Bird Box_                                          |
+| 2018 | _Black Panther_                                     |
+| 2018 | _Burning_                                           |
+| 2018 | _Free Solo_                                         |
+| 2018 | _Green Book_                                        |
+| 2018 | _Replica_                                           |
+| 2018 | _Roma_                                              |
+| 2018 | _Sanju_                                             |
+| 2018 | _Second Act_                                        |
+| 2018 | _Shoplifters_                                       |
+| 2018 | _Transit_                                           |
+| 2018 | _Upgrade_                                           |
+| 2018 | _Vice_                                              |
+| 2019 | _1917_                                              |
+| 2019 | _Ashfall_                                           |
+| 2019 | _Bacurau_                                           |
+| 2019 | _Honeyland_                                         |
+| 2019 | _Klaus_                                             |
+| 2019 | _Parasite_                                          |
+| 2019 | _The Farewell_                                      |
+| 2019 | _The Platform_                                      |
+| 2019 | _The Professor and the Madman_                      |
+| 2019 | _The Two Popes_                                     |
+| 2020 | _Emma_                                              |
+| 2020 | _My Name Is Sara_                                   |
+| 2020 | _Never Rarely Sometimes Always_                     |
+| 2020 | _The Blackout_                                      |
