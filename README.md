@@ -391,27 +391,31 @@
 
 ## South Korea
 
-| — | _Oldboy_ |
-| — | _Handmaiden_ |
-| — | _Taegukgi_ |
-| — | _I Saw The Devil_ |
-| — | _The Chaser_ |
-| — | _The Scarlet Letter_ |
+| Year | Title                |
+| ---- | -------------------- |
+| 2003 | _Oldboy_             |
+| 2016 | _The Handmaiden_     |
+| 2004 | _Taegukgi_           |
+| 2010 | _I Saw The Devil_    |
+| 2008 | _The Chaser_         |
+| 2004 | _The Scarlet Letter_ |
 
 ## Italian Neorealism
 
-| 1945 | _Rome, Open City_ |
-| 1946 | _Shoeshine_ |
+| Year | Title               |
+| ---- | ------------------- |
+| 1945 | _Rome, Open City_   |
+| 1946 | _Shoeshine_         |
 | 1948 | _Germany Year Zero_ |
-| 1948 | _Bicycle Thieves_ |
-| 1948 | _La Terra Trema_ |
-| 1949 | _Bitter Rice_ |
-| 1950 | _Stromboli_ |
-| 1952 | _Europe '51_ |
-| 1952 | _Umberto D._ |
-| 1952 | _Rome 11:00_ |
-| 1957 | _White Nights_ |
-| 1963 | _The Leopard_ |
+| 1948 | _Bicycle Thieves_   |
+| 1948 | _La Terra Trema_    |
+| 1949 | _Bitter Rice_       |
+| 1950 | _Stromboli_         |
+| 1952 | _Europe '51_        |
+| 1952 | _Umberto D._        |
+| 1952 | _Rome 11:00_        |
+| 1957 | _White Nights_      |
+| 1963 | _The Leopard_       |
 
 ## Classic & Notable Films
 
