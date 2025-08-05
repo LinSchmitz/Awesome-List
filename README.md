@@ -3508,3 +3508,408 @@ IL |
 | — | زندانی ٧ء١٩ (Prisoner 7x19) |
 
 ---
+
+## Unseen Films & Classics
+
+| Year | Title                                                         |
+| ---- | ------------------------------------------------------------- |
+| 1970 | The Conformist (Bernardo Bertolucci)                          |
+| 1997 | Funny Games (Michael Haneke)                                  |
+| 1988 | A Short Film About Killing (Kieślowski)                       |
+| 1958 | Equinox Flower (Yasujiro Ozu)                                 |
+| 1956 | Street of Shame (Kenji Mizoguchi)                             |
+| 1952 | Ikiru (Akira Kurosawa)                                        |
+| 1974 | Chinatown (Roman Polanski)                                    |
+| 1959 | The 400 Blows (François Truffaut)                             |
+| 1944 | Double Indemnity (Billy Wilder)                               |
+| 1942 | To Be or Not to Be (Ernst Lubitsch)                           |
+| 1987 | Leila (Dariush Mehrjui)                                       |
+| 2001 | Ten (Abbas Kiarostami)                                        |
+| 1987 | One Flew Over the Cuckoo's Nest                               |
+| 1957 | The Nights of Cabiria                                         |
+| 1953 | The Wages of Fear                                             |
+| 1926 | The General                                                   |
+| 1925 | The Gold Rush                                                 |
+| 1939 | Mr. Smith Goes to Washington                                  |
+| 1934 | It Happened One Night                                         |
+| 1954 | Dial M for Murder                                             |
+| 1957 | The Bridge on the River Kwai                                  |
+| 1985 | Ran                                                           |
+| 1940 | Rebecca                                                       |
+| 1967 | Cool Hand Luke                                                |
+| 1954 | On the Waterfront                                             |
+| 1988 | My Neighbor Totoro                                            |
+| 1980 | Raging Bull                                                   |
+| 2009 | The Secret in Their Eyes                                      |
+| 2014 | The Grand Budapest Hotel                                      |
+| 2015 | Spotlight                                                     |
+| 1987 | The Princess Bride                                            |
+| 2007 | No Country For Old Men                                        |
+| 2014 | Gone Girl                                                     |
+| 2016 | Zootopia                                                      |
+| 2015 | Star Wars: The Force Awakens                                  |
+| 1996 | Fargo                                                         |
+| 2007 | Into the Wild                                                 |
+| 2007 | There Will Be Blood                                           |
+| 1986 | Stand by Me                                                   |
+| 2004 | Million Dollar Baby                                           |
+| 2003 | Kill Bill: Vol. 1                                             |
+| 2003 | Finding Nemo                                                  |
+| 1976 | Rocky                                                         |
+| 1986 | Platoon                                                       |
+| 2001 | Monsters, Inc.                                                |
+| 2014 | Wild Tales                                                    |
+| 2009 | Hachi: A Dog's Tale                                           |
+| 1959 | Ben-Hur                                                       |
+| 2007 | The Bourne Ultimatum                                          |
+| 1977 | Annie Hall                                                    |
+| 1982 | Gandhi                                                        |
+| 1975 | Barry Lyndon                                                  |
+| 1969 | Butch Cassidy and the Sundance Kid                            |
+| 1941 | The Maltese Falcon                                            |
+| 1979 | Life of Brian                                                 |
+| 1995 | La Haine                                                      |
+| 2000 | Amores Perros                                                 |
+| 1984 | Nausicaä of the Valley of the Wind                            |
+| 1963 | 8½                                                            |
+| 2002 | Infernal Affairs                                              |
+| 1958 | Touch of Evil                                                 |
+| 1940 | The Grapes of Wrath                                           |
+| 1946 | The Best Years of Our Lives                                   |
+| 1966 | The Battle of Algiers                                         |
+| 1955 | Diabolique                                                    |
+| 1975 | Jaws                                                          |
+| 1993 | Groundhog Day                                                 |
+| 1975 | Dog Day Afternoon                                             |
+| 1951 | Strangers on a Train                                          |
+| 2006 | Pan's Labyrinth                                               |
+| 1998 | The Big Lebowski                                              |
+| 2013 | The Wolf of Wall Street                                       |
+| 1996 | Trainspotting                                                 |
+| 2003 | Munna Bhai M.B.B.S.                                           |
+| 1975 | Sholay                                                        |
+| 1928 | The Passion of Joan of Arc                                    |
+| 2000 | Hera Pheri                                                    |
+| 1927 | Sunrise                                                       |
+| 1921 | The Kid                                                       |
+| 1948 | The Treasure of the Sierra Madre                              |
+| 1948 | Bicycle Thieves                                               |
+| 1998 | Lock, Stock and Two Smoking Barrels                           |
+| 1978 | The Deer Hunter                                               |
+| 1995 | Casino                                                        |
+| 1995 | Heat                                                          |
+| 2006 | Rang De Basanti                                               |
+| 1961 | Judgment at Nuremberg                                         |
+| 1950 | Rashomon                                                      |
+| 1976 | The Message                                                   |
+| 1960 | The Apartment                                                 |
+| 2012 | Gangs of Wasseypur                                            |
+| 1965 | For a Few Dollars More                                        |
+| 1973 | The Sting                                                     |
+| 1949 | The Third Man                                                 |
+| 1959 | Some Like It Hot                                              |
+| 1952 | Singin' in the Rain                                           |
+| 1927 | Metropolis                                                    |
+| 1975 | Monty Python and the Holy Grail                               |
+| 1985 | Come and See                                                  |
+| 1962 | To Kill a Mockingbird                                         |
+| 1992 | Unforgiven                                                    |
+| 1962 | Lawrence of Arabia                                            |
+| 1989 | Indiana Jones and the Last Crusade                            |
+| 2004 | Downfall (Oliver Hirschbiegel)                                |
+| 1997 | L.A. Confidential (Curtis Hanson)                             |
+| 1950 | All About Eve (Joseph L. Mankiewicz)                          |
+| 1968 | 2001: A Space Odyssey (Stanley Kubrick)                       |
+| 1976 | Taxi Driver (Martin Scorsese)                                 |
+| 1983 | Scarface (Brian De Palma)                                     |
+| 2004 | Eternal Sunshine of the Spotless Mind (Michel Gondry)         |
+| 2005 | Batman Begins (Christopher Nolan)                             |
+| 1992 | Reservoir Dogs (Quentin Tarantino)                            |
+| 1997 | Good Will Hunting (Gus Van Sant)                              |
+| 2000 | Snatch (Guy Ritchie)                                          |
+| 2017 | Get Out (Jordan Peele)                                        |
+| 1994 | Andaz Apna Apna (Rajkumar Santoshi)                           |
+| 2015 | Drishyam (Nishikant Kamat)                                    |
+| 1966 | Andrei Rublev (Andrei Tarkovsky)                              |
+| 1957 | Witness for the Prosecution (Billy Wilder)                    |
+| 2008 | A Wednesday (Neeraj Pandey)                                   |
+| 1981 | Das Boot (Wolfgang Petersen)                                  |
+| 1959 | North by Northwest (Alfred Hitchcock)                         |
+| 1931 | M (Fritz Lang)                                                |
+| 1958 | Vertigo (Alfred Hitchcock)                                    |
+| 1997 | Princess Mononoke (Hayao Miyazaki)                            |
+| 1941 | Citizen Kane (Orson Welles)                                   |
+| 1944 | Double Indemnity (Billy Wilder)                               |
+| 2009 | 3 Idiots (Rajkumar Hirani)                                    |
+| 1984 | Once Upon a Time in America (Sergio Leone)                    |
+| 1983 | Star Wars: Episode VI - Return of the Jedi (Richard Marquand) |
+| 1986 | Aliens (James Cameron)                                        |
+| 2000 | Requiem for a Dream (Darren Aronofsky)                        |
+| 1999 | American Beauty (Sam Mendes)                                  |
+| 2012 | Django Unchained (Quentin Tarantino)                          |
+| 1996 | The Bandit (Yavuz Turgul)                                     |
+| 2007 | Like Stars on Earth                                           |
+| 1957 | Paths of Glory (Stanley Kubrick)                              |
+| 1940 | The Great Dictator (Charlie Chaplin)                          |
+| 1936 | Modern Times (Charlie Chaplin)                                |
+| 1988 | Cinema Paradiso (Giuseppe Tornatore)                          |
+| 1950 | Sunset Boulevard (Billy Wilder)                               |
+| 1988 | Grave of the Fireflies (Isao Takahata)                        |
+| 1964 | Dr. Strangelove (Stanley Kubrick)                             |
+| 1942 | Casablanca (Michael Curtiz)                                   |
+| 1981 | Raiders of the Lost Ark (Steven Spielberg)                    |
+| 1979 | Apocalypse Now (Francis Ford Coppola)                         |
+| 1985 | Back to the Future (Robert Zemeckis)                          |
+| 2012 | The Dark Knight Rises (Christopher Nolan)                     |
+| 1931 | City Lights                                                   |
+| 1968 | Once Upon a Time in the West                                  |
+| 2011 | The Intouchables                                              |
+| 2001 | Spirited Away                                                 |
+| 1998 | American History X                                            |
+| 1995 | Se7en                                                         |
+| 1991 | The Silence of the Lambs                                      |
+| 1995 | The Usual Suspects                                            |
+
+---
+
+## Unseen Films
+
+| Year | Title                      |
+| ---- | -------------------------- |
+| —    | Leviathan                  |
+| —    | Spring Breakers            |
+| —    | Stories We Tell            |
+| —    | American Hustle            |
+| —    | Short Term 12              |
+| —    | Nebraska                   |
+| —    | All is Lost                |
+| —    | The Wolf of Wall Street    |
+| —    | To the Wonder              |
+| —    | The World's End            |
+| —    | Beyond the Hills           |
+| —    | Drug War                   |
+| —    | Blue Jasmine               |
+| —    | Bastards                   |
+| —    | The Wind Rises             |
+| —    | At Berkeley                |
+| —    | Post Tenebras Lux          |
+| —    | Grandmaster                |
+| —    | Fruitvale Station          |
+| —    | No                         |
+| —    | Mud                        |
+| —    | Viola                      |
+| —    | The Unspeakable Act        |
+| —    | You Ain't Seen Nothin' Yet |
+| —    | The Spectacular Now        |
+| —    | Something In the Air       |
+| —    | Dallas Buyers Club         |
+| —    | Wadjda                     |
+| —    | Enough Said                |
+| —    | Laurence Anyways           |
+| —    | Only God Forgives          |
+| —    | Side Effects               |
+
+---
+
+## Additional Grouped Mentions
+
+| Year | Title                                      |
+| ---- | ------------------------------------------ |
+| —    | The Wolf of Wall Street & To the Wonder    |
+| —    | Computer Chess & Upstream Color            |
+| —    | Night Across the Street                    |
+| —    | An Oversimplification of Her Beauty        |
+| —    | Sun Don't Shine & Ain't Them Bodies Saints |
+
+---
+
+## More Films
+
+| Year | Title                    |
+| ---- | ------------------------ |
+| —    | Stranger By the Lake     |
+| —    | Spring Breakers          |
+| —    | A Touch of Sin           |
+| —    | Lincoln                  |
+| —    | La Jalousie              |
+| —    | Nobody's Daughter Haewon |
+| —    | You and the Night        |
+| —    | La Bataille de Solferino |
+
+---
+
+## Unseen Films
+
+| Year | Title                     |
+| ---- | ------------------------- |
+| 1974 | Chinatown                 |
+| 1980 | The Elephant Man          |
+| 2010 | Incendies                 |
+| 1963 | The Great Escape          |
+| 1999 | The Sixth Sense           |
+| 2011 | The Help                  |
+| 2018 | Shoplifters               |
+| 2013 | Prisoners                 |
+| 1991 | Beauty and the Beast      |
+| 1993 | Jurassic Park             |
+| 2015 | Mad Max: Fury Road        |
+| 1939 | The Wizard of Oz          |
+| 1995 | Before Sunrise            |
+| 1979 | Stalker                   |
+| 1976 | Network                   |
+| 2004 | Hotel Rwanda              |
+| 1993 | In the Name of the Father |
+| 1982 | The Thing                 |
+| 1995 | Braveheart                |
+| 1954 | Rear Window               |
+| 2006 | The Lives of Others       |
+| 2002 | The Pianist               |
+| 1999 | The Green Mile            |
+| 2006 | The Prestige              |
+| 2014 | Whiplash                  |
+| 1994 | Léon: The Professional    |
+| 1998 | Saving Private Ryan       |
+| 1990 | Goodfellas                |
+| 1999 | The Matrix                |
+| 1994 | Forrest Gump              |
+
+---
+
+## Seen Films List 1
+
+| Year | Title                             |
+| ---- | --------------------------------- |
+| 1939 | Gone with the Wind                |
+| 1943 | The Song of Bernadette            |
+| 1946 | It's a Wonderful Life             |
+| 1960 | Psycho                            |
+| 1960 | Le trou                           |
+| 1966 | The Good, the Bad and the Ugly    |
+| 1972 | The Godfather                     |
+| 1974 | The Godfather: Part II            |
+| 1982 | Blade Runner                      |
+| 1982 | Salyut 7                          |
+| 1984 | The Terminator                    |
+| 1984 | Amadeus                           |
+| 1985 | Brazil                            |
+| 1985 | Back to the Future                |
+| 1988 | Die Hard                          |
+| 1988 | The Navigator: A Medieval Odyssey |
+| 1992 | Basic Instinct                    |
+| 1993 | Schindler's List                  |
+| 1994 | The Shawshank Redemption          |
+| 1994 | Death and the Maiden              |
+| 1994 | Pulp Fiction                      |
+| 1995 | Twelve Monkeys                    |
+| 1995 | Underground                       |
+| 1997 | Life Is Beautiful                 |
+| 1997 | Lost Highway                      |
+| 1997 | The Fifth Element                 |
+| 1998 | The Truman Show                   |
+
+---
+
+## Seen Films List 2
+
+| Year | Title                                             |
+| ---- | ------------------------------------------------- |
+| 2000 | Quills                                            |
+| 2000 | Memento                                           |
+| 2000 | Malena                                            |
+| 2000 | Gladiator                                         |
+| 2000 | Catch Me If You Can                               |
+| 2001 | The Lord of the Rings: The Fellowship of the Ring |
+| 2001 | A Beautiful Mind                                  |
+| 2001 | The One                                           |
+| 2001 | Mulholland Drive                                  |
+| 2002 | The Hours                                         |
+| 2002 | Frida                                             |
+| 2002 | Irreversible                                      |
+| 2002 | City of God                                       |
+| 2003 | The Lord of the Rings: The Return of the King     |
+| 2003 | Spring Summer Fall Winter And Spring              |
+| 2003 | The Dreamers                                      |
+| 2004 | Troy                                              |
+| 2004 | 3-Iron                                            |
+| 2004 | Primer                                            |
+| 2005 | The Jacket                                        |
+| 2005 | Match Point                                       |
+| 2006 | The Departed                                      |
+| 2006 | Goya's Ghosts                                     |
+| 2006 | Peaceful Warrior                                  |
+| 2006 | Deja Vu                                           |
+| 2006 | The Fountain                                      |
+| 2006 | Basic Instinct 2                                  |
+| 2006 | The Prestige                                      |
+| 2006 | V for Vendetta                                    |
+| 2007 | Becoming Jane                                     |
+| 2008 | Gran Torino                                       |
+| 2008 | Mother                                            |
+| 2009 | District 9                                        |
+| 2010 | Inception                                         |
+| 2010 | Exam                                              |
+| 2010 | Shutter Island                                    |
+| 2010 | The King's Speech                                 |
+| 2010 | The Lovely Bones                                  |
+| 2011 | Warrior                                           |
+| 2011 | The Hidden Face                                   |
+| 2011 | The Tree of Life                                  |
+| 2012 | Like Someone in Love                              |
+| 2012 | The Hunt                                          |
+| 2012 | Barbara                                           |
+| 2012 | Looper                                            |
+| 2013 | 12 Years a Slave                                  |
+| 2013 | Rush                                              |
+| 2013 | Upstream Color                                    |
+| 2013 | Night Train to Lisbon                             |
+| 2013 | Blue Is The Warmest Color                         |
+| 2013 | Stoker                                            |
+| 2013 | Oldboy                                            |
+| 2014 | Coherence                                         |
+| 2014 | Predestination                                    |
+| 2014 | Pk                                                |
+| 2014 | Lucy                                              |
+| 2014 | Interstellar                                      |
+| 2014 | Son of God                                        |
+| 2014 | Under the Skin                                    |
+
+---
+
+## Seen Films List 3
+
+| Year | Title                                     |
+| ---- | ----------------------------------------- |
+| 2015 | Room                                      |
+| 2015 | III                                       |
+| 2015 | Delibal                                   |
+| 2015 | Our Little Sister                         |
+| 2015 | A Man Called Ove                          |
+| 2015 | The Martian                               |
+| 2016 | Arrival                                   |
+| 2016 | Silence                                   |
+| 2016 | Dangal                                    |
+| 2016 | Hacksaw Ridge                             |
+| 2016 | Elle                                      |
+| 2016 | Atomic Blonde                             |
+| 2017 | The Invisible Guest                       |
+| 2017 | Denial (about Holocaust)                  |
+| 2017 | The Shack                                 |
+| 2017 | The Battleship Island                     |
+| 2017 | Three Billboards Outside Ebbing, Missouri |
+| 2018 | Annihilation                              |
+| 2018 | Burning                                   |
+| 2018 | Replica                                   |
+| 2018 | Green Book                                |
+| 2018 | Roma                                      |
+| 2018 | Bird Box                                  |
+| 2018 | A Quiet Place                             |
+| 2018 | Black Panther                             |
+| 2018 | Vice                                      |
+| 2018 | Second Act                                |
+| 2018 | Free Solo                                 |
+| 2018 | Transit                                   |
+| 2019 | 1917                                      |
+| 2019 | Parasite                                  |
+| 2019 | The Professor and the Madman              |
+
+---
