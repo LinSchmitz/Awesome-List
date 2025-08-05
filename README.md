@@ -7,70 +7,62 @@
 | Year | Title                                              |
 | ---- | -------------------------------------------------- |
 | 2000 | _Songs from the Second Floor_                      |
+| 2005 | _Sin City_                                         |
 | 2007 | _You, the Living_                                  |
 | 2011 | _Once Upon a Time in Anatolia_                     |
+| 2011 | _The Tree of Life_                                 |
 | 2011 | _The Turin Horse_                                  |
+| 2013 | _Her_                                              |
 | 2014 | _A Pigeon Sat on a Branch Reflecting on Existence_ |
+| 2014 | _Jauja_                                            |
 | 2014 | _Mommy_                                            |
+| 2015 | _Mad Max: Fury Road_                               |
 | 2015 | _Mountains May Depart_                             |
 | 2016 | _American Honey_                                   |
 | 2022 | _Belfast_                                          |
-| 2005 | Sin City                                           |
-| 2011 | The Tree of Life                                   |
-| 2013 | Her                                                |
-| 2014 | Jauja                                              |
-| 2015 | Mad Max: Fury Road                                 |
 
 ---
 
 ## 🎞️ Anime & Animation
 
-| Year | Title                              |
-| ---- | ---------------------------------- |
-| 1997 | _Princess Mononoke_                |
-| 2007 | _5 Centimetres per Second_         |
-| 2012 | _Wolf Children_                    |
-| 2014 | _When Marnie Was There_            |
-| 2016 | _Live by Night_                    |
-| 2016 | _Planetarium_                      |
-| 2016 | _Personal Shopper_                 |
-| 2017 | _A Silent Voice_                   |
-| 1980 | _Zigeunerweisen_                   |
-| 1998 | _Birdcage Inn_                     |
-| 2001 | _Mulholland Drive_                 |
-| 2003 | _Porco Rosso_                      |
-| 2004 | _Howl's Moving Castle_             |
-| 2006 | _Paprika_                          |
-| 2007 | _Parasyte_ (anime)                 |
-| 2008 | _Hana Yori Dango: Final_           |
-| 2010 | _My Neighbor Totoro_               |
-| 2011 | _Arirang_                          |
-| 2013 | _The Tale of The Princess Kaguya_  |
-| 2014 | _Your Name_                        |
-| 2016 | _A Girl Leapt Through Time_        |
-| 2018 | _Wolf Children_                    |
-| 2019 | _Fullmetal Alchemist: Brotherhood_ |
-| 2006 | _Paprika_                          |
-| —    | _The Tale of the Princess Kaguya_  |
-| —    | _The Girl Who Leapt Through Time_  |
-| 2013 | _The Tale of The Princess Kaguya_  |
-| 1986 | Castle in the Sky                  |
-| 1988 | Grave of the Fireflies             |
-| 2001 | Spirited Away                      |
-| 2004 | Howl’s Moving Castle               |
-| 2004 | The Girl Who Leapt Through Time    |
-| 2006 | Nausicaä of the Valley of the Wind |
-| 2008 | WALL•E                             |
-| 2009 | Up                                 |
-| 2009 | Mary and Max                       |
-| 2010 | How to Train Your Dragon           |
-| 2015 | Inside Out                         |
-| 2016 | Your Name                          |
-| —    | The Boy and the Heron              |
-| —    | Elemental                          |
-| —    | Kiki’s Delivery Service            |
-| —    | Ponyo                              |
-| —    | My Neighbor Totoro                 |
+| Year | Title                                 |
+| ---- | ------------------------------------- |
+| 1980 | _Zigeunerweisen_                      |
+| 1986 | _Castle in the Sky_                   |
+| 1988 | _Grave of the Fireflies_              |
+| 1997 | _Princess Mononoke_                   |
+| 1998 | _Birdcage Inn_                        |
+| 2001 | _Mulholland Drive_                    |
+| 2001 | _Spirited Away_                       |
+| 2003 | _Porco Rosso_                         |
+| 2004 | _Howl’s Moving Castle_                |
+| 2004 | _The Girl Who Leapt Through Time_     |
+| 2006 | _Paprika_                             |
+| 2006 | _Naussicaä of the Valley of the Wind_ |
+| 2007 | _Parasyte_ (anime)                    |
+| 2008 | _Hana Yori Dango: Final_              |
+| 2009 | _WALL•E_                              |
+| 2009 | _Up_                                  |
+| 2009 | _Mary and Max_                        |
+| 2010 | _How to Train Your Dragon_            |
+| 2010 | _My Neighbor Totoro_                  |
+| 2011 | _Arirang_                             |
+| 2013 | _The Tale of The Princess Kaguya_     |
+| 2014 | _When Marnie Was There_               |
+| 2014 | _Your Name_                           |
+| 2014 | _Jauja_                               |
+| 2016 | _American Honey_                      |
+| 2016 | _Planetarium_                         |
+| 2016 | _Personal Shopper_                    |
+| 2016 | _Live by Night_                       |
+| 2016 | _A Girl Leapt Through Time_           |
+| 2017 | _A Silent Voice_                      |
+| 2018 | _Wolf Children_                       |
+| 2019 | _Fullmetal Alchemist: Brotherhood_    |
+|      | _The Boy and the Heron_               |
+|      | _Elemental_                           |
+|      | _Kiki’s Delivery Service_             |
+|      | _Ponyo_                               |
 
 ---
 
