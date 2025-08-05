@@ -3196,3 +3196,315 @@ Here is the cleaned and organized list of unseen films and series, separated by 
 | —    | Silver Carnation       |
 
 ---
+
+## Unseen Anime Series
+
+| Year | Title                            |
+| ---- | -------------------------------- |
+| —    | Attack on Titan                  |
+| —    | Death Note                       |
+| —    | Fullmetal Alchemist: Brotherhood |
+| —    | One Piece                        |
+| —    | Naruto                           |
+| —    | Demon Slayer                     |
+| —    | Hunter x Hunter                  |
+| —    | Jujutsu Kaisen                   |
+| —    | Stains                           |
+| —    | Code Geass                       |
+| —    | Bleach                           |
+| —    | My Hero Academia                 |
+| —    | Tokyo Ghoul                      |
+| —    | Vinland Saga                     |
+| —    | Chainsaw Man                     |
+| —    | Mob Psycho 100                   |
+| —    | Psycho-Pass                      |
+| —    | Cowboy Bebop                     |
+| —    | Neon Genesis Evangelion          |
+| —    | Parasyte: The Maxim              |
+
+---
+
+## Unseen Best Anime Movies
+
+| Year | Title                  |
+| ---- | ---------------------- |
+| —    | Spirited Away          |
+| —    | Your Name              |
+| —    | Princess Mononoke      |
+| —    | Grave of the Fireflies |
+| —    | Howl's Moving Castle   |
+| —    | A Silent Voice         |
+| —    | Weathering With You    |
+| —    | The Boy and the Heron  |
+| —    | Perfect Blue           |
+| —    | The Garden of Words    |
+
+---
+
+## Unseen Films
+
+| Year | Title                                        |
+| ---- | -------------------------------------------- |
+| —    | Close-Up                                     |
+| —    | Those Who Read the Hearts of Evil            |
+| —    | Mindhunter                                   |
+| 1963 | Blow Job                                     |
+| 1969 | Blue Movie                                   |
+| 1972 | Pink Flamingos                               |
+| 1974 | Je Tu Il Elle                                |
+| 1976 | In the Realm of the Senses                   |
+| 1979 | Immoral Women                                |
+| 1980 | Cruising                                     |
+| 1980 | Spetters                                     |
+| 1985 | James Joyce’s Women                          |
+| 1998 | The Idiots                                   |
+| 1999 | Romance                                      |
+| 1999 | A Real Young Girl                            |
+| 1999 | Pola X                                       |
+| 2001 | Intimacy                                     |
+| 2003 | The Brown Bunny                              |
+| 2004 | Anatomy of Hell                              |
+| 2005 | Lie With Me                                  |
+| 2005 | 8MM 2                                        |
+| 2008 | Little Ashes                                 |
+| 2009 | Brüno                                        |
+| 2009 | Antichrist (real sex but not between actors) |
+| 2009 | Dogtooth                                     |
+| 2012 | Starlet                                      |
+| 2013 | Stranger by the Lake                         |
+| 2014 | Pasolini                                     |
+| 2015 | Love                                         |
+| —    | In the Realm of the Senses (repeated?)       |
+
+| — | Perfect Days |
+| — | Spring Summer Fall Winter and Spring |
+| — | Baraka |
+| — | Samsara |
+| — | The Straight Story (David Lynch) |
+| — | Tangerines (Zaza Urushadze) |
+| — | Sound of My Voice |
+| — | One Sugar Cube |
+| — | Code of Silence |
+| — | The Secret World of Arrietty |
+
+---
+
+## Harun Farocki Filmography (Selected)
+
+| Year | Title                                                                              |
+| ---- | ---------------------------------------------------------------------------------- |
+| 1966 | Everybody a Berliner Kindl                                                         |
+| 1966 | Two Paths (HD)                                                                     |
+| 1967 | The Campaign Volunteer (HD)                                                        |
+| 1968 | Their Newspapers                                                                   |
+| 1969 | The Words of the Chairman                                                          |
+| 1969 | Inextinguishable Fire (HD)                                                         |
+| 1971 | Something Self Explanatory (15x) (HD)                                              |
+| 1975 | Über “Song of Ceylon” von Basil Wright                                             |
+| 1975 | Storytelling                                                                       |
+| 1977 | Bedtime Stories (Bridges) (HD)                                                     |
+| 1977 | Bedtime Stories (Railways)                                                         |
+| 1977 | Bedtime Stories (Cat)                                                              |
+| 1977 | Bedtime Stories (Ships) (HD)                                                       |
+| 1978 | Between Two Wars                                                                   |
+| 1979 | Industry and Photography (HD)                                                      |
+| 1979 | On Display: Peter Weiss (HD)                                                       |
+| 1983 | Jean-Marie Straub and Daniéle Huillet at Work on a film based on Kafka's "Amerika" |
+| 1983 | An Image                                                                           |
+| 1984 | Peter Lorre: The Double Face                                                       |
+| 1985 | Filmtip - Tee im Harem des Archimedes                                              |
+| 1986 | Catch Phrases – Catch Images. A Conversation with Vilém Flusser                    |
+| 1986 | As You See                                                                         |
+| 1987 | Indoctrination                                                                     |
+| 1988 | Georg K. Glaser – Writer and Smith                                                 |
+| 1989 | Images of the World and the Inscription of War (HD)                                |
+| 1990 | How to Live in the FRG                                                             |
+| 1992 | Videograms of a Revolution                                                         |
+| 1993 | A Day in the Life of a Consumer                                                    |
+| 1994 | Die Umschulung                                                                     |
+| 1995 | Workers Leaving the Factory (HD)                                                   |
+| 1995 | Interface (HD)                                                                     |
+| 1996 | The Appearance                                                                     |
+| 1996 | The Interview                                                                      |
+| 1997 | The Expression of Hands (HD)                                                       |
+| 1997 | Still Life                                                                         |
+| 2000 | Prison Images (+Fa Subtitle)                                                       |
+| 2000 | I Thought I Was Seeing Convicts                                                    |
+| 2001 | The Creators of Shopping Worlds                                                    |
+| 2001 | Eye / Machine (HD)                                                                 |
+| 2002 | Eye / Machine II (HD)                                                              |
+| 2003 | Eye / Machine III (HD)                                                             |
+| 2003 | War at a Distance                                                                  |
+| 2004 | Counter - Music                                                                    |
+| 2004 | Nothing Ventured                                                                   |
+| 2005 | In-Formation                                                                       |
+| 2005 | Ausweg                                                                             |
+| 2007 | Respite                                                                            |
+| 2007 | Deep Play                                                                          |
+| 2007 | Comparison via a Third (HD)                                                        |
+| 2008 | Transmission                                                                       |
+| 2009 | In Comparison (HD)                                                                 |
+| 2010 | The Silver and the Cross                                                           |
+| 2010 | Serious Games 1: Watson Is Down                                                    |
+| 2010 | Serious Games 2: Three Dead                                                        |
+| 2010 | Serious Games 3: Immersion                                                         |
+| 2010 | Serious Games 4: A Sun with No Shadow                                              |
+| 2012 | A New Product                                                                      |
+| 2013 | Sauerbruch Hutton Architects                                                       |
+| 2014 | Parallel 1 (HD)                                                                    |
+| 2014 | Parallel 2 (HD)                                                                    |
+| 2014 | Parallel 3 (HD)                                                                    |
+| 2014 | Parallel 4 (HD)                                                                    |
+
+---
+
+## Time Loop Themed Films
+
+| Year | Title                           |
+| ---- | ------------------------------- |
+| 2006 | The Girl Who Leapt Through Time |
+| 2017 | The Endless                     |
+| 2007 | Timecrimes                      |
+| 2017 | Before I Fall                   |
+| 2014 | Predestination                  |
+| 2009 | Triangle                        |
+| 2021 | The Map of Tiny Perfect Things  |
+| 2012 | Looper                          |
+| 2017 | Happy Death Day                 |
+| 2011 | Source Code                     |
+| 2020 | Palm Springs                    |
+| 2014 | Edge of Tomorrow                |
+| 1993 | Groundhog Day                   |
+| —    | Boss Level                      |
+| —    | Summertime Rendering            |
+| —    | Re\:Zero                        |
+| —    | Steins Gate                     |
+| —    | Deja Vu                         |
+
+---
+
+## Plot Twist Themed Films
+
+| Year | Title                       |
+| ---- | --------------------------- |
+| 1996 | Primal Fear                 |
+| 1955 | Les Diaboliques             |
+| 2007 | Atonement                   |
+| 1974 | Chinatown                   |
+| 2006 | The Prestige                |
+| 1973 | Soylent Green               |
+| 1968 | Planet of the Apes          |
+| 2012 | Incendies                   |
+| 1995 | The Usual Suspects          |
+| 2003 | The Others                  |
+| 1999 | Fight Club                  |
+| 1997 | The Game                    |
+| 1999 | The Sixth Sense             |
+| 1960 | Psycho                      |
+| —    | Mulholland Drive            |
+| —    | Shutter Island              |
+| —    | The Shawshank Redemption    |
+| —    | Gone Girl                   |
+| —    | Seven                       |
+| —    | Memento                     |
+| —    | Parasite                    |
+| —    | The Mist                    |
+| 2006 | The Departed                |
+| —    | A Beautiful Mind            |
+| —    | Witness for the Prosecution |
+| 2014 | Predestination              |
+| 2011 | The Skin I Live In          |
+| —    | Se7en                       |
+| —    | Handmaiden                  |
+| —    | Guilty                      |
+| —    | A Pure Formality            |
+| —    | The Life of David Gale      |
+| 2003 | Memories of Murder          |
+| —    | The Host DL                 |
+| —    | Behind Her Eyes             |
+| 1973 | Sting                       |
+| 1993 | Body of Evidence            |
+| —    | Dangerous Beauty            |
+| —    | Eastern Promises            |
+| —    | The Irishman                |
+| —    | Blue is the Warmest Colour  |
+| —    | Anatomy of a Fall           |
+| —    | Secrets and Lies            |
+| —    | Man on Fire                 |
+| —    | Pulp Fiction                |
+| —    | Vanilla Sky                 |
+| —    | Capharnaum                  |
+| —    | Prisoners                   |
+| —    | The Spy Gone North          |
+| —    | Pianist                     |
+| —    | Life is Beautiful           |
+
+---
+
+## Other Films
+
+| Year | Title                                    |
+| ---- | ---------------------------------------- |
+| —    | Project Hail Mary                        |
+| 2005 | Munich                                   |
+| 2018 | The Truth About the Harry Quebert Affair |
+| —    | 28 Years Later (2025)                    |
+
+---
+
+## Unseen Series & TV Shows
+
+| Year | Title                                    |
+| ---- | ---------------------------------------- |
+| 2021 | The Innocent                             |
+| 2021 | Arcane                                   |
+| —    | Mindhunter                               |
+| —    | The Truth About the Harry Quebert Affair |
+| —    | Gravity Falls                            |
+| —    | Star vs. The Forces of Evil              |
+| —    | Hazbin Hotel                             |
+| —    | Helluva Boss                             |
+| —    | Back to Life                             |
+| —    | Bully (Larry Clark)                      |
+| —    | Pantheon                                 |
+| —    | Primal                                   |
+| —    | Scavengers                               |
+| —    | Common Side Effects                      |
+| —    | Invincible                               |
+| —    | Castlevania                              |
+| —    | Cowboy Bebop                             |
+| —    | Infinity Train                           |
+| —    | Cyberpunk: Edgerunners                   |
+| —    | Frieren: Beyond Journey's End            |
+| —    | Spy x Family                             |
+| —    | My Happy Marriage                        |
+| —    | Fruits Basket                            |
+| —    | Kaiju No. 8                              |
+| —    | Horimiya                                 |
+| —    | Dandadan                                 |
+| —    | Solo Leveling                            |
+| —    | Oshi No Ko                               |
+| —    | Mushoku Tensei: Jobless Reincarnation    |
+| —    | Dr. Stone                                |
+| —    | Hell's Paradise: Jigokuraku              |
+| —    | Undone                                   |
+| —    | Samurai Jack                             |
+| —    | From God's Mouth to Your Ears            |
+| —    | Seventeen                                |
+| —    | Man in the Well                          |
+| —    | An Elephant Sitting Still                |
+| —    | Long Day's Journey Into Night            |
+| —    | A Brighter Summer Day                    |
+| —    | To Live (1994)                           |
+| —    | Yi Yi                                    |
+| —    | The Earth is Humming                     |
+| —    | Days (2020)                              |
+| —    | Birds (2020)                             |
+| —    | Nerdland                                 |
+| —    | China,                                   |
+
+IL |
+| — | Secret Level |
+| — | زندانی ٧ء١٩ (Prisoner 7x19) |
+
+---
