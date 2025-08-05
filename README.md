@@ -3913,3 +3913,46 @@ IL |
 | 2019 | The Professor and the Madman              |
 
 ---
+
+## Top 5 Netflix Series Worldwide
+
+| Year | Title          |
+| ---- | -------------- |
+| —    | Sherlock       |
+| —    | Friends        |
+| —    | Narcos         |
+| —    | House of Cards |
+| —    | New Girl       |
+
+## Other Notable Series
+
+| Year      | Title                 |
+| --------- | --------------------- |
+| —         | The Zeitgeist         |
+| —         | The Missing           |
+| —         | Maniac                |
+| —         | Bodyguard             |
+| —         | Castle Rock           |
+| —         | Sharp Objects         |
+| —         | The Terror            |
+| —         | The City and the City |
+| —         | Fringe                |
+| —         | You                   |
+| —         | Ozark                 |
+| —         | Killing Eve           |
+| —         | Gunpowder             |
+| —         | Counterpart           |
+| —         | Better Call Saul      |
+| —         | The Americans         |
+| —         | The Romanoffs         |
+| —         | True Detectives       |
+| —         | The Wire              |
+| —         | Peaky Blinders        |
+| —         | Tabo                  |
+| —         | Chernobyl             |
+| —         | Money Heist           |
+| —         | Dark                  |
+| —         | Catch-22              |
+| —         | The Hot Zone          |
+| —         | Genius                |
+| 2006-2013 | Dexter                |
