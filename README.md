@@ -625,10 +625,12 @@
 | 1931 | _M_                                          |
 | 1940 | _Night Train to Munich_                      |
 | 1940 | _The Grapes Of Wrath_                        |
+| 1941 | _Citizen Kane_                               |
 | 1944 | _Laura_                                      |
 | 1945 | _The Woman in Green_                         |
 | 1946 | _The Best Years of Our Lives_                |
 | 1946 | _The Big Sleep_                              |
+| 1947 | _One Wonderful Sunday_                       |
 | 1950 | _DOA_                                        |
 | 1950 | _Los Olvidados_                              |
 | 1950 | _Rashomon_                                   |
@@ -644,6 +646,7 @@
 | 1957 | _12 Angry Men_                               |
 | 1957 | _The Seventh Seal_                           |
 | 1957 | _Wild Strawberries_                          |
+| 1957 | _Twelve Angry Men_                           |
 | 1959 | _Pickpocket_                                 |
 | 1959 | _The 400 Blows_                              |
 | 1961 | _Through a Glass Darkly_                     |
@@ -673,6 +676,7 @@
 | 1988 | _Grave of the Fireflies_                     |
 | 1989 | _A Visitor to a Museum_                      |
 | 1989 | _Do the Right Thing_                         |
+| 1992 | _Bitter Moon_                                |
 | 1994 | _Immortal Beloved_                           |
 | 1994 | _Satantango_                                 |
 | 1995 | _Ordet_                                      |
@@ -681,50 +685,44 @@
 | 1997 | _Perfect Blue_                               |
 | 1998 | _Eternity and a Day_                         |
 | 1998 | _π_                                          |
+| 1999 | _Eyes Wide Shut_                             |
 | 1999 | _ExistenZ_                                   |
-| 2001 | _Address Unknown_                            |
+| 2000 | _Joint Security Area_                        |
 | 2003 | _Saraband_                                   |
+| 2003 | _Spring, Summer, Fall, Winter... and Spring_ |
+| 2003 | _Real Fiction_                               |
+| 2003 | _Mystic River_                               |
+| 2003 | _The Notebook_                               |
 | 2004 | _The Weeping Meadow_                         |
 | 2004 | _Trilogy: The Weeping Meadow_                |
+| 2007 | _The Diving Bell and the Butterfly_          |
+| 2007 | _P.S. I Love You_                            |
+| 2007 | _Sky of Love_                                |
+| 2008 | _Dream_                                      |
+| 2009 | _The Time Traveler’s Wife_                   |
 | 2011 | _Intouchables_                               |
+| 2011 | _Arirang_                                    |
+| 2011 | _The Intouchables_                           |
 | 2012 | _Eyes of Darkness_                           |
 | 2013 | _A Thousand Times Goodnight_                 |
+| 2013 | _Moebius_                                    |
 | 2014 | _A Pigeon Sat on a Branch Reflecting_        |
 | 2014 | _The Grand Budapest Hotel_                   |
 | 2014 | _The Loft_                                   |
+| 2014 | _The Fault in Our Stars_                     |
 | 2015 | _Suite Francaise_                            |
 | 2016 | _After the Storm_                            |
 | 2017 | _A Ghost Story_                              |
+| 2017 | _When the Day Comes_                         |
 | 2018 | _The House That Jack Built_                  |
+| 2018 | _Veere Di Wedding_                           |
 | 2019 | _American Factory_                           |
 | 2019 | _Les Miserables_                             |
 | 2019 | _Light from Light_                           |
 | 2020 | _The Cordillera of Dreams_                   |
-| 1941 | _Citizen Kane_                               |
-| 1947 | _One Wonderful Sunday_                       |
-| 1957 | _Twelve Angry Men_                           |
-| 1992 | _Bitter Moon_                                |
-| 1999 | _Eyes Wide Shut_                             |
-| 2000 | _Joint Security Area_                        |
-| 2003 | _Spring, Summer, Fall, Winter... and Spring_ |
-| 2003 | _Real Fiction_                               |
-| 2003 | _Mystic River_                               |
-| 2007 | _The Diving Bell and the Butterfly_          |
-| 2008 | _Dream_                                      |
-| 2011 | _Arirang_                                    |
-| 2013 | _Moebius_                                    |
-| 2017 | _When the Day Comes_                         |
-| 2018 | _Veere Di Wedding_                           |
 | 2020 | _Tesla_                                      |
 | 2020 | _Your Honor_                                 |
-| 2003 | The Notebook                                 |
-| 2007 | P.S. I Love You                              |
-| 2007 | Sky of Love                                  |
-| 2009 | The Time Traveler’s Wife                     |
-| 2011 | The Intouchables                             |
-| 2013 | Columbus                                     |
-| 2014 | The Fault in Our Stars                       |
-| 2020 | Pieces of a Woman                            |
+| 2020 | _Pieces of a Woman_                          |
 
 ## Comedy & Romance
 
@@ -759,41 +757,9 @@
 
 | Year | Title                            |
 | ---- | -------------------------------- |
-| 1966 | _Blow-Up_                        |
-| 2000 | _Memento_                        |
-| 2003 | _The Life of David Gale_         |
-| 2005 | _Flightplan_                     |
-| 2007 | _Gone Baby Gone_                 |
-| 2007 | _Zodiac_                         |
-| 2008 | _The Oxford Murders_             |
-| 2010 | _I Saw the Devil_                |
-| 2010 | _The Yellow Sea_                 |
-| 2013 | _New World_                      |
-| 2013 | _Omar_                           |
-| 2013 | _Prisoners_                      |
-| 2014 | _Gone Girl_                      |
-| 2015 | _And Then There Were None_       |
-| 2015 | _Ex Machina_                     |
-| 2016 | _The Age of Shadows_             |
-| 2016 | _The Handmaiden_                 |
-| 2016 | _The Net_                        |
-| 2017 | _The Institute_                  |
-| 2018 | _Ash Is Purest White_            |
-| 2018 | _Dark Figure of Crime_           |
-| 2018 | _The House That Jack Built_      |
-| 2018 | _The Accused_                    |
-| 2019 | _Bring Me Home_                  |
-| 2019 | _Serenity_                       |
-| 2019 | _The Gangster The Cop The Devil_ |
-| 2020 | _Train To Busan 2_               |
-| 2007 | Gone Baby Gone                   |
-| 2011 | Margin Call                      |
-| 2013 | Brick                            |
-| 2013 | The Place Beyond the Pines       |
-| 2014 | Gone Girl                        |
-| 2015 | The Guilty                       |
 | 1951 | _Strangers on a Train_           |
 | 1957 | _12 Angry Men_                   |
+| 1966 | _Blow-Up_                        |
 | 1968 | _Bullitt_                        |
 | 1973 | _Magnum Force_                   |
 | 1973 | _Serpico_                        |
@@ -810,40 +776,55 @@
 | 1997 | _L.A. Confidential_              |
 | 1998 | _Rush Hour_                      |
 | 1999 | _Fight Club_                     |
+| 2000 | _Memento_                        |
 | 2003 | _Dogville_                       |
+| 2003 | _The Life of David Gale_         |
+| 2003 | _Brick_                          |
+| 2007 | _Gone Baby Gone_                 |
+| 2007 | _The Girl Next Door_             |
 | 2007 | _Zodiac_                         |
 | 2008 | _Loft_                           |
+| 2008 | _The Oxford Murders_             |
+| 2010 | _I Saw the Devil_                |
+| 2010 | _The Yellow Sea_                 |
+| 2011 | _Margin Call_                    |
 | 2012 | _Prometheus_                     |
+| 2013 | _New World_                      |
+| 2013 | _Omar_                           |
+| 2013 | _Prisoners_                      |
+| 2013 | _The Place Beyond the Pines_     |
+| 2014 | _Gone Girl_                      |
+| 2015 | _And Then There Were None_       |
+| 2015 | _Ex Machina_                     |
+| 2015 | _The Guilty_                     |
+| 2016 | _The Age of Shadows_             |
+| 2016 | _The Handmaiden_                 |
 | 2016 | _The Imitation Game_             |
+| 2016 | _The Net_                        |
+| 2016 | _Lavender_                       |
 | 2017 | _The Institute_                  |
+| 2018 | _Ash Is Purest White_            |
 | 2018 | _Dark Figure of Crime_           |
 | 2018 | _Red Sparrow_                    |
+| 2018 | _The House That Jack Built_      |
+| 2018 | _The Accused_                    |
 | 2019 | _Bad Education_                  |
 | 2019 | _Blow the Man Down_              |
+| 2019 | _Bring Me Home_                  |
 | 2019 | _Clemency_                       |
 | 2019 | _Ready or Not_                   |
+| 2019 | _Serenity_                       |
 | 2019 | _Sorry We Missed You_            |
 | 2019 | _The Assistant_                  |
 | 2019 | _The Endless Trench_             |
+| 2019 | _The Gangster The Cop The Devil_ |
 | 2019 | _The Great Hack_                 |
+| 2020 | _Train To Busan 2_               |
 
 ## Sci-Fi / Fantasy / Fantasy /Dystopia
 
 | Year | Title                                  |
 | ---- | -------------------------------------- |
-| 1999 | _The Matrix_                           |
-| 2015 | _Jupiter Ascending_                    |
-| 2017 | _Along with the Gods The Two Worlds_   |
-| 2018 | _Along with the Gods The Last 49 Days_ |
-| 2017 | _A Ghost Story_                        |
-| 1999 | The Matrix                             |
-| 2002 | Minority Report                        |
-| 2002 | Equilibrium                            |
-| 2005 | The Island                             |
-| 2007 | I Am Legend                            |
-| 2010 | Gattaca                                |
-| 2014 | Blade Runner                           |
-| 2020 | Raised By Wolves                       |
 | 1957 | _The Seventh Seal_                     |
 | 1966 | _Persona_                              |
 | 1971 | _A Clockwork Orange_                   |
@@ -859,20 +840,31 @@
 | 1998 | _Rush Hour_                            |
 | 1999 | _The Matrix_                           |
 | 2001 | _Memento_                              |
+| 2002 | _Minority Report_                      |
+| 2002 | _Equilibrium_                          |
+| 2005 | _The Island_                           |
 | 2006 | _Perfume: The Story of a Murderer_     |
 | 2006 | _Children of Men_                      |
+| 2007 | _I Am Legend_                          |
 | 2009 | _Fullmetal Alchemist: Brotherhood_     |
+| 2010 | _Gattaca_                              |
 | 2010 | _Inception_                            |
 | 2011 | _Limitless_                            |
 | 2012 | _Looper_                               |
 | 2013 | _Coherence_                            |
+| 2014 | _Blade Runner_                         |
 | 2014 | _Interstellar_                         |
+| 2015 | _Jupiter Ascending_                    |
 | 2015 | _Mad Max: Fury Road_                   |
 | 2016 | _Arrival_                              |
 | 2016 | _Silence_                              |
+| 2017 | _Along with the Gods The Two Worlds_   |
+| 2017 | _A Ghost Story_                        |
 | 2017 | _Logan_                                |
+| 2018 | _Along with the Gods The Last 49 Days_ |
 | 2018 | _Annihilation_                         |
 | 2018 | _Black Panther_                        |
+| 2020 | _Raised By Wolves_                     |
 | 2019 | _The Platform_                         |
 
 ## Action
