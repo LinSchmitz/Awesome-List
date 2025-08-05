@@ -354,3 +354,144 @@ A list of **beautiful, emotional, and powerful movies** from all kinds of genres
 | 1995 | _12 Monkeys_                      |
 | 2004 | _Primer_                          |
 | 1985 | _Back to the Future_              |
+
+## Holocaust and World War II Movies
+
+| Year | Title                                                          |
+| ---- | -------------------------------------------------------------- |
+| 2017 | _Denial_                                                       |
+| 2008 | _The Reader_                                                   |
+| 2015 | _Son of Saul_                                                  |
+| 2013 | _The Lady in Number 6: Music Saved My Life_                    |
+| 2015 | _Ida_                                                          |
+| 2002 | _Secret Lives: Hidden Children and Their Rescuers During WWII_ |
+| 1989 | _Enemies: A Love Story_                                        |
+| 2003 | _The Pianist_                                                  |
+| 1964 | _The Pawnbroker_                                               |
+| 2013 | _The Book Thief_                                               |
+| 2001 | _Conspiracy_                                                   |
+| 1997 | _Life is Beautiful_                                            |
+| 2012 | _Numbered_                                                     |
+| 2007 | _Fugitive Pieces_                                              |
+| 1999 | _The Devil’s Arithmetic_                                       |
+| 2002 | _Amen_                                                         |
+| 2008 | _Valentina’s Mother_                                           |
+| 1971 | _Fiddler on the Roof_                                          |
+| 1961 | _Judgment at Nuremberg_                                        |
+| 2008 | _Defiance_                                                     |
+| 1982 | _Sophie’s Choice_                                              |
+| 1959 | _The Diary of Anne Frank_                                      |
+| 1993 | _Schindler’s List_                                             |
+| 1999 | _Gloomy Sunday_                                                |
+| 2006 | _Black Book_                                                   |
+| 2013 | _Colette_                                                      |
+| 2016 | _Denial_                                                       |
+
+---
+
+## Philosophical Genre
+
+| Title                  |
+| ---------------------- |
+| _Seventh Seal_         |
+| _Stalker_              |
+| _The Mirror_           |
+| _Mr Nobody_            |
+| _The Fountain_         |
+| _Mother!_              |
+| _The Tree of Life_     |
+| _A Serious Man_        |
+| _Synecdoche, New York_ |
+| _Melancholia_          |
+| _The Matrix_           |
+| _Blade Runner_         |
+| _Inception_            |
+| _Interstellar_         |
+| _Memento_              |
+| _The Truman Show_      |
+| _Irrational Man_       |
+
+---
+
+## Psychological Genre
+
+| Year | Title                          |
+| ---- | ------------------------------ |
+| 2011 | _A Dangerous Method_           |
+| 2012 | _Amour_                        |
+| 1977 | _Annie Hall_                   |
+| 2015 | _Anomalisa_                    |
+| 2004 | _Birth_                        |
+| 1993 | _Blue_                         |
+| 2013 | _Blue Jasmine_                 |
+| 2008 | _Changeling_                   |
+| 2011 | _Detachment_                   |
+| 1999 | _Girl, Interrupted_            |
+| 1991 | _The Double Life of Veronique_ |
+| 2012 | _Paradise: Love_               |
+| 1994 | _Red_                          |
+| 1965 | _Repulsion_                    |
+| 2011 | _Shame_                        |
+| 1996 | _Shine_                        |
+| 2013 | _The Double_                   |
+| 2001 | _The Piano Teacher_            |
+| 2006 | _The Science of Sleep_         |
+| 2011 | _We Need to Talk About Kevin_  |
+| 1994 | _White_                        |
+
+---
+
+## TV MiniSeries
+
+| Year | Title                              |
+| ---- | ---------------------------------- |
+| 2016 | _11.22.63_                         |
+| —    | _Defending Jacob_                  |
+| 2020 | _The World of the Married_ (Korea) |
+| 2020 | _Panchayat_ (India)                |
+
+---
+
+## Japanese Cinema
+
+| Year | Title                                                                           |
+| ---- | ------------------------------------------------------------------------------- |
+| 1953 | _Tokyo Story_                                                                   |
+| 1958 | _Stolen Desire_                                                                 |
+| 1958 | _Nishi Ginza Station_                                                           |
+| 1958 | _Endless Desire_                                                                |
+| 1959 | _My Second Brother_                                                             |
+| 1960 | _When a Woman Ascends the Stairs_                                               |
+| 1961 | _Pigs and Battleships_                                                          |
+| 1962 | _Foundry Town_ (Co-writer)                                                      |
+| 1963 | _She and He_                                                                    |
+| 1963 | _The Insect Woman_                                                              |
+| 1964 | _Unholy Desire_ or _Intentions of Murder_                                       |
+| 1966 | _The Pornographers_                                                             |
+| 1967 | _A Man Vanishes_                                                                |
+| 1967 | _A Man Vanishes_                                                                |
+| 1968 | _Higashi Shinakai_ (Screenplay and Producer)                                    |
+| 1968 | _Profound Desires of the Gods_ or _Kuragejima - Legends from a Southern Island_ |
+| 1970 | _History of Postwar Japan as Told by a Bar Hostess_                             |
+| 1975 | _Karayuki-san, the Making of a Prostitute_                                      |
+| 1976 | _The Youth Killer_ or _Seishun no Satsujinsha_ (Producer only)                  |
+| 1979 | _Vengeance is Mine_                                                             |
+| 1981 | _Eijanaika_ or _Why Not?_                                                       |
+| 1983 | _The Ballad of Narayama_ (Palme d'Or)                                           |
+| 1985 | _Tampopo_ (Juzo Itami)                                                          |
+| 1987 | _Zegen_                                                                         |
+| 1988 | _Akira_ (Katsuhiro Otomo)                                                       |
+| 1989 | _Black Rain_                                                                    |
+| 1997 | _The Eel_ (Palme d'Or)                                                          |
+| 1998 | _Dr. Akagi_                                                                     |
+| 2001 | _Warm Water Under a Red Bridge_                                                 |
+| 2002 | _11'09"01 September 11_                                                         |
+| 2004 | _Nobody Knows_                                                                  |
+| 2006 | _Paprika_ (Animation)                                                           |
+| 2007 | _The Mourning Forest_ (Naomi Kawase)                                            |
+| 2008 | _Tokyo Sonata_                                                                  |
+| —    | _The Tale of the Princess Kaguya_ (Animation)                                   |
+| —    | _Branded to Kill_                                                               |
+| —    | _The Girl Who Leapt Through Time_ (Animation)                                   |
+| —    | _Still Walking_                                                                 |
+| —    | _Lady Snowblood_                                                                |
