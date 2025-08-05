@@ -1304,11 +1304,11 @@
 | 2017 | _Happy Death Day_                 |
 | 2020 | _Palm Springs_                    |
 | 2021 | _The Map of Tiny Perfect Things_  |
-| —    | _Boss Level_                      |
-| —    | _Summertime Rendering_            |
-| —    | _Re\:Zero_                        |
-| —    | _Steins Gate_                     |
-| —    | _Deja Vu_                         |
+| ---- | _Boss Level_                      |
+| ---- | _Summertime Rendering_            |
+| ---- | _Re\:Zero_                        |
+| ---- | _Steins Gate_                     |
+| ---- | _Deja Vu_                         |
 
 ## Plot Twist Themed Films
 
@@ -1334,37 +1334,37 @@
 | 2011 | _The Skin I Live In_          |
 | 2012 | _Incendies_                   |
 | 2014 | _Predestination_              |
-| —    | _Mulholland Drive_            |
-| —    | _Shutter Island_              |
-| —    | _The Shawshank Redemption_    |
-| —    | _Gone Girl_                   |
-| —    | _Seven_                       |
-| —    | _Memento_                     |
-| —    | _Parasite_                    |
-| —    | _The Mist_                    |
-| —    | _A Beautiful Mind_            |
-| —    | _Witness for the Prosecution_ |
-| —    | _Se7en_                       |
-| —    | _Handmaiden_                  |
-| —    | _Guilty_                      |
-| —    | _A Pure Formality_            |
-| —    | _The Life of David Gale_      |
-| —    | _The Host DL_                 |
-| —    | _Behind Her Eyes_             |
-| —    | _Dangerous Beauty_            |
-| —    | _Eastern Promises_            |
-| —    | _The Irishman_                |
-| —    | _Blue is the Warmest Colour_  |
-| —    | _Anatomy of a Fall_           |
-| —    | _Secrets and Lies_            |
-| —    | _Man on Fire_                 |
-| —    | _Pulp Fiction_                |
-| —    | _Vanilla Sky_                 |
-| —    | _Capharnaum_                  |
-| —    | _Prisoners_                   |
-| —    | _The Spy Gone North_          |
-| —    | _Pianist_                     |
-| —    | _Life is Beautiful_           |
+| ---- | _Mulholland Drive_            |
+| ---- | _Shutter Island_              |
+| ---- | _The Shawshank Redemption_    |
+| ---- | _Gone Girl_                   |
+| ---- | _Seven_                       |
+| ---- | _Memento_                     |
+| ---- | _Parasite_                    |
+| ---- | _The Mist_                    |
+| ---- | _A Beautiful Mind_            |
+| ---- | _Witness for the Prosecution_ |
+| ---- | _Se7en_                       |
+| ---- | _Handmaiden_                  |
+| ---- | _Guilty_                      |
+| ---- | _A Pure Formality_            |
+| ---- | _The Life of David Gale_      |
+| ---- | _The Host DL_                 |
+| ---- | _Behind Her Eyes_             |
+| ---- | _Dangerous Beauty_            |
+| ---- | _Eastern Promises_            |
+| ---- | _The Irishman_                |
+| ---- | _Blue is the Warmest Colour_  |
+| ---- | _Anatomy of a Fall_           |
+| ---- | _Secrets and Lies_            |
+| ---- | _Man on Fire_                 |
+| ---- | _Pulp Fiction_                |
+| ---- | _Vanilla Sky_                 |
+| ---- | _Capharnaum_                  |
+| ---- | _Prisoners_                   |
+| ---- | _The Spy Gone North_          |
+| ---- | _Pianist_                     |
+| ---- | _Life is Beautiful_           |
 
 ---
 
@@ -1384,41 +1384,41 @@
 | 2009 | _The White Meadows_                     | کشتزارهای سپید                      |
 | 2017 | _Searing Rush / The Host_               | هجوم                                |
 | 2019 | _Hava Maryam Ayesha_                    | حوا مریم عایشه                      |
-| —    | _Retouch_                               | Retouch                             |
-| —    | _Wind’s Screenplays_                    | فیلم‌نامه‌های باد                   |
-| —    | _In the Arms of the Tree_               | —                                   |
-| —    | _Old Road_                              | —                                   |
-| —    | _Here Without Me_                       | —                                   |
-| —    | _Cause of Unknown Death_                | —                                   |
-| —    | _Last Snow_                             | —                                   |
-| —    | _Aziz_                                  | —                                   |
-| —    | _Endless Borders_                       | —                                   |
-| —    | _Beautiful City_                        | —                                   |
-| —    | _Atabai_                                | —                                   |
-| —    | _Boutique_                              | —                                   |
-| —    | _Alone, Alone, Alone_                   | —                                   |
-| —    | _Silver Carnation_                      | —                                   |
-| —    | _My Favorite Cake_                      | کیک محبوب من                        |
-| —    | _My Life is Wind_                       | زندگی من باد (Anahita Qazvinizade)  |
-| —    | _Mehr Giah_                             | فیلم مهر گیاه                       |
-| —    | _Murphy’s Law_                          | فیلم قانون مورفی                    |
-| —    | _Raftan_                                | رفتن                                |
-| —    | _Khanom_                                | خانوم                               |
-| —    | _Eteraf_                                | اعتراف                              |
-| —    | _One of Us Two_                         | یکی از ما دو نفر                    |
-| —    | _Best Hours_                            | بهترین ساعات                        |
-| —    | _Appendix_                              | آپاندیس                             |
-| —    | _Farari_                                | فراری                               |
-| —    | _Money Train_                           | قطار پول                            |
-| —    | _Apalosa_                               | آپالوسا                             |
-| —    | _Hostage_                               | گروگانگیر                           |
-| —    | _Land of Tomorrow_                      | سرزمین فردا (فیلم)                  |
-| —    | _Darkoob_                               | فیلم دارکوب                         |
-| —    | _Orion_                                 | فیلم کوتاه اوریون (علی زمانی عصمتی) |
-| —    | _Maryam’s Sin_                          | گناه مریم (پریسا شاهنده)            |
-| —    |                                         | برادرم خسرو                         |
-| —    |                                         | کاغذ بی خط                          |
-| —    |                                         | سد معبر                             |
+| ---- | _Retouch_                               | Retouch                             |
+| ---- | _Wind’s Screenplays_                    | فیلم‌نامه‌های باد                   |
+| ---- | _In the Arms of the Tree_               | —                                   |
+| ---- | _Old Road_                              | —                                   |
+| ---- | _Here Without Me_                       | —                                   |
+| ---- | _Cause of Unknown Death_                | —                                   |
+| ---- | _Last Snow_                             | —                                   |
+| ---- | _Aziz_                                  | —                                   |
+| ---- | _Endless Borders_                       | —                                   |
+| ---- | _Beautiful City_                        | —                                   |
+| ---- | _Atabai_                                | —                                   |
+| ---- | _Boutique_                              | —                                   |
+| ---- | _Alone, Alone, Alone_                   | —                                   |
+| ---- | _Silver Carnation_                      | —                                   |
+| ---- | _My Favorite Cake_                      | کیک محبوب من                        |
+| ---- | _My Life is Wind_                       | زندگی من باد (Anahita Qazvinizade)  |
+| ---- | _Mehr Giah_                             | فیلم مهر گیاه                       |
+| ---- | _Murphy’s Law_                          | فیلم قانون مورفی                    |
+| ---- | _Raftan_                                | رفتن                                |
+| ---- | _Khanom_                                | خانوم                               |
+| ---- | _Eteraf_                                | اعتراف                              |
+| ---- | _One of Us Two_                         | یکی از ما دو نفر                    |
+| ---- | _Best Hours_                            | بهترین ساعات                        |
+| ---- | _Appendix_                              | آپاندیس                             |
+| ---- | _Farari_                                | فراری                               |
+| ---- | _Money Train_                           | قطار پول                            |
+| ---- | _Apalosa_                               | آپالوسا                             |
+| ---- | _Hostage_                               | گروگانگیر                           |
+| ---- | _Land of Tomorrow_                      | سرزمین فردا (فیلم)                  |
+| ---- | _Darkoob_                               | فیلم دارکوب                         |
+| ---- | _Orion_                                 | فیلم کوتاه اوریون (علی زمانی عصمتی) |
+| ---- | _Maryam’s Sin_                          | گناه مریم (پریسا شاهنده)            |
+| ---- |                                         | برادرم خسرو                         |
+| ---- |                                         | کاغذ بی خط                          |
+| ---- |                                         | سد معبر                             |
 
 ---
 
@@ -1426,7 +1426,7 @@
 
 | Year | English Title | Persian Title     |
 | ---- | ------------- | ----------------- |
-| —    | Bamdad Khomar | سریال بامداد خمار |
+| ---- | Bamdad Khomar | سریال بامداد خمار |
 
 ---
 
@@ -1435,172 +1435,5 @@
 | Year | Title                  |
 | ---- | ---------------------- |
 | 2019 | _Badla = Hidden Guest_ |
-
----
-
-- **Rushmore** 869
-- **Russian Ark** 894
-- **Russkiy kovcheg** 894
-
-### **S:**
-
-- Sen fout la mort 777
-- Safe 843
-- Salò, or the 120 Days of Sodom 596
-- Salt of the Earth 297
-- Salvador 724
-- Sanma No Aji 390
-- Sans soleil 687
-- Sans toi ni loi 717
-- Sanshō dayū 294
-- Sanshō the Bailiff 294
-- Saragossa Manuscript, The 439
-- Såsom i en spegel 386
-- Sátántangó 829
-- Saturday Night and Sunday Morning 363
-- Saturday Night Fever 621
-- Satyricon 490
-- Sauflia 938
-- Saving Private Ryan 866
-- Sayat nova 492
-- Scarface 693
-- Scarface: The Shame of a Nation 98
-- Schindler’s List 813
-- Scorpio Rising 419
-- Scream 854
-- Se7en 838
-- Searchers, The 316
-- Seconds 447
-- Secret Beyond the Door, The 226
-- Secrets & Lies 855
-- Sedmikrásky 446
-- Sen to Chihiro no Kamikakushi 892
-- Senso 290
-- Sergeant York 168
-- Serpico 559
-- Servant, The 403
-- Seven Samurai, The 293
-- Seventh Seal, The 326
-- Seventh Victim, The 188
-- Sex, Lies, and Videotape 775
-- Shadow of a Doubt 189
-- Shadows 357
-- Shadows of Forgotten Ancestors 418
-- Shaft 531
-- Shame 488
-- Shane 283
-- Shanghai Express 95
-- Shao Lin san shi liu fang 637
-- Shaolin Master Killer 637
-- Shawshank Redemption, The 833
-- She Done Him Wrong 103
-- She’s Gotta Have It 723
-- Shen nu 113
-- Sherlock, Jr. 44
-- Sherman’s March 731
-- Shichinin no samurai 293
-- Shine 853
-- Shining, The 656
-- Shoah 718
-- Shock Corridor 409
-- Shoot the Piano Player 376
-- Shop on Main Street, The 430
-- Short Cuts 811
-- Silence of the Lambs, The 796
-- Silver Lode 291
-- Singin’ in the Rain 264
-- Sinnui yauman 739
-- Sins of Lola Montes, The 297
-- Sixth Sense, The 876
-- Skammen 488
-- Slacker 792
-- Sleeper 563
-- Sleeping Dogs 619
-- Sleuth 550
-- Smiles of a Summer Night 312
-- Smiling Madame Beudet, The 35
-- Smoke 839
-- Smultronstället 329
-- Snake Pit, The 230
-- Snow White and the Seven Dwarfs 136
-- Social Network, The 915
-- Solaris 540
-- Soldaat van Oranje 625
-- Soldier of Orange 625
-- Solyaris 540
-- Some Came Running 347
-- Some Like it Hot 348
-- Sommaren med Monika 270
-- Sommarnattens leende 312
-- Son of Saul 930
-- Sons of the Desert 109
-- Sorrow and the Pity, The 521
-- Sound of Music, The 435
-- Spartacus 371
-- Spider’s Stratagem, The 507
-- Spirit of the Beehive, The 568
-- Spirited Away 892
-- Splendor in the Grass 379
-- Spoorloos 751
-- Spotlight 931
-- Spring in a Small Town 227
-- Stachka 43
-- Stagecoach 146
-- Stalker 640
-- Stand by Me 731
-- Star Is Born, A 287
-- Star Wars 612
-- Star Wars: The Force Awakens 928
-- Steamboat Bill, Jr. 70
-- Stella Dallas 135
-- Sting, The 551
-- Storm over Asia 70
-- Story of a Cheat, The 129
-- Story of the Late Chrysanthemums, The 158
-- Stranger than Paradise 704
-- Strangers on a Train 254
-- Straw Dogs 535
-- Streetcar Named Desire, A 255
-- Strictly Ballroom 802
-- Strike 43
-- Stroszek 614
-- Subarnarekha 442
-- Sullivan’s Travels 172
-- Summer with Monika 270
-- Suna no onna 418
-- Sunless 687
-- Sunrise 58
-- Sunset Blvd. 251
-- Superfly 551
-- Suspiria 618
-- Sweet Hereafter, The 863
-- Sweet Smell of Success 334
-- Sweet Sweetback’s Baadasssss Song 532
-- Swing Time 126
-
-### **T:**
-
-- Ta’m e guilass 865
-- Tabu 84
-- Tale of the Wind, A 756
-- Tale of Winter, A 805
-- Tales of Ugetsu 278
-- Talk to Her 896
-- Tampopo 732
-- Tangerine 930
-- Targets 487
-- Taste of Cherry 865
-- Taxi Driver 60
-- Texas Chain Saw Massacre, The 581
-- Thelma & Louise 793
-- There Will Be Blood 909
-- Thief of Bagdad, The 48
-- Thin Blue Line, The 753
-- Thin Man, The 118
-- Thin Red Line, The 872
-- Thing, The 681
-- Things to Come 130
-- Third Man, The 240
-- Thirty-Two Short Films About Glenn Gould 817
 
 ---
