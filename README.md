@@ -3044,3 +3044,155 @@ Here is the cleaned and organized list of unseen films and series, separated by 
 | Stremio app for streaming & torrents                                |
 
 ---
+
+## Unseen Classic & Critically Acclaimed Films
+
+| Year | Title                                     |
+| ---- | ----------------------------------------- |
+| 1946 | It's a Wonderful Life                     |
+| 1948 | Rope                                      |
+| 1950 | Rashomon                                  |
+| 1957 | The Seventh Seal                          |
+| 1960 | Le Trou                                   |
+| 1971 | A Clockwork Orange                        |
+| 1979 | Stalker                                   |
+| 1982 | Blade Runner                              |
+| 1986 | The Sacrifice                             |
+| 1988 | Rain Man                                  |
+| 1998 | The Truman Show                           |
+| 2010 | Inception                                 |
+| 2011 | The Tree of Life                          |
+| 2013 | Stoker                                    |
+| 2017 | Mother!                                   |
+| 2017 | Three Billboards Outside Ebbing, Missouri |
+| 2017 | The Battleship Island                     |
+| 2018 | Annihilation                              |
+| 2019 | Parasite                                  |
+| 2021 | The Father                                |
+
+---
+
+## Unseen German & European Films
+
+| Year | Title                       |
+| ---- | --------------------------- |
+| 1979 | The Marriage of Maria Braun |
+| 2008 | Never Look Away             |
+| 1998 | Lola Rennt                  |
+| 2021 | Blood Red Sky               |
+| 2013 | Stories We Tell             |
+| 2013 | Blue Jasmine                |
+| 2012 | Lincoln                     |
+| 2013 | Enough Said                 |
+| 2013 | Side Effects                |
+| 2015 | Wadjda                      |
+| 2010 | Fruitvale Station           |
+
+---
+
+## Unseen Indian Films & Series
+
+| Year | Title            |
+| ---- | ---------------- |
+| 2018 | Andhadhun        |
+| 2006 | Rang De Basanti  |
+| 2007 | Taare Zameen Par |
+
+---
+
+## Unseen Animation & Watercolor Style Films
+
+| Year | Title                           |
+| ---- | ------------------------------- |
+| 2013 | The Tale of the Princess Kaguya |
+| —    | Ernest and Celestine            |
+| —    | Marona's Fantastic Tale         |
+| —    | The Secret of Kells             |
+| —    | Le Tableau                      |
+| —    | Nahuel and the Magic Book       |
+| —    | The Red Turtle                  |
+| —    | If Anything Happens I Love You  |
+| 2016 | Kubo and the Two Strings        |
+
+---
+
+## Unseen Series & TV Shows
+
+| Year | Title               |
+| ---- | ------------------- |
+| 2021 | The Innocent        |
+| 2021 | Arcane              |
+| —    | Maniac              |
+| —    | Most Dangerous Game |
+| —    | Severance           |
+| —    | Band of Brothers    |
+| —    | Bird Box            |
+| —    | The Chestnut Man    |
+| —    | Succession          |
+| —    | Devs                |
+| —    | Better Call Saul    |
+| —    | 1883                |
+| —    | Billions            |
+| —    | Peaky Blinders      |
+| —    | Westworld           |
+| —    | Vigil               |
+| —    | You                 |
+| —    | Mare of Easttown    |
+| —    | The Bridge          |
+| —    | Dark                |
+| —    | Unorthodox          |
+| —    | The Returned        |
+| —    | Wild Wild Country   |
+| —    | The Killing         |
+| —    | Dexter              |
+| —    | Castle Rock         |
+| —    | Sharp Objects       |
+| —    | The Terror          |
+| —    | Fringe              |
+| —    | Ozark               |
+| —    | Killing Eve         |
+| —    | Gunpowder           |
+| —    | Counterpart         |
+| —    | The Americans       |
+| —    | The Romanoffs       |
+| —    | True Detective      |
+| —    | The Wire            |
+| —    | Money Heist         |
+| —    | Catch-22            |
+| —    | The Hot Zone        |
+| —    | Genius              |
+
+---
+
+## Unseen Philosophy / Documentary
+
+| Year | Title                                             |
+| ---- | ------------------------------------------------- |
+| —    | Godel, Escher, Bach: An Eternal Golden Braid      |
+| —    | Make It Stick: The Science of Successful Learning |
+| —    | The Six Pillars of Self-Esteem                    |
+| —    | Ansel Adams documentary                           |
+| —    | David Meyers                                      |
+| —    | The Provisional Death of Bees                     |
+| —    | The Mexican Suitcase                              |
+| —    | Bill Cunningham - New York                        |
+| —    | Ratline podcast                                   |
+
+---
+
+## Iranian
+
+| Year | Title                  |
+| ---- | ---------------------- |
+| —    | Here Without Me        |
+| —    | Cause of Unknown Death |
+| —    | Last Snow              |
+| —    | Aziz                   |
+| —    | Endless Borders        |
+| —    | Beautiful City         |
+| —    | Atabai                 |
+| —    | Boutique               |
+| —    | Alone, Alone, Alone    |
+| —    | Silver Carnation       |
+
+---
