@@ -232,178 +232,12 @@
 | ----  | Turning Point: 9/11 and the War on Terror              |
 | ----  | American Manhunt: The Search for Osama bin Laden       |
 | ----  | Zafar War                                              |
-
-## 🎬 Yorgos Lanthimos
-
-| 2001 | _My Best Friend_ |
-| 2005 | _Kinetta_ |
-| 2009 | _Dogtooth_ |
-| 2010 | _Attenberg_ |
-| 2011 | _Alps_ |
-| 2015 | _The Lobster_ |
-| 2017 | _The Killing of a Sacred Deer_ |
-| 2018 | _The Favourite_ |
-
-## 🎬 Lars von Trier
-
-| Year | Title                       |
-| ---- | --------------------------- |
-| 1984 | _The Element of Crime_      |
-| 1987 | _Epidemic_                  |
-| 1991 | _Europa_                    |
-| 1996 | _Breaking the Waves_        |
-| 1998 | _The Idiots_                |
-| 2000 | _Dancer in the Dark_        |
-| 2003 | _Dogville_                  |
-| 2003 | _The Five Obstructions_     |
-| 2005 | _Manderlay_                 |
-| 2006 | _The Boss of It All_        |
-| 2007 | _To Each His Own Cinema_    |
-| 2009 | _Antichrist_                |
-| 2011 | _Melancholia_               |
-| 2013 | _Nymphomaniac_              |
-| 2013 | _Nymphomaniac: Vol. I_      |
-| 2013 | _Nymphomaniac: Vol. II_     |
-| 2018 | _The House That Jack Built_ |
-
-## 🎬 Nuri Bilge Ceylan
-
-| 1997 | _The Town_ |
-| 1999 | _Clouds of May_ |
-| 2003 | _Distant_ |
-| 2008 | _Three Monkeys_ |
-| 2014 | _Winter Sleep_ |
-| 2018 | _The Wild Pear Tree_ |
-
-## 🎬 Kim Ki-duk
-
-| Year | Title                                         |
-| ---- | --------------------------------------------- |
-| 1996 | _Crocodile_                                   |
-| 2000 | _Isle_                                        |
-| 2001 | _Address Unknown_                             |
-| 2001 | _Bad Guy_                                     |
-| 2003 | _Spring, Summer, Fall, Winter ... and Spring_ |
-| 2004 | _3-Iron_                                      |
-| 2004 | _Samaritan Girl_                              |
-| 2005 | _The Bow_                                     |
-| 2006 | _Shi Gan (Time)_                              |
-| 2007 | _Breath_                                      |
-| 2011 | _Amen_                                        |
-| 2011 | _Pieta_                                       |
-| 2012 | _Arirang_                                     |
-| 2013 | _Moebius_                                     |
-| 2014 | _One on One_                                  |
-
-## 🎬 Lynch
-
-| Year | Title              |
-| ---- | ------------------ |
-| 1986 | _Blue Velvet_      |
-| 1990 | _Wild at Heart_    |
-| 1997 | _Lost Highway_     |
-| 2001 | _Mulholland Drive_ |
-| 2006 | _Inland Empire_    |
-
-## 🎬 Krzysztof Kieslowski
-
-| Year | Title     |
-| ---- | --------- |
-| 1988 | _Dekalog_ |
-| 1993 | _Blue_    |
-| 1994 | _White_   |
-| 1994 | _Red_     |
-
-## 🎬 Yasujiro Ozu
-
-| 1934 | _A Story of Floating Weeds_ |
-| 1936 | _The Only Son_ |
-| 1942 | _There Was a Father_ |
-| 1949 | _Late Spring_ |
-| 1951 | _Early Summer_ |
-| 1953 | _Tokyo Story_ |
-| 1957 | _Tokyo Twilight_ |
-| 1959 | _Floating Weeds_ |
-| 1961 | _The End of Summer_ |
-| 2010 | _Late Autumn_ |
-
-## 🎬 Joon-ho Bong
-
-| Year | Title                |
-| ---- | -------------------- |
-| 2003 | _Memories of Murder_ |
-| 2008 | _Tokyo_              |
-| 2009 | _Mother_             |
-| 2013 | _Snowpiercer_        |
-| 2017 | _Okja_               |
-| 2019 | _Parasite_           |
-
-## 🎬 Emir Kusturica
-
-| Year | Title                         |
-| ---- | ----------------------------- |
-| 1981 | _Do You Remember Dolly Bell?_ |
-| 1983 | _Arizona Dream_               |
-| 1988 | _Time of the Gypsies_         |
-| 1995 | _Underground_                 |
-| 1998 | _Black Cat, White Cat_        |
-
-## 🎬 Abdellatif Kechiche
-
-| Year | Title                        |
-| ---- | ---------------------------- |
-| 2001 | _Poetical Refugee_           |
-| 2003 | _Games of Love and Chance_   |
-| 2007 | _The Secret of the Grain_    |
-| 2010 | _Black Venus_                |
-| 2013 | _Blue Is the Warmest Colour_ |
-| 2017 | _Mektoub, My Love_           |
-| 2019 | _Mektoub, My Love_           |
-
-## 🎬 Terrence Malick
-
-| Year | Title               |
-| ---- | ------------------- |
-| 1973 | _Badlands_          |
-| 1978 | _Days of Heaven_    |
-| 1998 | _The Thin Red Line_ |
-| 2005 | _The New World_     |
-| 2011 | _The Tree of Life_  |
-| 2012 | _To the Wonder_     |
-| 2015 | _Knight of Cups_    |
-| 2016 | _Voyage of Time_    |
-| 2017 | _Song to Song_      |
-| 2019 | _A Hidden Life_     |
-
-## 🎬 Akira Kurosawa
-
-| Year | Title           |
-| ---- | --------------- |
-| 1952 | _Ikiru_         |
-| 1954 | _Seven Samurai_ |
-| 1961 | _Yojimbo_       |
-
-## 🎬 Bernardo Bertolucci
-
-| 1990 | _The Sheltering Sky_ |
-| 1993 | _Little Buddha_ |
-
-## 🎬 Andrei Tarkovsky
-
-| 1962 | _Ivan's Childhood_ |
-| 1966 | _Andrei Rublev_ |
-| 1972 | _Solaris_ |
-| 1975 | _Mirror_ |
-| 1979 | _Stalker_ |
-| 1983 | _Nostalghia_ |
-| 1986 | _The Sacrifice_ |
-
-## Christopher Nolan
-
-| Year | Title             |
-| ---- | ----------------- |
-| 2008 | _The Dark Knight_ |
-| 2010 | _Inception_       |
+| 2012  | _Beyond the Hills_                                     |
+| 2016  | _The White Helmets_                                    |
+| 2018  | _Un homme press_                                       |
+| 2019  | _American Factory_                                     |
+| 2019  | _The Great Hack_                                       |
+| 2020  | _I Wish I Knew_                                        |
 
 ## ⏳ Time Traveling Movies
 
@@ -458,25 +292,25 @@
 
 ## Philosophical Genre
 
-| Title                  |
-| ---------------------- |
-| _Seventh Seal_         |
-| _Stalker_              |
-| _The Mirror_           |
-| _Mr Nobody_            |
-| _The Fountain_         |
-| _Mother!_              |
-| _The Tree of Life_     |
-| _A Serious Man_        |
-| _Synecdoche, New York_ |
-| _Melancholia_          |
-| _The Matrix_           |
-| _Blade Runner_         |
-| _Inception_            |
-| _Interstellar_         |
-| _Memento_              |
-| _The Truman Show_      |
-| _Irrational Man_       |
+| Year | Title                  |
+| ---- | ---------------------- |
+| ---- | _Seventh Seal_         |
+| 1979 | _Stalker_              |
+| ---- | _The Mirror_           |
+| ---- | _Mr Nobody_            |
+| ---- | _The Fountain_         |
+| ---- | _Mother!_              |
+| ---- | _The Tree of Life_     |
+| ---- | _A Serious Man_        |
+| ---- | _Synecdoche, New York_ |
+| ---- | _Melancholia_          |
+| 1999 | _The Matrix_           |
+| 1982 | _Blade Runner_         |
+| 2010 | _Inception_            |
+| 2014 | _Interstellar_         |
+| 2001 | _Memento_              |
+| ---- | _The Truman Show_      |
+| ---- | _Irrational Man_       |
 
 ## Psychological Genre
 
@@ -501,6 +335,42 @@
 | 2006 | _The Science of Sleep_ |
 | 2011 | _We Need to Talk About Kevin_ |
 | 1994 | _White_ |
+
+## Horror & Psychological
+
+| Year | Title                               |
+| ---- | ----------------------------------- |
+| 1977 | _Eraserhead_                        |
+| 1980 | _Shining_                           |
+| 1988 | _Colors_                            |
+| 1988 | _Grave of the Fireflies_            |
+| 1990 | _Jacob’s Ladder_                    |
+| 1991 | _The Silence of the Lambs_          |
+| 1997 | _Perfect Blue_                      |
+| 1998 | _Akira_                             |
+| 1999 | _Eyes Wide Shut_                    |
+| 1999 | _Fight Club_                        |
+| 2001 | _Donnie Darko_                      |
+| 2003 | _The Touch_                         |
+| 2004 | _Howl’s Moving Castle_              |
+| 2004 | _The Machinist_                     |
+| 2006 | _Paprika_                           |
+| 2007 | _Paranormal Activity_               |
+| 2007 | _The Diving Bell and the Butterfly_ |
+| 2009 | _District 9_                        |
+| 2010 | _Sarah’s Key_                       |
+| 2011 | _The Turin Horse_                   |
+| 2012 | _Mud_                               |
+| 2012 | _The Act of Killing_                |
+| 2013 | _Enemy_                             |
+| 2014 | _Hard to Be a God_                  |
+| 2015 | _Er ist wieder da_                  |
+| 2017 | _Icarus_                            |
+| 2018 | _Hereditary_                        |
+| 2018 | _Shadow_                            |
+| 2018 | _The Cave_                          |
+| 2019 | _Midsommar_                         |
+| 2019 | _Vitalina Varela_                   |
 
 ## Japanese Cinema
 
@@ -766,195 +636,114 @@
 | 2020 | _Never Rarely Sometimes Always_                     |
 | 2020 | _The Blackout_                                      |
 
-## Classic & Drama
+## Drama
 
-| Year | Title                                 |
-| ---- | ------------------------------------- |
-| 1927 | _Metropolis_                          |
-| 1931 | _M_                                   |
-| 1940 | _Night Train to Munich_               |
-| 1940 | _The Grapes Of Wrath_                 |
-| 1944 | _Laura_                               |
-| 1945 | _The Woman in Green_                  |
-| 1946 | _The Best Years of Our Lives_         |
-| 1946 | _The Big Sleep_                       |
-| 1950 | _DOA_                                 |
-| 1950 | _Los Olvidados_                       |
-| 1950 | _Rashomon_                            |
-| 1951 | _Strangers on a Train_                |
-| 1951 | _Summer Interlude_                    |
-| 1952 | _Ikiru_                               |
-| 1953 | _Summer with Monika_                  |
-| 1954 | _On the Waterfront_                   |
-| 1954 | _The Crucified Lovers_                |
-| 1955 | _Ordet_                               |
-| 1955 | _Smile of a Summer Night_             |
-| 1956 | _The Face of Another_                 |
-| 1957 | _12 Angry Men_                        |
-| 1957 | _The Seventh Seal_                    |
-| 1957 | _Wild Strawberries_                   |
-| 1959 | _Pickpocket_                          |
-| 1959 | _The 400 Blows_                       |
-| 1961 | _Through a Glass Darkly_              |
-| 1962 | _Harakiri_                            |
-| 1963 | _Dry Summer_                          |
-| 1963 | _Winter Light_                        |
-| 1966 | _Andrei Rublev_                       |
-| 1966 | _Au Hasard Balthazar_                 |
-| 1966 | _Persona_                             |
-| 1966 | _The Battle of Algiers_               |
-| 1967 | _2 or 3 Things I Know About Her_      |
-| 1967 | _In the Heat of the Night_            |
-| 1970 | _Days and Nights in the Forest_       |
-| 1970 | _Umut_                                |
-| 1971 | _A Clockwork Orange_                  |
-| 1972 | _Cries and Whispers_                  |
-| 1974 | _Murder on the Orient Express_        |
-| 1975 | _Mirror_                              |
-| 1977 | _Eraserhead_                          |
-| 1978 | _Autumn Sonata_                       |
-| 1978 | _Death on the Nile_                   |
-| 1980 | _The Mirror Crack’d_                  |
-| 1983 | _L'Argent_                            |
-| 1983 | _Nostalghia_                          |
-| 1988 | _A Short Film About Love_             |
-| 1988 | _Dekalog_                             |
-| 1988 | _Grave of the Fireflies_              |
-| 1989 | _A Visitor to a Museum_               |
-| 1989 | _Do the Right Thing_                  |
-| 1994 | _Immortal Beloved_                    |
-| 1994 | _Satantango_                          |
-| 1995 | _Ordet_                               |
-| 1995 | _Ulysses Gaze_                        |
-| 1997 | _Cure_                                |
-| 1997 | _Perfect Blue_                        |
-| 1998 | _Eternity and a Day_                  |
-| 1998 | _π_                                   |
-| 1999 | _ExistenZ_                            |
-| 2001 | _Address Unknown_                     |
-| 2003 | _Saraband_                            |
-| 2004 | _The Weeping Meadow_                  |
-| 2004 | _Trilogy: The Weeping Meadow_         |
-| 2011 | _Intouchables_                        |
-| 2012 | _Eyes of Darkness_                    |
-| 2013 | _A Thousand Times Goodnight_          |
-| 2014 | _A Pigeon Sat on a Branch Reflecting_ |
-| 2014 | _The Grand Budapest Hotel_            |
-| 2014 | _The Loft_                            |
-| 2015 | _Suite Francaise_                     |
-| 2016 | _After the Storm_                     |
-| 2017 | _A Ghost Story_                       |
-| 2018 | _The House That Jack Built_           |
-| 2019 | _American Factory_                    |
-| 2019 | _Les Miserables_                      |
-| 2019 | _Light from Light_                    |
-| 2020 | _The Cordillera of Dreams_            |
-
-## Thriller & Crime
-
-| 1951 | _Strangers on a Train_ |
-| 1957 | _12 Angry Men_ |
-| 1968 | _Bullitt_ |
-| 1973 | _Magnum Force_ |
-| 1973 | _Serpico_ |
-| 1973 | _The Magician_ |
-| 1977 | _Eraserhead_ |
-| 1980 | _Shining_ |
-| 1984 | _Beverly Hills Cop_ |
-| 1987 | _Suspect_ |
-| 1987 | _The Princess Bride_ |
-| 1989 | _Do the Right Thing_ |
-| 1992 | _Reservoir Dogs_ |
-| 1996 | _Fargo_ |
-| 1997 | _Cop Land_ |
-| 1997 | _L.A. Confidential_ |
-| 1998 | _Rush Hour_ |
-| 1999 | _Fight Club_ |
-| 2003 | _Dogville_ |
-| 2007 | _Zodiac_ |
-| 2008 | _Loft_ |
-| 2012 | _Prometheus_ |
-| 2016 | _The Imitation Game_ |
-| 2017 | _The Institute_ |
-| 2018 | _Dark Figure of Crime_ |
-| 2018 | _Red Sparrow_ |
-| 2019 | _Bad Education_ |
-| 2019 | _Blow the Man Down_ |
-| 2019 | _Clemency_ |
-| 2019 | _Ready or Not_ |
-| 2019 | _Sorry We Missed You_ |
-| 2019 | _The Assistant_ |
-| 2019 | _The Endless Trench_ |
-| 2019 | _The Great Hack_ |
-
-## Horror & Psychological
-
-| Year | Title                               |
-| ---- | ----------------------------------- |
-| 1977 | _Eraserhead_                        |
-| 1980 | _Shining_                           |
-| 1988 | _Colors_                            |
-| 1988 | _Grave of the Fireflies_            |
-| 1990 | _Jacob’s Ladder_                    |
-| 1991 | _The Silence of the Lambs_          |
-| 1997 | _Perfect Blue_                      |
-| 1998 | _Akira_                             |
-| 1999 | _Eyes Wide Shut_                    |
-| 1999 | _Fight Club_                        |
-| 2001 | _Donnie Darko_                      |
-| 2003 | _The Touch_                         |
-| 2004 | _Howl’s Moving Castle_              |
-| 2004 | _The Machinist_                     |
-| 2006 | _Paprika_                           |
-| 2007 | _Paranormal Activity_               |
-| 2007 | _The Diving Bell and the Butterfly_ |
-| 2009 | _District 9_                        |
-| 2010 | _Sarah’s Key_                       |
-| 2011 | _The Turin Horse_                   |
-| 2012 | _Mud_                               |
-| 2012 | _The Act of Killing_                |
-| 2013 | _Enemy_                             |
-| 2014 | _Hard to Be a God_                  |
-| 2015 | _Er ist wieder da_                  |
-| 2017 | _Icarus_                            |
-| 2018 | _Hereditary_                        |
-| 2018 | _Shadow_                            |
-| 2018 | _The Cave_                          |
-| 2019 | _Midsommar_                         |
-| 2019 | _Vitalina Varela_                   |
-
-## Sci-Fi & Fantasy
-
-| 1957 | _The Seventh Seal_ |
-| 1966 | _Persona_ |
-| 1971 | _A Clockwork Orange_ |
-| 1979 | _Stalker_ |
-| 1982 | _Videodrome_ |
-| 1982 | _Blade Runner_ |
-| 1984 | _Amadeus_ |
-| 1985 | _Back to the Future_ |
-| 1985 | _Brazil_ |
-| 1987 | _When the Day Comes_ |
-| 1995 | _Ghost in the Shell_ |
-| 1997 | _Cube_ |
-| 1998 | _Rush Hour_ |
-| 1999 | _The Matrix_ |
-| 2001 | _Memento_ |
-| 2006 | _Perfume: The Story of a Murderer_ |
-| 2006 | _Children of Men_ |
-| 2009 | _Fullmetal Alchemist: Brotherhood_ |
-| 2010 | _Inception_ |
-| 2011 | _Limitless_ |
-| 2012 | _Looper_ |
-| 2013 | _Coherence_ |
-| 2014 | _Interstellar_ |
-| 2015 | _Mad Max: Fury Road_ |
-| 2016 | _Arrival_ |
-| 2016 | _Silence_ |
-| 2017 | _Logan_ |
-| 2018 | _Annihilation_ |
-| 2018 | _Black Panther_ |
-| 2019 | _The Platform_ |
+| Year | Title                                        |
+| ---- | -------------------------------------------- |
+| 1927 | _Metropolis_                                 |
+| 1931 | _M_                                          |
+| 1940 | _Night Train to Munich_                      |
+| 1940 | _The Grapes Of Wrath_                        |
+| 1944 | _Laura_                                      |
+| 1945 | _The Woman in Green_                         |
+| 1946 | _The Best Years of Our Lives_                |
+| 1946 | _The Big Sleep_                              |
+| 1950 | _DOA_                                        |
+| 1950 | _Los Olvidados_                              |
+| 1950 | _Rashomon_                                   |
+| 1951 | _Strangers on a Train_                       |
+| 1951 | _Summer Interlude_                           |
+| 1952 | _Ikiru_                                      |
+| 1953 | _Summer with Monika_                         |
+| 1954 | _On the Waterfront_                          |
+| 1954 | _The Crucified Lovers_                       |
+| 1955 | _Ordet_                                      |
+| 1955 | _Smile of a Summer Night_                    |
+| 1956 | _The Face of Another_                        |
+| 1957 | _12 Angry Men_                               |
+| 1957 | _The Seventh Seal_                           |
+| 1957 | _Wild Strawberries_                          |
+| 1959 | _Pickpocket_                                 |
+| 1959 | _The 400 Blows_                              |
+| 1961 | _Through a Glass Darkly_                     |
+| 1962 | _Harakiri_                                   |
+| 1963 | _Dry Summer_                                 |
+| 1963 | _Winter Light_                               |
+| 1966 | _Andrei Rublev_                              |
+| 1966 | _Au Hasard Balthazar_                        |
+| 1966 | _Persona_                                    |
+| 1966 | _The Battle of Algiers_                      |
+| 1967 | _2 or 3 Things I Know About Her_             |
+| 1967 | _In the Heat of the Night_                   |
+| 1970 | _Days and Nights in the Forest_              |
+| 1970 | _Umut_                                       |
+| 1971 | _A Clockwork Orange_                         |
+| 1972 | _Cries and Whispers_                         |
+| 1974 | _Murder on the Orient Express_               |
+| 1975 | _Mirror_                                     |
+| 1977 | _Eraserhead_                                 |
+| 1978 | _Autumn Sonata_                              |
+| 1978 | _Death on the Nile_                          |
+| 1980 | _The Mirror Crack’d_                         |
+| 1983 | _L'Argent_                                   |
+| 1983 | _Nostalghia_                                 |
+| 1988 | _A Short Film About Love_                    |
+| 1988 | _Dekalog_                                    |
+| 1988 | _Grave of the Fireflies_                     |
+| 1989 | _A Visitor to a Museum_                      |
+| 1989 | _Do the Right Thing_                         |
+| 1994 | _Immortal Beloved_                           |
+| 1994 | _Satantango_                                 |
+| 1995 | _Ordet_                                      |
+| 1995 | _Ulysses Gaze_                               |
+| 1997 | _Cure_                                       |
+| 1997 | _Perfect Blue_                               |
+| 1998 | _Eternity and a Day_                         |
+| 1998 | _π_                                          |
+| 1999 | _ExistenZ_                                   |
+| 2001 | _Address Unknown_                            |
+| 2003 | _Saraband_                                   |
+| 2004 | _The Weeping Meadow_                         |
+| 2004 | _Trilogy: The Weeping Meadow_                |
+| 2011 | _Intouchables_                               |
+| 2012 | _Eyes of Darkness_                           |
+| 2013 | _A Thousand Times Goodnight_                 |
+| 2014 | _A Pigeon Sat on a Branch Reflecting_        |
+| 2014 | _The Grand Budapest Hotel_                   |
+| 2014 | _The Loft_                                   |
+| 2015 | _Suite Francaise_                            |
+| 2016 | _After the Storm_                            |
+| 2017 | _A Ghost Story_                              |
+| 2018 | _The House That Jack Built_                  |
+| 2019 | _American Factory_                           |
+| 2019 | _Les Miserables_                             |
+| 2019 | _Light from Light_                           |
+| 2020 | _The Cordillera of Dreams_                   |
+| 1941 | _Citizen Kane_                               |
+| 1947 | _One Wonderful Sunday_                       |
+| 1957 | _Twelve Angry Men_                           |
+| 1992 | _Bitter Moon_                                |
+| 1999 | _Eyes Wide Shut_                             |
+| 2000 | _Joint Security Area_                        |
+| 2003 | _Spring, Summer, Fall, Winter... and Spring_ |
+| 2003 | _Real Fiction_                               |
+| 2003 | _Mystic River_                               |
+| 2007 | _The Diving Bell and the Butterfly_          |
+| 2008 | _Dream_                                      |
+| 2011 | _Arirang_                                    |
+| 2013 | _Moebius_                                    |
+| 2017 | _When the Day Comes_                         |
+| 2018 | _Veere Di Wedding_                           |
+| 2020 | _Tesla_                                      |
+| 2020 | _Your Honor_                                 |
+| 2003 | The Notebook                                 |
+| 2007 | P.S. I Love You                              |
+| 2007 | Sky of Love                                  |
+| 2009 | The Time Traveler’s Wife                     |
+| 2011 | The Intouchables                             |
+| 2013 | Columbus                                     |
+| 2014 | The Fault in Our Stars                       |
+| 2020 | Pieces of a Woman                            |
 
 ## Comedy & Romance
 
@@ -975,225 +764,15 @@
 | 2016 | _Lavender_                                  |
 | 2017 | _Three Billboards Outside Ebbing, Missouri_ |
 
-## Series & TV Shows
+## Romance
 
-| Year      | Title                                               |
-| --------- | --------------------------------------------------- |
-| 2011      | _Intouchables_                                      |
-| 2013      | _The Berlin File_                                   |
-| 2015      | _River_                                             |
-| 2017      | _The Undoing_                                       |
-| 2017      | _Along with the Gods The Two Worlds_                |
-| 2018      | _The Great Heist_                                   |
-| 2018      | _Patria_                                            |
-| 2018      | _The Queen’s Gambit_                                |
-| 2019      | _Succession_                                        |
-| 2019      | _Vis a Vis - Locked-up_                             |
-| 2020      | _Awaken_                                            |
-| 2020      | _The Booksellers_                                   |
-| -         | _After Life_                                        |
-| -         | _Murder to Mercy_                                   |
-| -         | _Vis a Vis_                                         |
-| -         | _Scinfield_                                         |
-| -         | _The Marvelous Mrs. Maisel_                         |
-| -         | _The Deuce_                                         |
-| -         | _Barkskins (NatGeo)_                                |
-| -         | _Death Parade_                                      |
-| -         | _Atlanta's Missing and Murdered: The Lost Children_ |
-| -         | _The Spy_                                           |
-| -         | _Undone_                                            |
-| 2014      | Gracepoint                                          |
-| 2013      | Top of the Lake: China Girl                         |
-| 2017      | Taboo                                               |
-| 2013      | The Bridge                                          |
-| 1982      | Remington Steele                                    |
-| 2017      | Riverdale                                           |
-| 2015      | True Detective, Season 2                            |
-| 2013      | Broadchurch                                         |
-| 2010      | Pretty Little Liars                                 |
-| 2017      | The Sinner                                          |
-| 2018      | The Alienist                                        |
-| 2014      | Fargo                                               |
-| 2011      | The Killing                                         |
-| 2017      | Mindhunter                                          |
-| 2010      | Luther                                              |
-| 2013      | The Fall                                            |
-| 2016      | The Night Of                                        |
-| 2017      | Big Little Lies                                     |
-| 2014      | True Detective, Season 1                            |
-| 1990      | Twin Peaks                                          |
-| 2020      | Gangs of London                                     |
-| 2020      | What We Do In The Shadows S2                        |
-| ----      | Industry                                            |
-| ----      | The Crown S4                                        |
-| ----      | Little Fires Everywhere                             |
-| ----      | We Are Who We Are                                   |
-| ----      | The Eddy                                            |
-| ----      | Ted Lasso                                           |
-| ----      | Mrs. America                                        |
-| ----      | Quiz                                                |
-| ----      | Bojack Horseman S6                                  |
-| ----      | Lovecraft Country                                   |
-| ----      | Schitt's Creek S6                                   |
-| ----      | The Last Dance                                      |
-| ----      | I'll Be Gone In The Dark                            |
-| ----      | I Hate Suzie                                        |
-| ----      | Dead To Me S2                                       |
-| ----      | The Boys S2                                         |
-| ----      | Better Call Saul S5                                 |
-| ----      | The Queen's Gambit                                  |
-| ----      | Devs                                                |
-| ----      | Normal People                                       |
-| ----      | I May Destroy You                                   |
-| ----      | The Mandalorian S1 + S2                             |
-| ----      | Small Axe                                           |
-| —         | The Zeitgeist                                       |
-| —         | The Missing                                         |
-| —         | Maniac                                              |
-| —         | Bodyguard                                           |
-| —         | Castle Rock                                         |
-| —         | Sharp Objects                                       |
-| —         | The Terror                                          |
-| —         | The City and the City                               |
-| —         | Fringe                                              |
-| —         | You                                                 |
-| —         | Ozark                                               |
-| —         | Killing Eve                                         |
-| —         | Gunpowder                                           |
-| —         | Counterpart                                         |
-| —         | Better Call Saul                                    |
-| —         | The Americans                                       |
-| —         | The Romanoffs                                       |
-| —         | True Detectives                                     |
-| —         | The Wire                                            |
-| —         | Peaky Blinders                                      |
-| —         | Tabo                                                |
-| —         | Chernobyl                                           |
-| —         | Money Heist                                         |
-| —         | Dark                                                |
-| —         | Catch-22                                            |
-| —         | The Hot Zone                                        |
-| —         | Genius                                              |
-| 2006-2013 | Dexter                                              |
-| —         | Sherlock                                            |
-| —         | Friends                                             |
-| —         | Narcos                                              |
-| —         | House of Cards                                      |
-| —         | New Girl                                            |
-| 2016      | _11.22.63_                                          |
-| —         | _Defending Jacob_                                   |
-| 2020      | _The World of the Married_ (Korea)                  |
-| 2020      | _Panchayat_ (India)                                 |
-
-| Dark Matter |
-| ODERBRUCH |
-| Death’s Game |
-| After Life |
-| The Stranger |
-| Bad Sisters |
-| Presumed Innocent |
-| The Billion Dollar Code |
-| Under the Bridge |
-| The Tattooist of Auschwitz (2024) |
-| Bodies |
-| The Innocent |
-| The Secret in Their Eyes |
-| 3 Body Problem (2024) |
-| You |
-| The Diplomat |
-| The Killing Vote |
-| A Small Light |
-| Obsession (2023) |
-| Behind Her Eyes |
-| Jeffrey Dahmer |
-| Des |
-| A Murder at the End of the World |
-| House of the Dragon |
-| Emily in Paris |
-| The Fame Game |
-| 1899 |
-| Gefährliche Liebschaften |
-| A Friend of the Family |
-| Dahmer the Monster |
-| Normal People |
-| Squid Game |
-| Fargo |
-| The Handmaid’s Tale |
-| Dark |
-| Once Upon a Time |
-| Prison Break |
-| Vikings |
-| Monsters at Work |
-| Sex Education |
-| La Casa de Papel |
-| Queen's Gambit |
-| Unorthodox |
-| Ozark |
-| Lucifer |
-| Elite |
-| Westworld |
-| 13 Reasons Why |
-| Family Guy |
-| Rick and Morty |
-| Bojack Horseman |
-| The White Princess |
-| The White Queen |
-| The Spanish Princess |
-| Pretty Little Liars |
-| Breaking Bad |
-| Chernobyl |
-| Sherlock Holmes |
-| Game of Thrones |
-| Tehran |
-| Mare of Easttown |
-| Poker Face |
-| Inside Job |
-| Death and Love |
-| Scenes from a Marriage |
-| From |
-| Succession |
-| Silo |
-| The Bear |
-| Liebes Kind |
-| Shrinking |
-| Your Honor |
-| Maid |
-| Dead Ringers |
-| True Detective |
-| Better Call Saul |
-| My Brilliant Friend |
-| Waco |
-
-## Documentaries & Others
-
-| 2012 | _Beyond the Hills_ |
-| 2016 | _The White Helmets_ |
-| 2018 | _Un homme press_ |
-| 2019 | _American Factory_ |
-| 2019 | _The Great Hack_ |
-| 2020 | _I Wish I Knew_ |
-
-## Drama
-
-| Year | Title                                        |
-| ---- | -------------------------------------------- |
-| 1941 | _Citizen Kane_                               |
-| 1947 | _One Wonderful Sunday_                       |
-| 1957 | _Twelve Angry Men_                           |
-| 1992 | _Bitter Moon_                                |
-| 1999 | _Eyes Wide Shut_                             |
-| 2000 | _Joint Security Area_                        |
-| 2003 | _Spring, Summer, Fall, Winter... and Spring_ |
-| 2003 | _Real Fiction_                               |
-| 2003 | _Mystic River_                               |
-| 2007 | _The Diving Bell and the Butterfly_          |
-| 2008 | _Dream_                                      |
-| 2011 | _Arirang_                                    |
-| 2013 | _Moebius_                                    |
-| 2017 | _When the Day Comes_                         |
-| 2018 | _Veere Di Wedding_                           |
-| 2020 | _Tesla_                                      |
-| 2020 | _Your Honor_                                 |
+| 1962 | _Lolita_ |
+| 2002 | _Miss Mermaid_ |
+| 2004 | _3-Iron_ |
+| 2008 | _Hana Yori Dango: Final_ |
+| 2009 | _The Time Traveler's Wife_ |
+| 2015 | _Love_ |
+| 2016 | _Goddess of Love_ |
 
 ## Thriller / Crime
 
@@ -1226,18 +805,48 @@
 | 2019 | _Serenity_                       |
 | 2019 | _The Gangster The Cop The Devil_ |
 | 2020 | _Train To Busan 2_               |
+| 2007 | Gone Baby Gone                   |
+| 2011 | Margin Call                      |
+| 2013 | Brick                            |
+| 2013 | The Place Beyond the Pines       |
+| 2014 | Gone Girl                        |
+| 2015 | The Guilty                       |
+| 1951 | _Strangers on a Train_           |
+| 1957 | _12 Angry Men_                   |
+| 1968 | _Bullitt_                        |
+| 1973 | _Magnum Force_                   |
+| 1973 | _Serpico_                        |
+| 1973 | _The Magician_                   |
+| 1977 | _Eraserhead_                     |
+| 1980 | _Shining_                        |
+| 1984 | _Beverly Hills Cop_              |
+| 1987 | _Suspect_                        |
+| 1987 | _The Princess Bride_             |
+| 1989 | _Do the Right Thing_             |
+| 1992 | _Reservoir Dogs_                 |
+| 1996 | _Fargo_                          |
+| 1997 | _Cop Land_                       |
+| 1997 | _L.A. Confidential_              |
+| 1998 | _Rush Hour_                      |
+| 1999 | _Fight Club_                     |
+| 2003 | _Dogville_                       |
+| 2007 | _Zodiac_                         |
+| 2008 | _Loft_                           |
+| 2012 | _Prometheus_                     |
+| 2016 | _The Imitation Game_             |
+| 2017 | _The Institute_                  |
+| 2018 | _Dark Figure of Crime_           |
+| 2018 | _Red Sparrow_                    |
+| 2019 | _Bad Education_                  |
+| 2019 | _Blow the Man Down_              |
+| 2019 | _Clemency_                       |
+| 2019 | _Ready or Not_                   |
+| 2019 | _Sorry We Missed You_            |
+| 2019 | _The Assistant_                  |
+| 2019 | _The Endless Trench_             |
+| 2019 | _The Great Hack_                 |
 
-## Romance
-
-| 1962 | _Lolita_ |
-| 2002 | _Miss Mermaid_ |
-| 2004 | _3-Iron_ |
-| 2008 | _Hana Yori Dango: Final_ |
-| 2009 | _The Time Traveler's Wife_ |
-| 2015 | _Love_ |
-| 2016 | _Goddess of Love_ |
-
-## Sci-Fi / Fantasy
+## Sci-Fi / Fantasy / Fantasy /Dystopia
 
 | Year | Title                                  |
 | ---- | -------------------------------------- |
@@ -1246,8 +855,46 @@
 | 2017 | _Along with the Gods The Two Worlds_   |
 | 2018 | _Along with the Gods The Last 49 Days_ |
 | 2017 | _A Ghost Story_                        |
+| 1999 | The Matrix                             |
+| 2002 | Minority Report                        |
+| 2002 | Equilibrium                            |
+| 2005 | The Island                             |
+| 2007 | I Am Legend                            |
+| 2010 | Gattaca                                |
+| 2014 | Blade Runner                           |
+| 2020 | Raised By Wolves                       |
+| 1957 | _The Seventh Seal_                     |
+| 1966 | _Persona_                              |
+| 1971 | _A Clockwork Orange_                   |
+| 1979 | _Stalker_                              |
+| 1982 | _Videodrome_                           |
+| 1982 | _Blade Runner_                         |
+| 1984 | _Amadeus_                              |
+| 1985 | _Back to the Future_                   |
+| 1985 | _Brazil_                               |
+| 1987 | _When the Day Comes_                   |
+| 1995 | _Ghost in the Shell_                   |
+| 1997 | _Cube_                                 |
+| 1998 | _Rush Hour_                            |
+| 1999 | _The Matrix_                           |
+| 2001 | _Memento_                              |
+| 2006 | _Perfume: The Story of a Murderer_     |
+| 2006 | _Children of Men_                      |
+| 2009 | _Fullmetal Alchemist: Brotherhood_     |
+| 2010 | _Inception_                            |
+| 2011 | _Limitless_                            |
+| 2012 | _Looper_                               |
+| 2013 | _Coherence_                            |
+| 2014 | _Interstellar_                         |
+| 2015 | _Mad Max: Fury Road_                   |
+| 2016 | _Arrival_                              |
+| 2016 | _Silence_                              |
+| 2017 | _Logan_                                |
+| 2018 | _Annihilation_                         |
+| 2018 | _Black Panther_                        |
+| 2019 | _The Platform_                         |
 
-## War / Action
+## Action
 
 | 1954 | _7 Samurai_ |
 | 2014 | _The Admiral Roaring Currents_ |
@@ -1268,7 +915,197 @@
 | Fritz Lang Mabuse           | _Dr. Mabuse_ series                                           |
 | Abbas Kiarostami Koker      | _Friend's Home?_, _Life Goes On_, _Olive Trees_               |
 
-## Curated Films
+## Series & TV Shows
+
+| Year | Title                                             |
+| ---- | ------------------------------------------------- |
+| 1982 | Remington Steele                                  |
+| 1990 | Twin Peaks                                        |
+| 2006 | Dexter                                            |
+| 2010 | Luther                                            |
+| 2010 | Pretty Little Liars                               |
+| 2011 | Intouchables                                      |
+| 2011 | The Killing                                       |
+| 2013 | Broadchurch                                       |
+| 2013 | The Berlin File                                   |
+| 2013 | The Bridge                                        |
+| 2013 | The Fall                                          |
+| 2013 | Top of the Lake: China Girl                       |
+| 2014 | Fargo                                             |
+| 2014 | Gracepoint                                        |
+| 2014 | True Detective                                    |
+| 2015 | River                                             |
+| 2016 | 11.22.63                                          |
+| 2016 | The Night Of                                      |
+| 2017 | Along with the Gods The Two Worlds                |
+| 2017 | Big Little Lies                                   |
+| 2017 | Mindhunter                                        |
+| 2017 | Riverdale                                         |
+| 2017 | Taboo                                             |
+| 2017 | The Sinner                                        |
+| 2017 | The Undoing                                       |
+| 2018 | Patria                                            |
+| 2018 | The Alienist                                      |
+| 2018 | The Great Heist                                   |
+| 2018 | The Queen’s Gambit                                |
+| 2019 | Succession                                        |
+| 2019 | Vis a Vis - Locked-up                             |
+| 2020 | Awaken                                            |
+| 2020 | Gangs of London                                   |
+| 2020 | Panchayat (India)                                 |
+| 2020 | The Booksellers                                   |
+| 2020 | The World of the Married (Korea)                  |
+| 2020 | What We Do In The Shadows                         |
+| ---- | 13 Reasons Why                                    |
+| ---- | 3 Body Problem (2024)                             |
+| ---- | A Friend of the Family                            |
+| ---- | A Murder at the End of the World                  |
+| ---- | A Small Light                                     |
+| ---- | After Life                                        |
+| ---- | Atlanta's Missing and Murdered: The Lost Children |
+| ---- | Barkskins (NatGeo)                                |
+| ---- | Better Call Saul                                  |
+| ---- | Behind Her Eyes                                   |
+| ---- | Big Little Lies                                   |
+| ---- | Bojack Horseman                                   |
+| ---- | Bodyguard                                         |
+| ---- | Breaking Bad                                      |
+| ---- | Castle Rock                                       |
+| ---- | Catch-22                                          |
+| ---- | Chernobyl                                         |
+| ---- | Chernobyl                                         |
+| ---- | Counterpart                                       |
+| ---- | Dark                                              |
+| ---- | Dark                                              |
+| ---- | Dead Ringers                                      |
+| ---- | Dead To Me                                        |
+| ---- | Death and Love                                    |
+| ---- | Death Parade                                      |
+| ---- | Des                                               |
+| ---- | Devs                                              |
+| ---- | Dexter                                            |
+| ---- | Emily in Paris                                    |
+| ---- | Elite                                             |
+| ---- | Fargo                                             |
+| ---- | Family Guy                                        |
+| ---- | Friends                                           |
+| ---- | Fringe                                            |
+| ---- | From                                              |
+| ---- | Game of Thrones                                   |
+| ---- | Gefährliche Liebschaften                          |
+| ---- | Genius                                            |
+| ---- | Gracepoint                                        |
+| ---- | Gunpowder                                         |
+| ---- | House of Cards                                    |
+| ---- | House of the Dragon                               |
+| ---- | I Hate Suzie                                      |
+| ---- | I May Destroy You                                 |
+| ---- | I'll Be Gone In The Dark                          |
+| ---- | Industry                                          |
+| ---- | Inside Job                                        |
+| ---- | Killing Eve                                       |
+| ---- | La Casa de Papel                                  |
+| ---- | Liebes Kind                                       |
+| ---- | Little Fires Everywhere                           |
+| ---- | Lovecraft Country                                 |
+| ---- | Lucifer                                           |
+| ---- | Maid                                              |
+| ---- | Maniac                                            |
+| ---- | Mare of Easttown                                  |
+| ---- | Money Heist                                       |
+| ---- | Monsters at Work                                  |
+| ---- | Murder to Mercy                                   |
+| ---- | My Brilliant Friend                               |
+| ---- | Narcos                                            |
+| ---- | New Girl                                          |
+| ---- | Normal People                                     |
+| ---- | Obsession (2023)                                  |
+| ---- | Once Upon a Time                                  |
+| ---- | Ozark                                             |
+| ---- | Panchayat                                         |
+| ---- | Patria                                            |
+| ---- | Peaky Blinders                                    |
+| ---- | Poker Face                                        |
+| ---- | Pretty Little Liars                               |
+| ---- | Queen's Gambit                                    |
+| ---- | Quiz                                              |
+| ---- | Remington Steele                                  |
+| ---- | Rick and Morty                                    |
+| ---- | River                                             |
+| ---- | Riverdale                                         |
+| ---- | Scenes from a Marriage                            |
+| ---- | Schitt's Creek S6                                 |
+| ---- | Scinfield                                         |
+| ---- | Sex Education                                     |
+| ---- | Sharp Objects                                     |
+| ---- | Sherlock                                          |
+| ---- | Sherlock Holmes                                   |
+| ---- | Shrinking                                         |
+| ---- | Silo                                              |
+| ---- | Small Axe                                         |
+| ---- | Spinoff: The Queen's Gambit                       |
+| ---- | Succession                                        |
+| ---- | Tabo                                              |
+| ---- | Taboo                                             |
+| ---- | Ted Lasso                                         |
+| ---- | Tehran                                            |
+| ---- | The Americans                                     |
+| ---- | The Bear                                          |
+| ---- | The Billion Dollar Code                           |
+| ---- | The Booksellers                                   |
+| ---- | The Boys S2                                       |
+| ---- | The City and the City                             |
+| ---- | The Crown S4                                      |
+| ---- | The Deuce                                         |
+| ---- | The Diplomat                                      |
+| ---- | The Eddy                                          |
+| ---- | The Fall                                          |
+| ---- | The Fame Game                                     |
+| ---- | The Great Heist                                   |
+| ---- | The Handmaid’s Tale                               |
+| ---- | The Hot Zone                                      |
+| ---- | The Innocent                                      |
+| ---- | The Killing Vote                                  |
+| ---- | The Killing                                       |
+| ---- | The Last Dance                                    |
+| ---- | The Mandalorian S1 + S2                           |
+| ---- | The Marvelous Mrs. Maisel                         |
+| ---- | The Missing                                       |
+| ---- | The Night Of                                      |
+| ---- | The Queen’s Gambit                                |
+| ---- | The Romanoffs                                     |
+| ---- | The Secret in Their Eyes                          |
+| ---- | The Sinner                                        |
+| ---- | The Spanish Princess                              |
+| ---- | The Spy                                           |
+| ---- | The Stranger                                      |
+| ---- | The Terror                                        |
+| ---- | The Tattooist of Auschwitz (2024)                 |
+| ---- | The Undoing                                       |
+| ---- | The White Princess                                |
+| ---- | The White Queen                                   |
+| ---- | The Wire                                          |
+| ---- | The World of the Married                          |
+| ---- | TWIN PEAKS                                        |
+| ---- | True Detective                                    |
+| ---- | True Detectives                                   |
+| ---- | Twin Peaks                                        |
+| ---- | Unorthodox                                        |
+| ---- | Undone                                            |
+| ---- | Under the Bridge                                  |
+| ---- | Vis a Vis                                         |
+| ---- | Vikings                                           |
+| ---- | Waco                                              |
+| ---- | We Are Who We Are                                 |
+| ---- | Westworld                                         |
+| ---- | What We Do In The Shadows                         |
+| ---- | You                                               |
+| ---- | Your Honor                                        |
+| ---- | Zeitgeist                                         |
+
+---
+
+## Films
 
 | 1962 | Jessica |
 | 1973 | Amarcord |
@@ -1323,41 +1160,6 @@
 | 2017 | Burning |
 | 2018 | The Guilty |
 | 2019 | Dear Comrades |
-
-## Sci-Fi & Dystopia
-
-| Year | Title            |
-| ---- | ---------------- |
-| 1999 | The Matrix       |
-| 2002 | Minority Report  |
-| 2002 | Equilibrium      |
-| 2005 | The Island       |
-| 2007 | I Am Legend      |
-| 2010 | Gattaca          |
-| 2014 | Blade Runner     |
-| 2020 | Raised By Wolves |
-
-## Romance & Drama
-
-| Year | Title                    |
-| ---- | ------------------------ |
-| 2003 | The Notebook             |
-| 2007 | P.S. I Love You          |
-| 2007 | Sky of Love              |
-| 2009 | The Time Traveler’s Wife |
-| 2011 | The Intouchables         |
-| 2013 | Columbus                 |
-| 2014 | The Fault in Our Stars   |
-| 2020 | Pieces of a Woman        |
-
-## Crime & Noir
-
-| 2007 | Gone Baby Gone |
-| 2011 | Margin Call |
-| 2013 | Brick |
-| 2013 | The Place Beyond the Pines |
-| 2014 | Gone Girl |
-| 2015 | The Guilty |
 
 ## Additional Mentions
 
