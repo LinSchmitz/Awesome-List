@@ -1761,3 +1761,607 @@ Certainly! Here’s the cleaned list in the requested format:
 | ---- | Small Axe                    |
 
 ---
+
+## Unseen Movies
+
+| Year | Title                                         |
+| ---- | --------------------------------------------- |
+| 2021 | Squid Game (Note: series but listed here)     |
+| 2020 | Exit                                          |
+| ---- | The Real Housewives of Beverly Hills (series) |
+| 2012 | The Body                                      |
+| 2016 | Tunnel                                        |
+| 2000 | Battle Royale                                 |
+| ---- | The Visitor of the Museum                     |
+| ---- | The Chestnut Man                              |
+| 2021 | The Last Duel                                 |
+| 2001 | Spirited Away                                 |
+| ---- | Mortal Engines                                |
+| ---- | It Comes at Night                             |
+| 1949 | Late Spring                                   |
+| 1950 | Rashomon                                      |
+| 1954 | Seven Samurai                                 |
+| 1962 | Harakiri                                      |
+| 1997 | Fireworks                                     |
+| 2004 | The Taste of Tea                              |
+| 2004 | Nobody Knows                                  |
+| 2008 | Departures                                    |
+| 2003 | Spring, Summer, Fall, Winter... and Spring    |
+| 2004 | A Moment to Remember                          |
+| 2010 | The Man from Nowhere                          |
+| 2003 | Save the Green Planet!                        |
+| 2005 | A Bittersweet Life                            |
+| 2016 | The World of Us                               |
+| 1993 | Seopyeonje                                    |
+| 2008 | The Chaser                                    |
+| 2004 | Taegukgi                                      |
+| 2016 | The Net                                       |
+| 2015 | Veteran                                       |
+| 2010 | Poetry                                        |
+| 2020 | Minari                                        |
+| 2020 | Alive                                         |
+| 2009 | Thirst                                        |
+| ---- | Extraction                                    |
+| ---- | Bird Box                                      |
+| ---- | Spenser Confidential                          |
+| ---- | Underground 6                                 |
+| ---- | Murder Mystery                                |
+| ---- | The Old Guard                                 |
+| ---- | Project Power                                 |
+| ---- | Army of the Dead                              |
+| ---- | The Midnight Sky                              |
+| ---- | Dekalog                                       |
+| ---- | The Ascent of Money (documentary)             |
+| 1995 | Heat                                          |
+| 1981 | Blow Out                                      |
+| 1998 | The Big Lebowski                              |
+| 1956 | The Searchers                                 |
+| 1980 | The Shining                                   |
+| 1995 | Before Sunrise                                |
+| 1957 | Paths of Glory                                |
+| 1953 | The Shop Around the Corner                    |
+| 1958 | Touch of Evil                                 |
+| 1992 | Reservoir Dogs                                |
+| 1973 | The Long Goodbye                              |
+| 1982 | The King of Comedy                            |
+| 2007 | Zodiac                                        |
+| 2011 | Margaret                                      |
+| 2011 | Melancholia                                   |
+| 2000 | American Psycho                               |
+| 1938 | Bringing Up Baby                              |
+| 1973 | Don't Look Now                                |
+| 1966 | The Good, the Bad and the Ugly                |
+| 1971 | Harold and Maude                              |
+| 2000 | In the Mood for Love                          |
+| 2018 | You Were Never Really Here                    |
+| 2003 | The Life of David Gale                        |
+| 2013 | Trance                                        |
+| 2007 | Gone Baby Gone                                |
+| 2016 | The Girl on the Train                         |
+| 2007 | Zodiac                                        |
+| 2001 | Mulholland Drive                              |
+| 2007 | The Number 23                                 |
+| 2000 | Memento                                       |
+| 2013 | Prisoners                                     |
+| 2007 | Fracture                                      |
+| 2013 | Before I Go to Sleep                          |
+| 2003 | Mystic River                                  |
+| 2005 | Flightplan                                    |
+| 2015 | And Then There Were None                      |
+| 2008 | The Oxford Murders                            |
+| ---- | Ambulance                                     |
+
+---
+
+## Unseen Series / Miniseries
+
+| Year | Title                                |
+| ---- | ------------------------------------ |
+| ---- | Sharp Objects                        |
+| ---- | Band of Brothers                     |
+| ---- | Good Omens                           |
+| ---- | 11.22.63                             |
+| ---- | Chernobyl                            |
+| ---- | Patrick Melrose                      |
+| ---- | Parade’s End                         |
+| ---- | The Night Manager                    |
+| ---- | The Night Of                         |
+| ---- | Mildred Pierce                       |
+| ---- | When They See Us                     |
+| ---- | The Honourable Woman                 |
+| ---- | Gangland Undercover                  |
+| ---- | The Haunting of Hill House           |
+| ---- | And Then There Were None             |
+| ---- | The Real Housewives of Beverly Hills |
+| ---- | The Chestnut Man                     |
+| ---- | The Visitor of the Museum            |
+
+---
+
+## Notable Directors Mentioned (No movies listed)
+
+- Alejandro Gonzalez Inarritu
+- Rainer Werner Fassbinder
+- Friedrich Wilhelm Murnau
+- Paul Thomas Anderson
+- Michelangelo Antonioni
+- Alejandro Jodorowsky
+- Sohrab Shahid Saless
+- Nicolas Winding Refn
+- Krzysztof Kieslowski
+- Carl Theodor Dreyer
+- Philippe Grandrieux
+- Jean-Pierre Melville
+- Theo Angelopoulos
+- Andrey Zvyagintsev
+- Thomas Vinterberg
+- Pawel Pawlikowski
+- Pier Paolo Pasolini
+- David Wark Griffith
+- Martin McDonagh
+- Roberto Rossellini
+- David Cronenberg
+- Hirokazu Koreeda
+- Abbas Kiarostami
+- Yorgos Lanthimos
+- Francois Truffaut
+- Sergei Eisenstein
+- Jean-Luc Godard
+- Darren Aronofsky
+- Andrei Tarkovsky
+- Nuri Bilge Ceylan
+- Roman Polanski
+- Lee Chang-dong
+- Sergei Parajanov
+- Damien Chazelle
+- Ingmar Bergman
+- Luchino Visconti
+- Alfred Hitchcock
+- Park Chan-wook
+- Denis Villeneuve
+- Fred Zinnemann
+- Michael Haneke
+- Akira Kurosawa
+- Steve McQueen
+- Hayao Miyazaki
+- Kenji Mizoguchi
+- Robert Bresson
+- Safdie Brothers
+- John Carpenter
+- Roy Andersson
+- Federico Fellini
+- Howard Hawks
+- Alfonso Cuaron
+- Victor Sjostrom
+- Charlie Chaplin
+- Stanley Kubrick
+- Jacques Demy
+- Philippe Garrel
+- Jim Jarmusch
+- Wes Anderson
+- Coen Brothers
+- Anthony Mann
+- Robert Eggers
+- Wong Kar Wai
+- Buster Keaton
+- Jean Cocteau
+- Lars Von Trier
+- Gus Van Sant
+- Costa Gavras
+- Alain Resnais
+- William Wyler
+- David Lowery
+- Orson Welles
+- John Huston
+- Jacques Tati
+- Agnes Varda
+- Yasujiro Ozu
+- Woody Allen
+- Danny Boyle
+- Satoshi Kon
+- Eric Rohmer
+- Jean Renoir
+- David Lynch
+- Gaspar Noe
+- Spike Jonze
+- Ridley Scott
+- Satyajit Ray
+- Luis Bunuel
+- Leos Carax
+- David Lean
+- Kim Ki-duk
+- Billy Wilder
+- Mike Leigh
+- Ken Loach
+- Elia Kazan
+- John Ford
+- Fatih Akin
+- Fritz Lang
+- Bela Tarr
+- Ari Aster
+- Hu Bo
+- Apichatpong Weerasethakul
+- Konstantin Lopushansky
+- Joseph L. Mankiewicz
+- Mohsen Makhmalbaf
+- Andrei Konchalovsky
+- Alejandro Amenabar
+- Bernardo Bertolucci
+- Peter Bogdanovich
+- Alexander Sokurov
+- Volker Schlöndorff
+- Masaki Kobayashi
+- Mikhail Kalatozov
+- Chantal Akerman
+- Pedro Almodóvar
+- Dusan Makavejev
+- Andrzej Zulawski
+- John Cassavetes
+- Paolo Sorrentino
+- Noah Baumbach
+- Shohei Imamura
+- Terrence Malick
+- Jacques Rivette
+- Jacques Becker
+- Taviani Brothers
+- Claude Lelouch
+- Claude Chabrol
+- Šarūnas Bartas
+- Hong Sang-soo
+- Francesco Rosi
+- Vittorio De Sica
+- Asghar Farhadi
+- Shuji Terayama
+- Nagisa Oshima
+- Brian de Palma
+- Werner Herzog
+- Aki Kaurismaki
+- Ruben Östlund
+- Bahram Beyzai
+- Emir Kusturica
+- Andrzej Wajda
+- Miklos Jancso
+- Maurice Pialat
+- Robert Altman
+- Ernst Lubitsch
+- Wojciech Has
+- Dario Argento
+- Wim Wenders
+- Samuel Fuller
+- Sidney Lumet
+- Jonas Mekas
+- Nicolas Roeg
+- Mike Nichols
+- Jafar Panahi
+- Xavier Dolan
+- Douglas Sirk
+- Pedro Costa
+- Dziga Vertov
+- Chris Marker
+- Frank Capra
+- Max Ophuls
+- Louis Malle
+- Tinto Brass
+- Joris Ivens
+- Rene Clair
+- Hal Ashby
+- Jean Vigo
+- Elio Petri
+
+---
+
+## Unseen Movies
+
+| Year | Title                                              |
+| ---- | -------------------------------------------------- |
+| 2014 | Wild Tales                                         |
+| 2019 | The Gangster, The Cop, The Devil                   |
+| 2022 | After Yang                                         |
+| 2011 | In a Better World                                  |
+| 2022 | Five Days at Memorial                              |
+| 2022 | The Sea Beast                                      |
+| ---- | Ghajini                                            |
+| ---- | Broker                                             |
+| ---- | Spies in Disguise                                  |
+| ---- | Girl in the Picture                                |
+| 1990 | Misery                                             |
+| ---- | Ancient China From Above (documentary)             |
+| ---- | Online Life and Death: Bianca Devins (documentary) |
+| 2022 | Broker                                             |
+| 1941 | How Green Was My Valley                            |
+| 2022 | Love Like the Falling Petals                       |
+| 2018 | Arctic                                             |
+| 2022 | The Quiet Girl                                     |
+| 2022 | Bodies Bodies Bodies                               |
+| 2021 | Jujutsu Kaisen 0: The Movie                        |
+| 2022 | Drifting Home                                      |
+| 2022 | Speak No Evil                                      |
+| 2022 | Emily the Criminal                                 |
+| 2022 | Khuda Haafiz Chapter 2: Agni Pariksha              |
+| 2021 | Emergency Declaration                              |
+| 2022 | Hit: The First Case                                |
+| 2022 | Nana                                               |
+| 2022 | Nope                                               |
+| 2021 | Misery (listed twice)                              |
+| 2018 | Arctic                                             |
+| 2018 | The Purity of Vengeance                            |
+| 2003 | The Memory of a Killer                             |
+| 2013 | The Fifth Estate                                   |
+| 2016 | Hacker                                             |
+| 1992 | Scam: The Harshad Mehta Story                      |
+| 1969 | Z (Gusta Gavras)                                   |
+| 2010 | The Ghost Writer                                   |
+| 2010 | The Next Three Days                                |
+| 2013 | Prince Avalanche                                   |
+| 2005 | Still Life                                         |
+| ---- | Runaway Jury                                       |
+| ---- | Hum Dil De Chuke Sanam                             |
+| 2021 | The Matrix 4: Resurrections                        |
+| 1962 | An Autumn Afternoon                                |
+| 2007 | The Man from Earth                                 |
+| ---- | Sleeping Beauty                                    |
+| 2002 | Minority Report                                    |
+| 2021 | In the Heights                                     |
+| 1999 | Ghost Dog: The Way of the Samurai                  |
+| 1994 | Sátántangó                                         |
+| 1963 | The Great Escape                                   |
+| ---- | Nirgendwo in Afrika                                |
+| ---- | Paradies: Liebe                                    |
+| 2018 | The Professor                                      |
+| 1993 | What’s Eating Gilbert Grape                        |
+| 1990 | The Freshman                                       |
+| 1956 | A Man Escaped                                      |
+| 1940 | The Grapes of Wrath                                |
+| 1953 | Pickup on South Street                             |
+| 2008 | Dragon Hunters                                     |
+
+---
+
+## Unseen Series / Miniseries / TV Shows
+
+| Year | Title                     |
+| ---- | ------------------------- |
+| 2021 | Arcane                    |
+| ---- | The Keepers               |
+| ---- | Sharp Objects             |
+| ---- | Most Dangerous Game       |
+| ---- | Elfen Lied                |
+| 2021 | The Innocent              |
+| ---- | Above Majestic (doc)      |
+| ---- | Sense8                    |
+| ---- | Travelers                 |
+| ---- | Al Maktab (Arabic Series) |
+| ---- | Time (Mini-series)        |
+| ---- | Severance                 |
+| ---- | Rick and Morty            |
+| ---- | Attack on Titan           |
+| ---- | The Chestnut Man          |
+| ---- | Succession                |
+| ---- | Devs                      |
+| ---- | 1883                      |
+| ---- | Vigil                     |
+| ---- | You                       |
+| ---- | The Bridge                |
+| ---- | Friends                   |
+| ---- | How I Met Your Mother     |
+| ---- | The Big Bang Theory       |
+| ---- | Better Call Saul          |
+| ---- | Dexter                    |
+| ---- | Prison Break              |
+| ---- | Downton Abbey             |
+| ---- | Peaky Blinders            |
+| ---- | Desperate Housewives      |
+| ---- | Emily in Paris            |
+| ---- | The Wire                  |
+| ---- | Fringe                    |
+| ---- | Lost                      |
+| ---- | The Office                |
+| ---- | Suits                     |
+| ---- | Westworld                 |
+| ---- | Game of Thrones           |
+| ---- | House of the Dragon       |
+| ---- | From                      |
+| ---- | Black Bird                |
+| ---- | The Crown                 |
+| ---- | Billions                  |
+| ---- | Black Mirror              |
+| ---- | Bojack Horseman           |
+| ---- | Love, Death & Robots      |
+| ---- | The Simpsons              |
+| ---- | Inside Job                |
+| ---- | SNL (Saturday Night Live) |
+| ---- | Mare of Easttown (Mini)   |
+| ---- | The Staircase (Mini)      |
+| ---- | Des                       |
+| ---- | Unorthodox (Mini)         |
+| ---- | Wild Wild Country (Doc)   |
+| ---- | Peripheral                |
+| ---- | One Ordinary Day          |
+
+---
+
+## Animation & Cartoons (Movies and Series)
+
+| Year | Title                                             |
+| ---- | ------------------------------------------------- |
+| ---- | Rick and Morty                                    |
+| 2021 | Arcane                                            |
+| ---- | Bojack Horseman                                   |
+| ---- | Love, Death & Robots                              |
+| ---- | The Simpsons                                      |
+| ---- | Inside Job                                        |
+| 1988 | My Neighbor Totoro                                |
+| 1988 | Grave of the Fireflies                            |
+| 2001 | Spirited Away                                     |
+| 1989 | Kiki's Delivery Service                           |
+| 1994 | Pom Poko                                          |
+| 1986 | Castle in the Sky                                 |
+| 2013 | The Tale of the Princess Kaguya                   |
+| 2016 | The Red Turtle                                    |
+| 2008 | Ponyo                                             |
+| 1991 | Only Yesterday                                    |
+| 2011 | From Up On Poppy Hill                             |
+| 2013 | The Wind Rises                                    |
+| 1995 | Whisper Of The Heart                              |
+| 2004 | Howl's Moving Castle                              |
+| 2001 | Spirited Away (listed twice)                      |
+| 1997 | Princess Mononoke                                 |
+| 2002 | The Cat Returns                                   |
+| 2013 | The Tale of the Princess Kaguya (listed twice)    |
+| 1992 | Porco Rosso                                       |
+| 1984 | Nausicaä of the Valley of the Wind                |
+| ---- | Song of the Sea                                   |
+| ---- | Wolf Walkers                                      |
+| ---- | Day of the Crows                                  |
+| ---- | Over the Garden Wall                              |
+| ---- | Long Way North                                    |
+| ---- | The Big Bad Fox and Other Tales                   |
+| ---- | Dream Builders                                    |
+| ---- | Ernest and Celestine                              |
+| ---- | Arthur Christmas                                  |
+| ---- | Klaus                                             |
+| ---- | 9 (Nine)                                          |
+| ---- | Luca                                              |
+| ---- | Treasure Planet                                   |
+| ---- | Spirited Away                                     |
+| ---- | My Neighbor Totoro (listed again)                 |
+| ---- | Howl's Moving Castle (listed again)               |
+| ---- | The Wind Rises (listed again)                     |
+| ---- | Castle in the Sky (listed again)                  |
+| ---- | Ponyo (listed again)                              |
+| ---- | Kiki's Delivery Service (listed again)            |
+| ---- | Porco Rosso (listed again)                        |
+| ---- | The Secret World of Arrietty                      |
+| ---- | Whisper of the Heart (listed again)               |
+| ---- | Coraline                                          |
+| ---- | The Nightmare Before Christmas                    |
+| ---- | In This Corner of the World                       |
+| ---- | Grave of the Fireflies (listed again)             |
+| ---- | Death Note (series)                               |
+| ---- | Your Name                                         |
+| ---- | A Silent Voice                                    |
+| ---- | Attack on Titan (series)                          |
+| ---- | Weathering with You                               |
+| ---- | The Girl Who Leapt Through Time                   |
+| ---- | When Marnie Was There                             |
+| ---- | Nausicaa of the Valley of the Wind (listed again) |
+| ---- | Wolf Children                                     |
+| ---- | Only Yesterday (listed again)                     |
+
+---
+
+## Unseen Animated Movies
+
+| Year | Title                                          |
+| ---- | ---------------------------------------------- |
+| 2016 | My Life As a Zucchini                          |
+| 2016 | Kubo and the Two Strings                       |
+| 2000 | Chicken Run                                    |
+| 1993 | The Nightmare Before Christmas                 |
+| 2005 | Wallace & Gromit: The Curse of the Were-Rabbit |
+| 2009 | Fantastic Mr. Fox                              |
+| 2015 | Anomalisa                                      |
+| 1996 | James and the Giant Peach                      |
+| 2009 | Coraline                                       |
+| 2018 | Isle of Dogs                                   |
+| 2012 | ParaNorman                                     |
+| 2014 | The Boxtrolls                                  |
+| 1988 | My Neighbor Totoro                             |
+| 2001 | Spirited Away                                  |
+| 1989 | Kiki's Delivery Service                        |
+| 1994 | Pom Poko                                       |
+| 2013 | The Tale of the Princess Kaguya                |
+| 2016 | The Red Turtle                                 |
+| 2008 | Ponyo                                          |
+| 1991 | Only Yesterday                                 |
+| 2011 | From Up On Poppy Hill                          |
+| 2013 | The Wind Rises                                 |
+| 1995 | Whisper of the Heart                           |
+| 2004 | Howl's Moving Castle                           |
+| 1997 | Princess Mononoke                              |
+| 2002 | The Cat Returns                                |
+| 1992 | Porco Rosso                                    |
+| 1984 | Nausicaä of the Valley of the Wind             |
+
+---
+
+## Unseen Drama / Thriller / Crime Movies
+
+| Year | Title                                |
+| ---- | ------------------------------------ |
+| 2014 | Wild Tales                           |
+| 2019 | The Gangster, The Cop, The Devil     |
+| 2022 | After Yang                           |
+| 2022 | The Sea Beast                        |
+| 2014 | Nasha                                |
+| 2023 | Golda                                |
+| 2021 | The Voyeurs                          |
+| 2013 | 3096 Tage                            |
+| 2016 | Lady Macbeth                         |
+| 2016 | Secuestro                            |
+| 2022 | Summit Fever                         |
+| 2023 | Sketchbook                           |
+| 2003 | A Moment to Remember                 |
+| 2023 | Past Lives                           |
+| 2009 | Fish Tank                            |
+| 2022 | God’s Crooked Lines                  |
+| 2018 | Emily the Criminal                   |
+| 2022 | Khuda Haafiz Chapter 2 Agni Pariksha |
+| 2021 | Emergency Declaration                |
+| 2022 | Hit: The First Case                  |
+| 2022 | Nana                                 |
+| 2022 | Nope                                 |
+| 1981 | My Dinner with Andre                 |
+| 1966 | The Battle of Algiers                |
+| 1981 | Possession                           |
+| 1994 | Sátántangó                           |
+| 1988 | The Vanishing (Spoorloos)            |
+| 2018 | Burning                              |
+| 1997 | Cure                                 |
+| 2003 | Elephant                             |
+| 2008 | Bronson                              |
+| 1996 | Pusher                               |
+| 2000 | Sin City                             |
+| 1996 | The Snatch                           |
+| 2011 | Snowtown                             |
+| 2018 | Hereditary                           |
+| 2011 | Enter the Void                       |
+| 2012 | Die Wand                             |
+| 2003 | Monster                              |
+| 2000 | American Psycho                      |
+| 1995 | Before Sunrise                       |
+| 1980 | The Shining                          |
+| 1998 | The Big Lebowski                     |
+| 2007 | Zodiac                               |
+| 1973 | Don't Look Now                       |
+| 1992 | Reservoir Dogs                       |
+| 1982 | The King of Comedy                   |
+
+---
+
+## Unseen Classic / Historical / War Movies
+
+| Year | Title                       |
+| ---- | --------------------------- |
+| 1956 | The Searchers               |
+| 1938 | Bringing Up Baby            |
+| 1959 | North by Northwest          |
+| 1963 | The Great Escape            |
+| 1966 | Blow Up                     |
+| 1961 | Viridiana                   |
+| 2007 | The Invisible Guest         |
+| 1999 | All About My Mother         |
+| 2004 | The Sea Inside              |
+| 2002 | Talk to Her                 |
+| 1973 | The Spirit of the Beehive   |
+| 2014 | Wild Tales                  |
+| 2001 | Y Tu Mamá También           |
+| 1984 | Once Upon a Time in America |
+| 1955 | School for Vagabonds        |
+| 1963 | The Executioner             |
+| 1962 | The Exterminating Angel     |
+| 1953 | Welcome, Mr. Marshall       |
+| 1960 | Macario                     |
+| 2013 | Roma                        |
+
+---
