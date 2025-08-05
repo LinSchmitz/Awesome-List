@@ -2951,3 +2951,96 @@ Here is the cleaned and organized list of unseen films and series, separated by 
 | Money Electric: The Bitcoin Mystery       |
 
 ---
+
+## Unseen Drama / International Films
+
+| Year | Title                                  |
+| ---- | -------------------------------------- |
+| 1974 | Vincent, Francois, Paul and the Others |
+| 2023 | The Quiet Migration                    |
+| 2022 | The Offer                              |
+| 2024 | Another End                            |
+| 2024 | Faye                                   |
+| 1990 | The Match Factory Girl                 |
+| —    | Molly's Game                           |
+| —    | The Remarkable Life of Ibelin          |
+| —    | Nine Days                              |
+
+---
+
+## Unseen Thriller / Crime / Mystery
+
+| Title                      |
+| -------------------------- |
+| GHOSTLIGHT                 |
+| HYPNOSEN                   |
+| Feet Deep 12               |
+| The Battleship Island      |
+| TUNMEL                     |
+| Dovlator                   |
+| DELHI CRIME                |
+| The Red Circle             |
+| Le Samourai                |
+| Purple Noon                |
+| Under the Banner of Heaven |
+| Maniac (series)            |
+| Under the Banner of Heaven |
+| Sacred Games (Netflix)     |
+
+---
+
+## Unseen TV Series (German / International)
+
+| Title                         |
+| ----------------------------- |
+| Gute Zeiten, Schlechte Zeiten |
+| Stromberg (series)            |
+| Die Höhle der Löwen           |
+| Pax Aeterna                   |
+| Die Sendung mit der Maus      |
+| Verbotene Liebe (series)      |
+
+---
+
+## Unseen Animation / Family
+
+| Title            |
+| ---------------- |
+| Avatar (cartoon) |
+
+---
+
+## Unseen Iranian Films & Directors
+
+| Title / Info                                                       |
+| ------------------------------------------------------------------ |
+| Film: Dar Aghoush Derakht (In the Arms of the Tree)                |
+| Filmmaker: Anahita Ghazvini-Zadeh (noted Iranian female filmmaker) |
+| Film: Jaddeh Ghadim (Old Road)                                     |
+
+---
+
+## Unseen Indian Series / Films
+
+| Title                  |
+| ---------------------- |
+| Sacred Games (Netflix) |
+
+---
+
+## Unseen Fantasy / Drama Series
+
+| Year | Title         |
+| ---- | ------------- |
+| 2017 | The Magicians |
+
+---
+
+## Other / Documentary / Miscellaneous
+
+| Title / Description                                                 |
+| ------------------------------------------------------------------- |
+| BEHOLD A PALE HORSE by Milton William Cooper (documentary chapters) |
+| Stremio app for streaming & torrents                                |
+
+---
