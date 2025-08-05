@@ -1291,3 +1291,473 @@ A list of **beautiful, emotional, and powerful movies** from all kinds of genres
 | 2020 | Biohackers                  |
 | 2020 | I Care a Lot                |
 | 2021 | Judas and the Black Messiah |
+
+---
+
+## Curated Films
+
+| Year | Title                                                     |
+| ---- | --------------------------------------------------------- |
+| 1920 | The Cabinet of Dr. Caligari                               |
+| 1939 | The Rules of the Game                                     |
+| 2003 | A Tale of Two Sisters                                     |
+| 2004 | The Notebook                                              |
+| 2007 | Lust, Caution                                             |
+| 2015 | Little Forest: Winter & Spring                            |
+| 2017 | Memoir of a Murderer                                      |
+| 2021 | Mare of Easttown                                          |
+| 2020 | Preparations to Be Together for an Unknown Period of Time |
+
+---
+
+## 2021 Films & Series
+
+| Year | Title                       |
+| ---- | --------------------------- |
+| 2021 | Shadow and Bone             |
+| 2021 | The Man Who Sold His Skin   |
+| 2021 | Nomadland                   |
+| 2021 | Another Round               |
+| 2021 | Quo Vadis, Aida?            |
+| 2021 | Soul                        |
+| 2021 | Wolfwalkers                 |
+| 2021 | Judas and the Black Messiah |
+| 2021 | The Trial of the Chicago 7  |
+| 2021 | The Father                  |
+| 2021 | Ma Rainey's Black Bottom    |
+| 2021 | Borat Subsequent Moviefilm  |
+
+---
+
+##
+
+| Year | Title                                 |
+| ---- | ------------------------------------- |
+| 1920 | The Cabinet of Dr. Caligari           |
+| 1925 | The Gold Rush                         |
+| 1926 | The General                           |
+| 1927 | Metropolis                            |
+| 1928 | The Passion of Joan of Arc            |
+| 1931 | City Lights                           |
+| 1934 | It Happened One Night                 |
+| 1936 | Modern Times                          |
+| 1939 | Mr. Smith Goes to Washington          |
+| 1940 | Rebecca                               |
+| 1940 | The Grapes of Wrath                   |
+| 1941 | Citizen Kane                          |
+| 1942 | Casablanca                            |
+| 1942 | To Be or Not to Be                    |
+| 1944 | Double Indemnity                      |
+| 1946 | The Best Years of Our Lives           |
+| 1948 | Bicycle Thieves                       |
+| 1948 | The Treasure of the Sierra Madre      |
+| 1949 | The Third Man                         |
+| 1950 | Sunset Boulevard                      |
+| 1951 | Strangers on a Train                  |
+| 1952 | Singin' in the Rain                   |
+| 1953 | The Wages of Fear                     |
+| 1954 | On the Waterfront                     |
+| 1954 | Dial M for Murder                     |
+| 1955 | Diabolique                            |
+| 1957 | 12 Angry Men                          |
+| 1957 | Witness for the Prosecution           |
+| 1957 | The Bridge on the River Kwai          |
+| 1958 | Vertigo                               |
+| 1958 | Touch of Evil                         |
+| 1959 | Some Like It Hot                      |
+| 1959 | North by Northwest                    |
+| 1959 | The 400 Blows                         |
+| 1961 | Judgment at Nuremberg                 |
+| 1962 | Lawrence of Arabia                    |
+| 1962 | To Kill a Mockingbird                 |
+| 1963 | 8½                                    |
+| 1964 | Dr. Strangelove                       |
+| 1967 | Cool Hand Luke                        |
+| 1968 | Once Upon a Time in the West          |
+| 1973 | The Sting                             |
+| 1975 | Monty Python and the Holy Grail       |
+| 1975 | Dog Day Afternoon                     |
+| 1975 | One Flew Over the Cuckoo's Nest       |
+| 1976 | Taxi Driver                           |
+| 1979 | Alien                                 |
+| 1979 | Apocalypse Now                        |
+| 1981 | Raiders of the Lost Ark               |
+| 1981 | Das Boot                              |
+| 1982 | Gandhi                                |
+| 1984 | Once Upon a Time in America           |
+| 1985 | Ran                                   |
+| 1985 | Back to the Future                    |
+| 1986 | Aliens                                |
+| 1986 | Platoon                               |
+| 1986 | Castle in the Sky                     |
+| 1987 | The Princess Bride                    |
+| 1988 | Cinema Paradiso                       |
+| 1988 | My Neighbor Totoro                    |
+| 1990 | Miller's Crossing                     |
+| 1994 | Andaz Apna Apna                       |
+| 1995 | Heat                                  |
+| 1995 | Casino                                |
+| 1995 | La Haine                              |
+| 1996 | Fargo                                 |
+| 1996 | The Bandit                            |
+| 1997 | L.A. Confidential                     |
+| 1997 | Funny Games                           |
+| 1998 | Lock, Stock and Two Smoking Barrels   |
+| 1999 | The Matrix                            |
+| 1999 | American Beauty                       |
+| 2000 | Requiem for a Dream                   |
+| 2001 | Spirited Away                         |
+| 2001 | I Am Sam                              |
+| 2003 | Big Fish                              |
+| 2004 | Eternal Sunshine of the Spotless Mind |
+| 2004 | The Notebook                          |
+| 2005 | Batman Begins                         |
+| 2005 | My Father and My Son                  |
+| 2006 | Rang De Basanti                       |
+| 2007 | The Diving Bell and the Butterfly     |
+| 2007 | There Will Be Blood                   |
+| 2008 | A Short Film About Killing            |
+| 2008 | The Secret Life of Walter Mitty       |
+| 2009 | Hachi: A Dog's Tale                   |
+| 2009 | The Killing of a Sacred Deer          |
+| 2010 | Wasteland                             |
+| 2011 | The Intouchables                      |
+| 2013 | Nebraska                              |
+| 2013 | Beyond the Hills                      |
+| 2013 | Stories We Tell                       |
+| 2014 | Wild Tales                            |
+| 2014 | Leviathan                             |
+| 2014 | The Grand Budapest Hotel              |
+| 2015 | Spotlight                             |
+| 2015 | The Revenant                          |
+| 2016 | Zootopia                              |
+| 2016 | The Secret in Their Eyes              |
+| 2017 | Call Me by Your Name                  |
+| 2018 | The Biggest Little Farm               |
+| 2019 | The Painted Bird                      |
+| 2020 | The Man Who Sold His Skin             |
+| 2020 | Pieces of a Woman                     |
+| 2021 | Mare of Easttown                      |
+| ---- | A Scanner Darkly                      |
+| ---- | A.I. Artificial Intelligence          |
+| ---- | Blade Runner 2049                     |
+| ---- | Children of Men                       |
+| ---- | District 9                            |
+| ---- | Edge of Tomorrow                      |
+| ---- | Moon                                  |
+| ---- | Minority Report                       |
+| ---- | Parasyte                              |
+| ---- | The Thirteenth Floor                  |
+| ---- | The Life of David Gale                |
+| ---- | What Ever Happened to Baby Jane?      |
+| ---- | Cool Hand Luke                        |
+| ---- | The Conformist                        |
+| ---- | The General                           |
+| ---- | Stand by Me                           |
+| ---- | Million Dollar Baby                   |
+| ---- | Kill Bill: Vol. 1                     |
+| ---- | Finding Nemo                          |
+| ---- | Monsters, Inc.                        |
+| ---- | Annie Hall                            |
+| ---- | Barry Lyndon                          |
+| ---- | Butch Cassidy and the Sundance Kid    |
+| ---- | Life of Brian                         |
+| ---- | Amores Perros                         |
+| ---- | Infernal Affairs                      |
+| ---- | The Wolf of Wall Street               |
+| ---- | Django Unchained                      |
+| ---- | Like Stars on Earth                   |
+| ---- | Drishyam                              |
+| ---- | The Great Dictator                    |
+| ---- | The Maltese Falcon                    |
+| ---- | Sunset Boulevard                      |
+
+---
+
+## Unseen Films and Series
+
+| Year | Title                  |
+| ---- | ---------------------- |
+| 1938 | Bringing Up Baby       |
+| 1958 | The Hidden Fortress    |
+| 1965 | With Beauty and Sorrow |
+| 1973 | Lady Snowblood         |
+| 1980 | Zigeunerweisen         |
+| 1995 | Ghost in the Shell     |
+| 1997 | Perfect Blue           |
+| 1997 | Princess Mononoke      |
+| 1998 | Birdcage Inn           |
+| 2000 | Battle Royale          |
+| 2000 | In the Mood for Love   |
+| 2000 | Real Fiction           |
+| 2002 | Infernal Affairs       |
+| 2003 | Carnivàle              |
+| 2005 | Memoirs of a Geisha    |
+| 2007 | Breath                 |
+| 2008 | Hana Yori Dango: Final |
+| 2008 | The Chaser             |
+| 2010 | I Saw the Devil        |
+| 2011 | Arirang                |
+| 2011 | Mildred Pierce         |
+| 2013 | Aashiqui 2             |
+| 2013 | Broadchurch            |
+| 2013 | The Bridge             |
+| 2013 | The Fall               |
+| 2015 | Trapped                |
+| 2016 | The Age of Shadows     |
+| 2016 | The Net                |
+| 2016 | Pustina                |
+| 2016 | The Young Pope         |
+| 2017 | A Taxi Driver          |
+| 2018 | Patrick Melrose        |
+| 2018 | Mr Inbetween           |
+| 2019 | Dissolve               |
+| 2019 | Years and Years        |
+| 2019 | The Outsider           |
+| 2019 | The I-Land             |
+| 2020 | The Investigation      |
+| 2021 | Infinite               |
+| 2021 | Luca                   |
+
+Here’s your list formatted using the style you requested:
+
+---
+
+### Noteworthy Films (Unseen, Yearless)
+
+| Year | Title                           |
+| ---- | ------------------------------- |
+| ---- | Looper                          |
+| ---- | Stardust                        |
+| ---- | Double World                    |
+| ---- | The Game                        |
+| ---- | The Sixth Sense                 |
+| ---- | Identity                        |
+| ---- | The Road                        |
+| ---- | True Grit                       |
+| ---- | Requiem for a Dream             |
+| ---- | Come and See                    |
+| ---- | One Flew Over the Cuckoo’s Nest |
+| ---- | The Place Beyond the Pines      |
+| ---- | The Big Lebowski                |
+| ---- | American Hustle                 |
+
+---
+
+### Unseen Series / Documentaries (Mixed Year or Miniseries)
+
+| Year | Title                |
+| ---- | -------------------- |
+| ---- | Sharp Objects        |
+| ---- | Lisey's Story        |
+| ---- | Top of the Lake      |
+| ---- | Wolf Hall            |
+| ---- | The Knick            |
+| ---- | The Night Manager    |
+| ---- | The Young Pope       |
+| ---- | Maniac               |
+| ---- | Quicksand            |
+| ---- | American Crime Story |
+| ---- | Strange Angel        |
+
+---
+
+### Documentaries (Unseen)
+
+| Year | Title                            |
+| ---- | -------------------------------- |
+| ---- | Where’s My Roy Cohn              |
+| ---- | Inside Bill’s Brain              |
+| ---- | Coronavirus, Explained           |
+| ---- | Apollo 11                        |
+| ---- | Sex, Explained                   |
+| ---- | Our Man in Tehran                |
+| ---- | The Age of A.I.                  |
+| ---- | The Mind, Explained              |
+| ---- | Life in a Day                    |
+| ---- | 102 Minutes That Changed America |
+| ---- | The Social Dilemma               |
+| ---- | Deep Web                         |
+| ---- | The Internet’s Own Boy           |
+| ---- | The Fabric of the Cosmos         |
+
+---
+
+Certainly! Here’s the cleaned list in the requested format:
+
+## Unseen Films and Series
+
+| Year | Title                       |
+| ---- | --------------------------- |
+| 2021 | Haseen Dillruba             |
+| 2021 | John And The Hole           |
+| ---- | Doom 3                      |
+| ---- | Sultan                      |
+| ---- | 3 Idiots                    |
+| ---- | PK                          |
+| ---- | Chennai Express             |
+| ---- | Ek Tha Tiger                |
+| ---- | Tiger Zinda Hai             |
+| ---- | Mr. Fast                    |
+| ---- | Drishyam                    |
+| ---- | Kick                        |
+| ---- | Dangal                      |
+| ---- | Fan                         |
+| ---- | Lagaan                      |
+| ---- | Bajrangi Bhaijaan           |
+| ---- | Groom Takes Bride           |
+| ---- | Happy New Year              |
+| ---- | Stars on Earth              |
+| ---- | Bharat                      |
+| ---- | Raazi                       |
+| ---- | Dear Zindagi                |
+| ---- | Snow                        |
+| ---- | True Hero                   |
+| ---- | Dildar                      |
+| ---- | Zero                        |
+| ---- | Jabbar Returns              |
+| ---- | Padman                      |
+| ---- | Gold                        |
+| ---- | Piku                        |
+| ---- | Tamasha                     |
+| ---- | Dan (series)                |
+| ---- | Padmaavat                   |
+| ---- | Singam                      |
+| ---- | Tizmar Khan                 |
+| ---- | Zaheer Zara                 |
+| ---- | Fearless 2                  |
+| ---- | Competition Series          |
+| ---- | Effort                      |
+| ---- | Cam Tavanlar                |
+| ---- | Ada Masalı                  |
+| ---- | 10Bin Adım                  |
+| ---- | Terapist                    |
+| ---- | Saygı                       |
+| ---- | Bartu Ben                   |
+| ---- | Yarım Kalan Aşklar          |
+| ---- | 50m2                        |
+| ---- | Club                        |
+| ---- | Fatma                       |
+| ---- | Marasli                     |
+| ---- | Kırmızı Kamyon              |
+| ---- | Sicak Kafa                  |
+| ---- | Midnight at the Pera Palace |
+| ---- | Forty Rules of Love         |
+| ---- | Atiye                       |
+| ---- | Love 101                    |
+
+---
+
+## Movies
+
+| Year | Title                            |
+| ---- | -------------------------------- |
+| ---- | Nine Perfect Strangers           |
+| ---- | Taegukgi                         |
+| 2021 | Reminiscence                     |
+| ---- | No Man of God                    |
+| 2021 | Last Night in Soho               |
+| 2021 | Spencer                          |
+| 2019 | Pain and Glory                   |
+| 2018 | Roma                             |
+| 2019 | Heroic Losers                    |
+| 2010 | Biutiful                         |
+| 2007 | The Orphanage                    |
+| 2007 | REC                              |
+| 1996 | Tesis                            |
+| 2016 | The Distinguished Citizen        |
+| 2016 | 100 Metros                       |
+| 2010 | Even the Rain                    |
+| 2004 | Bad Education                    |
+| 2006 | Volver                           |
+| 2012 | Blancanieves                     |
+| 1999 | La Lengua de las Mariposas       |
+| 2011 | The Skin I Live In               |
+| 2001 | Y Tu Mamá También                |
+| 2002 | Mondays in the Sun               |
+| 1997 | Open Your Eyes                   |
+| 1999 | All About My Mother              |
+| 2004 | The Sea Inside                   |
+| 2002 | Talk to Her                      |
+| 1973 | El Espíritu de la Colmena        |
+| 2014 | Wild Tales                       |
+| 2000 | Amores Perros                    |
+| 1955 | Escuela De Vagabundos            |
+| 1963 | The Executioner                  |
+| 2016 | The Invisible Guest              |
+| 1984 | The Holy Innocents               |
+| 2009 | The Secret in Their Eyes         |
+| 2006 | Pan’s Labyrinth                  |
+| 1961 | Viridiana                        |
+| 1962 | The Exterminating Angel          |
+| 1953 | Welcome, Mr Marshall             |
+| 1961 | Placido                          |
+| 1960 | Macario                          |
+| 2017 | Coco                             |
+| 2021 | Rushed                           |
+| 2008 | 102 Minutes That Changed America |
+| ---- | No Time to Die                   |
+| ---- | Lamb                             |
+| ---- | Last Duel                        |
+| ---- | Halloween Kills                  |
+| ---- | Titane                           |
+| ---- | Dune                             |
+| ---- | The French Dispatch              |
+| 2021 | Pig                              |
+| 2014 | Scarlet Innocence                |
+| ---- | Being John Malkovich             |
+| ---- | Jacob’s Ladder                   |
+
+---
+
+## Series
+
+| Year | Title                        |
+| ---- | ---------------------------- |
+| 2014 | Gracepoint                   |
+| 2013 | Top of the Lake: China Girl  |
+| 2017 | Taboo                        |
+| 2013 | The Bridge                   |
+| 1982 | Remington Steele             |
+| 2017 | Riverdale                    |
+| 2015 | True Detective, Season 2     |
+| 2013 | Broadchurch                  |
+| 2010 | Pretty Little Liars          |
+| 2017 | The Sinner                   |
+| 2018 | The Alienist                 |
+| 2014 | Fargo                        |
+| 2011 | The Killing                  |
+| 2017 | Mindhunter                   |
+| 2010 | Luther                       |
+| 2013 | The Fall                     |
+| 2016 | The Night Of                 |
+| 2017 | Big Little Lies              |
+| 2014 | True Detective, Season 1     |
+| 1990 | Twin Peaks                   |
+| 2020 | Gangs of London              |
+| 2020 | What We Do In The Shadows S2 |
+| ---- | Industry                     |
+| ---- | The Crown S4                 |
+| ---- | Little Fires Everywhere      |
+| ---- | We Are Who We Are            |
+| ---- | The Eddy                     |
+| ---- | Ted Lasso                    |
+| ---- | Mrs. America                 |
+| ---- | Quiz                         |
+| ---- | Bojack Horseman S6           |
+| ---- | Lovecraft Country            |
+| ---- | Schitt's Creek S6            |
+| ---- | The Last Dance               |
+| ---- | I'll Be Gone In The Dark     |
+| ---- | I Hate Suzie                 |
+| ---- | Dead To Me S2                |
+| ---- | The Boys S2                  |
+| ---- | Better Call Saul S5          |
+| ---- | The Queen's Gambit           |
+| ---- | Devs                         |
+| ---- | Normal People                |
+| ---- | I May Destroy You            |
+| ---- | The Mandalorian S1 + S2      |
+| ---- | Small Axe                    |
+
+---
