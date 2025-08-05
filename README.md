@@ -732,3 +732,244 @@ A list of **beautiful, emotional, and powerful movies** from all kinds of genres
 | 2020 | _My Name Is Sara_                                   |
 | 2020 | _Never Rarely Sometimes Always_                     |
 | 2020 | _The Blackout_                                      |
+
+---
+
+## Classic & Drama
+
+| Year | Title                                 |
+| ---- | ------------------------------------- |
+| 1927 | _Metropolis_                          |
+| 1931 | _M_                                   |
+| 1940 | _Night Train to Munich_               |
+| 1940 | _The Grapes Of Wrath_                 |
+| 1944 | _Laura_                               |
+| 1945 | _The Woman in Green_                  |
+| 1946 | _The Best Years of Our Lives_         |
+| 1946 | _The Big Sleep_                       |
+| 1950 | _DOA_                                 |
+| 1950 | _Los Olvidados_                       |
+| 1950 | _Rashomon_                            |
+| 1951 | _Strangers on a Train_                |
+| 1951 | _Summer Interlude_                    |
+| 1952 | _Ikiru_                               |
+| 1953 | _Summer with Monika_                  |
+| 1954 | _On the Waterfront_                   |
+| 1954 | _The Crucified Lovers_                |
+| 1955 | _Ordet_                               |
+| 1955 | _Smile of a Summer Night_             |
+| 1956 | _The Face of Another_                 |
+| 1957 | _12 Angry Men_                        |
+| 1957 | _The Seventh Seal_                    |
+| 1957 | _Wild Strawberries_                   |
+| 1959 | _Pickpocket_                          |
+| 1959 | _The 400 Blows_                       |
+| 1961 | _Through a Glass Darkly_              |
+| 1962 | _Harakiri_                            |
+| 1963 | _Dry Summer_                          |
+| 1963 | _Winter Light_                        |
+| 1966 | _Andrei Rublev_                       |
+| 1966 | _Au Hasard Balthazar_                 |
+| 1966 | _Persona_                             |
+| 1966 | _The Battle of Algiers_               |
+| 1967 | _2 or 3 Things I Know About Her_      |
+| 1967 | _In the Heat of the Night_            |
+| 1970 | _Days and Nights in the Forest_       |
+| 1970 | _Umut_                                |
+| 1971 | _A Clockwork Orange_                  |
+| 1972 | _Cries and Whispers_                  |
+| 1974 | _Murder on the Orient Express_        |
+| 1975 | _Mirror_                              |
+| 1977 | _Eraserhead_                          |
+| 1978 | _Autumn Sonata_                       |
+| 1978 | _Death on the Nile_                   |
+| 1980 | _The Mirror Crack’d_                  |
+| 1983 | _L'Argent_                            |
+| 1983 | _Nostalghia_                          |
+| 1988 | _A Short Film About Love_             |
+| 1988 | _Dekalog_                             |
+| 1988 | _Grave of the Fireflies_              |
+| 1989 | _A Visitor to a Museum_               |
+| 1989 | _Do the Right Thing_                  |
+| 1994 | _Immortal Beloved_                    |
+| 1994 | _Satantango_                          |
+| 1995 | _Ordet_                               |
+| 1995 | _Ulysses Gaze_                        |
+| 1997 | _Cure_                                |
+| 1997 | _Perfect Blue_                        |
+| 1998 | _Eternity and a Day_                  |
+| 1998 | _π_                                   |
+| 1999 | _ExistenZ_                            |
+| 2001 | _Address Unknown_                     |
+| 2003 | _Saraband_                            |
+| 2004 | _The Weeping Meadow_                  |
+| 2004 | _Trilogy: The Weeping Meadow_         |
+| 2011 | _Intouchables_                        |
+| 2012 | _Eyes of Darkness_                    |
+| 2013 | _A Thousand Times Goodnight_          |
+| 2014 | _A Pigeon Sat on a Branch Reflecting_ |
+| 2014 | _The Grand Budapest Hotel_            |
+| 2014 | _The Loft_                            |
+| 2015 | _Suite Francaise_                     |
+| 2016 | _After the Storm_                     |
+| 2017 | _A Ghost Story_                       |
+| 2018 | _The House That Jack Built_           |
+| 2019 | _American Factory_                    |
+| 2019 | _Les Miserables_                      |
+| 2019 | _Light from Light_                    |
+| 2020 | _The Cordillera of Dreams_            |
+
+---
+
+## Thriller & Crime
+
+| Year | Title                  |
+| ---- | ---------------------- |
+| 1951 | _Strangers on a Train_ |
+| 1957 | _12 Angry Men_         |
+| 1968 | _Bullitt_              |
+| 1973 | _Magnum Force_         |
+| 1973 | _Serpico_              |
+| 1973 | _The Magician_         |
+| 1977 | _Eraserhead_           |
+| 1980 | _Shining_              |
+| 1984 | _Beverly Hills Cop_    |
+| 1987 | _Suspect_              |
+| 1987 | _The Princess Bride_   |
+| 1989 | _Do the Right Thing_   |
+| 1992 | _Reservoir Dogs_       |
+| 1996 | _Fargo_                |
+| 1997 | _Cop Land_             |
+| 1997 | _L.A. Confidential_    |
+| 1998 | _Rush Hour_            |
+| 1999 | _Fight Club_           |
+| 2003 | _Dogville_             |
+| 2007 | _Zodiac_               |
+| 2008 | _Loft_                 |
+| 2012 | _Prometheus_           |
+| 2016 | _The Imitation Game_   |
+| 2017 | _The Institute_        |
+| 2018 | _Dark Figure of Crime_ |
+| 2018 | _Red Sparrow_          |
+| 2019 | _Bad Education_        |
+| 2019 | _Blow the Man Down_    |
+| 2019 | _Clemency_             |
+| 2019 | _Ready or Not_         |
+| 2019 | _Sorry We Missed You_  |
+| 2019 | _The Assistant_        |
+| 2019 | _The Endless Trench_   |
+| 2019 | _The Great Hack_       |
+
+---
+
+## Horror & Psychological
+
+| Year | Title                               |
+| ---- | ----------------------------------- |
+| 1977 | _Eraserhead_                        |
+| 1980 | _Shining_                           |
+| 1988 | _Colors_                            |
+| 1988 | _Grave of the Fireflies_            |
+| 1990 | _Jacob’s Ladder_                    |
+| 1991 | _The Silence of the Lambs_          |
+| 1997 | _Perfect Blue_                      |
+| 1998 | _Akira_                             |
+| 1999 | _Eyes Wide Shut_                    |
+| 1999 | _Fight Club_                        |
+| 2001 | _Donnie Darko_                      |
+| 2003 | _The Touch_                         |
+| 2004 | _Howl’s Moving Castle_              |
+| 2004 | _The Machinist_                     |
+| 2006 | _Paprika_                           |
+| 2007 | _Paranormal Activity_               |
+| 2007 | _The Diving Bell and the Butterfly_ |
+| 2009 | _District 9_                        |
+| 2010 | _Sarah’s Key_                       |
+| 2011 | _The Turin Horse_                   |
+| 2012 | _Mud_                               |
+| 2012 | _The Act of Killing_                |
+| 2013 | _Enemy_                             |
+| 2014 | _Hard to Be a God_                  |
+| 2015 | _Er ist wieder da_                  |
+| 2017 | _Icarus_                            |
+| 2018 | _Hereditary_                        |
+| 2018 | _Shadow_                            |
+| 2018 | _The Cave_                          |
+| 2019 | _Midsommar_                         |
+| 2019 | _Vitalina Varela_                   |
+
+---
+
+## Sci-Fi & Fantasy
+
+| Year | Title                              |
+| ---- | ---------------------------------- |
+| 1957 | _The Seventh Seal_                 |
+| 1966 | _Persona_                          |
+| 1971 | _A Clockwork Orange_               |
+| 1979 | _Stalker_                          |
+| 1982 | _Videodrome_                       |
+| 1982 | _Blade Runner_                     |
+| 1984 | _Amadeus_                          |
+| 1985 | _Back to the Future_               |
+| 1985 | _Brazil_                           |
+| 1987 | _When the Day Comes_               |
+| 1995 | _Ghost in the Shell_               |
+| 1997 | _Cube_                             |
+| 1998 | _Rush Hour_                        |
+| 1999 | _The Matrix_                       |
+| 2001 | _Memento_                          |
+| 2006 | _Perfume: The Story of a Murderer_ |
+| 2006 | _Children of Men_                  |
+| 2009 | _Fullmetal Alchemist: Brotherhood_ |
+| 2010 | _Inception_                        |
+| 2011 | _Limitless_                        |
+| 2012 | _Looper_                           |
+| 2013 | _Coherence_                        |
+| 2014 | _Interstellar_                     |
+| 2015 | _Mad Max: Fury Road_               |
+| 2016 | _Arrival_                          |
+| 2016 | _Silence_                          |
+| 2017 | _Logan_                            |
+| 2018 | _Annihilation_                     |
+| 2018 | _Black Panther_                    |
+| 2019 | _The Platform_                     |
+
+---
+
+## Comedy & Romance
+
+| Year | Title                                       |
+| ---- | ------------------------------------------- |
+| 1953 | _Summer with Monika_                        |
+| 1963 | _Irma la Douce_                             |
+| 1987 | _The Princess Bride_                        |
+| 1997 | _Good Will Hunting_                         |
+| 1997 | _L.A. Confidential_                         |
+| 2001 | _Amélie_                                    |
+| 2004 | _The Machinist_                             |
+| 2007 | _The Girl Next Door_                        |
+| 2010 | _The Lovely Bones_                          |
+| 2013 | _Omar_                                      |
+| 2014 | _Son of God_                                |
+| 2015 | _The Danish Girl_                           |
+| 2016 | _Lavender_                                  |
+| 2017 | _Three Billboards Outside Ebbing, Missouri_ |
+
+---
+
+## Documentary & Biography
+
+| Year | Title                |
+| ---- | -------------------- |
+| 1946 | _Shoeshine_          |
+| 1983 | _L'Argent_           |
+| 1994 | _Immortal Beloved_   |
+| 2005 | _Earthlings_         |
+| 2006 | _Rang de Bastani_    |
+| 2007 | _Nanking_            |
+| 2012 | _The Act of Killing_ |
+| 2016 | _The White Helmets_  |
+| 2019 | _American Factory_   |
+
+---
