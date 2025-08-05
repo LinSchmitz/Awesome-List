@@ -1135,3 +1135,159 @@ A list of **beautiful, emotional, and powerful movies** from all kinds of genres
 | 2018 | _The Photographer of Mauthausen_ |
 
 ---
+
+| Year | Title              |
+| ---- | ------------------ |
+| 2003 | _Elephant_         |
+| 1999 | _The Matrix_       |
+| 1941 | _Citizen Kane_     |
+| 1957 | _Twelve Angry Men_ |
+| 1999 | _Go_               |
+| 2015 | _Talvar_           |
+| 2014 | _Gone Girl_        |
+| 2002 | _Hero_             |
+| 2014 | _Predestination_   |
+| 2008 | _Vantage Point_    |
+
+---
+
+| Year | Title                   |
+| ---- | ----------------------- |
+| 1958 | Touch of Evil           |
+| 1949 | The Third Man           |
+| 1946 | Notorious               |
+| 1946 | The Big Sleep           |
+| 1944 | Double Indemnity        |
+| 1950 | Sunset Boulevard        |
+| 1941 | The Maltese Falcon      |
+| 1955 | Kiss Me Deadly          |
+| 1953 | The Big Heat            |
+| 1945 | Scarlet Street          |
+| 1944 | The Woman In the Window |
+| 1956 | The Killing             |
+| 1950 | In a Lonely Place       |
+
+---
+
+## Trilogy
+
+| Trilogy Title               | Movies                                                        |
+| --------------------------- | ------------------------------------------------------------- |
+| Ingmar Bergman Trilogy      | _Silence_, _Through a Glass Darkly_, _Winter Light_           |
+| Kieślowski’s Three Colors   | _Blue_, _White_, _Red_                                        |
+| Roman Polanski Apartment    | _Repulsion_, _Rosemary’s Baby_, _The Tenant_                  |
+| Theo Angelopoulos (Silence) | _Voyage to Cythera_, _The Beekeeper_, _Landscape in the Mist_ |
+| Jean Cocteau Trilogy        | _Orpheus_, _Testament of Orpheus_, _Blood of a Poet_          |
+| Lars von Trier Trilogy      | _Element of Crime_, _Epidemic_, _Europa_                      |
+| Antonioni Trilogy           | _L’Avventura_, _La Notte_, _L’Eclisse_                        |
+| Hiroshi Inagaki Samurai     | _Samurai I_, _Samurai II_, _Samurai III_                      |
+| Fritz Lang Mabuse           | _Dr. Mabuse_ series                                           |
+| Abbas Kiarostami Koker      | _Friend's Home?_, _Life Goes On_, _Olive Trees_               |
+
+---
+
+## Curated Films
+
+| Year | Title                        |
+| ---- | ---------------------------- |
+| 1962 | Jessica                      |
+| 1973 | Amarcord                     |
+| 1973 | Malizia                      |
+| 1974 | Emmanuelle                   |
+| 1986 | What Every Frenchwoman Wants |
+| 1988 | Cinema Paradiso              |
+| 1990 | Ghost                        |
+| 1990 | Miller's Crossing            |
+| 1994 | In The Heat Of The Sun       |
+| 1995 | The Star Maker               |
+| 1995 | All Things Fair              |
+| 2000 | Cast Away                    |
+| 2001 | Y Tu Mama También            |
+| 2003 | The Notebook                 |
+| 2004 | The Machinist                |
+| 2007 | P.S. I Love You              |
+| 2007 | Sky of Love                  |
+| 2008 | The Reader                   |
+| 2009 | The Time Traveler's Wife     |
+| 2011 | The Intouchables             |
+| 2013 | The Place Beyond the Pines   |
+| 2014 | Gone Girl                    |
+| 2014 | The Fault in Our Stars       |
+| 2015 | Creed                        |
+| 2016 | Silence                      |
+| 2018 | The Guilty                   |
+| 2019 | Pieces of a Woman            |
+| 2019 | Sound of Metal               |
+| 2019 | Elizabeth Is Missing         |
+| 2019 | The Painted Bird             |
+| 2020 | The Painter and the Thief    |
+| 2020 | I Care a Lot                 |
+| 2020 | Persian Lessons              |
+| 2020 | Equinox                      |
+| 2020 | Call                         |
+| 2021 | Judas and the Black Messiah  |
+
+## Mystery & Thriller
+
+| Year | Title           |
+| ---- | --------------- |
+| 2000 | Memento         |
+| 2002 | Minority Report |
+| 2002 | Hero            |
+| 2003 | Mystic River    |
+| 2004 | The Machinist   |
+| 2007 | Zodiac          |
+| 2008 | Vantage Point   |
+| 2010 | Margin Call     |
+| 2013 | Prisoners       |
+| 2014 | Predestination  |
+| 2015 | Talvar          |
+| 2017 | Burning         |
+| 2018 | The Guilty      |
+| 2019 | Dear Comrades   |
+
+## Sci-Fi & Dystopia
+
+| Year | Title            |
+| ---- | ---------------- |
+| 1999 | The Matrix       |
+| 2002 | Minority Report  |
+| 2002 | Equilibrium      |
+| 2005 | The Island       |
+| 2007 | I Am Legend      |
+| 2010 | Gattaca          |
+| 2014 | Blade Runner     |
+| 2020 | Raised By Wolves |
+
+## Romance & Drama
+
+| Year | Title                    |
+| ---- | ------------------------ |
+| 2003 | The Notebook             |
+| 2007 | P.S. I Love You          |
+| 2007 | Sky of Love              |
+| 2009 | The Time Traveler’s Wife |
+| 2011 | The Intouchables         |
+| 2013 | Columbus                 |
+| 2014 | The Fault in Our Stars   |
+| 2020 | Pieces of a Woman        |
+
+## Crime & Noir
+
+| Year | Title                      |
+| ---- | -------------------------- |
+| 2007 | Gone Baby Gone             |
+| 2011 | Margin Call                |
+| 2013 | Brick                      |
+| 2013 | The Place Beyond the Pines |
+| 2014 | Gone Girl                  |
+| 2015 | The Guilty                 |
+
+## Additional Mentions
+
+| Year | Title                       |
+| ---- | --------------------------- |
+| 1999 | Go                          |
+| 2020 | Biohackers                  |
+| 2020 | I Care a Lot                |
+| 2021 | Judas and the Black Messiah |
