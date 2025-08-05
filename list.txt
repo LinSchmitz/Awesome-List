@@ -1,8 +1,6 @@
 # Awesome-List
 
-A list of **beautiful, emotional, and powerful movies** from all kinds of genres. Each one was picked for its great story, strong visuals, and creative style.
-
----
+## A list of **beautiful, emotional, and powerful movies** from all kinds of genres. Each one was picked for its great story, strong visuals, and creative style.
 
 ## 🎞️ photographer_must_seen
 
@@ -18,8 +16,6 @@ A list of **beautiful, emotional, and powerful movies** from all kinds of genres
 | 2016 | _American Honey_                                   |
 | 2022 | _Belfast_                                          |
 
----
-
 ## 🎞️ animation
 
 | Year | Title                      |
@@ -32,28 +28,6 @@ A list of **beautiful, emotional, and powerful movies** from all kinds of genres
 | 2016 | _Planetarium_              |
 | 2016 | _Personal Shopper_         |
 | 2017 | _A Silent Voice_           |
-
----
-
-## 🎥 irani
-
-| Year | English Title                         | Persian Title        |
-| ---- | ------------------------------------- | -------------------- |
-| —    | Retouch (short)                       | Retouch (short)      |
-| —    | Wind’s Screenplays                    | فیلم‌نامه‌های باد    |
-| 1970 | Tranquility in the Presence of Others | آرامش در حضور دیگران |
-| 1973 | A Simple Event                        | یک اتفاق ساده        |
-| 1977 | The Report                            | گزارش                |
-| 1986 | The Tenants                           | اجاره‌نشین‌ها        |
-| 1986 | The Peddler                           | دستفروش              |
-| 1988 | The Lead                              | سرب                  |
-| 1992 | Abadanis                              | آبادانی‌ها           |
-| 2002 | Dancing in the Dust                   | رقص در غبار          |
-| 2003 | Crimson Gold                          | طلای سرخ             |
-| 2009 | The White Meadows                     | کشتزارهای سپید       |
-| 2017 | Searing Rush / The Host               | هجوم                 |
-
----
 
 ## 🎞️ Turkish Movies
 
@@ -79,23 +53,17 @@ A list of **beautiful, emotional, and powerful movies** from all kinds of genres
 | 2016 | _İkimizin Yerine_              |
 | 2017 | _Ayla: The Daughter of War_    |
 
----
-
 ## 🎞️ Indian
 
 | Year | Title |
 | ---- | ----- |
 | 2018 | _Sir_ |
 
----
-
 ## 🔄 Similar
 
 | Year | Title                  |
 | ---- | ---------------------- |
 | 2019 | _Badla = Hidden Guest_ |
-
----
 
 ## 🎥 Documentary
 
@@ -110,22 +78,16 @@ A list of **beautiful, emotional, and powerful movies** from all kinds of genres
 | _Heaven and Earth by Marleen Gorris_                   |
 | _Seven Worlds One Planet Documentary_                  |
 
----
-
 ## 🎬 Yorgos Lanthimos
 
-| Year | Title                          |
-| ---- | ------------------------------ |
-| 2001 | _My Best Friend_               |
-| 2005 | _Kinetta_                      |
-| 2009 | _Dogtooth_                     |
-| 2010 | _Attenberg_                    |
-| 2011 | _Alps_                         |
-| 2015 | _The Lobster_                  |
+| 2001 | _My Best Friend_ |
+| 2005 | _Kinetta_ |
+| 2009 | _Dogtooth_ |
+| 2010 | _Attenberg_ |
+| 2011 | _Alps_ |
+| 2015 | _The Lobster_ |
 | 2017 | _The Killing of a Sacred Deer_ |
-| 2018 | _The Favourite_                |
-
----
+| 2018 | _The Favourite_ |
 
 ## 🎬 Lars von Trier
 
@@ -149,22 +111,14 @@ A list of **beautiful, emotional, and powerful movies** from all kinds of genres
 | 2013 | _Nymphomaniac: Vol. II_     |
 | 2018 | _The House That Jack Built_ |
 
----
-
 ## 🎬 Nuri Bilge Ceylan
 
-| Year | Title                          |
-| ---- | ------------------------------ |
-| 1997 | _The Town_                     |
-| 1999 | _Clouds of May_                |
-| 2003 | _Distant_                      |
-| 2006 | _Climates_                     |
-| 2008 | _Three Monkeys_                |
-| 2011 | _Once Upon a Time in Anatolia_ |
-| 2014 | _Winter Sleep_                 |
-| 2018 | _The Wild Pear Tree_           |
-
----
+| 1997 | _The Town_ |
+| 1999 | _Clouds of May_ |
+| 2003 | _Distant_ |
+| 2008 | _Three Monkeys_ |
+| 2014 | _Winter Sleep_ |
+| 2018 | _The Wild Pear Tree_ |
 
 ## 🎬 Kim Ki-duk
 
@@ -186,8 +140,6 @@ A list of **beautiful, emotional, and powerful movies** from all kinds of genres
 | 2013 | _Moebius_                                     |
 | 2014 | _One on One_                                  |
 
----
-
 ## 🎬 Lynch
 
 | Year | Title              |
@@ -198,8 +150,6 @@ A list of **beautiful, emotional, and powerful movies** from all kinds of genres
 | 2001 | _Mulholland Drive_ |
 | 2006 | _Inland Empire_    |
 
----
-
 ## 🎬 Krzysztof Kieslowski
 
 | Year | Title     |
@@ -209,24 +159,18 @@ A list of **beautiful, emotional, and powerful movies** from all kinds of genres
 | 1994 | _White_   |
 | 1994 | _Red_     |
 
----
-
 ## 🎬 Yasujiro Ozu
 
-| Year | Title                       |
-| ---- | --------------------------- |
 | 1934 | _A Story of Floating Weeds_ |
-| 1936 | _The Only Son_              |
-| 1942 | _There Was a Father_        |
-| 1949 | _Late Spring_               |
-| 1951 | _Early Summer_              |
-| 1953 | _Tokyo Story_               |
-| 1957 | _Tokyo Twilight_            |
-| 1959 | _Floating Weeds_            |
-| 1961 | _The End of Summer_         |
-| 2010 | _Late Autumn_               |
-
----
+| 1936 | _The Only Son_ |
+| 1942 | _There Was a Father_ |
+| 1949 | _Late Spring_ |
+| 1951 | _Early Summer_ |
+| 1953 | _Tokyo Story_ |
+| 1957 | _Tokyo Twilight_ |
+| 1959 | _Floating Weeds_ |
+| 1961 | _The End of Summer_ |
+| 2010 | _Late Autumn_ |
 
 ## 🎬 Joon-ho Bong
 
@@ -239,8 +183,6 @@ A list of **beautiful, emotional, and powerful movies** from all kinds of genres
 | 2017 | _Okja_               |
 | 2019 | _Parasite_           |
 
----
-
 ## 🎬 Emir Kusturica
 
 | Year | Title                         |
@@ -250,8 +192,6 @@ A list of **beautiful, emotional, and powerful movies** from all kinds of genres
 | 1988 | _Time of the Gypsies_         |
 | 1995 | _Underground_                 |
 | 1998 | _Black Cat, White Cat_        |
-
----
 
 ## 🎬 Abdellatif Kechiche
 
@@ -264,8 +204,6 @@ A list of **beautiful, emotional, and powerful movies** from all kinds of genres
 | 2013 | _Blue Is the Warmest Colour_ |
 | 2017 | _Mektoub, My Love_           |
 | 2019 | _Mektoub, My Love_           |
-
----
 
 ## 🎬 Terrence Malick
 
@@ -282,8 +220,6 @@ A list of **beautiful, emotional, and powerful movies** from all kinds of genres
 | 2017 | _Song to Song_      |
 | 2019 | _A Hidden Life_     |
 
----
-
 ## 🎬 Akira Kurosawa
 
 | Year | Title           |
@@ -292,30 +228,20 @@ A list of **beautiful, emotional, and powerful movies** from all kinds of genres
 | 1954 | _Seven Samurai_ |
 | 1961 | _Yojimbo_       |
 
----
-
 ## 🎬 Bernardo Bertolucci
 
-| Year | Title                |
-| ---- | -------------------- |
 | 1990 | _The Sheltering Sky_ |
-| 1993 | _Little Buddha_      |
-
----
+| 1993 | _Little Buddha_ |
 
 ## 🎬 Andrei Tarkovsky
 
-| Year | Title              |
-| ---- | ------------------ |
 | 1962 | _Ivan's Childhood_ |
-| 1966 | _Andrei Rublev_    |
-| 1972 | _Solaris_          |
-| 1975 | _Mirror_           |
-| 1979 | _Stalker_          |
-| 1983 | _Nostalghia_       |
-| 1986 | _The Sacrifice_    |
-
----
+| 1966 | _Andrei Rublev_ |
+| 1972 | _Solaris_ |
+| 1975 | _Mirror_ |
+| 1979 | _Stalker_ |
+| 1983 | _Nostalghia_ |
+| 1986 | _The Sacrifice_ |
 
 ## 📺 Series
 
@@ -332,8 +258,6 @@ A list of **beautiful, emotional, and powerful movies** from all kinds of genres
 | _Atlanta's Missing and Murdered: The Lost Children_ |
 | _The Spy_                                           |
 | _Undone_                                            |     |
-
----
 
 ## ⏳ Time Traveling Movies
 
@@ -386,8 +310,6 @@ A list of **beautiful, emotional, and powerful movies** from all kinds of genres
 | 2013 | _Colette_                                                      |
 | 2016 | _Denial_                                                       |
 
----
-
 ## Philosophical Genre
 
 | Title                  |
@@ -410,35 +332,29 @@ A list of **beautiful, emotional, and powerful movies** from all kinds of genres
 | _The Truman Show_      |
 | _Irrational Man_       |
 
----
-
 ## Psychological Genre
 
-| Year | Title                          |
-| ---- | ------------------------------ |
-| 2011 | _A Dangerous Method_           |
-| 2012 | _Amour_                        |
-| 1977 | _Annie Hall_                   |
-| 2015 | _Anomalisa_                    |
-| 2004 | _Birth_                        |
-| 1993 | _Blue_                         |
-| 2013 | _Blue Jasmine_                 |
-| 2008 | _Changeling_                   |
-| 2011 | _Detachment_                   |
-| 1999 | _Girl, Interrupted_            |
+| 2011 | _A Dangerous Method_ |
+| 2012 | _Amour_ |
+| 1977 | _Annie Hall_ |
+| 2015 | _Anomalisa_ |
+| 2004 | _Birth_ |
+| 1993 | _Blue_ |
+| 2013 | _Blue Jasmine_ |
+| 2008 | _Changeling_ |
+| 2011 | _Detachment_ |
+| 1999 | _Girl, Interrupted_ |
 | 1991 | _The Double Life of Veronique_ |
-| 2012 | _Paradise: Love_               |
-| 1994 | _Red_                          |
-| 1965 | _Repulsion_                    |
-| 2011 | _Shame_                        |
-| 1996 | _Shine_                        |
-| 2013 | _The Double_                   |
-| 2001 | _The Piano Teacher_            |
-| 2006 | _The Science of Sleep_         |
-| 2011 | _We Need to Talk About Kevin_  |
-| 1994 | _White_                        |
-
----
+| 2012 | _Paradise: Love_ |
+| 1994 | _Red_ |
+| 1965 | _Repulsion_ |
+| 2011 | _Shame_ |
+| 1996 | _Shine_ |
+| 2013 | _The Double_ |
+| 2001 | _The Piano Teacher_ |
+| 2006 | _The Science of Sleep_ |
+| 2011 | _We Need to Talk About Kevin_ |
+| 1994 | _White_ |
 
 ## TV MiniSeries
 
@@ -448,8 +364,6 @@ A list of **beautiful, emotional, and powerful movies** from all kinds of genres
 | —    | _Defending Jacob_                  |
 | 2020 | _The World of the Married_ (Korea) |
 | 2020 | _Panchayat_ (India)                |
-
----
 
 ## Japanese Cinema
 
@@ -467,7 +381,6 @@ A list of **beautiful, emotional, and powerful movies** from all kinds of genres
 | 1963 | _The Insect Woman_                                                              |
 | 1964 | _Unholy Desire_ or _Intentions of Murder_                                       |
 | 1966 | _The Pornographers_                                                             |
-| 1967 | _A Man Vanishes_                                                                |
 | 1967 | _A Man Vanishes_                                                                |
 | 1968 | _Higashi Shinakai_ (Screenplay and Producer)                                    |
 | 1968 | _Profound Desires of the Gods_ or _Kuragejima - Legends from a Southern Island_ |
@@ -497,32 +410,27 @@ A list of **beautiful, emotional, and powerful movies** from all kinds of genres
 
 ## South Korea
 
-| Year | Title                |
-| ---- | -------------------- |
-| 2003 | _Memories of Murder_ |
-| —    | _Oldboy_             |
-| —    | _Handmaiden_         |
-| —    | _Taegukgi_           |
-| —    | _I Saw The Devil_    |
-| —    | _The Chaser_         |
-| —    | _The Scarlet Letter_ |
+| — | _Oldboy_ |
+| — | _Handmaiden_ |
+| — | _Taegukgi_ |
+| — | _I Saw The Devil_ |
+| — | _The Chaser_ |
+| — | _The Scarlet Letter_ |
 
 ## Italian Neorealism
 
-| Year | Title               |
-| ---- | ------------------- |
-| 1945 | _Rome, Open City_   |
-| 1946 | _Shoeshine_         |
+| 1945 | _Rome, Open City_ |
+| 1946 | _Shoeshine_ |
 | 1948 | _Germany Year Zero_ |
-| 1948 | _Bicycle Thieves_   |
-| 1948 | _La Terra Trema_    |
-| 1949 | _Bitter Rice_       |
-| 1950 | _Stromboli_         |
-| 1952 | _Europe '51_        |
-| 1952 | _Umberto D._        |
-| 1952 | _Rome 11:00_        |
-| 1957 | _White Nights_      |
-| 1963 | _The Leopard_       |
+| 1948 | _Bicycle Thieves_ |
+| 1948 | _La Terra Trema_ |
+| 1949 | _Bitter Rice_ |
+| 1950 | _Stromboli_ |
+| 1952 | _Europe '51_ |
+| 1952 | _Umberto D._ |
+| 1952 | _Rome 11:00_ |
+| 1957 | _White Nights_ |
+| 1963 | _The Leopard_ |
 
 ## Christopher Nolan
 
@@ -731,8 +639,6 @@ A list of **beautiful, emotional, and powerful movies** from all kinds of genres
 | 2020 | _Never Rarely Sometimes Always_                     |
 | 2020 | _The Blackout_                                      |
 
----
-
 ## Classic & Drama
 
 | Year | Title                                 |
@@ -817,48 +723,42 @@ A list of **beautiful, emotional, and powerful movies** from all kinds of genres
 | 2019 | _Light from Light_                    |
 | 2020 | _The Cordillera of Dreams_            |
 
----
-
 ## Thriller & Crime
 
-| Year | Title                  |
-| ---- | ---------------------- |
 | 1951 | _Strangers on a Train_ |
-| 1957 | _12 Angry Men_         |
-| 1968 | _Bullitt_              |
-| 1973 | _Magnum Force_         |
-| 1973 | _Serpico_              |
-| 1973 | _The Magician_         |
-| 1977 | _Eraserhead_           |
-| 1980 | _Shining_              |
-| 1984 | _Beverly Hills Cop_    |
-| 1987 | _Suspect_              |
-| 1987 | _The Princess Bride_   |
-| 1989 | _Do the Right Thing_   |
-| 1992 | _Reservoir Dogs_       |
-| 1996 | _Fargo_                |
-| 1997 | _Cop Land_             |
-| 1997 | _L.A. Confidential_    |
-| 1998 | _Rush Hour_            |
-| 1999 | _Fight Club_           |
-| 2003 | _Dogville_             |
-| 2007 | _Zodiac_               |
-| 2008 | _Loft_                 |
-| 2012 | _Prometheus_           |
-| 2016 | _The Imitation Game_   |
-| 2017 | _The Institute_        |
+| 1957 | _12 Angry Men_ |
+| 1968 | _Bullitt_ |
+| 1973 | _Magnum Force_ |
+| 1973 | _Serpico_ |
+| 1973 | _The Magician_ |
+| 1977 | _Eraserhead_ |
+| 1980 | _Shining_ |
+| 1984 | _Beverly Hills Cop_ |
+| 1987 | _Suspect_ |
+| 1987 | _The Princess Bride_ |
+| 1989 | _Do the Right Thing_ |
+| 1992 | _Reservoir Dogs_ |
+| 1996 | _Fargo_ |
+| 1997 | _Cop Land_ |
+| 1997 | _L.A. Confidential_ |
+| 1998 | _Rush Hour_ |
+| 1999 | _Fight Club_ |
+| 2003 | _Dogville_ |
+| 2007 | _Zodiac_ |
+| 2008 | _Loft_ |
+| 2012 | _Prometheus_ |
+| 2016 | _The Imitation Game_ |
+| 2017 | _The Institute_ |
 | 2018 | _Dark Figure of Crime_ |
-| 2018 | _Red Sparrow_          |
-| 2019 | _Bad Education_        |
-| 2019 | _Blow the Man Down_    |
-| 2019 | _Clemency_             |
-| 2019 | _Ready or Not_         |
-| 2019 | _Sorry We Missed You_  |
-| 2019 | _The Assistant_        |
-| 2019 | _The Endless Trench_   |
-| 2019 | _The Great Hack_       |
-
----
+| 2018 | _Red Sparrow_ |
+| 2019 | _Bad Education_ |
+| 2019 | _Blow the Man Down_ |
+| 2019 | _Clemency_ |
+| 2019 | _Ready or Not_ |
+| 2019 | _Sorry We Missed You_ |
+| 2019 | _The Assistant_ |
+| 2019 | _The Endless Trench_ |
+| 2019 | _The Great Hack_ |
 
 ## Horror & Psychological
 
@@ -896,44 +796,38 @@ A list of **beautiful, emotional, and powerful movies** from all kinds of genres
 | 2019 | _Midsommar_                         |
 | 2019 | _Vitalina Varela_                   |
 
----
-
 ## Sci-Fi & Fantasy
 
-| Year | Title                              |
-| ---- | ---------------------------------- |
-| 1957 | _The Seventh Seal_                 |
-| 1966 | _Persona_                          |
-| 1971 | _A Clockwork Orange_               |
-| 1979 | _Stalker_                          |
-| 1982 | _Videodrome_                       |
-| 1982 | _Blade Runner_                     |
-| 1984 | _Amadeus_                          |
-| 1985 | _Back to the Future_               |
-| 1985 | _Brazil_                           |
-| 1987 | _When the Day Comes_               |
-| 1995 | _Ghost in the Shell_               |
-| 1997 | _Cube_                             |
-| 1998 | _Rush Hour_                        |
-| 1999 | _The Matrix_                       |
-| 2001 | _Memento_                          |
+| 1957 | _The Seventh Seal_ |
+| 1966 | _Persona_ |
+| 1971 | _A Clockwork Orange_ |
+| 1979 | _Stalker_ |
+| 1982 | _Videodrome_ |
+| 1982 | _Blade Runner_ |
+| 1984 | _Amadeus_ |
+| 1985 | _Back to the Future_ |
+| 1985 | _Brazil_ |
+| 1987 | _When the Day Comes_ |
+| 1995 | _Ghost in the Shell_ |
+| 1997 | _Cube_ |
+| 1998 | _Rush Hour_ |
+| 1999 | _The Matrix_ |
+| 2001 | _Memento_ |
 | 2006 | _Perfume: The Story of a Murderer_ |
-| 2006 | _Children of Men_                  |
+| 2006 | _Children of Men_ |
 | 2009 | _Fullmetal Alchemist: Brotherhood_ |
-| 2010 | _Inception_                        |
-| 2011 | _Limitless_                        |
-| 2012 | _Looper_                           |
-| 2013 | _Coherence_                        |
-| 2014 | _Interstellar_                     |
-| 2015 | _Mad Max: Fury Road_               |
-| 2016 | _Arrival_                          |
-| 2016 | _Silence_                          |
-| 2017 | _Logan_                            |
-| 2018 | _Annihilation_                     |
-| 2018 | _Black Panther_                    |
-| 2019 | _The Platform_                     |
-
----
+| 2010 | _Inception_ |
+| 2011 | _Limitless_ |
+| 2012 | _Looper_ |
+| 2013 | _Coherence_ |
+| 2014 | _Interstellar_ |
+| 2015 | _Mad Max: Fury Road_ |
+| 2016 | _Arrival_ |
+| 2016 | _Silence_ |
+| 2017 | _Logan_ |
+| 2018 | _Annihilation_ |
+| 2018 | _Black Panther_ |
+| 2019 | _The Platform_ |
 
 ## Comedy & Romance
 
@@ -954,42 +848,34 @@ A list of **beautiful, emotional, and powerful movies** from all kinds of genres
 | 2016 | _Lavender_                                  |
 | 2017 | _Three Billboards Outside Ebbing, Missouri_ |
 
----
-
 ## Documentary & Biography
 
-| Year | Title                |
-| ---- | -------------------- |
-| 1946 | _Shoeshine_          |
-| 1983 | _L'Argent_           |
-| 1994 | _Immortal Beloved_   |
-| 2005 | _Earthlings_         |
-| 2006 | _Rang de Bastani_    |
-| 2007 | _Nanking_            |
+| 1946 | _Shoeshine_ |
+| 1983 | _L'Argent_ |
+| 1994 | _Immortal Beloved_ |
+| 2005 | _Earthlings_ |
+| 2006 | _Rang de Bastani_ |
+| 2007 | _Nanking_ |
 | 2012 | _The Act of Killing_ |
-| 2016 | _The White Helmets_  |
-| 2019 | _American Factory_   |
-
----
+| 2016 | _The White Helmets_ |
+| 2019 | _American Factory_ |
 
 ## Anime & Animation
 
-| Year | Title                              |
-| ---- | ---------------------------------- |
-| 1980 | _Zigeunerweisen_                   |
-| 1998 | _Birdcage Inn_                     |
-| 2001 | _Mulholland Drive_                 |
-| 2003 | _Porco Rosso_                      |
-| 2004 | _Howl's Moving Castle_             |
-| 2006 | _Paprika_                          |
-| 2007 | _Parasyte_ (anime)                 |
-| 2008 | _Hana Yori Dango: Final_           |
-| 2010 | _My Neighbor Totoro_               |
-| 2011 | _Arirang_                          |
-| 2013 | _The Tale of The Princess Kaguya_  |
-| 2014 | _Your Name_                        |
-| 2016 | _A Girl Leapt Through Time_        |
-| 2018 | _Wolf Children_                    |
+| 1980 | _Zigeunerweisen_ |
+| 1998 | _Birdcage Inn_ |
+| 2001 | _Mulholland Drive_ |
+| 2003 | _Porco Rosso_ |
+| 2004 | _Howl's Moving Castle_ |
+| 2006 | _Paprika_ |
+| 2007 | _Parasyte_ (anime) |
+| 2008 | _Hana Yori Dango: Final_ |
+| 2010 | _My Neighbor Totoro_ |
+| 2011 | _Arirang_ |
+| 2013 | _The Tale of The Princess Kaguya_ |
+| 2014 | _Your Name_ |
+| 2016 | _A Girl Leapt Through Time_ |
+| 2018 | _Wolf Children_ |
 | 2019 | _Fullmetal Alchemist: Brotherhood_ |
 
 ## Series & TV Shows
@@ -1011,16 +897,12 @@ A list of **beautiful, emotional, and powerful movies** from all kinds of genres
 
 ## Documentaries & Others
 
-| Year | Title               |
-| ---- | ------------------- |
-| 2012 | _Beyond the Hills_  |
+| 2012 | _Beyond the Hills_ |
 | 2016 | _The White Helmets_ |
-| 2018 | _Un homme press_    |
-| 2019 | _American Factory_  |
-| 2019 | _The Great Hack_    |
-| 2020 | _I Wish I Knew_     |
-
----
+| 2018 | _Un homme press_ |
+| 2019 | _American Factory_ |
+| 2019 | _The Great Hack_ |
+| 2020 | _I Wish I Knew_ |
 
 ## Drama
 
@@ -1044,8 +926,6 @@ A list of **beautiful, emotional, and powerful movies** from all kinds of genres
 | 2018 | _Veere Di Wedding_                           |
 | 2020 | _Tesla_                                      |
 | 2020 | _Your Honor_                                 |
-
----
 
 ## Thriller / Crime
 
@@ -1079,21 +959,15 @@ A list of **beautiful, emotional, and powerful movies** from all kinds of genres
 | 2019 | _The Gangster The Cop The Devil_ |
 | 2020 | _Train To Busan 2_               |
 
----
-
 ## Romance
 
-| Year | Title                      |
-| ---- | -------------------------- |
-| 1962 | _Lolita_                   |
-| 2002 | _Miss Mermaid_             |
-| 2004 | _3-Iron_                   |
-| 2008 | _Hana Yori Dango: Final_   |
+| 1962 | _Lolita_ |
+| 2002 | _Miss Mermaid_ |
+| 2004 | _3-Iron_ |
+| 2008 | _Hana Yori Dango: Final_ |
 | 2009 | _The Time Traveler's Wife_ |
-| 2015 | _Love_                     |
-| 2016 | _Goddess of Love_          |
-
----
+| 2015 | _Love_ |
+| 2016 | _Goddess of Love_ |
 
 ## Sci-Fi / Fantasy
 
@@ -1105,67 +979,45 @@ A list of **beautiful, emotional, and powerful movies** from all kinds of genres
 | 2018 | _Along with the Gods The Last 49 Days_ |
 | 2017 | _A Ghost Story_                        |
 
----
-
 ## War / Action
 
-| Year | Title                          |
-| ---- | ------------------------------ |
-| 1954 | _7 Samurai_                    |
+| 1954 | _7 Samurai_ |
 | 2014 | _The Admiral Roaring Currents_ |
-| 2017 | _The Battleship Island_        |
-
----
+| 2017 | _The Battleship Island_ |
 
 ## Animation
 
-| Year | Title                             |
-| ---- | --------------------------------- |
 | 2013 | _The Tale of The Princess Kaguya_ |
-
----
 
 ## Documentary
 
-| Year | Title                            |
-| ---- | -------------------------------- |
-| 2011 | _Arirang_                        |
+| 2011 | _Arirang_ |
 | 2018 | _The Photographer of Mauthausen_ |
-
----
-
-| Year | Title              |
-| ---- | ------------------ |
-| 2003 | _Elephant_         |
-| 1999 | _The Matrix_       |
-| 1941 | _Citizen Kane_     |
+| 2003 | _Elephant_ |
+| 1999 | _The Matrix_ |
+| 1941 | _Citizen Kane_ |
 | 1957 | _Twelve Angry Men_ |
-| 1999 | _Go_               |
-| 2015 | _Talvar_           |
-| 2014 | _Gone Girl_        |
-| 2002 | _Hero_             |
-| 2014 | _Predestination_   |
-| 2008 | _Vantage Point_    |
-
----
-
-| Year | Title                   |
+| 1999 | _Go_ |
+| 2015 | _Talvar_ |
+| 2014 | _Gone Girl_ |
+| 2002 | _Hero_ |
+| 2014 | _Predestination_ |
+| 2008 | _Vantage Point_ |
+| Year | Title |
 | ---- | ----------------------- |
-| 1958 | Touch of Evil           |
-| 1949 | The Third Man           |
-| 1946 | Notorious               |
-| 1946 | The Big Sleep           |
-| 1944 | Double Indemnity        |
-| 1950 | Sunset Boulevard        |
-| 1941 | The Maltese Falcon      |
-| 1955 | Kiss Me Deadly          |
-| 1953 | The Big Heat            |
-| 1945 | Scarlet Street          |
+| 1958 | Touch of Evil |
+| 1949 | The Third Man |
+| 1946 | Notorious |
+| 1946 | The Big Sleep |
+| 1944 | Double Indemnity |
+| 1950 | Sunset Boulevard |
+| 1941 | The Maltese Falcon |
+| 1955 | Kiss Me Deadly |
+| 1953 | The Big Heat |
+| 1945 | Scarlet Street |
 | 1944 | The Woman In the Window |
-| 1956 | The Killing             |
-| 1950 | In a Lonely Place       |
-
----
+| 1956 | The Killing |
+| 1950 | In a Lonely Place |
 
 ## Trilogy
 
@@ -1182,67 +1034,61 @@ A list of **beautiful, emotional, and powerful movies** from all kinds of genres
 | Fritz Lang Mabuse           | _Dr. Mabuse_ series                                           |
 | Abbas Kiarostami Koker      | _Friend's Home?_, _Life Goes On_, _Olive Trees_               |
 
----
-
 ## Curated Films
 
-| Year | Title                        |
-| ---- | ---------------------------- |
-| 1962 | Jessica                      |
-| 1973 | Amarcord                     |
-| 1973 | Malizia                      |
-| 1974 | Emmanuelle                   |
+| 1962 | Jessica |
+| 1973 | Amarcord |
+| 1973 | Malizia |
+| 1974 | Emmanuelle |
 | 1986 | What Every Frenchwoman Wants |
-| 1988 | Cinema Paradiso              |
-| 1990 | Ghost                        |
-| 1990 | Miller's Crossing            |
-| 1994 | In The Heat Of The Sun       |
-| 1995 | The Star Maker               |
-| 1995 | All Things Fair              |
-| 2000 | Cast Away                    |
-| 2001 | Y Tu Mama También            |
-| 2003 | The Notebook                 |
-| 2004 | The Machinist                |
-| 2007 | P.S. I Love You              |
-| 2007 | Sky of Love                  |
-| 2008 | The Reader                   |
-| 2009 | The Time Traveler's Wife     |
-| 2011 | The Intouchables             |
-| 2013 | The Place Beyond the Pines   |
-| 2014 | Gone Girl                    |
-| 2014 | The Fault in Our Stars       |
-| 2015 | Creed                        |
-| 2016 | Silence                      |
-| 2018 | The Guilty                   |
-| 2019 | Pieces of a Woman            |
-| 2019 | Sound of Metal               |
-| 2019 | Elizabeth Is Missing         |
-| 2019 | The Painted Bird             |
-| 2020 | The Painter and the Thief    |
-| 2020 | I Care a Lot                 |
-| 2020 | Persian Lessons              |
-| 2020 | Equinox                      |
-| 2020 | Call                         |
-| 2021 | Judas and the Black Messiah  |
+| 1988 | Cinema Paradiso |
+| 1990 | Ghost |
+| 1990 | Miller's Crossing |
+| 1994 | In The Heat Of The Sun |
+| 1995 | The Star Maker |
+| 1995 | All Things Fair |
+| 2000 | Cast Away |
+| 2001 | Y Tu Mama También |
+| 2003 | The Notebook |
+| 2004 | The Machinist |
+| 2007 | P.S. I Love You |
+| 2007 | Sky of Love |
+| 2008 | The Reader |
+| 2009 | The Time Traveler's Wife |
+| 2011 | The Intouchables |
+| 2013 | The Place Beyond the Pines |
+| 2014 | Gone Girl |
+| 2014 | The Fault in Our Stars |
+| 2015 | Creed |
+| 2016 | Silence |
+| 2018 | The Guilty |
+| 2019 | Pieces of a Woman |
+| 2019 | Sound of Metal |
+| 2019 | Elizabeth Is Missing |
+| 2019 | The Painted Bird |
+| 2020 | The Painter and the Thief |
+| 2020 | I Care a Lot |
+| 2020 | Persian Lessons |
+| 2020 | Equinox |
+| 2020 | Call |
+| 2021 | Judas and the Black Messiah |
 
 ## Mystery & Thriller
 
-| Year | Title           |
-| ---- | --------------- |
-| 2000 | Memento         |
+| 2000 | Memento |
 | 2002 | Minority Report |
-| 2002 | Hero            |
-| 2003 | Mystic River    |
-| 2004 | The Machinist   |
-| 2007 | Zodiac          |
-| 2008 | Vantage Point   |
-| 2010 | Margin Call     |
-| 2013 | Prisoners       |
-| 2014 | Predestination  |
-| 2015 | Talvar          |
-| 2017 | Burning         |
-| 2018 | The Guilty      |
-| 2019 | Dear Comrades   |
+| 2002 | Hero |
+| 2003 | Mystic River |
+| 2004 | The Machinist |
+| 2007 | Zodiac |
+| 2008 | Vantage Point |
+| 2010 | Margin Call |
+| 2013 | Prisoners |
+| 2014 | Predestination |
+| 2015 | Talvar |
+| 2017 | Burning |
+| 2018 | The Guilty |
+| 2019 | Dear Comrades |
 
 ## Sci-Fi & Dystopia
 
@@ -1272,254 +1118,229 @@ A list of **beautiful, emotional, and powerful movies** from all kinds of genres
 
 ## Crime & Noir
 
-| Year | Title                      |
-| ---- | -------------------------- |
-| 2007 | Gone Baby Gone             |
-| 2011 | Margin Call                |
-| 2013 | Brick                      |
+| 2007 | Gone Baby Gone |
+| 2011 | Margin Call |
+| 2013 | Brick |
 | 2013 | The Place Beyond the Pines |
-| 2014 | Gone Girl                  |
-| 2015 | The Guilty                 |
+| 2014 | Gone Girl |
+| 2015 | The Guilty |
 
 ## Additional Mentions
 
-| Year | Title                       |
-| ---- | --------------------------- |
-| 1999 | Go                          |
-| 2020 | Biohackers                  |
-| 2020 | I Care a Lot                |
+| 1999 | Go |
+| 2020 | Biohackers |
+| 2020 | I Care a Lot |
 | 2021 | Judas and the Black Messiah |
-
----
-
-## Curated Films
-
-| Year | Title                                                     |
+| Year | Title |
 | ---- | --------------------------------------------------------- |
-| 1920 | The Cabinet of Dr. Caligari                               |
-| 1939 | The Rules of the Game                                     |
-| 2003 | A Tale of Two Sisters                                     |
-| 2004 | The Notebook                                              |
-| 2007 | Lust, Caution                                             |
-| 2015 | Little Forest: Winter & Spring                            |
-| 2017 | Memoir of a Murderer                                      |
-| 2021 | Mare of Easttown                                          |
+| 1920 | The Cabinet of Dr. Caligari |
+| 1939 | The Rules of the Game |
+| 2003 | A Tale of Two Sisters |
+| 2004 | The Notebook |
+| 2007 | Lust, Caution |
+| 2015 | Little Forest: Winter & Spring |
+| 2017 | Memoir of a Murderer |
+| 2021 | Mare of Easttown |
 | 2020 | Preparations to Be Together for an Unknown Period of Time |
-
----
 
 ## 2021 Films & Series
 
-| Year | Title                       |
-| ---- | --------------------------- |
-| 2021 | Shadow and Bone             |
-| 2021 | The Man Who Sold His Skin   |
-| 2021 | Nomadland                   |
-| 2021 | Another Round               |
-| 2021 | Quo Vadis, Aida?            |
-| 2021 | Soul                        |
-| 2021 | Wolfwalkers                 |
-| 2021 | Judas and the Black Messiah |
-| 2021 | The Trial of the Chicago 7  |
-| 2021 | The Father                  |
-| 2021 | Ma Rainey's Black Bottom    |
-| 2021 | Borat Subsequent Moviefilm  |
-
----
+| 2021 | Shadow and Bone |
+| 2021 | The Man Who Sold His Skin |
+| 2021 | Nomadland |
+| 2021 | Another Round |
+| 2021 | Quo Vadis, Aida? |
+| 2021 | Soul |
+| 2021 | Wolfwalkers |
+| 2021 | The Trial of the Chicago 7 |
+| 2021 | The Father |
+| 2021 | Ma Rainey's Black Bottom |
+| 2021 | Borat Subsequent Moviefilm |
 
 ##
 
-| Year | Title                                 |
-| ---- | ------------------------------------- |
-| 1920 | The Cabinet of Dr. Caligari           |
-| 1925 | The Gold Rush                         |
-| 1926 | The General                           |
-| 1927 | Metropolis                            |
-| 1928 | The Passion of Joan of Arc            |
-| 1931 | City Lights                           |
-| 1934 | It Happened One Night                 |
-| 1936 | Modern Times                          |
-| 1939 | Mr. Smith Goes to Washington          |
-| 1940 | Rebecca                               |
-| 1940 | The Grapes of Wrath                   |
-| 1941 | Citizen Kane                          |
-| 1942 | Casablanca                            |
-| 1942 | To Be or Not to Be                    |
-| 1944 | Double Indemnity                      |
-| 1946 | The Best Years of Our Lives           |
-| 1948 | Bicycle Thieves                       |
-| 1948 | The Treasure of the Sierra Madre      |
-| 1949 | The Third Man                         |
-| 1950 | Sunset Boulevard                      |
-| 1951 | Strangers on a Train                  |
-| 1952 | Singin' in the Rain                   |
-| 1953 | The Wages of Fear                     |
-| 1954 | On the Waterfront                     |
-| 1954 | Dial M for Murder                     |
-| 1955 | Diabolique                            |
-| 1957 | 12 Angry Men                          |
-| 1957 | Witness for the Prosecution           |
-| 1957 | The Bridge on the River Kwai          |
-| 1958 | Vertigo                               |
-| 1958 | Touch of Evil                         |
-| 1959 | Some Like It Hot                      |
-| 1959 | North by Northwest                    |
-| 1959 | The 400 Blows                         |
-| 1961 | Judgment at Nuremberg                 |
-| 1962 | Lawrence of Arabia                    |
-| 1962 | To Kill a Mockingbird                 |
-| 1963 | 8½                                    |
-| 1964 | Dr. Strangelove                       |
-| 1967 | Cool Hand Luke                        |
-| 1968 | Once Upon a Time in the West          |
-| 1973 | The Sting                             |
-| 1975 | Monty Python and the Holy Grail       |
-| 1975 | Dog Day Afternoon                     |
-| 1975 | One Flew Over the Cuckoo's Nest       |
-| 1976 | Taxi Driver                           |
-| 1979 | Alien                                 |
-| 1979 | Apocalypse Now                        |
-| 1981 | Raiders of the Lost Ark               |
-| 1981 | Das Boot                              |
-| 1982 | Gandhi                                |
-| 1984 | Once Upon a Time in America           |
-| 1985 | Ran                                   |
-| 1985 | Back to the Future                    |
-| 1986 | Aliens                                |
-| 1986 | Platoon                               |
-| 1986 | Castle in the Sky                     |
-| 1987 | The Princess Bride                    |
-| 1988 | Cinema Paradiso                       |
-| 1988 | My Neighbor Totoro                    |
-| 1990 | Miller's Crossing                     |
-| 1994 | Andaz Apna Apna                       |
-| 1995 | Heat                                  |
-| 1995 | Casino                                |
-| 1995 | La Haine                              |
-| 1996 | Fargo                                 |
-| 1996 | The Bandit                            |
-| 1997 | L.A. Confidential                     |
-| 1997 | Funny Games                           |
-| 1998 | Lock, Stock and Two Smoking Barrels   |
-| 1999 | The Matrix                            |
-| 1999 | American Beauty                       |
-| 2000 | Requiem for a Dream                   |
-| 2001 | Spirited Away                         |
-| 2001 | I Am Sam                              |
-| 2003 | Big Fish                              |
+| 1920 | The Cabinet of Dr. Caligari |
+| 1925 | The Gold Rush |
+| 1926 | The General |
+| 1927 | Metropolis |
+| 1928 | The Passion of Joan of Arc |
+| 1931 | City Lights |
+| 1934 | It Happened One Night |
+| 1936 | Modern Times |
+| 1939 | Mr. Smith Goes to Washington |
+| 1940 | Rebecca |
+| 1940 | The Grapes of Wrath |
+| 1941 | Citizen Kane |
+| 1942 | Casablanca |
+| 1942 | To Be or Not to Be |
+| 1944 | Double Indemnity |
+| 1946 | The Best Years of Our Lives |
+| 1948 | Bicycle Thieves |
+| 1948 | The Treasure of the Sierra Madre |
+| 1949 | The Third Man |
+| 1950 | Sunset Boulevard |
+| 1951 | Strangers on a Train |
+| 1952 | Singin' in the Rain |
+| 1953 | The Wages of Fear |
+| 1954 | On the Waterfront |
+| 1954 | Dial M for Murder |
+| 1955 | Diabolique |
+| 1957 | 12 Angry Men |
+| 1957 | Witness for the Prosecution |
+| 1957 | The Bridge on the River Kwai |
+| 1958 | Vertigo |
+| 1958 | Touch of Evil |
+| 1959 | Some Like It Hot |
+| 1959 | North by Northwest |
+| 1959 | The 400 Blows |
+| 1961 | Judgment at Nuremberg |
+| 1962 | Lawrence of Arabia |
+| 1962 | To Kill a Mockingbird |
+| 1963 | 8½ |
+| 1964 | Dr. Strangelove |
+| 1967 | Cool Hand Luke |
+| 1968 | Once Upon a Time in the West |
+| 1973 | The Sting |
+| 1975 | Monty Python and the Holy Grail |
+| 1975 | Dog Day Afternoon |
+| 1975 | One Flew Over the Cuckoo's Nest |
+| 1976 | Taxi Driver |
+| 1979 | Alien |
+| 1979 | Apocalypse Now |
+| 1981 | Raiders of the Lost Ark |
+| 1981 | Das Boot |
+| 1982 | Gandhi |
+| 1984 | Once Upon a Time in America |
+| 1985 | Ran |
+| 1985 | Back to the Future |
+| 1986 | Aliens |
+| 1986 | Platoon |
+| 1986 | Castle in the Sky |
+| 1987 | The Princess Bride |
+| 1988 | Cinema Paradiso |
+| 1988 | My Neighbor Totoro |
+| 1990 | Miller's Crossing |
+| 1994 | Andaz Apna Apna |
+| 1995 | Heat |
+| 1995 | Casino |
+| 1995 | La Haine |
+| 1996 | Fargo |
+| 1996 | The Bandit |
+| 1997 | L.A. Confidential |
+| 1997 | Funny Games |
+| 1998 | Lock, Stock and Two Smoking Barrels |
+| 1999 | The Matrix |
+| 1999 | American Beauty |
+| 2000 | Requiem for a Dream |
+| 2001 | Spirited Away |
+| 2001 | I Am Sam |
+| 2003 | Big Fish |
 | 2004 | Eternal Sunshine of the Spotless Mind |
-| 2004 | The Notebook                          |
-| 2005 | Batman Begins                         |
-| 2005 | My Father and My Son                  |
-| 2006 | Rang De Basanti                       |
-| 2007 | The Diving Bell and the Butterfly     |
-| 2007 | There Will Be Blood                   |
-| 2008 | A Short Film About Killing            |
-| 2008 | The Secret Life of Walter Mitty       |
-| 2009 | Hachi: A Dog's Tale                   |
-| 2009 | The Killing of a Sacred Deer          |
-| 2010 | Wasteland                             |
-| 2011 | The Intouchables                      |
-| 2013 | Nebraska                              |
-| 2013 | Beyond the Hills                      |
-| 2013 | Stories We Tell                       |
-| 2014 | Wild Tales                            |
-| 2014 | Leviathan                             |
-| 2014 | The Grand Budapest Hotel              |
-| 2015 | Spotlight                             |
-| 2015 | The Revenant                          |
-| 2016 | Zootopia                              |
-| 2016 | The Secret in Their Eyes              |
-| 2017 | Call Me by Your Name                  |
-| 2018 | The Biggest Little Farm               |
-| 2019 | The Painted Bird                      |
-| 2020 | The Man Who Sold His Skin             |
-| 2020 | Pieces of a Woman                     |
-| 2021 | Mare of Easttown                      |
-| ---- | A Scanner Darkly                      |
-| ---- | A.I. Artificial Intelligence          |
-| ---- | Blade Runner 2049                     |
-| ---- | Children of Men                       |
-| ---- | District 9                            |
-| ---- | Edge of Tomorrow                      |
-| ---- | Moon                                  |
-| ---- | Minority Report                       |
-| ---- | Parasyte                              |
-| ---- | The Thirteenth Floor                  |
-| ---- | The Life of David Gale                |
-| ---- | What Ever Happened to Baby Jane?      |
-| ---- | Cool Hand Luke                        |
-| ---- | The Conformist                        |
-| ---- | The General                           |
-| ---- | Stand by Me                           |
-| ---- | Million Dollar Baby                   |
-| ---- | Kill Bill: Vol. 1                     |
-| ---- | Finding Nemo                          |
-| ---- | Monsters, Inc.                        |
-| ---- | Annie Hall                            |
-| ---- | Barry Lyndon                          |
-| ---- | Butch Cassidy and the Sundance Kid    |
-| ---- | Life of Brian                         |
-| ---- | Amores Perros                         |
-| ---- | Infernal Affairs                      |
-| ---- | The Wolf of Wall Street               |
-| ---- | Django Unchained                      |
-| ---- | Like Stars on Earth                   |
-| ---- | Drishyam                              |
-| ---- | The Great Dictator                    |
-| ---- | The Maltese Falcon                    |
-| ---- | Sunset Boulevard                      |
-
----
+| 2004 | The Notebook |
+| 2005 | Batman Begins |
+| 2005 | My Father and My Son |
+| 2006 | Rang De Basanti |
+| 2007 | The Diving Bell and the Butterfly |
+| 2007 | There Will Be Blood |
+| 2008 | A Short Film About Killing |
+| 2008 | The Secret Life of Walter Mitty |
+| 2009 | Hachi: A Dog's Tale |
+| 2009 | The Killing of a Sacred Deer |
+| 2010 | Wasteland |
+| 2011 | The Intouchables |
+| 2013 | Nebraska |
+| 2013 | Beyond the Hills |
+| 2013 | Stories We Tell |
+| 2014 | Wild Tales |
+| 2014 | Leviathan |
+| 2014 | The Grand Budapest Hotel |
+| 2015 | Spotlight |
+| 2015 | The Revenant |
+| 2016 | Zootopia |
+| 2016 | The Secret in Their Eyes |
+| 2017 | Call Me by Your Name |
+| 2018 | The Biggest Little Farm |
+| 2019 | The Painted Bird |
+| 2020 | The Man Who Sold His Skin |
+| 2020 | Pieces of a Woman |
+| 2021 | Mare of Easttown |
+| ---- | A Scanner Darkly |
+| ---- | A.I. Artificial Intelligence |
+| ---- | Blade Runner 2049 |
+| ---- | Children of Men |
+| ---- | District 9 |
+| ---- | Edge of Tomorrow |
+| ---- | Moon |
+| ---- | Minority Report |
+| ---- | Parasyte |
+| ---- | The Thirteenth Floor |
+| ---- | The Life of David Gale |
+| ---- | What Ever Happened to Baby Jane? |
+| ---- | Cool Hand Luke |
+| ---- | The Conformist |
+| ---- | The General |
+| ---- | Stand by Me |
+| ---- | Million Dollar Baby |
+| ---- | Kill Bill: Vol. 1 |
+| ---- | Finding Nemo |
+| ---- | Monsters, Inc. |
+| ---- | Annie Hall |
+| ---- | Barry Lyndon |
+| ---- | Butch Cassidy and the Sundance Kid |
+| ---- | Life of Brian |
+| ---- | Amores Perros |
+| ---- | Infernal Affairs |
+| ---- | The Wolf of Wall Street |
+| ---- | Django Unchained |
+| ---- | Like Stars on Earth |
+| ---- | Drishyam |
+| ---- | The Great Dictator |
+| ---- | The Maltese Falcon |
+| ---- | Sunset Boulevard |
 
 ## Unseen Films and Series
 
-| Year | Title                  |
-| ---- | ---------------------- |
-| 1938 | Bringing Up Baby       |
-| 1958 | The Hidden Fortress    |
+| 1938 | Bringing Up Baby |
+| 1958 | The Hidden Fortress |
 | 1965 | With Beauty and Sorrow |
-| 1973 | Lady Snowblood         |
-| 1980 | Zigeunerweisen         |
-| 1995 | Ghost in the Shell     |
-| 1997 | Perfect Blue           |
-| 1997 | Princess Mononoke      |
-| 1998 | Birdcage Inn           |
-| 2000 | Battle Royale          |
-| 2000 | In the Mood for Love   |
-| 2000 | Real Fiction           |
-| 2002 | Infernal Affairs       |
-| 2003 | Carnivàle              |
-| 2005 | Memoirs of a Geisha    |
-| 2007 | Breath                 |
+| 1973 | Lady Snowblood |
+| 1980 | Zigeunerweisen |
+| 1995 | Ghost in the Shell |
+| 1997 | Perfect Blue |
+| 1997 | Princess Mononoke |
+| 1998 | Birdcage Inn |
+| 2000 | Battle Royale |
+| 2000 | In the Mood for Love |
+| 2000 | Real Fiction |
+| 2002 | Infernal Affairs |
+| 2003 | Carnivàle |
+| 2005 | Memoirs of a Geisha |
+| 2007 | Breath |
 | 2008 | Hana Yori Dango: Final |
-| 2008 | The Chaser             |
-| 2010 | I Saw the Devil        |
-| 2011 | Arirang                |
-| 2011 | Mildred Pierce         |
-| 2013 | Aashiqui 2             |
-| 2013 | Broadchurch            |
-| 2013 | The Bridge             |
-| 2013 | The Fall               |
-| 2015 | Trapped                |
-| 2016 | The Age of Shadows     |
-| 2016 | The Net                |
-| 2016 | Pustina                |
-| 2016 | The Young Pope         |
-| 2017 | A Taxi Driver          |
-| 2018 | Patrick Melrose        |
-| 2018 | Mr Inbetween           |
-| 2019 | Dissolve               |
-| 2019 | Years and Years        |
-| 2019 | The Outsider           |
-| 2019 | The I-Land             |
-| 2020 | The Investigation      |
-| 2021 | Infinite               |
-| 2021 | Luca                   |
-
+| 2008 | The Chaser |
+| 2010 | I Saw the Devil |
+| 2011 | Arirang |
+| 2011 | Mildred Pierce |
+| 2013 | Aashiqui 2 |
+| 2013 | Broadchurch |
+| 2013 | The Bridge |
+| 2013 | The Fall |
+| 2015 | Trapped |
+| 2016 | The Age of Shadows |
+| 2016 | The Net |
+| 2016 | Pustina |
+| 2016 | The Young Pope |
+| 2017 | A Taxi Driver |
+| 2018 | Patrick Melrose |
+| 2018 | Mr Inbetween |
+| 2019 | Dissolve |
+| 2019 | Years and Years |
+| 2019 | The Outsider |
+| 2019 | The I-Land |
+| 2020 | The Investigation |
+| 2021 | Infinite |
+| 2021 | Luca |
 Here’s your list formatted using the style you requested:
-
----
 
 ### Noteworthy Films (Unseen, Yearless)
 
@@ -1540,580 +1361,366 @@ Here’s your list formatted using the style you requested:
 | ---- | The Big Lebowski                |
 | ---- | American Hustle                 |
 
----
-
 ### Unseen Series / Documentaries (Mixed Year or Miniseries)
 
-| Year | Title                |
-| ---- | -------------------- |
-| ---- | Sharp Objects        |
-| ---- | Lisey's Story        |
-| ---- | Top of the Lake      |
-| ---- | Wolf Hall            |
-| ---- | The Knick            |
-| ---- | The Night Manager    |
-| ---- | The Young Pope       |
-| ---- | Maniac               |
-| ---- | Quicksand            |
+| ---- | Sharp Objects |
+| ---- | Lisey's Story |
+| ---- | Top of the Lake |
+| ---- | Wolf Hall |
+| ---- | The Knick |
+| ---- | The Night Manager |
+| ---- | The Young Pope |
+| ---- | Maniac |
+| ---- | Quicksand |
 | ---- | American Crime Story |
-| ---- | Strange Angel        |
-
----
+| ---- | Strange Angel |
 
 ### Documentaries (Unseen)
 
-| Year | Title                            |
-| ---- | -------------------------------- |
-| ---- | Where’s My Roy Cohn              |
-| ---- | Inside Bill’s Brain              |
-| ---- | Coronavirus, Explained           |
-| ---- | Apollo 11                        |
-| ---- | Sex, Explained                   |
-| ---- | Our Man in Tehran                |
-| ---- | The Age of A.I.                  |
-| ---- | The Mind, Explained              |
-| ---- | Life in a Day                    |
+| ---- | Where’s My Roy Cohn |
+| ---- | Inside Bill’s Brain |
+| ---- | Coronavirus, Explained |
+| ---- | Apollo 11 |
+| ---- | Sex, Explained |
+| ---- | Our Man in Tehran |
+| ---- | The Age of A.I. |
+| ---- | The Mind, Explained |
+| ---- | Life in a Day |
 | ---- | 102 Minutes That Changed America |
-| ---- | The Social Dilemma               |
-| ---- | Deep Web                         |
-| ---- | The Internet’s Own Boy           |
-| ---- | The Fabric of the Cosmos         |
-
----
-
+| ---- | The Social Dilemma |
+| ---- | Deep Web |
+| ---- | The Internet’s Own Boy |
+| ---- | The Fabric of the Cosmos |
 Certainly! Here’s the cleaned list in the requested format:
-
-## Unseen Films and Series
-
-| Year | Title                       |
-| ---- | --------------------------- |
-| 2021 | Haseen Dillruba             |
-| 2021 | John And The Hole           |
-| ---- | Doom 3                      |
-| ---- | Sultan                      |
-| ---- | 3 Idiots                    |
-| ---- | PK                          |
-| ---- | Chennai Express             |
-| ---- | Ek Tha Tiger                |
-| ---- | Tiger Zinda Hai             |
-| ---- | Mr. Fast                    |
-| ---- | Drishyam                    |
-| ---- | Kick                        |
-| ---- | Dangal                      |
-| ---- | Fan                         |
-| ---- | Lagaan                      |
-| ---- | Bajrangi Bhaijaan           |
-| ---- | Groom Takes Bride           |
-| ---- | Happy New Year              |
-| ---- | Stars on Earth              |
-| ---- | Bharat                      |
-| ---- | Raazi                       |
-| ---- | Dear Zindagi                |
-| ---- | Snow                        |
-| ---- | True Hero                   |
-| ---- | Dildar                      |
-| ---- | Zero                        |
-| ---- | Jabbar Returns              |
-| ---- | Padman                      |
-| ---- | Gold                        |
-| ---- | Piku                        |
-| ---- | Tamasha                     |
-| ---- | Dan (series)                |
-| ---- | Padmaavat                   |
-| ---- | Singam                      |
-| ---- | Tizmar Khan                 |
-| ---- | Zaheer Zara                 |
-| ---- | Fearless 2                  |
-| ---- | Competition Series          |
-| ---- | Effort                      |
-| ---- | Cam Tavanlar                |
-| ---- | Ada Masalı                  |
-| ---- | 10Bin Adım                  |
-| ---- | Terapist                    |
-| ---- | Saygı                       |
-| ---- | Bartu Ben                   |
-| ---- | Yarım Kalan Aşklar          |
-| ---- | 50m2                        |
-| ---- | Club                        |
-| ---- | Fatma                       |
-| ---- | Marasli                     |
-| ---- | Kırmızı Kamyon              |
-| ---- | Sicak Kafa                  |
+| 2021 | Haseen Dillruba |
+| 2021 | John And The Hole |
+| ---- | Doom 3 |
+| ---- | Sultan |
+| ---- | 3 Idiots |
+| ---- | PK |
+| ---- | Chennai Express |
+| ---- | Ek Tha Tiger |
+| ---- | Tiger Zinda Hai |
+| ---- | Mr. Fast |
+| ---- | Drishyam |
+| ---- | Kick |
+| ---- | Dangal |
+| ---- | Fan |
+| ---- | Lagaan |
+| ---- | Bajrangi Bhaijaan |
+| ---- | Groom Takes Bride |
+| ---- | Happy New Year |
+| ---- | Stars on Earth |
+| ---- | Bharat |
+| ---- | Raazi |
+| ---- | Dear Zindagi |
+| ---- | Snow |
+| ---- | True Hero |
+| ---- | Dildar |
+| ---- | Zero |
+| ---- | Jabbar Returns |
+| ---- | Padman |
+| ---- | Gold |
+| ---- | Piku |
+| ---- | Tamasha |
+| ---- | Dan (series) |
+| ---- | Padmaavat |
+| ---- | Singam |
+| ---- | Tizmar Khan |
+| ---- | Zaheer Zara |
+| ---- | Fearless 2 |
+| ---- | Competition Series |
+| ---- | Effort |
+| ---- | Cam Tavanlar |
+| ---- | Ada Masalı |
+| ---- | 10Bin Adım |
+| ---- | Terapist |
+| ---- | Saygı |
+| ---- | Bartu Ben |
+| ---- | Yarım Kalan Aşklar |
+| ---- | 50m2 |
+| ---- | Club |
+| ---- | Fatma |
+| ---- | Marasli |
+| ---- | Kırmızı Kamyon |
+| ---- | Sicak Kafa |
 | ---- | Midnight at the Pera Palace |
-| ---- | Forty Rules of Love         |
-| ---- | Atiye                       |
-| ---- | Love 101                    |
-
----
+| ---- | Forty Rules of Love |
+| ---- | Atiye |
+| ---- | Love 101 |
 
 ## Movies
 
-| Year | Title                            |
-| ---- | -------------------------------- |
-| ---- | Nine Perfect Strangers           |
-| ---- | Taegukgi                         |
-| 2021 | Reminiscence                     |
-| ---- | No Man of God                    |
-| 2021 | Last Night in Soho               |
-| 2021 | Spencer                          |
-| 2019 | Pain and Glory                   |
-| 2018 | Roma                             |
-| 2019 | Heroic Losers                    |
-| 2010 | Biutiful                         |
-| 2007 | The Orphanage                    |
-| 2007 | REC                              |
-| 1996 | Tesis                            |
-| 2016 | The Distinguished Citizen        |
-| 2016 | 100 Metros                       |
-| 2010 | Even the Rain                    |
-| 2004 | Bad Education                    |
-| 2006 | Volver                           |
-| 2012 | Blancanieves                     |
-| 1999 | La Lengua de las Mariposas       |
-| 2011 | The Skin I Live In               |
-| 2001 | Y Tu Mamá También                |
-| 2002 | Mondays in the Sun               |
-| 1997 | Open Your Eyes                   |
-| 1999 | All About My Mother              |
-| 2004 | The Sea Inside                   |
-| 2002 | Talk to Her                      |
-| 1973 | El Espíritu de la Colmena        |
-| 2014 | Wild Tales                       |
-| 2000 | Amores Perros                    |
-| 1955 | Escuela De Vagabundos            |
-| 1963 | The Executioner                  |
-| 2016 | The Invisible Guest              |
-| 1984 | The Holy Innocents               |
-| 2009 | The Secret in Their Eyes         |
-| 2006 | Pan’s Labyrinth                  |
-| 1961 | Viridiana                        |
-| 1962 | The Exterminating Angel          |
-| 1953 | Welcome, Mr Marshall             |
-| 1961 | Placido                          |
-| 1960 | Macario                          |
-| 2017 | Coco                             |
-| 2021 | Rushed                           |
+| ---- | Nine Perfect Strangers |
+| ---- | Taegukgi |
+| 2021 | Reminiscence |
+| ---- | No Man of God |
+| 2021 | Last Night in Soho |
+| 2021 | Spencer |
+| 2019 | Pain and Glory |
+| 2018 | Roma |
+| 2019 | Heroic Losers |
+| 2010 | Biutiful |
+| 2007 | The Orphanage |
+| 2007 | REC |
+| 1996 | Tesis |
+| 2016 | The Distinguished Citizen |
+| 2016 | 100 Metros |
+| 2010 | Even the Rain |
+| 2004 | Bad Education |
+| 2006 | Volver |
+| 2012 | Blancanieves |
+| 1999 | La Lengua de las Mariposas |
+| 2011 | The Skin I Live In |
+| 2001 | Y Tu Mamá También |
+| 2002 | Mondays in the Sun |
+| 1997 | Open Your Eyes |
+| 1999 | All About My Mother |
+| 2004 | The Sea Inside |
+| 2002 | Talk to Her |
+| 1973 | El Espíritu de la Colmena |
+| 2014 | Wild Tales |
+| 2000 | Amores Perros |
+| 1955 | Escuela De Vagabundos |
+| 1963 | The Executioner |
+| 2016 | The Invisible Guest |
+| 1984 | The Holy Innocents |
+| 2009 | The Secret in Their Eyes |
+| 2006 | Pan’s Labyrinth |
+| 1961 | Viridiana |
+| 1962 | The Exterminating Angel |
+| 1953 | Welcome, Mr Marshall |
+| 1961 | Placido |
+| 1960 | Macario |
+| 2017 | Coco |
+| 2021 | Rushed |
 | 2008 | 102 Minutes That Changed America |
-| ---- | No Time to Die                   |
-| ---- | Lamb                             |
-| ---- | Last Duel                        |
-| ---- | Halloween Kills                  |
-| ---- | Titane                           |
-| ---- | Dune                             |
-| ---- | The French Dispatch              |
-| 2021 | Pig                              |
-| 2014 | Scarlet Innocence                |
-| ---- | Being John Malkovich             |
-| ---- | Jacob’s Ladder                   |
-
----
+| ---- | No Time to Die |
+| ---- | Lamb |
+| ---- | Last Duel |
+| ---- | Halloween Kills |
+| ---- | Titane |
+| ---- | Dune |
+| ---- | The French Dispatch |
+| 2021 | Pig |
+| 2014 | Scarlet Innocence |
+| ---- | Being John Malkovich |
+| ---- | Jacob’s Ladder |
 
 ## Series
 
-| Year | Title                        |
-| ---- | ---------------------------- |
-| 2014 | Gracepoint                   |
-| 2013 | Top of the Lake: China Girl  |
-| 2017 | Taboo                        |
-| 2013 | The Bridge                   |
-| 1982 | Remington Steele             |
-| 2017 | Riverdale                    |
-| 2015 | True Detective, Season 2     |
-| 2013 | Broadchurch                  |
-| 2010 | Pretty Little Liars          |
-| 2017 | The Sinner                   |
-| 2018 | The Alienist                 |
-| 2014 | Fargo                        |
-| 2011 | The Killing                  |
-| 2017 | Mindhunter                   |
-| 2010 | Luther                       |
-| 2013 | The Fall                     |
-| 2016 | The Night Of                 |
-| 2017 | Big Little Lies              |
-| 2014 | True Detective, Season 1     |
-| 1990 | Twin Peaks                   |
-| 2020 | Gangs of London              |
+| 2014 | Gracepoint |
+| 2013 | Top of the Lake: China Girl |
+| 2017 | Taboo |
+| 2013 | The Bridge |
+| 1982 | Remington Steele |
+| 2017 | Riverdale |
+| 2015 | True Detective, Season 2 |
+| 2013 | Broadchurch |
+| 2010 | Pretty Little Liars |
+| 2017 | The Sinner |
+| 2018 | The Alienist |
+| 2014 | Fargo |
+| 2011 | The Killing |
+| 2017 | Mindhunter |
+| 2010 | Luther |
+| 2013 | The Fall |
+| 2016 | The Night Of |
+| 2017 | Big Little Lies |
+| 2014 | True Detective, Season 1 |
+| 1990 | Twin Peaks |
+| 2020 | Gangs of London |
 | 2020 | What We Do In The Shadows S2 |
-| ---- | Industry                     |
-| ---- | The Crown S4                 |
-| ---- | Little Fires Everywhere      |
-| ---- | We Are Who We Are            |
-| ---- | The Eddy                     |
-| ---- | Ted Lasso                    |
-| ---- | Mrs. America                 |
-| ---- | Quiz                         |
-| ---- | Bojack Horseman S6           |
-| ---- | Lovecraft Country            |
-| ---- | Schitt's Creek S6            |
-| ---- | The Last Dance               |
-| ---- | I'll Be Gone In The Dark     |
-| ---- | I Hate Suzie                 |
-| ---- | Dead To Me S2                |
-| ---- | The Boys S2                  |
-| ---- | Better Call Saul S5          |
-| ---- | The Queen's Gambit           |
-| ---- | Devs                         |
-| ---- | Normal People                |
-| ---- | I May Destroy You            |
-| ---- | The Mandalorian S1 + S2      |
-| ---- | Small Axe                    |
-
----
+| ---- | Industry |
+| ---- | The Crown S4 |
+| ---- | Little Fires Everywhere |
+| ---- | We Are Who We Are |
+| ---- | The Eddy |
+| ---- | Ted Lasso |
+| ---- | Mrs. America |
+| ---- | Quiz |
+| ---- | Bojack Horseman S6 |
+| ---- | Lovecraft Country |
+| ---- | Schitt's Creek S6 |
+| ---- | The Last Dance |
+| ---- | I'll Be Gone In The Dark |
+| ---- | I Hate Suzie |
+| ---- | Dead To Me S2 |
+| ---- | The Boys S2 |
+| ---- | Better Call Saul S5 |
+| ---- | The Queen's Gambit |
+| ---- | Devs |
+| ---- | Normal People |
+| ---- | I May Destroy You |
+| ---- | The Mandalorian S1 + S2 |
+| ---- | Small Axe |
 
 ## Unseen Movies
 
-| Year | Title                                         |
-| ---- | --------------------------------------------- |
-| 2021 | Squid Game (Note: series but listed here)     |
-| 2020 | Exit                                          |
+| 2021 | Squid Game (Note: series but listed here) |
+| 2020 | Exit |
 | ---- | The Real Housewives of Beverly Hills (series) |
-| 2012 | The Body                                      |
-| 2016 | Tunnel                                        |
-| 2000 | Battle Royale                                 |
-| ---- | The Visitor of the Museum                     |
-| ---- | The Chestnut Man                              |
-| 2021 | The Last Duel                                 |
-| 2001 | Spirited Away                                 |
-| ---- | Mortal Engines                                |
-| ---- | It Comes at Night                             |
-| 1949 | Late Spring                                   |
-| 1950 | Rashomon                                      |
-| 1954 | Seven Samurai                                 |
-| 1962 | Harakiri                                      |
-| 1997 | Fireworks                                     |
-| 2004 | The Taste of Tea                              |
-| 2004 | Nobody Knows                                  |
-| 2008 | Departures                                    |
-| 2003 | Spring, Summer, Fall, Winter... and Spring    |
-| 2004 | A Moment to Remember                          |
-| 2010 | The Man from Nowhere                          |
-| 2003 | Save the Green Planet!                        |
-| 2005 | A Bittersweet Life                            |
-| 2016 | The World of Us                               |
-| 1993 | Seopyeonje                                    |
-| 2008 | The Chaser                                    |
-| 2004 | Taegukgi                                      |
-| 2016 | The Net                                       |
-| 2015 | Veteran                                       |
-| 2010 | Poetry                                        |
-| 2020 | Minari                                        |
-| 2020 | Alive                                         |
-| 2009 | Thirst                                        |
-| ---- | Extraction                                    |
-| ---- | Bird Box                                      |
-| ---- | Spenser Confidential                          |
-| ---- | Underground 6                                 |
-| ---- | Murder Mystery                                |
-| ---- | The Old Guard                                 |
-| ---- | Project Power                                 |
-| ---- | Army of the Dead                              |
-| ---- | The Midnight Sky                              |
-| ---- | Dekalog                                       |
-| ---- | The Ascent of Money (documentary)             |
-| 1995 | Heat                                          |
-| 1981 | Blow Out                                      |
-| 1998 | The Big Lebowski                              |
-| 1956 | The Searchers                                 |
-| 1980 | The Shining                                   |
-| 1995 | Before Sunrise                                |
-| 1957 | Paths of Glory                                |
-| 1953 | The Shop Around the Corner                    |
-| 1958 | Touch of Evil                                 |
-| 1992 | Reservoir Dogs                                |
-| 1973 | The Long Goodbye                              |
-| 1982 | The King of Comedy                            |
-| 2007 | Zodiac                                        |
-| 2011 | Margaret                                      |
-| 2011 | Melancholia                                   |
-| 2000 | American Psycho                               |
-| 1938 | Bringing Up Baby                              |
-| 1973 | Don't Look Now                                |
-| 1966 | The Good, the Bad and the Ugly                |
-| 1971 | Harold and Maude                              |
-| 2000 | In the Mood for Love                          |
-| 2018 | You Were Never Really Here                    |
-| 2003 | The Life of David Gale                        |
-| 2013 | Trance                                        |
-| 2007 | Gone Baby Gone                                |
-| 2016 | The Girl on the Train                         |
-| 2007 | Zodiac                                        |
-| 2001 | Mulholland Drive                              |
-| 2007 | The Number 23                                 |
-| 2000 | Memento                                       |
-| 2013 | Prisoners                                     |
-| 2007 | Fracture                                      |
-| 2013 | Before I Go to Sleep                          |
-| 2003 | Mystic River                                  |
-| 2005 | Flightplan                                    |
-| 2015 | And Then There Were None                      |
-| 2008 | The Oxford Murders                            |
-| ---- | Ambulance                                     |
-
----
+| 2012 | The Body |
+| 2016 | Tunnel |
+| 2000 | Battle Royale |
+| ---- | The Visitor of the Museum |
+| ---- | The Chestnut Man |
+| 2021 | The Last Duel |
+| 2001 | Spirited Away |
+| ---- | Mortal Engines |
+| ---- | It Comes at Night |
+| 1949 | Late Spring |
+| 1950 | Rashomon |
+| 1954 | Seven Samurai |
+| 1962 | Harakiri |
+| 1997 | Fireworks |
+| 2004 | The Taste of Tea |
+| 2004 | Nobody Knows |
+| 2008 | Departures |
+| 2003 | Spring, Summer, Fall, Winter... and Spring |
+| 2004 | A Moment to Remember |
+| 2010 | The Man from Nowhere |
+| 2003 | Save the Green Planet! |
+| 2005 | A Bittersweet Life |
+| 2016 | The World of Us |
+| 1993 | Seopyeonje |
+| 2008 | The Chaser |
+| 2004 | Taegukgi |
+| 2016 | The Net |
+| 2015 | Veteran |
+| 2010 | Poetry |
+| 2020 | Minari |
+| 2020 | Alive |
+| 2009 | Thirst |
+| ---- | Extraction |
+| ---- | Bird Box |
+| ---- | Spenser Confidential |
+| ---- | Underground 6 |
+| ---- | Murder Mystery |
+| ---- | The Old Guard |
+| ---- | Project Power |
+| ---- | Army of the Dead |
+| ---- | The Midnight Sky |
+| ---- | Dekalog |
+| ---- | The Ascent of Money (documentary) |
+| 1995 | Heat |
+| 1981 | Blow Out |
+| 1998 | The Big Lebowski |
+| 1956 | The Searchers |
+| 1980 | The Shining |
+| 1995 | Before Sunrise |
+| 1957 | Paths of Glory |
+| 1953 | The Shop Around the Corner |
+| 1958 | Touch of Evil |
+| 1992 | Reservoir Dogs |
+| 1973 | The Long Goodbye |
+| 1982 | The King of Comedy |
+| 2007 | Zodiac |
+| 2011 | Margaret |
+| 2011 | Melancholia |
+| 2000 | American Psycho |
+| 1938 | Bringing Up Baby |
+| 1973 | Don't Look Now |
+| 1966 | The Good, the Bad and the Ugly |
+| 1971 | Harold and Maude |
+| 2000 | In the Mood for Love |
+| 2018 | You Were Never Really Here |
+| 2003 | The Life of David Gale |
+| 2013 | Trance |
+| 2007 | Gone Baby Gone |
+| 2016 | The Girl on the Train |
+| 2001 | Mulholland Drive |
+| 2007 | The Number 23 |
+| 2000 | Memento |
+| 2013 | Prisoners |
+| 2007 | Fracture |
+| 2013 | Before I Go to Sleep |
+| 2003 | Mystic River |
+| 2005 | Flightplan |
+| 2015 | And Then There Were None |
+| 2008 | The Oxford Murders |
+| ---- | Ambulance |
 
 ## Unseen Series / Miniseries
 
-| Year | Title                                |
-| ---- | ------------------------------------ |
-| ---- | Sharp Objects                        |
-| ---- | Band of Brothers                     |
-| ---- | Good Omens                           |
-| ---- | 11.22.63                             |
-| ---- | Chernobyl                            |
-| ---- | Patrick Melrose                      |
-| ---- | Parade’s End                         |
-| ---- | The Night Manager                    |
-| ---- | The Night Of                         |
-| ---- | Mildred Pierce                       |
-| ---- | When They See Us                     |
-| ---- | The Honourable Woman                 |
-| ---- | Gangland Undercover                  |
-| ---- | The Haunting of Hill House           |
-| ---- | And Then There Were None             |
+| ---- | Sharp Objects |
+| ---- | Band of Brothers |
+| ---- | Good Omens |
+| ---- | 11.22.63 |
+| ---- | Chernobyl |
+| ---- | Patrick Melrose |
+| ---- | Parade’s End |
+| ---- | The Night Manager |
+| ---- | The Night Of |
+| ---- | Mildred Pierce |
+| ---- | When They See Us |
+| ---- | The Honourable Woman |
+| ---- | Gangland Undercover |
+| ---- | The Haunting of Hill House |
+| ---- | And Then There Were None |
 | ---- | The Real Housewives of Beverly Hills |
-| ---- | The Chestnut Man                     |
-| ---- | The Visitor of the Museum            |
+| ---- | The Chestnut Man |
+| ---- | The Visitor of the Museum |
 
----
-
-## Notable Directors Mentioned (No movies listed)
-
-- Alejandro Gonzalez Inarritu
-- Rainer Werner Fassbinder
-- Friedrich Wilhelm Murnau
-- Paul Thomas Anderson
-- Michelangelo Antonioni
-- Alejandro Jodorowsky
-- Sohrab Shahid Saless
-- Nicolas Winding Refn
-- Krzysztof Kieslowski
-- Carl Theodor Dreyer
-- Philippe Grandrieux
-- Jean-Pierre Melville
-- Theo Angelopoulos
-- Andrey Zvyagintsev
-- Thomas Vinterberg
-- Pawel Pawlikowski
-- Pier Paolo Pasolini
-- David Wark Griffith
-- Martin McDonagh
-- Roberto Rossellini
-- David Cronenberg
-- Hirokazu Koreeda
-- Abbas Kiarostami
-- Yorgos Lanthimos
-- Francois Truffaut
-- Sergei Eisenstein
-- Jean-Luc Godard
-- Darren Aronofsky
-- Andrei Tarkovsky
-- Nuri Bilge Ceylan
-- Roman Polanski
-- Lee Chang-dong
-- Sergei Parajanov
-- Damien Chazelle
-- Ingmar Bergman
-- Luchino Visconti
-- Alfred Hitchcock
-- Park Chan-wook
-- Denis Villeneuve
-- Fred Zinnemann
-- Michael Haneke
-- Akira Kurosawa
-- Steve McQueen
-- Hayao Miyazaki
-- Kenji Mizoguchi
-- Robert Bresson
-- Safdie Brothers
-- John Carpenter
-- Roy Andersson
-- Federico Fellini
-- Howard Hawks
-- Alfonso Cuaron
-- Victor Sjostrom
-- Charlie Chaplin
-- Stanley Kubrick
-- Jacques Demy
-- Philippe Garrel
-- Jim Jarmusch
-- Wes Anderson
-- Coen Brothers
-- Anthony Mann
-- Robert Eggers
-- Wong Kar Wai
-- Buster Keaton
-- Jean Cocteau
-- Lars Von Trier
-- Gus Van Sant
-- Costa Gavras
-- Alain Resnais
-- William Wyler
-- David Lowery
-- Orson Welles
-- John Huston
-- Jacques Tati
-- Agnes Varda
-- Yasujiro Ozu
-- Woody Allen
-- Danny Boyle
-- Satoshi Kon
-- Eric Rohmer
-- Jean Renoir
-- David Lynch
-- Gaspar Noe
-- Spike Jonze
-- Ridley Scott
-- Satyajit Ray
-- Luis Bunuel
-- Leos Carax
-- David Lean
-- Kim Ki-duk
-- Billy Wilder
-- Mike Leigh
-- Ken Loach
-- Elia Kazan
-- John Ford
-- Fatih Akin
-- Fritz Lang
-- Bela Tarr
-- Ari Aster
-- Hu Bo
-- Apichatpong Weerasethakul
-- Konstantin Lopushansky
-- Joseph L. Mankiewicz
-- Mohsen Makhmalbaf
-- Andrei Konchalovsky
-- Alejandro Amenabar
-- Bernardo Bertolucci
-- Peter Bogdanovich
-- Alexander Sokurov
-- Volker Schlöndorff
-- Masaki Kobayashi
-- Mikhail Kalatozov
-- Chantal Akerman
-- Pedro Almodóvar
-- Dusan Makavejev
-- Andrzej Zulawski
-- John Cassavetes
-- Paolo Sorrentino
-- Noah Baumbach
-- Shohei Imamura
-- Terrence Malick
-- Jacques Rivette
-- Jacques Becker
-- Taviani Brothers
-- Claude Lelouch
-- Claude Chabrol
-- Šarūnas Bartas
-- Hong Sang-soo
-- Francesco Rosi
-- Vittorio De Sica
-- Asghar Farhadi
-- Shuji Terayama
-- Nagisa Oshima
-- Brian de Palma
-- Werner Herzog
-- Aki Kaurismaki
-- Ruben Östlund
-- Bahram Beyzai
-- Emir Kusturica
-- Andrzej Wajda
-- Miklos Jancso
-- Maurice Pialat
-- Robert Altman
-- Ernst Lubitsch
-- Wojciech Has
-- Dario Argento
-- Wim Wenders
-- Samuel Fuller
-- Sidney Lumet
-- Jonas Mekas
-- Nicolas Roeg
-- Mike Nichols
-- Jafar Panahi
-- Xavier Dolan
-- Douglas Sirk
-- Pedro Costa
-- Dziga Vertov
-- Chris Marker
-- Frank Capra
-- Max Ophuls
-- Louis Malle
-- Tinto Brass
-- Joris Ivens
-- Rene Clair
-- Hal Ashby
-- Jean Vigo
-- Elio Petri
-
----
-
-## Unseen Movies
-
-| Year | Title                                              |
-| ---- | -------------------------------------------------- |
-| 2014 | Wild Tales                                         |
-| 2019 | The Gangster, The Cop, The Devil                   |
-| 2022 | After Yang                                         |
-| 2011 | In a Better World                                  |
-| 2022 | Five Days at Memorial                              |
-| 2022 | The Sea Beast                                      |
-| ---- | Ghajini                                            |
-| ---- | Broker                                             |
-| ---- | Spies in Disguise                                  |
-| ---- | Girl in the Picture                                |
-| 1990 | Misery                                             |
-| ---- | Ancient China From Above (documentary)             |
+| 2014 | Wild Tales |
+| 2019 | The Gangster, The Cop, The Devil |
+| 2022 | After Yang |
+| 2011 | In a Better World |
+| 2022 | Five Days at Memorial |
+| 2022 | The Sea Beast |
+| ---- | Ghajini |
+| ---- | Broker |
+| ---- | Spies in Disguise |
+| ---- | Girl in the Picture |
+| 1990 | Misery |
+| ---- | Ancient China From Above (documentary) |
 | ---- | Online Life and Death: Bianca Devins (documentary) |
-| 2022 | Broker                                             |
-| 1941 | How Green Was My Valley                            |
-| 2022 | Love Like the Falling Petals                       |
-| 2018 | Arctic                                             |
-| 2022 | The Quiet Girl                                     |
-| 2022 | Bodies Bodies Bodies                               |
-| 2021 | Jujutsu Kaisen 0: The Movie                        |
-| 2022 | Drifting Home                                      |
-| 2022 | Speak No Evil                                      |
-| 2022 | Emily the Criminal                                 |
-| 2022 | Khuda Haafiz Chapter 2: Agni Pariksha              |
-| 2021 | Emergency Declaration                              |
-| 2022 | Hit: The First Case                                |
-| 2022 | Nana                                               |
-| 2022 | Nope                                               |
-| 2021 | Misery (listed twice)                              |
-| 2018 | Arctic                                             |
-| 2018 | The Purity of Vengeance                            |
-| 2003 | The Memory of a Killer                             |
-| 2013 | The Fifth Estate                                   |
-| 2016 | Hacker                                             |
-| 1992 | Scam: The Harshad Mehta Story                      |
-| 1969 | Z (Gusta Gavras)                                   |
-| 2010 | The Ghost Writer                                   |
-| 2010 | The Next Three Days                                |
-| 2013 | Prince Avalanche                                   |
-| 2005 | Still Life                                         |
-| ---- | Runaway Jury                                       |
-| ---- | Hum Dil De Chuke Sanam                             |
-| 2021 | The Matrix 4: Resurrections                        |
-| 1962 | An Autumn Afternoon                                |
-| 2007 | The Man from Earth                                 |
-| ---- | Sleeping Beauty                                    |
-| 2002 | Minority Report                                    |
-| 2021 | In the Heights                                     |
-| 1999 | Ghost Dog: The Way of the Samurai                  |
-| 1994 | Sátántangó                                         |
-| 1963 | The Great Escape                                   |
-| ---- | Nirgendwo in Afrika                                |
-| ---- | Paradies: Liebe                                    |
-| 2018 | The Professor                                      |
-| 1993 | What’s Eating Gilbert Grape                        |
-| 1990 | The Freshman                                       |
-| 1956 | A Man Escaped                                      |
-| 1940 | The Grapes of Wrath                                |
-| 1953 | Pickup on South Street                             |
-| 2008 | Dragon Hunters                                     |
-
----
+| 2022 | Broker |
+| 1941 | How Green Was My Valley |
+| 2022 | Love Like the Falling Petals |
+| 2018 | Arctic |
+| 2022 | The Quiet Girl |
+| 2022 | Bodies Bodies Bodies |
+| 2021 | Jujutsu Kaisen 0: The Movie |
+| 2022 | Drifting Home |
+| 2022 | Speak No Evil |
+| 2022 | Emily the Criminal |
+| 2022 | Khuda Haafiz Chapter 2: Agni Pariksha |
+| 2021 | Emergency Declaration |
+| 2022 | Hit: The First Case |
+| 2022 | Nana |
+| 2022 | Nope |
+| 2021 | Misery (listed twice) |
+| 2018 | The Purity of Vengeance |
+| 2003 | The Memory of a Killer |
+| 2013 | The Fifth Estate |
+| 2016 | Hacker |
+| 1992 | Scam: The Harshad Mehta Story |
+| 1969 | Z (Gusta Gavras) |
+| 2010 | The Ghost Writer |
+| 2010 | The Next Three Days |
+| 2013 | Prince Avalanche |
+| 2005 | Still Life |
+| ---- | Runaway Jury |
+| ---- | Hum Dil De Chuke Sanam |
+| 2021 | The Matrix 4: Resurrections |
+| 1962 | An Autumn Afternoon |
+| 2007 | The Man from Earth |
+| ---- | Sleeping Beauty |
+| 2002 | Minority Report |
+| 2021 | In the Heights |
+| 1999 | Ghost Dog: The Way of the Samurai |
+| 1994 | Sátántangó |
+| 1963 | The Great Escape |
+| ---- | Nirgendwo in Afrika |
+| ---- | Paradies: Liebe |
+| 2018 | The Professor |
+| 1993 | What’s Eating Gilbert Grape |
+| 1990 | The Freshman |
+| 1956 | A Man Escaped |
+| 1940 | The Grapes of Wrath |
+| 1953 | Pickup on South Street |
+| 2008 | Dragon Hunters |
 
 ## Unseen Series / Miniseries / TV Shows
 
@@ -2175,8 +1782,6 @@ Certainly! Here’s the cleaned list in the requested format:
 | ---- | Wild Wild Country (Doc)   |
 | ---- | Peripheral                |
 | ---- | One Ordinary Day          |
-
----
 
 ## Animation & Cartoons (Movies and Series)
 
@@ -2246,8 +1851,6 @@ Certainly! Here’s the cleaned list in the requested format:
 | ---- | Wolf Children                                     |
 | ---- | Only Yesterday (listed again)                     |
 
----
-
 ## Unseen Animated Movies
 
 | Year | Title                                          |
@@ -2281,181 +1884,158 @@ Certainly! Here’s the cleaned list in the requested format:
 | 1992 | Porco Rosso                                    |
 | 1984 | Nausicaä of the Valley of the Wind             |
 
----
-
 ## Unseen Drama / Thriller / Crime Movies
 
-| Year | Title                                |
-| ---- | ------------------------------------ |
-| 2014 | Wild Tales                           |
-| 2019 | The Gangster, The Cop, The Devil     |
-| 2022 | After Yang                           |
-| 2022 | The Sea Beast                        |
-| 2014 | Nasha                                |
-| 2023 | Golda                                |
-| 2021 | The Voyeurs                          |
-| 2013 | 3096 Tage                            |
-| 2016 | Lady Macbeth                         |
-| 2016 | Secuestro                            |
-| 2022 | Summit Fever                         |
-| 2023 | Sketchbook                           |
-| 2003 | A Moment to Remember                 |
-| 2023 | Past Lives                           |
-| 2009 | Fish Tank                            |
-| 2022 | God’s Crooked Lines                  |
-| 2018 | Emily the Criminal                   |
+| 2014 | Wild Tales |
+| 2019 | The Gangster, The Cop, The Devil |
+| 2022 | After Yang |
+| 2022 | The Sea Beast |
+| 2014 | Nasha |
+| 2023 | Golda |
+| 2021 | The Voyeurs |
+| 2013 | 3096 Tage |
+| 2016 | Lady Macbeth |
+| 2016 | Secuestro |
+| 2022 | Summit Fever |
+| 2023 | Sketchbook |
+| 2003 | A Moment to Remember |
+| 2023 | Past Lives |
+| 2009 | Fish Tank |
+| 2022 | God’s Crooked Lines |
+| 2018 | Emily the Criminal |
 | 2022 | Khuda Haafiz Chapter 2 Agni Pariksha |
-| 2021 | Emergency Declaration                |
-| 2022 | Hit: The First Case                  |
-| 2022 | Nana                                 |
-| 2022 | Nope                                 |
-| 1981 | My Dinner with Andre                 |
-| 1966 | The Battle of Algiers                |
-| 1981 | Possession                           |
-| 1994 | Sátántangó                           |
-| 1988 | The Vanishing (Spoorloos)            |
-| 2018 | Burning                              |
-| 1997 | Cure                                 |
-| 2003 | Elephant                             |
-| 2008 | Bronson                              |
-| 1996 | Pusher                               |
-| 2000 | Sin City                             |
-| 1996 | The Snatch                           |
-| 2011 | Snowtown                             |
-| 2018 | Hereditary                           |
-| 2011 | Enter the Void                       |
-| 2012 | Die Wand                             |
-| 2003 | Monster                              |
-| 2000 | American Psycho                      |
-| 1995 | Before Sunrise                       |
-| 1980 | The Shining                          |
-| 1998 | The Big Lebowski                     |
-| 2007 | Zodiac                               |
-| 1973 | Don't Look Now                       |
-| 1992 | Reservoir Dogs                       |
-| 1982 | The King of Comedy                   |
-
----
+| 2021 | Emergency Declaration |
+| 2022 | Hit: The First Case |
+| 2022 | Nana |
+| 2022 | Nope |
+| 1981 | My Dinner with Andre |
+| 1966 | The Battle of Algiers |
+| 1981 | Possession |
+| 1994 | Sátántangó |
+| 1988 | The Vanishing (Spoorloos) |
+| 2018 | Burning |
+| 1997 | Cure |
+| 2003 | Elephant |
+| 2008 | Bronson |
+| 1996 | Pusher |
+| 2000 | Sin City |
+| 1996 | The Snatch |
+| 2011 | Snowtown |
+| 2018 | Hereditary |
+| 2011 | Enter the Void |
+| 2012 | Die Wand |
+| 2003 | Monster |
+| 2000 | American Psycho |
+| 1995 | Before Sunrise |
+| 1980 | The Shining |
+| 1998 | The Big Lebowski |
+| 2007 | Zodiac |
+| 1973 | Don't Look Now |
+| 1992 | Reservoir Dogs |
+| 1982 | The King of Comedy |
 
 ## Unseen Classic / Historical / War Movies
 
-| Year | Title                       |
-| ---- | --------------------------- |
-| 1956 | The Searchers               |
-| 1938 | Bringing Up Baby            |
-| 1959 | North by Northwest          |
-| 1963 | The Great Escape            |
-| 1966 | Blow Up                     |
-| 1961 | Viridiana                   |
-| 2007 | The Invisible Guest         |
-| 1999 | All About My Mother         |
-| 2004 | The Sea Inside              |
-| 2002 | Talk to Her                 |
-| 1973 | The Spirit of the Beehive   |
-| 2014 | Wild Tales                  |
-| 2001 | Y Tu Mamá También           |
+| 1956 | The Searchers |
+| 1938 | Bringing Up Baby |
+| 1959 | North by Northwest |
+| 1963 | The Great Escape |
+| 1966 | Blow Up |
+| 1961 | Viridiana |
+| 2007 | The Invisible Guest |
+| 1999 | All About My Mother |
+| 2004 | The Sea Inside |
+| 2002 | Talk to Her |
+| 1973 | The Spirit of the Beehive |
+| 2014 | Wild Tales |
+| 2001 | Y Tu Mamá También |
 | 1984 | Once Upon a Time in America |
-| 1955 | School for Vagabonds        |
-| 1963 | The Executioner             |
-| 1962 | The Exterminating Angel     |
-| 1953 | Welcome, Mr. Marshall       |
-| 1960 | Macario                     |
-| 2013 | Roma                        |
-
----
+| 1955 | School for Vagabonds |
+| 1963 | The Executioner |
+| 1962 | The Exterminating Angel |
+| 1953 | Welcome, Mr. Marshall |
+| 1960 | Macario |
+| 2013 | Roma |
 
 ## Unseen Documentaries
 
-| Year | Title                                             |
-| ---- | ------------------------------------------------- |
-| 2023 | Bobby Kennedy for President                       |
-| 2021 | Night Stalker                                     |
-| 2020 | Pretend It’s a City                               |
-| 2019 | The Ripper                                        |
-| 2017 | Humans of New York                                |
-| 2011 | The Fabric of the Cosmos                          |
-| 2022 | DEF CON                                           |
-| 2014 | Aaron Swartz: The Internet’s Own Boy              |
-| 2016 | The Truth is Not Absolute                         |
-| 2007 | Taxi to the Dark Side                             |
+| 2023 | Bobby Kennedy for President |
+| 2021 | Night Stalker |
+| 2020 | Pretend It’s a City |
+| 2019 | The Ripper |
+| 2017 | Humans of New York |
+| 2011 | The Fabric of the Cosmos |
+| 2022 | DEF CON |
+| 2014 | Aaron Swartz: The Internet’s Own Boy |
+| 2016 | The Truth is Not Absolute |
+| 2007 | Taxi to the Dark Side |
 | 2015 | Going Clear: Scientology and the Prison of Belief |
-| 2005 | Enron: The Smartest Guys in the Room              |
-| 2019 | The Inventor: Out for Blood in Silicon Valley     |
-| 2019 | Citizen K                                         |
-| 2020 | Crazy, Not Insane                                 |
-| 2020 | The Way I See It                                  |
-| 2017 | One Strange Rock                                  |
-| 2014 | Citizenfour                                       |
-| 2015 | Deep Web                                          |
-| 2020 | The Social Dilemma                                |
-| 2002 | 102 Minutes That Changed America                  |
-| 2011 | Life in a Day                                     |
-| 2019 | The Age of A.I                                    |
-| 2020 | Our Man in Tehran                                 |
-| 2019 | Apollo 11                                         |
-| 2019 | Inside Bill’s Brain                               |
-| 2020 | Where’s My Ray Cohn                               |
-| 2017 | The Other Side of Everything                      |
-| 2020 | Compaq                                            |
-| 2016 | I Am Not Your Negro                               |
-| 2015 | Human                                             |
-
----
+| 2005 | Enron: The Smartest Guys in the Room |
+| 2019 | The Inventor: Out for Blood in Silicon Valley |
+| 2019 | Citizen K |
+| 2020 | Crazy, Not Insane |
+| 2020 | The Way I See It |
+| 2017 | One Strange Rock |
+| 2014 | Citizenfour |
+| 2015 | Deep Web |
+| 2020 | The Social Dilemma |
+| 2002 | 102 Minutes That Changed America |
+| 2011 | Life in a Day |
+| 2019 | The Age of A.I |
+| 2020 | Our Man in Tehran |
+| 2019 | Apollo 11 |
+| 2019 | Inside Bill’s Brain |
+| 2020 | Where’s My Ray Cohn |
+| 2017 | The Other Side of Everything |
+| 2020 | Compaq |
+| 2016 | I Am Not Your Negro |
+| 2015 | Human |
 
 ## Unseen Animation & Anime
 
-| Year | Title                    |
-| ---- | ------------------------ |
-| 2024 | Ninja Kamui              |
-| 2022 | Death Note (series)      |
-| 2007 | Naissance des Pieuvres   |
+| 2024 | Ninja Kamui |
+| 2022 | Death Note (series) |
+| 2007 | Naissance des Pieuvres |
 | 1979 | The Castle of Cagliostro |
-| 1992 | Porco Rosso              |
-| 2013 | The Wind Rises           |
-
----
+| 1992 | Porco Rosso |
+| 2013 | The Wind Rises |
 
 ## Unseen Drama / Thriller / Psychological
 
-| Year | Title                        |
-| ---- | ---------------------------- |
-| 1959 | Ballad of a Soldier          |
-| 2022 | Lady Chatterley’s Lover      |
-| 2024 | Dilig                        |
-| 1997 | The Abbot’s Invention        |
-| 2007 | Timecrimes                   |
-| 1986 | Man Facing South East        |
-| 1997 | Open Your Eyes               |
-| 1993 | Mutant Action                |
-| 1996 | Moebius                      |
-| 2013 | The Last Days                |
-| 2011 | Eva                          |
-| 2011 | Extraterrestrial             |
-| 1977 | Eraserhead                   |
-| 1995 | 12 Monkeys                   |
-| 1990 | Jacob’s Ladder               |
-| 2022 | Lady Chatterley’s Lover      |
-| 2023 | Septembers of Shiraz         |
-| 2023 | Jailbreak Pact               |
-| 2023 | The Cook of Castamar         |
-| 2023 | The Valhalla Murders         |
-| 2023 | House of Secrets             |
-| 2018 | The Florida Project          |
-| 2014 | A Most Violent Year          |
-| 2016 | Green Room                   |
-| 2015 | Slow West                    |
-| 2018 | First Reformed               |
-| 2016 | 20th Century Women           |
-| 2023 | Neposlushnaya                |
-| 2023 | Tantiram                     |
+| 1959 | Ballad of a Soldier |
+| 2022 | Lady Chatterley’s Lover |
+| 2024 | Dilig |
+| 1997 | The Abbot’s Invention |
+| 2007 | Timecrimes |
+| 1986 | Man Facing South East |
+| 1997 | Open Your Eyes |
+| 1993 | Mutant Action |
+| 1996 | Moebius |
+| 2013 | The Last Days |
+| 2011 | Eva |
+| 2011 | Extraterrestrial |
+| 1977 | Eraserhead |
+| 1995 | 12 Monkeys |
+| 1990 | Jacob’s Ladder |
+| 2023 | Septembers of Shiraz |
+| 2023 | Jailbreak Pact |
+| 2023 | The Cook of Castamar |
+| 2023 | The Valhalla Murders |
+| 2023 | House of Secrets |
+| 2018 | The Florida Project |
+| 2014 | A Most Violent Year |
+| 2016 | Green Room |
+| 2015 | Slow West |
+| 2018 | First Reformed |
+| 2016 | 20th Century Women |
+| 2023 | Neposlushnaya |
+| 2023 | Tantiram |
 | 2023 | The Fabric of the Human Body |
-| 2023 | Beyond Utopia                |
-| 2023 | Sebastian Fitzek's Therapy   |
-| 2014 | Miss Granny                  |
-| 2023 | About Dry Grasses            |
-| 2011 | We Need To Talk About Kevin  |
-
----
+| 2023 | Beyond Utopia |
+| 2023 | Sebastian Fitzek's Therapy |
+| 2014 | Miss Granny |
+| 2023 | About Dry Grasses |
+| 2011 | We Need To Talk About Kevin |
 
 ## Unseen Classic / Art / World Cinema
 
@@ -2548,199 +2128,11 @@ Certainly! Here’s the cleaned list in the requested format:
 | 1975 | Jeanne Dielman, 23 Commerce Quay,                     |
 
 Here is the cleaned and organized list of unseen films and series, separated by genre, following your preferred format:
-
----
-
-## Unseen Documentaries
-
-| Year | Title                                             |
-| ---- | ------------------------------------------------- |
-| 2023 | Bobby Kennedy for President                       |
-| 2021 | Night Stalker                                     |
-| 2020 | Pretend It’s a City                               |
-| 2019 | The Ripper                                        |
-| 2017 | Humans of New York                                |
-| 2011 | The Fabric of the Cosmos                          |
-| 2022 | DEF CON                                           |
-| 2014 | Aaron Swartz: The Internet’s Own Boy              |
-| 2016 | The Truth is Not Absolute                         |
-| 2007 | Taxi to the Dark Side                             |
-| 2015 | Going Clear: Scientology and the Prison of Belief |
-| 2005 | Enron: The Smartest Guys in the Room              |
-| 2019 | The Inventor: Out for Blood in Silicon Valley     |
-| 2019 | Citizen K                                         |
-| 2020 | Crazy, Not Insane                                 |
-| 2020 | The Way I See It                                  |
-| 2017 | One Strange Rock                                  |
-| 2014 | Citizenfour                                       |
-| 2015 | Deep Web                                          |
-| 2020 | The Social Dilemma                                |
-| 2002 | 102 Minutes That Changed America                  |
-| 2011 | Life in a Day                                     |
-| 2019 | The Age of A.I                                    |
-| 2020 | Our Man in Tehran                                 |
-| 2019 | Apollo 11                                         |
-| 2019 | Inside Bill’s Brain                               |
-| 2020 | Where’s My Ray Cohn                               |
-| 2017 | The Other Side of Everything                      |
-| 2020 | Compaq                                            |
-| 2016 | I Am Not Your Negro                               |
-| 2015 | Human                                             |
-
----
-
-## Unseen Animation & Anime
-
-| Year | Title                    |
-| ---- | ------------------------ |
-| 2024 | Ninja Kamui              |
-| 2022 | Death Note (series)      |
-| 2007 | Naissance des Pieuvres   |
-| 1979 | The Castle of Cagliostro |
-| 1992 | Porco Rosso              |
-| 2013 | The Wind Rises           |
-
----
-
-## Unseen Drama / Thriller / Psychological
-
-| Year | Title                        |
-| ---- | ---------------------------- |
-| 1959 | Ballad of a Soldier          |
-| 2022 | Lady Chatterley’s Lover      |
-| 2024 | Dilig                        |
-| 1997 | The Abbot’s Invention        |
-| 2007 | Timecrimes                   |
-| 1986 | Man Facing South East        |
-| 1997 | Open Your Eyes               |
-| 1993 | Mutant Action                |
-| 1996 | Moebius                      |
-| 2013 | The Last Days                |
-| 2011 | Eva                          |
-| 2011 | Extraterrestrial             |
-| 1977 | Eraserhead                   |
-| 1995 | 12 Monkeys                   |
-| 1990 | Jacob’s Ladder               |
-| 2022 | Lady Chatterley’s Lover      |
-| 2023 | Septembers of Shiraz         |
-| 2023 | Jailbreak Pact               |
-| 2023 | The Cook of Castamar         |
-| 2023 | The Valhalla Murders         |
-| 2023 | House of Secrets             |
-| 2018 | The Florida Project          |
-| 2014 | A Most Violent Year          |
-| 2016 | Green Room                   |
-| 2015 | Slow West                    |
-| 2018 | First Reformed               |
-| 2016 | 20th Century Women           |
-| 2023 | Neposlushnaya                |
-| 2023 | Tantiram                     |
-| 2023 | The Fabric of the Human Body |
-| 2023 | Beyond Utopia                |
-| 2023 | Sebastian Fitzek's Therapy   |
-| 2014 | Miss Granny                  |
-| 2023 | About Dry Grasses            |
-| 2011 | We Need To Talk About Kevin  |
-
----
-
-## Unseen Classic / Art / World Cinema
-
-| Year | Title                                                 |
-| ---- | ----------------------------------------------------- |
-| 1959 | The 400 Blows (François Truffaut)                     |
-| 1963 | 8 1/2 (Federico Fellini)                              |
-| 1966 | Persona (Ingmar Bergman)                              |
-| 1939 | The Rules of the Game (Jean Renoir)                   |
-| 1950 | Rashomon (Akira Kurosawa)                             |
-| 1948 | Bicycle Thieves (Vittorio de Sica)                    |
-| 1954 | Seven Samurai (Akira Kurosawa)                        |
-| 1988 | Landscape in the Mist (Theo Angelopoulos)             |
-| 1958 | Ashes and Diamonds (Andrzej Wajda)                    |
-| 1994 | In the Heat of the Sun (Jiang Wen)                    |
-| 1997 | Taste of Cherry (Abbas Kiarostami)                    |
-| 1985 | Shoah (Claude Lanzmann)                               |
-| 1955 | Floating Clouds (Mikio Naruse)                        |
-| 1987 | Where Is the Friend's Home? (Abbas Kiarostami)        |
-| 1991 | Raise the Red Lantern (Zhang Yimou)                   |
-| 1973 | Scenes from a Marriage (Ingmar Bergman)               |
-| 1955 | Rififi (Jules Dassin)                                 |
-| 1959 | Hiroshima Mon Amour (Alain Resnais)                   |
-| 1957 | Wild Strawberries (Ingmar Bergman)                    |
-| 1939 | The Story of the Last Chrysanthemum (Kenji Mizoguchi) |
-| 1957 | The Nights of Cabiria (Federico Fellini)              |
-| 1962 | La Jetée (Chris Marker)                               |
-| 1952 | Umberto D (Vittorio De Sica)                          |
-| 1972 | The Discreet Charm of the Bourgeoisie (Luis Buñuel)   |
-| 1954 | La Strada (Federico Fellini)                          |
-| 1974 | Celine and Julie Go Boating (Jacques Rivette)         |
-| 1950 | The Young and the Damned (Luis Buñuel)                |
-| 1985 | Ran (Akira Kurosawa)                                  |
-| 2000 | Crouching Tiger, Hidden Dragon (Ang Lee)              |
-| 1970 | The Conformist (Bernardo Bertolucci)                  |
-| 2001 | Y Tu Mamá También (Alfonso Cuarón)                    |
-| 1967 | Belle de Jour (Luis Buñuel)                           |
-| 1965 | Pierrot Le Fou (Jean-Luc Godard)                      |
-| 1929 | Man with a Movie Camera (Dziga Vertov)                |
-| 1997 | Happy Together (Wong Kar-wai)                         |
-| 1962 | L’Eclisse (Michelangelo Antonioni)                    |
-| 2012 | Amour (Michael Haneke)                                |
-| 1953 | Ugetsu (Kenji Mizoguchi)                              |
-| 1962 | The Exterminating Angel (Luis Buñuel)                 |
-| 1973 | Ali: Fear Eats the Soul (Rainer Werner Fassbinder)    |
-| 1955 | Ordet (Carl Theodor Dreyer)                           |
-| 1948 | Spring in a Small Town (Fei Mu)                       |
-| 1973 | Touki Bouki (Djibril Diop Mambéty)                    |
-| 1954 | Sansho the Bailiff (Kenji Mizoguchi)                  |
-| 1963 | Contempt (Jean-Luc Godard)                            |
-| 1985 | Come and See (Elem Klimov)                            |
-| 1953 | The Earrings of Madame de... (Max Ophüls)             |
-| 1972 | Solaris (Andrei Tarkovsky)                            |
-| 1994 | Chungking Express (Wong Kar-wai)                      |
-| 1962 | Jules and Jim (François Truffaut)                     |
-| 1994 | Eat Drink Man Woman (Ang Lee)                         |
-| 1966 | Au Hasard Balthazar (Robert Bresson)                  |
-| 1964 | The Umbrellas of Cherbourg (Jacques Demy)             |
-| 1934 | L’Atalante (Jean Vigo)                                |
-| 1961 | Viridiana (Luis Buñuel)                               |
-| 2007 | 4 Months, 3 Weeks and 2 Days (Cristian Mungiu)        |
-| 1945 | Children of Paradise (Marcel Carné)                   |
-| 1960 | L’Avventura (Michelangelo Antonioni)                  |
-| 1962 | Cleo from 5 to 7 (Agnès Varda)                        |
-| 1999 | Beau Travail (Claire Denis)                           |
-| 1994 | To Live (Zhang Yimou)                                 |
-| 1966 | Andrei Rublev (Andrei Tarkovsky)                      |
-| 1990 | Close-Up (Abbas Kiarostami)                           |
-| 1991 | A Brighter Summer Day (Edward Yang)                   |
-| 1937 | La Grande Illusion (Jean Renoir)                      |
-| 1963 | The Leopard (Luchino Visconti)                        |
-| 1987 | Wings of Desire (Wim Wenders)                         |
-| 1967 | Playtime (Jacques Tati)                               |
-| 1999 | All About My Mother (Pedro Almodóvar)                 |
-| 1957 | The Seventh Seal (Ingmar Bergman)                     |
-| 1982 | Fanny and Alexander (Ingmar Bergman)                  |
-| 1973 | The Spirit of the Beehive (Victor Erice)              |
-| 1988 | Cinema Paradiso (Giuseppe Tornatore)                  |
-| 2000 | Yi Yi (Edward Yang)                                   |
-| 1925 | Battleship Potemkin (Sergei Eisenstein)               |
-| 1928 | The Passion of Joan of Arc (Carl Theodor Dreyer)      |
-| 2006 | Pan’s Labyrinth (Guillermo del Toro)                  |
-| 2011 | A Separation (Asghar Farhadi)                         |
-| 1974 | The Mirror (Andrei Tarkovsky)                         |
-| 1966 | The Battle of Algiers (Gillo Pontecorvo)              |
-| 1989 | A City of Sadness (Hou Hsiao-hsien)                   |
-| 1972 | Aguirre, the Wrath of God (Werner Herzog)             |
-| 1927 | Metropolis (Fritz Lang)                               |
-| 1955 | Pather Panchali (Satyajit Ray)                        |
-| 1975 | Jeanne Dielman, 23 Commerce Quay,                     |
-
 1080 Brussels |
 | 1931 | M (Fritz Lang) |
 | 1993 | Farewell My Concubine (Chen Kaige) |
 | 1960 | Breathless (Jean-Luc Godard) |
 | 1960 | La Dolce Vita (Federico Fellini) |
-
----
 
 ## Unseen Series
 
@@ -2762,8 +2154,6 @@ Here is the cleaned and organized list of unseen films and series, separated by 
 | Master Eder and His Pumuckl |
 | The Virtues                 |
 
----
-
 ## Unseen Crime / Serial Killer Films
 
 | Title                                      |
@@ -2778,8 +2168,6 @@ Here is the cleaned and organized list of unseen films and series, separated by 
 | Halloween                                  |
 | Scream                                     |
 | American Psycho                            |
-
----
 
 ## Unseen Romance / Family / Literary Adaptations
 
@@ -2818,27 +2206,21 @@ Here is the cleaned and organized list of unseen films and series, separated by 
 | Fifty Shades of Grey         |
 | Jane Eyre                    |
 
----
-
 ## Unseen Sci-Fi / Thriller / Mystery
 
-| Year | Title              |
-| ---- | ------------------ |
-| 2009 | Moon               |
-| 2020 | The Superdeep      |
-| 1979 | Mad Max            |
-| 2017 | The Discovery      |
-| 2018 | Prospect           |
-| 2011 | Another Earth      |
-| 1997 | Cube               |
-| 2004 | Primer             |
-| 2014 | Predestination     |
-| 2013 | Coherence          |
+| 2009 | Moon |
+| 2020 | The Superdeep |
+| 1979 | Mad Max |
+| 2017 | The Discovery |
+| 2018 | Prospect |
+| 2011 | Another Earth |
+| 1997 | Cube |
+| 2004 | Primer |
+| 2014 | Predestination |
+| 2013 | Coherence |
 | 2007 | The Man from Earth |
-| 2004 | The Free Will      |
-| 1970 | Catch-22           |
-
----
+| 2004 | The Free Will |
+| 1970 | Catch-22 |
 
 ## Unseen Recent Drama / International Cinema
 
@@ -2869,33 +2251,26 @@ Here is the cleaned and organized list of unseen films and series, separated by 
 | —    | Keyke Mahbobe Man                       |
 | —    | Rooster                                 |
 
----
-
 ## Unseen Adult / Erotic / Mature Films
 
-| Title               |
-| ------------------- |
-| Amour               |
-| Original Sin        |
-| Sex and Lucia       |
-| Irreversible        |
-| Cashback            |
-| Intimacy            |
-| Eyes Wide Shut      |
-| Unfaithful          |
-| Anna Karenina       |
-| Shortbus            |
-| Basic Instinct      |
-| Wild Things         |
-| Philadelphia        |
-| Dressed to Kill     |
-| Last Tango in Paris |
-| The Reader          |
-
----
-
-## Unseen Animation & Anime
-
+| Title                               |
+| ----------------------------------- |
+| Amour                               |
+| Original Sin                        |
+| Sex and Lucia                       |
+| Irreversible                        |
+| Cashback                            |
+| Intimacy                            |
+| Eyes Wide Shut                      |
+| Unfaithful                          |
+| Anna Karenina                       |
+| Shortbus                            |
+| Basic Instinct                      |
+| Wild Things                         |
+| Philadelphia                        |
+| Dressed to Kill                     |
+| Last Tango in Paris                 |
+| The Reader                          |
 | Title                               |
 | ----------------------------------- |
 | Maquia: When Promised Flower Blooms |
@@ -2908,28 +2283,20 @@ Here is the cleaned and organized list of unseen films and series, separated by 
 | Black Knight                        |
 | The Great North (series)            |
 
----
-
 ## Unseen TV Series (German / International)
 
-| Title                       |
-| --------------------------- |
-| Bad Banks                   |
-| Doctor’s Diary              |
-| In the Face of Crime        |
-| Stromberg                   |
-| Dear Child                  |
-| Tatort                      |
-| Bad Banks (2018–2020)       |
-| In the Face of Crime        |
-| 8 Days (2019–)              |
-| Weinberg (2015)             |
-| The Typist (2018–)          |
+| Bad Banks |
+| Doctor’s Diary |
+| Stromberg |
+| Dear Child |
+| Tatort |
+| Bad Banks (2018–2020) |
+| 8 Days (2019–) |
+| Weinberg (2015) |
+| The Typist (2018–) |
 | Bauhaus – A New Era (2019–) |
 | Shades of Guilt (2015–2019) |
-| The Same Sky (2017)         |
-
----
+| The Same Sky (2017) |
 
 ## Unseen Other / Miscellaneous
 
@@ -2948,47 +2315,35 @@ Here is the cleaned and organized list of unseen films and series, separated by 
 | Goebbels and the Führer (2024)            |
 | Money Electric: The Bitcoin Mystery       |
 
----
-
 ## Unseen Drama / International Films
 
-| Year | Title                                  |
-| ---- | -------------------------------------- |
 | 1974 | Vincent, Francois, Paul and the Others |
-| 2023 | The Quiet Migration                    |
-| 2022 | The Offer                              |
-| 2024 | Another End                            |
-| 2024 | Faye                                   |
-| 1990 | The Match Factory Girl                 |
-| —    | Molly's Game                           |
-| —    | The Remarkable Life of Ibelin          |
-| —    | Nine Days                              |
-
----
+| 2023 | The Quiet Migration |
+| 2022 | The Offer |
+| 2024 | Another End |
+| 2024 | Faye |
+| 1990 | The Match Factory Girl |
+| — | Molly's Game |
+| — | The Remarkable Life of Ibelin |
+| — | Nine Days |
 
 ## Unseen Thriller / Crime / Mystery
 
-| Title                      |
-| -------------------------- |
-| GHOSTLIGHT                 |
-| HYPNOSEN                   |
-| Feet Deep 12               |
-| The Battleship Island      |
-| TUNMEL                     |
-| Dovlator                   |
-| DELHI CRIME                |
-| The Red Circle             |
-| Le Samourai                |
-| Purple Noon                |
-| Under the Banner of Heaven |
-| Maniac (series)            |
-| Under the Banner of Heaven |
-| Sacred Games (Netflix)     |
-
----
-
-## Unseen TV Series (German / International)
-
+| Title                         |
+| ----------------------------- |
+| GHOSTLIGHT                    |
+| HYPNOSEN                      |
+| Feet Deep 12                  |
+| The Battleship Island         |
+| TUNMEL                        |
+| Dovlator                      |
+| DELHI CRIME                   |
+| The Red Circle                |
+| Le Samourai                   |
+| Purple Noon                   |
+| Under the Banner of Heaven    |
+| Maniac (series)               |
+| Sacred Games (Netflix)        |
 | Title                         |
 | ----------------------------- |
 | Gute Zeiten, Schlechte Zeiten |
@@ -2998,33 +2353,17 @@ Here is the cleaned and organized list of unseen films and series, separated by 
 | Die Sendung mit der Maus      |
 | Verbotene Liebe (series)      |
 
----
-
 ## Unseen Animation / Family
 
 | Title            |
 | ---------------- |
 | Avatar (cartoon) |
 
----
-
-## Unseen Iranian Films & Directors
-
-| Title / Info                                                       |
-| ------------------------------------------------------------------ |
-| Film: Dar Aghoush Derakht (In the Arms of the Tree)                |
-| Filmmaker: Anahita Ghazvini-Zadeh (noted Iranian female filmmaker) |
-| Film: Jaddeh Ghadim (Old Road)                                     |
-
----
+                                    |
 
 ## Unseen Indian Series / Films
 
-| Title                  |
-| ---------------------- |
 | Sacred Games (Netflix) |
-
----
 
 ## Unseen Fantasy / Drama Series
 
@@ -3032,16 +2371,12 @@ Here is the cleaned and organized list of unseen films and series, separated by 
 | ---- | ------------- |
 | 2017 | The Magicians |
 
----
-
 ## Other / Documentary / Miscellaneous
 
 | Title / Description                                                 |
 | ------------------------------------------------------------------- |
 | BEHOLD A PALE HORSE by Milton William Cooper (documentary chapters) |
 | Stremio app for streaming & torrents                                |
-
----
 
 ## Unseen Classic & Critically Acclaimed Films
 
@@ -3068,212 +2403,162 @@ Here is the cleaned and organized list of unseen films and series, separated by 
 | 2019 | Parasite                                  |
 | 2021 | The Father                                |
 
----
-
 ## Unseen German & European Films
 
-| Year | Title                       |
-| ---- | --------------------------- |
 | 1979 | The Marriage of Maria Braun |
-| 2008 | Never Look Away             |
-| 1998 | Lola Rennt                  |
-| 2021 | Blood Red Sky               |
-| 2013 | Stories We Tell             |
-| 2013 | Blue Jasmine                |
-| 2012 | Lincoln                     |
-| 2013 | Enough Said                 |
-| 2013 | Side Effects                |
-| 2015 | Wadjda                      |
-| 2010 | Fruitvale Station           |
-
----
+| 2008 | Never Look Away |
+| 1998 | Lola Rennt |
+| 2021 | Blood Red Sky |
+| 2013 | Stories We Tell |
+| 2013 | Blue Jasmine |
+| 2012 | Lincoln |
+| 2013 | Enough Said |
+| 2013 | Side Effects |
+| 2015 | Wadjda |
+| 2010 | Fruitvale Station |
 
 ## Unseen Indian Films & Series
 
-| Year | Title            |
-| ---- | ---------------- |
-| 2018 | Andhadhun        |
-| 2006 | Rang De Basanti  |
+| 2018 | Andhadhun |
+| 2006 | Rang De Basanti |
 | 2007 | Taare Zameen Par |
-
----
 
 ## Unseen Animation & Watercolor Style Films
 
-| Year | Title                           |
-| ---- | ------------------------------- |
 | 2013 | The Tale of the Princess Kaguya |
-| —    | Ernest and Celestine            |
-| —    | Marona's Fantastic Tale         |
-| —    | The Secret of Kells             |
-| —    | Le Tableau                      |
-| —    | Nahuel and the Magic Book       |
-| —    | The Red Turtle                  |
-| —    | If Anything Happens I Love You  |
-| 2016 | Kubo and the Two Strings        |
-
----
+| — | Ernest and Celestine |
+| — | Marona's Fantastic Tale |
+| — | The Secret of Kells |
+| — | Le Tableau |
+| — | Nahuel and the Magic Book |
+| — | The Red Turtle |
+| — | If Anything Happens I Love You |
+| 2016 | Kubo and the Two Strings |
 
 ## Unseen Series & TV Shows
 
-| Year | Title               |
-| ---- | ------------------- |
-| 2021 | The Innocent        |
-| 2021 | Arcane              |
-| —    | Maniac              |
-| —    | Most Dangerous Game |
-| —    | Severance           |
-| —    | Band of Brothers    |
-| —    | Bird Box            |
-| —    | The Chestnut Man    |
-| —    | Succession          |
-| —    | Devs                |
-| —    | Better Call Saul    |
-| —    | 1883                |
-| —    | Billions            |
-| —    | Peaky Blinders      |
-| —    | Westworld           |
-| —    | Vigil               |
-| —    | You                 |
-| —    | Mare of Easttown    |
-| —    | The Bridge          |
-| —    | Dark                |
-| —    | Unorthodox          |
-| —    | The Returned        |
-| —    | Wild Wild Country   |
-| —    | The Killing         |
-| —    | Dexter              |
-| —    | Castle Rock         |
-| —    | Sharp Objects       |
-| —    | The Terror          |
-| —    | Fringe              |
-| —    | Ozark               |
-| —    | Killing Eve         |
-| —    | Gunpowder           |
-| —    | Counterpart         |
-| —    | The Americans       |
-| —    | The Romanoffs       |
-| —    | True Detective      |
-| —    | The Wire            |
-| —    | Money Heist         |
-| —    | Catch-22            |
-| —    | The Hot Zone        |
-| —    | Genius              |
-
----
+| 2021 | The Innocent |
+| 2021 | Arcane |
+| — | Maniac |
+| — | Most Dangerous Game |
+| — | Severance |
+| — | Band of Brothers |
+| — | Bird Box |
+| — | The Chestnut Man |
+| — | Succession |
+| — | Devs |
+| — | Better Call Saul |
+| — | 1883 |
+| — | Billions |
+| — | Peaky Blinders |
+| — | Westworld |
+| — | Vigil |
+| — | You |
+| — | Mare of Easttown |
+| — | The Bridge |
+| — | Dark |
+| — | Unorthodox |
+| — | The Returned |
+| — | Wild Wild Country |
+| — | The Killing |
+| — | Dexter |
+| — | Castle Rock |
+| — | Sharp Objects |
+| — | The Terror |
+| — | Fringe |
+| — | Ozark |
+| — | Killing Eve |
+| — | Gunpowder |
+| — | Counterpart |
+| — | The Americans |
+| — | The Romanoffs |
+| — | True Detective |
+| — | The Wire |
+| — | Money Heist |
+| — | Catch-22 |
+| — | The Hot Zone |
+| — | Genius |
 
 ## Unseen Philosophy / Documentary
 
-| Year | Title                                             |
-| ---- | ------------------------------------------------- |
-| —    | Godel, Escher, Bach: An Eternal Golden Braid      |
-| —    | Make It Stick: The Science of Successful Learning |
-| —    | The Six Pillars of Self-Esteem                    |
-| —    | Ansel Adams documentary                           |
-| —    | David Meyers                                      |
-| —    | The Provisional Death of Bees                     |
-| —    | The Mexican Suitcase                              |
-| —    | Bill Cunningham - New York                        |
-| —    | Ratline podcast                                   |
-
----
-
-## Iranian
-
-| Year | Title                  |
-| ---- | ---------------------- |
-| —    | Here Without Me        |
-| —    | Cause of Unknown Death |
-| —    | Last Snow              |
-| —    | Aziz                   |
-| —    | Endless Borders        |
-| —    | Beautiful City         |
-| —    | Atabai                 |
-| —    | Boutique               |
-| —    | Alone, Alone, Alone    |
-| —    | Silver Carnation       |
-
----
+| — | Godel, Escher, Bach: An Eternal Golden Braid |
+| — | Make It Stick: The Science of Successful Learning |
+| — | The Six Pillars of Self-Esteem |
+| — | Ansel Adams documentary |
+| — | David Meyers |
+| — | The Provisional Death of Bees |
+| — | The Mexican Suitcase |
+| — | Bill Cunningham - New York |
+| — | Ratline podcast |
 
 ## Unseen Anime Series
 
-| Year | Title                            |
-| ---- | -------------------------------- |
-| —    | Attack on Titan                  |
-| —    | Death Note                       |
-| —    | Fullmetal Alchemist: Brotherhood |
-| —    | One Piece                        |
-| —    | Naruto                           |
-| —    | Demon Slayer                     |
-| —    | Hunter x Hunter                  |
-| —    | Jujutsu Kaisen                   |
-| —    | Stains                           |
-| —    | Code Geass                       |
-| —    | Bleach                           |
-| —    | My Hero Academia                 |
-| —    | Tokyo Ghoul                      |
-| —    | Vinland Saga                     |
-| —    | Chainsaw Man                     |
-| —    | Mob Psycho 100                   |
-| —    | Psycho-Pass                      |
-| —    | Cowboy Bebop                     |
-| —    | Neon Genesis Evangelion          |
-| —    | Parasyte: The Maxim              |
-
----
+| — | Attack on Titan |
+| — | Death Note |
+| — | Fullmetal Alchemist: Brotherhood |
+| — | One Piece |
+| — | Naruto |
+| — | Demon Slayer |
+| — | Hunter x Hunter |
+| — | Jujutsu Kaisen |
+| — | Stains |
+| — | Code Geass |
+| — | Bleach |
+| — | My Hero Academia |
+| — | Tokyo Ghoul |
+| — | Vinland Saga |
+| — | Chainsaw Man |
+| — | Mob Psycho 100 |
+| — | Psycho-Pass |
+| — | Cowboy Bebop |
+| — | Neon Genesis Evangelion |
+| — | Parasyte: The Maxim |
 
 ## Unseen Best Anime Movies
 
-| Year | Title                  |
-| ---- | ---------------------- |
-| —    | Spirited Away          |
-| —    | Your Name              |
-| —    | Princess Mononoke      |
-| —    | Grave of the Fireflies |
-| —    | Howl's Moving Castle   |
-| —    | A Silent Voice         |
-| —    | Weathering With You    |
-| —    | The Boy and the Heron  |
-| —    | Perfect Blue           |
-| —    | The Garden of Words    |
-
----
+| — | Spirited Away |
+| — | Your Name |
+| — | Princess Mononoke |
+| — | Grave of the Fireflies |
+| — | Howl's Moving Castle |
+| — | A Silent Voice |
+| — | Weathering With You |
+| — | The Boy and the Heron |
+| — | Perfect Blue |
+| — | The Garden of Words |
 
 ## Unseen Films
 
-| Year | Title                                        |
-| ---- | -------------------------------------------- |
-| —    | Close-Up                                     |
-| —    | Those Who Read the Hearts of Evil            |
-| —    | Mindhunter                                   |
-| 1963 | Blow Job                                     |
-| 1969 | Blue Movie                                   |
-| 1972 | Pink Flamingos                               |
-| 1974 | Je Tu Il Elle                                |
-| 1976 | In the Realm of the Senses                   |
-| 1979 | Immoral Women                                |
-| 1980 | Cruising                                     |
-| 1980 | Spetters                                     |
-| 1985 | James Joyce’s Women                          |
-| 1998 | The Idiots                                   |
-| 1999 | Romance                                      |
-| 1999 | A Real Young Girl                            |
-| 1999 | Pola X                                       |
-| 2001 | Intimacy                                     |
-| 2003 | The Brown Bunny                              |
-| 2004 | Anatomy of Hell                              |
-| 2005 | Lie With Me                                  |
-| 2005 | 8MM 2                                        |
-| 2008 | Little Ashes                                 |
-| 2009 | Brüno                                        |
+| — | Close-Up |
+| — | Those Who Read the Hearts of Evil |
+| — | Mindhunter |
+| 1963 | Blow Job |
+| 1969 | Blue Movie |
+| 1972 | Pink Flamingos |
+| 1974 | Je Tu Il Elle |
+| 1976 | In the Realm of the Senses |
+| 1979 | Immoral Women |
+| 1980 | Cruising |
+| 1980 | Spetters |
+| 1985 | James Joyce’s Women |
+| 1998 | The Idiots |
+| 1999 | Romance |
+| 1999 | A Real Young Girl |
+| 1999 | Pola X |
+| 2001 | Intimacy |
+| 2003 | The Brown Bunny |
+| 2004 | Anatomy of Hell |
+| 2005 | Lie With Me |
+| 2005 | 8MM 2 |
+| 2008 | Little Ashes |
+| 2009 | Brüno |
 | 2009 | Antichrist (real sex but not between actors) |
-| 2009 | Dogtooth                                     |
-| 2012 | Starlet                                      |
-| 2013 | Stranger by the Lake                         |
-| 2014 | Pasolini                                     |
-| 2015 | Love                                         |
-| —    | In the Realm of the Senses (repeated?)       |
-
+| 2009 | Dogtooth |
+| 2012 | Starlet |
+| 2013 | Stranger by the Lake |
+| 2014 | Pasolini |
+| 2015 | Love |
+| — | In the Realm of the Senses (repeated?) |
 | — | Perfect Days |
 | — | Spring Summer Fall Winter and Spring |
 | — | Baraka |
@@ -3284,8 +2569,6 @@ Here is the cleaned and organized list of unseen films and series, separated by 
 | — | One Sugar Cube |
 | — | Code of Silence |
 | — | The Secret World of Arrietty |
-
----
 
 ## Harun Farocki Filmography (Selected)
 
@@ -3354,90 +2637,80 @@ Here is the cleaned and organized list of unseen films and series, separated by 
 | 2014 | Parallel 3 (HD)                                                                    |
 | 2014 | Parallel 4 (HD)                                                                    |
 
----
-
 ## Time Loop Themed Films
 
-| Year | Title                           |
-| ---- | ------------------------------- |
 | 2006 | The Girl Who Leapt Through Time |
-| 2017 | The Endless                     |
-| 2007 | Timecrimes                      |
-| 2017 | Before I Fall                   |
-| 2014 | Predestination                  |
-| 2009 | Triangle                        |
-| 2021 | The Map of Tiny Perfect Things  |
-| 2012 | Looper                          |
-| 2017 | Happy Death Day                 |
-| 2011 | Source Code                     |
-| 2020 | Palm Springs                    |
-| 2014 | Edge of Tomorrow                |
-| 1993 | Groundhog Day                   |
-| —    | Boss Level                      |
-| —    | Summertime Rendering            |
-| —    | Re\:Zero                        |
-| —    | Steins Gate                     |
-| —    | Deja Vu                         |
-
----
+| 2017 | The Endless |
+| 2007 | Timecrimes |
+| 2017 | Before I Fall |
+| 2014 | Predestination |
+| 2009 | Triangle |
+| 2021 | The Map of Tiny Perfect Things |
+| 2012 | Looper |
+| 2017 | Happy Death Day |
+| 2011 | Source Code |
+| 2020 | Palm Springs |
+| 2014 | Edge of Tomorrow |
+| 1993 | Groundhog Day |
+| — | Boss Level |
+| — | Summertime Rendering |
+| — | Re\:Zero |
+| — | Steins Gate |
+| — | Deja Vu |
 
 ## Plot Twist Themed Films
 
-| Year | Title                       |
-| ---- | --------------------------- |
-| 1996 | Primal Fear                 |
-| 1955 | Les Diaboliques             |
-| 2007 | Atonement                   |
-| 1974 | Chinatown                   |
-| 2006 | The Prestige                |
-| 1973 | Soylent Green               |
-| 1968 | Planet of the Apes          |
-| 2012 | Incendies                   |
-| 1995 | The Usual Suspects          |
-| 2003 | The Others                  |
-| 1999 | Fight Club                  |
-| 1997 | The Game                    |
-| 1999 | The Sixth Sense             |
-| 1960 | Psycho                      |
-| —    | Mulholland Drive            |
-| —    | Shutter Island              |
-| —    | The Shawshank Redemption    |
-| —    | Gone Girl                   |
-| —    | Seven                       |
-| —    | Memento                     |
-| —    | Parasite                    |
-| —    | The Mist                    |
-| 2006 | The Departed                |
-| —    | A Beautiful Mind            |
-| —    | Witness for the Prosecution |
-| 2014 | Predestination              |
-| 2011 | The Skin I Live In          |
-| —    | Se7en                       |
-| —    | Handmaiden                  |
-| —    | Guilty                      |
-| —    | A Pure Formality            |
-| —    | The Life of David Gale      |
-| 2003 | Memories of Murder          |
-| —    | The Host DL                 |
-| —    | Behind Her Eyes             |
-| 1973 | Sting                       |
-| 1993 | Body of Evidence            |
-| —    | Dangerous Beauty            |
-| —    | Eastern Promises            |
-| —    | The Irishman                |
-| —    | Blue is the Warmest Colour  |
-| —    | Anatomy of a Fall           |
-| —    | Secrets and Lies            |
-| —    | Man on Fire                 |
-| —    | Pulp Fiction                |
-| —    | Vanilla Sky                 |
-| —    | Capharnaum                  |
-| —    | Prisoners                   |
-| —    | The Spy Gone North          |
-| —    | Pianist                     |
-| —    | Life is Beautiful           |
-
----
+| 1996 | Primal Fear |
+| 1955 | Les Diaboliques |
+| 2007 | Atonement |
+| 1974 | Chinatown |
+| 2006 | The Prestige |
+| 1973 | Soylent Green |
+| 1968 | Planet of the Apes |
+| 2012 | Incendies |
+| 1995 | The Usual Suspects |
+| 2003 | The Others |
+| 1999 | Fight Club |
+| 1997 | The Game |
+| 1999 | The Sixth Sense |
+| 1960 | Psycho |
+| — | Mulholland Drive |
+| — | Shutter Island |
+| — | The Shawshank Redemption |
+| — | Gone Girl |
+| — | Seven |
+| — | Memento |
+| — | Parasite |
+| — | The Mist |
+| 2006 | The Departed |
+| — | A Beautiful Mind |
+| — | Witness for the Prosecution |
+| 2014 | Predestination |
+| 2011 | The Skin I Live In |
+| — | Se7en |
+| — | Handmaiden |
+| — | Guilty |
+| — | A Pure Formality |
+| — | The Life of David Gale |
+| 2003 | Memories of Murder |
+| — | The Host DL |
+| — | Behind Her Eyes |
+| 1973 | Sting |
+| 1993 | Body of Evidence |
+| — | Dangerous Beauty |
+| — | Eastern Promises |
+| — | The Irishman |
+| — | Blue is the Warmest Colour |
+| — | Anatomy of a Fall |
+| — | Secrets and Lies |
+| — | Man on Fire |
+| — | Pulp Fiction |
+| — | Vanilla Sky |
+| — | Capharnaum |
+| — | Prisoners |
+| — | The Spy Gone North |
+| — | Pianist |
+| — | Life is Beautiful |
 
 ## Other Films
 
@@ -3447,13 +2720,6 @@ Here is the cleaned and organized list of unseen films and series, separated by 
 | 2005 | Munich                                   |
 | 2018 | The Truth About the Harry Quebert Affair |
 | —    | 28 Years Later (2025)                    |
-
----
-
-## Unseen Series & TV Shows
-
-| Year | Title                                    |
-| ---- | ---------------------------------------- |
 | 2021 | The Innocent                             |
 | 2021 | Arcane                                   |
 | —    | Mindhunter                               |
@@ -3500,12 +2766,9 @@ Here is the cleaned and organized list of unseen films and series, separated by 
 | —    | Birds (2020)                             |
 | —    | Nerdland                                 |
 | —    | China,                                   |
-
-IL |
-| — | Secret Level |
-| — | زندانی ٧ء١٩ (Prisoner 7x19) |
-
----
+| IL   |
+| —    | Secret Level                             |
+| —    | زندانی ٧ء١٩ (Prisoner 7x19)              |
 
 ## Unseen Films & Classics
 
@@ -3637,7 +2900,6 @@ IL |
 | 1958 | Vertigo (Alfred Hitchcock)                                    |
 | 1997 | Princess Mononoke (Hayao Miyazaki)                            |
 | 1941 | Citizen Kane (Orson Welles)                                   |
-| 1944 | Double Indemnity (Billy Wilder)                               |
 | 2009 | 3 Idiots (Rajkumar Hirani)                                    |
 | 1984 | Once Upon a Time in America (Sergio Leone)                    |
 | 1983 | Star Wars: Episode VI - Return of the Jedi (Richard Marquand) |
@@ -3667,47 +2929,38 @@ IL |
 | 1995 | Se7en                                                         |
 | 1991 | The Silence of the Lambs                                      |
 | 1995 | The Usual Suspects                                            |
-
----
-
-## Unseen Films
-
-| Year | Title                      |
-| ---- | -------------------------- |
-| —    | Leviathan                  |
-| —    | Spring Breakers            |
-| —    | Stories We Tell            |
-| —    | American Hustle            |
-| —    | Short Term 12              |
-| —    | Nebraska                   |
-| —    | All is Lost                |
-| —    | The Wolf of Wall Street    |
-| —    | To the Wonder              |
-| —    | The World's End            |
-| —    | Beyond the Hills           |
-| —    | Drug War                   |
-| —    | Blue Jasmine               |
-| —    | Bastards                   |
-| —    | The Wind Rises             |
-| —    | At Berkeley                |
-| —    | Post Tenebras Lux          |
-| —    | Grandmaster                |
-| —    | Fruitvale Station          |
-| —    | No                         |
-| —    | Mud                        |
-| —    | Viola                      |
-| —    | The Unspeakable Act        |
-| —    | You Ain't Seen Nothin' Yet |
-| —    | The Spectacular Now        |
-| —    | Something In the Air       |
-| —    | Dallas Buyers Club         |
-| —    | Wadjda                     |
-| —    | Enough Said                |
-| —    | Laurence Anyways           |
-| —    | Only God Forgives          |
-| —    | Side Effects               |
-
----
+| —    | Leviathan                                                     |
+| —    | Spring Breakers                                               |
+| —    | Stories We Tell                                               |
+| —    | American Hustle                                               |
+| —    | Short Term 12                                                 |
+| —    | Nebraska                                                      |
+| —    | All is Lost                                                   |
+| —    | The Wolf of Wall Street                                       |
+| —    | To the Wonder                                                 |
+| —    | The World's End                                               |
+| —    | Beyond the Hills                                              |
+| —    | Drug War                                                      |
+| —    | Blue Jasmine                                                  |
+| —    | Bastards                                                      |
+| —    | The Wind Rises                                                |
+| —    | At Berkeley                                                   |
+| —    | Post Tenebras Lux                                             |
+| —    | Grandmaster                                                   |
+| —    | Fruitvale Station                                             |
+| —    | No                                                            |
+| —    | Mud                                                           |
+| —    | Viola                                                         |
+| —    | The Unspeakable Act                                           |
+| —    | You Ain't Seen Nothin' Yet                                    |
+| —    | The Spectacular Now                                           |
+| —    | Something In the Air                                          |
+| —    | Dallas Buyers Club                                            |
+| —    | Wadjda                                                        |
+| —    | Enough Said                                                   |
+| —    | Laurence Anyways                                              |
+| —    | Only God Forgives                                             |
+| —    | Side Effects                                                  |
 
 ## Additional Grouped Mentions
 
@@ -3719,198 +2972,169 @@ IL |
 | —    | An Oversimplification of Her Beauty        |
 | —    | Sun Don't Shine & Ain't Them Bodies Saints |
 
----
-
 ## More Films
 
-| Year | Title                    |
-| ---- | ------------------------ |
-| —    | Stranger By the Lake     |
-| —    | Spring Breakers          |
-| —    | A Touch of Sin           |
-| —    | Lincoln                  |
-| —    | La Jalousie              |
-| —    | Nobody's Daughter Haewon |
-| —    | You and the Night        |
-| —    | La Bataille de Solferino |
-
----
-
-## Unseen Films
-
-| Year | Title                     |
-| ---- | ------------------------- |
-| 1974 | Chinatown                 |
-| 1980 | The Elephant Man          |
-| 2010 | Incendies                 |
-| 1963 | The Great Escape          |
-| 1999 | The Sixth Sense           |
-| 2011 | The Help                  |
-| 2018 | Shoplifters               |
-| 2013 | Prisoners                 |
-| 1991 | Beauty and the Beast      |
-| 1993 | Jurassic Park             |
-| 2015 | Mad Max: Fury Road        |
-| 1939 | The Wizard of Oz          |
-| 1995 | Before Sunrise            |
-| 1979 | Stalker                   |
-| 1976 | Network                   |
-| 2004 | Hotel Rwanda              |
+| — | Stranger By the Lake |
+| — | Spring Breakers |
+| — | A Touch of Sin |
+| — | Lincoln |
+| — | La Jalousie |
+| — | Nobody's Daughter Haewon |
+| — | You and the Night |
+| — | La Bataille de Solferino |
+| 1974 | Chinatown |
+| 1980 | The Elephant Man |
+| 2010 | Incendies |
+| 1963 | The Great Escape |
+| 1999 | The Sixth Sense |
+| 2011 | The Help |
+| 2018 | Shoplifters |
+| 2013 | Prisoners |
+| 1991 | Beauty and the Beast |
+| 1993 | Jurassic Park |
+| 2015 | Mad Max: Fury Road |
+| 1939 | The Wizard of Oz |
+| 1995 | Before Sunrise |
+| 1979 | Stalker |
+| 1976 | Network |
+| 2004 | Hotel Rwanda |
 | 1993 | In the Name of the Father |
-| 1982 | The Thing                 |
-| 1995 | Braveheart                |
-| 1954 | Rear Window               |
-| 2006 | The Lives of Others       |
-| 2002 | The Pianist               |
-| 1999 | The Green Mile            |
-| 2006 | The Prestige              |
-| 2014 | Whiplash                  |
-| 1994 | Léon: The Professional    |
-| 1998 | Saving Private Ryan       |
-| 1990 | Goodfellas                |
-| 1999 | The Matrix                |
-| 1994 | Forrest Gump              |
-
----
+| 1982 | The Thing |
+| 1995 | Braveheart |
+| 1954 | Rear Window |
+| 2006 | The Lives of Others |
+| 2002 | The Pianist |
+| 1999 | The Green Mile |
+| 2006 | The Prestige |
+| 2014 | Whiplash |
+| 1994 | Léon: The Professional |
+| 1998 | Saving Private Ryan |
+| 1990 | Goodfellas |
+| 1999 | The Matrix |
+| 1994 | Forrest Gump |
 
 ## Seen Films List 1
 
-| Year | Title                             |
-| ---- | --------------------------------- |
-| 1939 | Gone with the Wind                |
-| 1943 | The Song of Bernadette            |
-| 1946 | It's a Wonderful Life             |
-| 1960 | Psycho                            |
-| 1960 | Le trou                           |
-| 1966 | The Good, the Bad and the Ugly    |
-| 1972 | The Godfather                     |
-| 1974 | The Godfather: Part II            |
-| 1982 | Blade Runner                      |
-| 1982 | Salyut 7                          |
-| 1984 | The Terminator                    |
-| 1984 | Amadeus                           |
-| 1985 | Brazil                            |
-| 1985 | Back to the Future                |
-| 1988 | Die Hard                          |
+| 1939 | Gone with the Wind |
+| 1943 | The Song of Bernadette |
+| 1946 | It's a Wonderful Life |
+| 1960 | Psycho |
+| 1960 | Le trou |
+| 1966 | The Good, the Bad and the Ugly |
+| 1972 | The Godfather |
+| 1974 | The Godfather: Part II |
+| 1982 | Blade Runner |
+| 1982 | Salyut 7 |
+| 1984 | The Terminator |
+| 1984 | Amadeus |
+| 1985 | Brazil |
+| 1985 | Back to the Future |
+| 1988 | Die Hard |
 | 1988 | The Navigator: A Medieval Odyssey |
-| 1992 | Basic Instinct                    |
-| 1993 | Schindler's List                  |
-| 1994 | The Shawshank Redemption          |
-| 1994 | Death and the Maiden              |
-| 1994 | Pulp Fiction                      |
-| 1995 | Twelve Monkeys                    |
-| 1995 | Underground                       |
-| 1997 | Life Is Beautiful                 |
-| 1997 | Lost Highway                      |
-| 1997 | The Fifth Element                 |
-| 1998 | The Truman Show                   |
-
----
+| 1992 | Basic Instinct |
+| 1993 | Schindler's List |
+| 1994 | The Shawshank Redemption |
+| 1994 | Death and the Maiden |
+| 1994 | Pulp Fiction |
+| 1995 | Twelve Monkeys |
+| 1995 | Underground |
+| 1997 | Life Is Beautiful |
+| 1997 | Lost Highway |
+| 1997 | The Fifth Element |
+| 1998 | The Truman Show |
 
 ## Seen Films List 2
 
-| Year | Title                                             |
-| ---- | ------------------------------------------------- |
-| 2000 | Quills                                            |
-| 2000 | Memento                                           |
-| 2000 | Malena                                            |
-| 2000 | Gladiator                                         |
-| 2000 | Catch Me If You Can                               |
+| 2000 | Quills |
+| 2000 | Memento |
+| 2000 | Malena |
+| 2000 | Gladiator |
+| 2000 | Catch Me If You Can |
 | 2001 | The Lord of the Rings: The Fellowship of the Ring |
-| 2001 | A Beautiful Mind                                  |
-| 2001 | The One                                           |
-| 2001 | Mulholland Drive                                  |
-| 2002 | The Hours                                         |
-| 2002 | Frida                                             |
-| 2002 | Irreversible                                      |
-| 2002 | City of God                                       |
-| 2003 | The Lord of the Rings: The Return of the King     |
-| 2003 | Spring Summer Fall Winter And Spring              |
-| 2003 | The Dreamers                                      |
-| 2004 | Troy                                              |
-| 2004 | 3-Iron                                            |
-| 2004 | Primer                                            |
-| 2005 | The Jacket                                        |
-| 2005 | Match Point                                       |
-| 2006 | The Departed                                      |
-| 2006 | Goya's Ghosts                                     |
-| 2006 | Peaceful Warrior                                  |
-| 2006 | Deja Vu                                           |
-| 2006 | The Fountain                                      |
-| 2006 | Basic Instinct 2                                  |
-| 2006 | The Prestige                                      |
-| 2006 | V for Vendetta                                    |
-| 2007 | Becoming Jane                                     |
-| 2008 | Gran Torino                                       |
-| 2008 | Mother                                            |
-| 2009 | District 9                                        |
-| 2010 | Inception                                         |
-| 2010 | Exam                                              |
-| 2010 | Shutter Island                                    |
-| 2010 | The King's Speech                                 |
-| 2010 | The Lovely Bones                                  |
-| 2011 | Warrior                                           |
-| 2011 | The Hidden Face                                   |
-| 2011 | The Tree of Life                                  |
-| 2012 | Like Someone in Love                              |
-| 2012 | The Hunt                                          |
-| 2012 | Barbara                                           |
-| 2012 | Looper                                            |
-| 2013 | 12 Years a Slave                                  |
-| 2013 | Rush                                              |
-| 2013 | Upstream Color                                    |
-| 2013 | Night Train to Lisbon                             |
-| 2013 | Blue Is The Warmest Color                         |
-| 2013 | Stoker                                            |
-| 2013 | Oldboy                                            |
-| 2014 | Coherence                                         |
-| 2014 | Predestination                                    |
-| 2014 | Pk                                                |
-| 2014 | Lucy                                              |
-| 2014 | Interstellar                                      |
-| 2014 | Son of God                                        |
-| 2014 | Under the Skin                                    |
-
----
+| 2001 | A Beautiful Mind |
+| 2001 | The One |
+| 2001 | Mulholland Drive |
+| 2002 | The Hours |
+| 2002 | Frida |
+| 2002 | Irreversible |
+| 2002 | City of God |
+| 2003 | The Lord of the Rings: The Return of the King |
+| 2003 | Spring Summer Fall Winter And Spring |
+| 2003 | The Dreamers |
+| 2004 | Troy |
+| 2004 | 3-Iron |
+| 2004 | Primer |
+| 2005 | The Jacket |
+| 2005 | Match Point |
+| 2006 | The Departed |
+| 2006 | Goya's Ghosts |
+| 2006 | Peaceful Warrior |
+| 2006 | Deja Vu |
+| 2006 | The Fountain |
+| 2006 | Basic Instinct 2 |
+| 2006 | The Prestige |
+| 2006 | V for Vendetta |
+| 2007 | Becoming Jane |
+| 2008 | Gran Torino |
+| 2008 | Mother |
+| 2009 | District 9 |
+| 2010 | Inception |
+| 2010 | Exam |
+| 2010 | Shutter Island |
+| 2010 | The King's Speech |
+| 2010 | The Lovely Bones |
+| 2011 | Warrior |
+| 2011 | The Hidden Face |
+| 2011 | The Tree of Life |
+| 2012 | Like Someone in Love |
+| 2012 | The Hunt |
+| 2012 | Barbara |
+| 2012 | Looper |
+| 2013 | 12 Years a Slave |
+| 2013 | Rush |
+| 2013 | Upstream Color |
+| 2013 | Night Train to Lisbon |
+| 2013 | Blue Is The Warmest Color |
+| 2013 | Stoker |
+| 2013 | Oldboy |
+| 2014 | Coherence |
+| 2014 | Predestination |
+| 2014 | Pk |
+| 2014 | Lucy |
+| 2014 | Interstellar |
+| 2014 | Son of God |
+| 2014 | Under the Skin |
 
 ## Seen Films List 3
 
-| Year | Title                                     |
-| ---- | ----------------------------------------- |
-| 2015 | Room                                      |
-| 2015 | III                                       |
-| 2015 | Delibal                                   |
-| 2015 | Our Little Sister                         |
-| 2015 | A Man Called Ove                          |
-| 2015 | The Martian                               |
-| 2016 | Arrival                                   |
-| 2016 | Silence                                   |
-| 2016 | Dangal                                    |
-| 2016 | Hacksaw Ridge                             |
-| 2016 | Elle                                      |
-| 2016 | Atomic Blonde                             |
-| 2017 | The Invisible Guest                       |
-| 2017 | Denial (about Holocaust)                  |
-| 2017 | The Shack                                 |
-| 2017 | The Battleship Island                     |
-| 2017 | Three Billboards Outside Ebbing, Missouri |
-| 2018 | Annihilation                              |
-| 2018 | Burning                                   |
-| 2018 | Replica                                   |
-| 2018 | Green Book                                |
-| 2018 | Roma                                      |
-| 2018 | Bird Box                                  |
-| 2018 | A Quiet Place                             |
-| 2018 | Black Panther                             |
-| 2018 | Vice                                      |
-| 2018 | Second Act                                |
-| 2018 | Free Solo                                 |
-| 2018 | Transit                                   |
-| 2019 | 1917                                      |
-| 2019 | Parasite                                  |
-| 2019 | The Professor and the Madman              |
-
----
+| 2015 | Room |
+| 2015 | III |
+| 2015 | Delibal |
+| 2015 | Our Little Sister |
+| 2015 | A Man Called Ove |
+| 2015 | The Martian |
+| 2016 | Arrival |
+| 2016 | Silence |
+| 2016 | Dangal |
+| 2016 | Hacksaw Ridge |
+| 2016 | Elle |
+| 2016 | Atomic Blonde |
+| 2017 | The Invisible Guest |
+| 2017 | Denial (about Holocaust) |
+| 2017 | The Shack |
+| 2018 | Burning |
+| 2018 | Replica |
+| 2018 | Green Book |
+| 2018 | Roma |
+| 2018 | Bird Box |
+| 2018 | A Quiet Place |
+| 2018 | Black Panther |
+| 2018 | Vice |
+| 2018 | Second Act |
+| 2018 | Free Solo |
+| 2018 | Transit |
+| 2019 | 1917 |
+| 2019 | The Professor and the Madman |
 
 ## Top 5 Netflix Series Worldwide
 
@@ -3954,3 +3178,472 @@ IL |
 | —         | The Hot Zone          |
 | —         | Genius                |
 | 2006-2013 | Dexter                |
+
+---
+
+Sure! Here’s everything in the same table format you used, including placeholders where info is missing:
+
+## Iranian
+
+| Year | English Title                         | Persian Title                       |
+| ---- | ------------------------------------- | ----------------------------------- |
+| —    | Retouch (short)                       | Retouch (short)                     |
+| —    | Wind’s Screenplays                    | فیلم‌نامه‌های باد                   |
+| 1970 | Tranquility in the Presence of Others | آرامش در حضور دیگران                |
+| 1973 | A Simple Event                        | یک اتفاق ساده                       |
+| 1977 | The Report                            | گزارش                               |
+| 1986 | The Tenants                           | اجاره‌نشین‌ها                       |
+| 1986 | The Peddler                           | دستفروش                             |
+| 1988 | The Lead                              | سرب                                 |
+| 1992 | Abadanis                              | آبادانی‌ها                          |
+| 2002 | Dancing in the Dust                   | رقص در غبار                         |
+| 2003 | Crimson Gold                          | طلای سرخ                            |
+| 2009 | The White Meadows                     | کشتزارهای سپید                      |
+| 2017 | Searing Rush / The Host               | هجوم                                |
+| —    | In the Arms of the Tree               | —                                   |
+| —    | Old Road                              | —                                   |
+| —    | Here Without Me                       | —                                   |
+| —    | Cause of Unknown Death                | —                                   |
+| —    | Last Snow                             | —                                   |
+| —    | Aziz                                  | —                                   |
+| —    | Endless Borders                       | —                                   |
+| —    | Beautiful City                        | —                                   |
+| —    | Atabai                                | —                                   |
+| —    | Boutique                              | —                                   |
+| —    | Alone, Alone, Alone                   | —                                   |
+| —    | Silver Carnation                      | —                                   |
+| —    | My Favorite Cake                      | کیک محبوب من                        |
+| 2019 | Hava Maryam Ayesha                    | حوا مریم عایشه                      |
+| —    | My Life is Wind                       | زندگی من باد (Anahita Qazvinizade)  |
+| —    | Mehr Giah (Film)                      | فیلم مهر گیاه                       |
+| —    | Murphy’s Law (Film)                   | فیلم قانون مورفی                    |
+| —    | Raftan                                | رفتن                                |
+| —    | Khanom                                | خانوم                               |
+| —    | Eteraf                                | اعتراف                              |
+| —    | One of Us Two                         | یکی از ما دو نفر                    |
+| —    | Best Hours                            | بهترین ساعات                        |
+| —    | Appendix                              | آپاندیس                             |
+| —    | Farari                                | فراری                               |
+| —    | Money Train                           | قطار پول                            |
+| —    | Apalosa                               | آپالوسا                             |
+| —    | Hostage                               | گروگانگیر                           |
+| —    | Land of Tomorrow (Film)               | سرزمین فردا (فیلم)                  |
+| —    | Darkoob (Film)                        | فیلم دارکوب                         |
+| —    | Zafar War Documentary                 | مستند جنگ ظفار                      |
+| —    | Orion (Short Film)                    | فیلم کوتاه اوریون (علی زمانی عصمتی) |
+| —    | Maryam’s Sin                          | گناه مریم (پریسا شاهنده)            |
+| —    | Bamdad Khomar (Series)                | سریال بامداد خمار                   |
+
+---
+
+## Seen Films List 3
+
+| Year | Title                                    |
+| ---- | ---------------------------------------- |
+| 1995 | Eternal Beloved                          |
+| 2003 | Copy Beethoven                           |
+| 1964 | Hamlet                                   |
+| 1932 | Blood of a Poet                          |
+| 1950 | Orpheus                                  |
+| 1960 | The Testament of Orpheus                 |
+| 2003 | Girl with a Pearl Earring                |
+| 2016 | Egon Schiele                             |
+| 2018 | Never Look Away                          |
+| 1956 | The Passion of Life                      |
+| 2017 | Gauguin                                  |
+| 2002 | Chopin                                   |
+| 2007 | Molière                                  |
+| 2010 | Young Goethe in Love                     |
+| 1965 | The Suffering and Ecstasy                |
+| 2016 | Silent Storm                             |
+| 1984 | Amadeus                                  |
+| 1959 | Rudaki, The Story of a Poet              |
+|      | Saadi Shirazi (Tajikistan, Soviet Union) |
+|      | Pollock                                  |
+
+---
+
+## Unseen Animated Films
+
+| Year | English Title                         |
+| ---- | ------------------------------------- |
+| —    | Symphony No. 5 Beethoven              |
+| 2017 | Loving Vincent                        |
+| —    | Bao                                   |
+| —    | Scream (Animation)                    |
+| —    | World.zip                             |
+| —    | Blue Bird                             |
+| 2015 | Surrealism with Lorca Flavor          |
+| 1998 | More                                  |
+| 2015 | Lava                                  |
+| —    | Audrey Hepburn (Chocolate Ad)         |
+| —    | The Solid Affair                      |
+| —    | A Country Doctor (Kafka Story)        |
+| —    | The D In David                        |
+| 2017 | Inner Working                         |
+| 1982 | Vincent                               |
+| —    | 3D Claude Monet Paintings             |
+| —    | Borrowed Time                         |
+| 2000 | When The Fay Breaks                   |
+| —    | Fallen Art                            |
+| 1963 | Le Nez                                |
+| 2011 | Children                              |
+| 2004 | Harvie Krumpet                        |
+| 2005 | Badgered                              |
+| 2011 | My Strange Grandfather                |
+| 2009 | Mary And Max                          |
+| 2020 | Hair Love                             |
+| 2015 | I Am A Pencil                         |
+| —    | Conflict (Russian)                    |
+| 2020 | I Don’t See Borders (Iranian)         |
+| 2005 | Over Time                             |
+| 2018 | Garden Party                          |
+| 2010 | Crow Moon                             |
+| 1999 | The Old Man and the Sea               |
+| 2007 | The Little Match Girl                 |
+| 2015 | Sky High                              |
+| —    | Charge                                |
+| —    | Geist                                 |
+| 2013 | Symphony No. 42                       |
+| —    | D (Animation)                         |
+| —    | Russian Animation by Aleksandr Petrov |
+| —    | 360° Salvador Dali Paintings          |
+| —    | 3D Dali Painting of Gala              |
+| 2018 | Loue                                  |
+| 2018 | Dear Basketball                       |
+
+---
+
+## Unseen Short Films
+
+| Year | English Title                       |
+| ---- | ----------------------------------- |
+| —    | Flight Documentary                  |
+| 2018 | Skin                                |
+| 1996 | Wind                                |
+| —    | The Pleasure of Love in Iran        |
+| 2010 | The Crush                           |
+| 2012 | Unspoken                            |
+| 1995 | Koza                                |
+| 2008 | The Black Hole                      |
+| 1926 | Emak Bakia                          |
+| 2015 | Hotel 22                            |
+| 1975 | Colors                              |
+| 2012 | Curfew                              |
+| 2013 | Maybe Another Time                  |
+| —    | Genesis                             |
+| 2014 | Najis                               |
+| —    | Dare to Change                      |
+| —    | Birth of Light                      |
+| —    | An Occurrence at Owl Creek Bridge   |
+| 1967 | The Great Shave                     |
+| 2015 | Born to Create Drama (3-part short) |
+| 2005 | Difficult Situation                 |
+| 2010 | Shanghai Blue Lady                  |
+| 2007 | Toyland                             |
+
+---
+
+## Unseen Documentaries
+
+| Year | English Title                                              |
+| ---- | ---------------------------------------------------------- |
+| 2015 | Listen to Me Marlon                                        |
+| 1980 | Documentary by Krzysztof Kieślowski                        |
+| —    | Interview with Tarkovsky                                   |
+| —    | Interview with Christopher Nolan about Heath Ledger        |
+| —    | Documentary about Leni Riefenstahl                         |
+| —    | Documentary about Karl Marx                                |
+| 1948 | Van Gogh Documentary by Alain Resnais                      |
+| 2001 | Pilgrimage by Werner Herzog                                |
+| —    | Mickey Duzyj Documentary                                   |
+| —    | The Art of Flying Documentary                              |
+| 2014 | Documentary about Susan Sontag                             |
+| —    | Marx the Fugitive Documentary                              |
+| —    | Castle: Life of Women in New Town by Kamran Shirdel        |
+| 1962 | Marlik Hills Documentary by Ebrahim Golestan               |
+| 1972 | P Like Pelican Documentary by Parviz Kimiavi               |
+| —    | Sohrab: Poetry and Life of Sohrab Sepehri                  |
+| —    | Forough Farrokhzad Documentary                             |
+| —    | Black Home Film by Forough Farrokhzad                      |
+| —    | That Teacher Without a Master Documentary about Ali Hatami |
+| —    | Documentary about artist Monir Shahroudy Farmanfarmaian    |
+| —    | Rare Documentary about Giacomo Puccini                     |
+| 2017 | Raphael Documentary                                        |
+| —    | Documentary about Lorca                                    |
+| —    | Documentary about Post-War Berlin                          |
+| —    | Ernest Hemingway Documentary                               |
+| —    | The Other Side of the Wind by Orson Welles                 |
+| —    | Room 237 Documentary                                       |
+| —    | Sohrab Sepehri Documentary by Roghieh                      |
+
+---
+
+## Unseen Feature Films / Series
+
+| Year | English Title                              |
+| ---- | ------------------------------------------ |
+| —    | Nobody Wants This                          |
+| —    | The Three Burials of Melquiades Estrada    |
+| —    | Ambulance                                  |
+| 2008 | The Hurt Locker                            |
+| 2019 | Crawl                                      |
+| 2002 | Phone Booth                                |
+| 1982 | Missing                                    |
+| —    | 303: Die Serie                             |
+| 1966 | Yesterday Girl                             |
+| —    | A Virtuous Business                        |
+| —    | Murderville (Series)                       |
+| 2002 | Naked (Nackt)                              |
+| 2003 | Good Bye, Lenin!                           |
+| 2008 | Die Welle (The Wave)                       |
+| 1983 | Angst                                      |
+| 2008 | The Baader Meinhof Complex                 |
+| —    | Chinesisches Roulette                      |
+| 1981 | Freak Orlando                              |
+| 1981 | Christiane F. – Wir Kinder vom Bahnhof Zoo |
+| 2011 | Kokowääh                                   |
+| 2012 | Barbara                                    |
+| 2019 | Der Fall Collini                           |
+| 2022 | The Janes (Documentary)                    |
+| —    | Down the Rabbit Hole                       |
+| —    | Bleeo                                      |
+| 2023 | Black (Korean Film or Series)              |
+
+---
+
+## Unseen Animated Short Films
+
+| Year | English Title       |
+| ---- | ------------------- |
+| 2014 | The Dam Keeper      |
+| 2000 | Father and Daughter |
+| 2014 | Feast               |
+| 2021 | Mum is Pouring Rain |
+| —    | Overrun (Animation) |
+
+---
+
+## 📽️ Films Seen
+
+| Year | Title                       |
+| ---- | --------------------------- |
+| 1944 | Double Indemnity            |
+| 1952 | Ikiru                       |
+| 1953 | Tokyo Story                 |
+| 1955 | Diabolique                  |
+| 1949 | Late Spring                 |
+| 1979 | Stalker                     |
+| 2000 | Memento                     |
+| 2000 | In the Mood for Love        |
+| 2001 | Donnie Darko                |
+| 2001 | Mulholland Drive            |
+| 2001 | Amélie                      |
+| 2002 | City of God                 |
+| 2003 | Oldboy                      |
+| 2004 | Primer                      |
+| 2004 | The Machinist               |
+| 2006 | The Lives of Others         |
+| 2010 | Inception                   |
+| 2010 | Shutter Island              |
+| 2011 | Limitless                   |
+| 2013 | Her                         |
+| 2014 | Interstellar                |
+| 2014 | Predestination              |
+| 2015 | Mad Max: Fury Road          |
+| 2017 | Orbiter 9                   |
+| 2017 | A Ghost Story               |
+| 2021 | The Good Neighbor           |
+| 2021 | The Passenger               |
+| 2021 | The Little Things           |
+| 2023 | The Promised Land           |
+| 2023 | Anatomy of a Fall           |
+| 2023 | Poor Things                 |
+| 2024 | Drawing Closer              |
+| 2024 | Heretic                     |
+| —    | Snowden                     |
+| —    | Fight Club                  |
+| —    | One Life                    |
+| —    | Priscilla                   |
+| —    | Oppenheimer                 |
+| —    | The Zone of Interest        |
+| —    | Nine Puzzles                |
+| —    | Murderbot                   |
+| —    | Predator: Killer of Killers |
+| —    | House of Flying Daggers     |
+| —    | Tales from the Loop         |
+| —    | Woman of the Dead           |
+| —    | Fucking Berlin              |
+
+---
+
+## 🎞️ Photographer Must-See
+
+| Year | Title              |
+| ---- | ------------------ |
+| 2005 | Sin City           |
+| 2011 | The Tree of Life   |
+| 2013 | Her                |
+| 2014 | Jauja              |
+| 2015 | Mad Max: Fury Road |
+
+---
+
+## 🇮🇳 Indian Films Seen
+
+| Year | Title         |
+| ---- | ------------- |
+| 2013 | The Lunchbox  |
+| 2016 | Pink          |
+| 2019 | Badla         |
+| —    | The Fame Game |
+
+---
+
+## 🇹🇷 Turkish Films Seen
+
+| Year | Title  |
+| ---- | ------ |
+| 2023 | Bihter |
+
+---
+
+## 🇮🇷 Iranian Films Seen
+
+| Year | Title       |
+| ---- | ----------- |
+| —    | برادرم خسرو |
+| —    | کاغذ بی خط  |
+| —    | سد معبر     |
+
+---
+
+## ✨ Animation Films Seen
+
+| Year | Title                              |
+| ---- | ---------------------------------- |
+| 1986 | Castle in the Sky                  |
+| 1988 | Grave of the Fireflies             |
+| 2001 | Spirited Away                      |
+| 2004 | Howl’s Moving Castle               |
+| 2004 | The Girl Who Leapt Through Time    |
+| 2006 | Nausicaä of the Valley of the Wind |
+| 2008 | WALL•E                             |
+| 2009 | Up                                 |
+| 2009 | Mary and Max                       |
+| 2010 | How to Train Your Dragon           |
+| 2015 | Inside Out                         |
+| 2016 | Your Name                          |
+| —    | The Boy and the Heron              |
+| —    | Elemental                          |
+| —    | Kiki’s Delivery Service            |
+| —    | Ponyo                              |
+| —    | My Neighbor Totoro                 |
+
+---
+
+## 📺 Animation Series Seen
+
+| Title                   |
+| ----------------------- |
+| Arcane                  |
+| Scavengers Reign        |
+| Blue Eye Samurai        |
+| The Apothecary Diaries  |
+| Serial Experiments Lain |
+
+---
+
+## 📺 Series Seen
+
+| Title                             |
+| --------------------------------- |
+| Dark Matter                       |
+| ODERBRUCH                         |
+| Death’s Game                      |
+| After Life                        |
+| The Stranger                      |
+| Bad Sisters                       |
+| Presumed Innocent                 |
+| The Billion Dollar Code           |
+| Under the Bridge                  |
+| The Tattooist of Auschwitz (2024) |
+| Bodies                            |
+| The Innocent                      |
+| The Secret in Their Eyes          |
+| 3 Body Problem (2024)             |
+| You                               |
+| The Diplomat                      |
+| The Killing Vote                  |
+| A Small Light                     |
+| Obsession (2023)                  |
+| Behind Her Eyes                   |
+| Jeffrey Dahmer                    |
+| Des                               |
+| A Murder at the End of the World  |
+| House of the Dragon               |
+| Emily in Paris                    |
+| The Fame Game                     |
+| 1899                              |
+| Gefährliche Liebschaften          |
+| A Friend of the Family            |
+| Dahmer the Monster                |
+| Normal People                     |
+| Squid Game                        |
+| Fargo                             |
+| The Handmaid’s Tale               |
+| Dark                              |
+| Once Upon a Time                  |
+| Prison Break                      |
+| Vikings                           |
+| Monsters at Work                  |
+| Sex Education                     |
+| La Casa de Papel                  |
+| Queen's Gambit                    |
+| Unorthodox                        |
+| Ozark                             |
+| Lucifer                           |
+| Elite                             |
+| Westworld                         |
+| 13 Reasons Why                    |
+| Family Guy                        |
+| Rick and Morty                    |
+| Bojack Horseman                   |
+| The White Princess                |
+| The White Queen                   |
+| The Spanish Princess              |
+| Pretty Little Liars               |
+| Breaking Bad                      |
+| Chernobyl                         |
+| Sherlock Holmes                   |
+| Game of Thrones                   |
+| Tehran                            |
+| Mare of Easttown                  |
+| Poker Face                        |
+| Inside Job                        |
+| Death and Love                    |
+| Scenes from a Marriage            |
+| From                              |
+| Succession                        |
+| Silo                              |
+| The Bear                          |
+| Liebes Kind                       |
+| Shrinking                         |
+| Your Honor                        |
+| Maid                              |
+| Dead Ringers                      |
+| True Detective                    |
+| Better Call Saul                  |
+| My Brilliant Friend               |
+| Waco                              |
+
+---
+
+## 📚 Documentaries Seen
+
+| Title                                            |
+| ------------------------------------------------ |
+| Turning Point: 9/11 and the War on Terror        |
+| American Manhunt: The Search for Osama bin Laden |
+
+---
