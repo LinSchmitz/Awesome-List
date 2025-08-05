@@ -316,3 +316,41 @@ A list of **beautiful, emotional, and powerful movies** from all kinds of genres
 | 1979 | _Stalker_          |
 | 1983 | _Nostalghia_       |
 | 1986 | _The Sacrifice_    |
+
+---
+
+## 📺 Series
+
+| Title                                               |
+| --------------------------------------------------- |
+| _After Life_                                        |
+| _Murder to Mercy_                                   |
+| _Vis a Vis_                                         |
+| _Scinfield_                                         |
+| _The Marvelous Mrs. Maisel_                         |
+| _The Deuce_                                         |
+| _Barkskins (NatGeo)_                                |
+| _Death Parade_                                      |
+| _Atlanta's Missing and Murdered: The Lost Children_ |
+| _The Spy_                                           |
+
+---
+
+## ⏳ Time Traveling Movies
+
+| Year | Title                             |
+| ---- | --------------------------------- |
+| 2018 | _Mirage_                          |
+| 2011 | _Source Code_                     |
+| 2001 | _Donnie Darko_                    |
+| 2014 | _Predestination_                  |
+| 2016 | _Your Name_                       |
+| 2006 | _The Girl Who Leapt Through Time_ |
+| 2012 | _Looper_                          |
+| 2014 | _Interstellar_                    |
+| 2014 | _Edge of Tomorrow_                |
+| 1962 | _La Jetée_                        |
+| 2016 | _Arrival_                         |
+| 1995 | _12 Monkeys_                      |
+| 2004 | _Primer_                          |
+| 1985 | _Back to the Future_              |
