@@ -973,3 +973,165 @@ A list of **beautiful, emotional, and powerful movies** from all kinds of genres
 | 2019 | _American Factory_   |
 
 ---
+
+## Anime & Animation
+
+| Year | Title                              |
+| ---- | ---------------------------------- |
+| 1980 | _Zigeunerweisen_                   |
+| 1998 | _Birdcage Inn_                     |
+| 2001 | _Mulholland Drive_                 |
+| 2003 | _Porco Rosso_                      |
+| 2004 | _Howl's Moving Castle_             |
+| 2006 | _Paprika_                          |
+| 2007 | _Parasyte_ (anime)                 |
+| 2008 | _Hana Yori Dango: Final_           |
+| 2010 | _My Neighbor Totoro_               |
+| 2011 | _Arirang_                          |
+| 2013 | _The Tale of The Princess Kaguya_  |
+| 2014 | _Your Name_                        |
+| 2016 | _A Girl Leapt Through Time_        |
+| 2018 | _Wolf Children_                    |
+| 2019 | _Fullmetal Alchemist: Brotherhood_ |
+
+## Series & TV Shows
+
+| Year | Title                                |
+| ---- | ------------------------------------ |
+| 2011 | _Intouchables_                       |
+| 2013 | _The Berlin File_                    |
+| 2015 | _River_                              |
+| 2017 | _The Undoing_                        |
+| 2017 | _Along with the Gods The Two Worlds_ |
+| 2018 | _The Great Heist_                    |
+| 2018 | _Patria_                             |
+| 2018 | _The Queen’s Gambit_                 |
+| 2019 | _Succession_                         |
+| 2019 | _Vis a Vis - Locked-up_              |
+| 2020 | _Awaken_                             |
+| 2020 | _The Booksellers_                    |
+
+## Documentaries & Others
+
+| Year | Title               |
+| ---- | ------------------- |
+| 2012 | _Beyond the Hills_  |
+| 2016 | _The White Helmets_ |
+| 2018 | _Un homme press_    |
+| 2019 | _American Factory_  |
+| 2019 | _The Great Hack_    |
+| 2020 | _I Wish I Knew_     |
+
+---
+
+## Drama
+
+| Year | Title                                        |
+| ---- | -------------------------------------------- |
+| 1941 | _Citizen Kane_                               |
+| 1947 | _One Wonderful Sunday_                       |
+| 1957 | _Twelve Angry Men_                           |
+| 1992 | _Bitter Moon_                                |
+| 1999 | _Eyes Wide Shut_                             |
+| 2000 | _Joint Security Area_                        |
+| 2003 | _Spring, Summer, Fall, Winter... and Spring_ |
+| 2003 | _Real Fiction_                               |
+| 2003 | _Mystic River_                               |
+| 2007 | _The Diving Bell and the Butterfly_          |
+| 2008 | _Dream_                                      |
+| 2011 | _Arirang_                                    |
+| 2013 | _Moebius_                                    |
+| 2017 | _When the Day Comes_                         |
+| 2018 | _The Photographer of Mauthausen_             |
+| 2018 | _Veere Di Wedding_                           |
+| 2020 | _Tesla_                                      |
+| 2020 | _Your Honor_                                 |
+
+---
+
+## Thriller / Crime
+
+| Year | Title                            |
+| ---- | -------------------------------- |
+| 1966 | _Blow-Up_                        |
+| 2000 | _Memento_                        |
+| 2003 | _The Life of David Gale_         |
+| 2005 | _Flightplan_                     |
+| 2007 | _Gone Baby Gone_                 |
+| 2007 | _Zodiac_                         |
+| 2008 | _The Oxford Murders_             |
+| 2010 | _I Saw the Devil_                |
+| 2010 | _The Yellow Sea_                 |
+| 2013 | _New World_                      |
+| 2013 | _Omar_                           |
+| 2013 | _Prisoners_                      |
+| 2014 | _Gone Girl_                      |
+| 2015 | _And Then There Were None_       |
+| 2015 | _Ex Machina_                     |
+| 2016 | _The Age of Shadows_             |
+| 2016 | _The Handmaiden_                 |
+| 2016 | _The Net_                        |
+| 2017 | _The Institute_                  |
+| 2018 | _Ash Is Purest White_            |
+| 2018 | _Dark Figure of Crime_           |
+| 2018 | _The House That Jack Built_      |
+| 2018 | _The Accused_                    |
+| 2019 | _Bring Me Home_                  |
+| 2019 | _Serenity_                       |
+| 2019 | _The Gangster The Cop The Devil_ |
+| 2020 | _Train To Busan 2_               |
+
+---
+
+## Romance
+
+| Year | Title                      |
+| ---- | -------------------------- |
+| 1962 | _Lolita_                   |
+| 2002 | _Miss Mermaid_             |
+| 2004 | _3-Iron_                   |
+| 2008 | _Hana Yori Dango: Final_   |
+| 2009 | _The Time Traveler's Wife_ |
+| 2015 | _Love_                     |
+| 2016 | _Goddess of Love_          |
+
+---
+
+## Sci-Fi / Fantasy
+
+| Year | Title                                  |
+| ---- | -------------------------------------- |
+| 1999 | _The Matrix_                           |
+| 2015 | _Jupiter Ascending_                    |
+| 2017 | _Along with the Gods The Two Worlds_   |
+| 2018 | _Along with the Gods The Last 49 Days_ |
+| 2017 | _A Ghost Story_                        |
+
+---
+
+## War / Action
+
+| Year | Title                          |
+| ---- | ------------------------------ |
+| 1954 | _7 Samurai_                    |
+| 2014 | _The Admiral Roaring Currents_ |
+| 2017 | _The Battleship Island_        |
+
+---
+
+## Animation
+
+| Year | Title                             |
+| ---- | --------------------------------- |
+| 2013 | _The Tale of The Princess Kaguya_ |
+
+---
+
+## Documentary
+
+| Year | Title                            |
+| ---- | -------------------------------- |
+| 2011 | _Arirang_                        |
+| 2018 | _The Photographer of Mauthausen_ |
+
+---
