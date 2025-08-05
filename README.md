@@ -3260,3 +3260,121 @@ Sure! Here’s everything in the same table format you used, including placehold
 | 1959 | Rudaki, The Story of a Poet              |
 |      | Saadi Shirazi (Tajikistan, Soviet Union) |
 |      | Pollock                                  |
+
+---
+
+## Unseen Animated Films
+
+| Year | English Title                         |
+| ---- | ------------------------------------- |
+| —    | Symphony No. 5 Beethoven              |
+| 2017 | Loving Vincent                        |
+| —    | Bao                                   |
+| —    | Scream (Animation)                    |
+| —    | World.zip                             |
+| —    | Blue Bird                             |
+| 2015 | Surrealism with Lorca Flavor          |
+| 1998 | More                                  |
+| 2015 | Lava                                  |
+| —    | Audrey Hepburn (Chocolate Ad)         |
+| —    | The Solid Affair                      |
+| —    | A Country Doctor (Kafka Story)        |
+| —    | The D In David                        |
+| 2017 | Inner Working                         |
+| 1982 | Vincent                               |
+| —    | 3D Claude Monet Paintings             |
+| —    | Borrowed Time                         |
+| 2000 | When The Fay Breaks                   |
+| —    | Fallen Art                            |
+| 1963 | Le Nez                                |
+| 2011 | Children                              |
+| 2004 | Harvie Krumpet                        |
+| 2005 | Badgered                              |
+| 2011 | My Strange Grandfather                |
+| 2009 | Mary And Max                          |
+| 2020 | Hair Love                             |
+| 2015 | I Am A Pencil                         |
+| —    | Conflict (Russian)                    |
+| 2020 | I Don’t See Borders (Iranian)         |
+| 2005 | Over Time                             |
+| 2018 | Garden Party                          |
+| 2010 | Crow Moon                             |
+| 1999 | The Old Man and the Sea               |
+| 2007 | The Little Match Girl                 |
+| 2015 | Sky High                              |
+| —    | Charge                                |
+| —    | Geist                                 |
+| 2013 | Symphony No. 42                       |
+| —    | D (Animation)                         |
+| —    | Russian Animation by Aleksandr Petrov |
+| —    | 360° Salvador Dali Paintings          |
+| —    | 3D Dali Painting of Gala              |
+| 2018 | Loue                                  |
+| 2018 | Dear Basketball                       |
+
+---
+
+## Unseen Short Films
+
+| Year | English Title                       |
+| ---- | ----------------------------------- |
+| —    | Flight Documentary                  |
+| 2018 | Skin                                |
+| 1996 | Wind                                |
+| —    | The Pleasure of Love in Iran        |
+| 2010 | The Crush                           |
+| 2012 | Unspoken                            |
+| 1995 | Koza                                |
+| 2008 | The Black Hole                      |
+| 1926 | Emak Bakia                          |
+| 2015 | Hotel 22                            |
+| 1975 | Colors                              |
+| 2012 | Curfew                              |
+| 2013 | Maybe Another Time                  |
+| —    | Genesis                             |
+| 2014 | Najis                               |
+| —    | Dare to Change                      |
+| —    | Birth of Light                      |
+| —    | An Occurrence at Owl Creek Bridge   |
+| 1967 | The Great Shave                     |
+| 2015 | Born to Create Drama (3-part short) |
+| 2005 | Difficult Situation                 |
+| 2010 | Shanghai Blue Lady                  |
+| 2007 | Toyland                             |
+
+---
+
+## Unseen Documentaries
+
+| Year | English Title                                              |
+| ---- | ---------------------------------------------------------- |
+| 2015 | Listen to Me Marlon                                        |
+| 1980 | Documentary by Krzysztof Kieślowski                        |
+| —    | Interview with Tarkovsky                                   |
+| —    | Interview with Christopher Nolan about Heath Ledger        |
+| —    | Documentary about Leni Riefenstahl                         |
+| —    | Documentary about Karl Marx                                |
+| 1948 | Van Gogh Documentary by Alain Resnais                      |
+| 2001 | Pilgrimage by Werner Herzog                                |
+| —    | Mickey Duzyj Documentary                                   |
+| —    | The Art of Flying Documentary                              |
+| 2014 | Documentary about Susan Sontag                             |
+| —    | Marx the Fugitive Documentary                              |
+| —    | Castle: Life of Women in New Town by Kamran Shirdel        |
+| 1962 | Marlik Hills Documentary by Ebrahim Golestan               |
+| 1972 | P Like Pelican Documentary by Parviz Kimiavi               |
+| —    | Sohrab: Poetry and Life of Sohrab Sepehri                  |
+| —    | Forough Farrokhzad Documentary                             |
+| —    | Black Home Film by Forough Farrokhzad                      |
+| —    | That Teacher Without a Master Documentary about Ali Hatami |
+| —    | Documentary about artist Monir Shahroudy Farmanfarmaian    |
+| —    | Rare Documentary about Giacomo Puccini                     |
+| 2017 | Raphael Documentary                                        |
+| —    | Documentary about Lorca                                    |
+| —    | Documentary about Post-War Berlin                          |
+| —    | Ernest Hemingway Documentary                               |
+| —    | The Other Side of the Wind by Orson Welles                 |
+| —    | Room 237 Documentary                                       |
+| —    | Sohrab Sepehri Documentary by Roghieh                      |
+
+---
