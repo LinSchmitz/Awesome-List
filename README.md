@@ -154,9 +154,9 @@
 
 | Year | Title           |
 | ---- | --------------- |
-| 2018 | _Sir_           |
 | 2013 | _The Lunchbox_  |
 | 2016 | _Pink_          |
+| 2018 | _Sir_           |
 | 2019 | _Badla_         |
 | ---- | _The Fame Game_ |
 
@@ -218,59 +218,64 @@
 
 | Year | Title                             |
 | ---- | --------------------------------- |
-| 2018 | _Mirage_                          |
-| 2011 | _Source Code_                     |
+| 1962 | _La Jetée_                        |
+| 1985 | _Back to the Future_              |
+| 1995 | _12 Monkeys_                      |
 | 2001 | _Donnie Darko_                    |
-| 2014 | _Predestination_                  |
-| 2016 | _Your Name_                       |
+| 2004 | _Primer_                          |
 | 2006 | _The Girl Who Leapt Through Time_ |
+| 2011 | _Source Code_                     |
 | 2012 | _Looper_                          |
+| 2014 | _Predestination_                  |
 | 2014 | _Interstellar_                    |
 | 2014 | _Edge of Tomorrow_                |
-| 1962 | _La Jetée_                        |
+| 2016 | _Your Name_                       |
 | 2016 | _Arrival_                         |
-| 1995 | _12 Monkeys_                      |
-| 2004 | _Primer_                          |
-| 1985 | _Back to the Future_              |
+| 2018 | _Mirage_                          |
 
 ## Holocaust and World War II Movies
 
 | Year | Title                                                          |
 | ---- | -------------------------------------------------------------- |
-| 2017 | _Denial_                                                       |
-| 2008 | _The Reader_                                                   |
-| 2015 | _Son of Saul_                                                  |
-| 2013 | _The Lady in Number 6: Music Saved My Life_                    |
-| 2015 | _Ida_                                                          |
-| 2002 | _Secret Lives: Hidden Children and Their Rescuers During WWII_ |
-| 1989 | _Enemies: A Love Story_                                        |
-| 2003 | _The Pianist_                                                  |
-| 1964 | _The Pawnbroker_                                               |
-| 2013 | _The Book Thief_                                               |
-| 2001 | _Conspiracy_                                                   |
-| 1997 | _Life is Beautiful_                                            |
-| 2012 | _Numbered_                                                     |
-| 2007 | _Fugitive Pieces_                                              |
-| 1999 | _The Devil’s Arithmetic_                                       |
-| 2002 | _Amen_                                                         |
-| 2008 | _Valentina’s Mother_                                           |
-| 1971 | _Fiddler on the Roof_                                          |
-| 1961 | _Judgment at Nuremberg_                                        |
-| 2008 | _Defiance_                                                     |
-| 1982 | _Sophie’s Choice_                                              |
 | 1959 | _The Diary of Anne Frank_                                      |
+| 1961 | _Judgment at Nuremberg_                                        |
+| 1964 | _The Pawnbroker_                                               |
+| 1971 | _Fiddler on the Roof_                                          |
+| 1982 | _Sophie’s Choice_                                              |
+| 1989 | _Enemies: A Love Story_                                        |
 | 1993 | _Schindler’s List_                                             |
+| 1997 | _Life is Beautiful_                                            |
+| 1999 | _The Devil’s Arithmetic_                                       |
 | 1999 | _Gloomy Sunday_                                                |
+| 2001 | _Conspiracy_                                                   |
+| 2002 | _Secret Lives: Hidden Children and Their Rescuers During WWII_ |
+| 2002 | _Amen_                                                         |
+| 2003 | _The Pianist_                                                  |
 | 2006 | _Black Book_                                                   |
+| 2007 | _Fugitive Pieces_                                              |
+| 2008 | _The Reader_                                                   |
+| 2008 | _Valentina’s Mother_                                           |
+| 2008 | _Defiance_                                                     |
+| 2012 | _Numbered_                                                     |
+| 2013 | _The Lady in Number 6: Music Saved My Life_                    |
+| 2013 | _The Book Thief_                                               |
 | 2013 | _Colette_                                                      |
+| 2015 | _Son of Saul_                                                  |
+| 2015 | _Ida_                                                          |
 | 2016 | _Denial_                                                       |
+| 2017 | _Denial_                                                       |
 
 ## Philosophical Genre
 
 | Year | Title                  |
 | ---- | ---------------------- |
-| ---- | _Seventh Seal_         |
 | 1979 | _Stalker_              |
+| 1982 | _Blade Runner_         |
+| 1999 | _The Matrix_           |
+| 2001 | _Memento_              |
+| 2010 | _Inception_            |
+| 2014 | _Interstellar_         |
+| ---- | _Seventh Seal_         |
 | ---- | _The Mirror_           |
 | ---- | _Mr Nobody_            |
 | ---- | _The Fountain_         |
@@ -279,37 +284,34 @@
 | ---- | _A Serious Man_        |
 | ---- | _Synecdoche, New York_ |
 | ---- | _Melancholia_          |
-| 1999 | _The Matrix_           |
-| 1982 | _Blade Runner_         |
-| 2010 | _Inception_            |
-| 2014 | _Interstellar_         |
-| 2001 | _Memento_              |
 | ---- | _The Truman Show_      |
 | ---- | _Irrational Man_       |
 
 ## Psychological Genre
 
-| 2011 | _A Dangerous Method_ |
-| 2012 | _Amour_ |
-| 1977 | _Annie Hall_ |
-| 2015 | _Anomalisa_ |
-| 2004 | _Birth_ |
-| 1993 | _Blue_ |
-| 2013 | _Blue Jasmine_ |
-| 2008 | _Changeling_ |
-| 2011 | _Detachment_ |
-| 1999 | _Girl, Interrupted_ |
+| Year | Title                          |
+| ---- | ------------------------------ |
+| 1965 | _Repulsion_                    |
+| 1977 | _Annie Hall_                   |
 | 1991 | _The Double Life of Veronique_ |
-| 2012 | _Paradise: Love_ |
-| 1994 | _Red_ |
-| 1965 | _Repulsion_ |
-| 2011 | _Shame_ |
-| 1996 | _Shine_ |
-| 2013 | _The Double_ |
-| 2001 | _The Piano Teacher_ |
-| 2006 | _The Science of Sleep_ |
-| 2011 | _We Need to Talk About Kevin_ |
-| 1994 | _White_ |
+| 1993 | _Blue_                         |
+| 1994 | _Red_                          |
+| 1994 | _White_                        |
+| 1996 | _Shine_                        |
+| 1999 | _Girl, Interrupted_            |
+| 2001 | _The Piano Teacher_            |
+| 2004 | _Birth_                        |
+| 2006 | _The Science of Sleep_         |
+| 2008 | _Changeling_                   |
+| 2011 | _A Dangerous Method_           |
+| 2011 | _Detachment_                   |
+| 2011 | _Shame_                        |
+| 2011 | _We Need to Talk About Kevin_  |
+| 2012 | _Amour_                        |
+| 2012 | _Paradise: Love_               |
+| 2013 | _Blue Jasmine_                 |
+| 2013 | _The Double_                   |
+| 2015 | _Anomalisa_                    |
 
 ## Horror & Psychological
 
