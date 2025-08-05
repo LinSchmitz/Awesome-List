@@ -2365,3 +2365,589 @@ Certainly! Here’s the cleaned list in the requested format:
 | 2013 | Roma                        |
 
 ---
+
+## Unseen Documentaries
+
+| Year | Title                                             |
+| ---- | ------------------------------------------------- |
+| 2023 | Bobby Kennedy for President                       |
+| 2021 | Night Stalker                                     |
+| 2020 | Pretend It’s a City                               |
+| 2019 | The Ripper                                        |
+| 2017 | Humans of New York                                |
+| 2011 | The Fabric of the Cosmos                          |
+| 2022 | DEF CON                                           |
+| 2014 | Aaron Swartz: The Internet’s Own Boy              |
+| 2016 | The Truth is Not Absolute                         |
+| 2007 | Taxi to the Dark Side                             |
+| 2015 | Going Clear: Scientology and the Prison of Belief |
+| 2005 | Enron: The Smartest Guys in the Room              |
+| 2019 | The Inventor: Out for Blood in Silicon Valley     |
+| 2019 | Citizen K                                         |
+| 2020 | Crazy, Not Insane                                 |
+| 2020 | The Way I See It                                  |
+| 2017 | One Strange Rock                                  |
+| 2014 | Citizenfour                                       |
+| 2015 | Deep Web                                          |
+| 2020 | The Social Dilemma                                |
+| 2002 | 102 Minutes That Changed America                  |
+| 2011 | Life in a Day                                     |
+| 2019 | The Age of A.I                                    |
+| 2020 | Our Man in Tehran                                 |
+| 2019 | Apollo 11                                         |
+| 2019 | Inside Bill’s Brain                               |
+| 2020 | Where’s My Ray Cohn                               |
+| 2017 | The Other Side of Everything                      |
+| 2020 | Compaq                                            |
+| 2016 | I Am Not Your Negro                               |
+| 2015 | Human                                             |
+
+---
+
+## Unseen Animation & Anime
+
+| Year | Title                    |
+| ---- | ------------------------ |
+| 2024 | Ninja Kamui              |
+| 2022 | Death Note (series)      |
+| 2007 | Naissance des Pieuvres   |
+| 1979 | The Castle of Cagliostro |
+| 1992 | Porco Rosso              |
+| 2013 | The Wind Rises           |
+
+---
+
+## Unseen Drama / Thriller / Psychological
+
+| Year | Title                        |
+| ---- | ---------------------------- |
+| 1959 | Ballad of a Soldier          |
+| 2022 | Lady Chatterley’s Lover      |
+| 2024 | Dilig                        |
+| 1997 | The Abbot’s Invention        |
+| 2007 | Timecrimes                   |
+| 1986 | Man Facing South East        |
+| 1997 | Open Your Eyes               |
+| 1993 | Mutant Action                |
+| 1996 | Moebius                      |
+| 2013 | The Last Days                |
+| 2011 | Eva                          |
+| 2011 | Extraterrestrial             |
+| 1977 | Eraserhead                   |
+| 1995 | 12 Monkeys                   |
+| 1990 | Jacob’s Ladder               |
+| 2022 | Lady Chatterley’s Lover      |
+| 2023 | Septembers of Shiraz         |
+| 2023 | Jailbreak Pact               |
+| 2023 | The Cook of Castamar         |
+| 2023 | The Valhalla Murders         |
+| 2023 | House of Secrets             |
+| 2018 | The Florida Project          |
+| 2014 | A Most Violent Year          |
+| 2016 | Green Room                   |
+| 2015 | Slow West                    |
+| 2018 | First Reformed               |
+| 2016 | 20th Century Women           |
+| 2023 | Neposlushnaya                |
+| 2023 | Tantiram                     |
+| 2023 | The Fabric of the Human Body |
+| 2023 | Beyond Utopia                |
+| 2023 | Sebastian Fitzek's Therapy   |
+| 2014 | Miss Granny                  |
+| 2023 | About Dry Grasses            |
+| 2011 | We Need To Talk About Kevin  |
+
+---
+
+## Unseen Classic / Art / World Cinema
+
+| Year | Title                                                 |
+| ---- | ----------------------------------------------------- |
+| 1959 | The 400 Blows (François Truffaut)                     |
+| 1963 | 8 1/2 (Federico Fellini)                              |
+| 1966 | Persona (Ingmar Bergman)                              |
+| 1939 | The Rules of the Game (Jean Renoir)                   |
+| 1950 | Rashomon (Akira Kurosawa)                             |
+| 1948 | Bicycle Thieves (Vittorio de Sica)                    |
+| 1954 | Seven Samurai (Akira Kurosawa)                        |
+| 1988 | Landscape in the Mist (Theo Angelopoulos)             |
+| 1958 | Ashes and Diamonds (Andrzej Wajda)                    |
+| 1994 | In the Heat of the Sun (Jiang Wen)                    |
+| 1997 | Taste of Cherry (Abbas Kiarostami)                    |
+| 1985 | Shoah (Claude Lanzmann)                               |
+| 1955 | Floating Clouds (Mikio Naruse)                        |
+| 1987 | Where Is the Friend's Home? (Abbas Kiarostami)        |
+| 1991 | Raise the Red Lantern (Zhang Yimou)                   |
+| 1973 | Scenes from a Marriage (Ingmar Bergman)               |
+| 1955 | Rififi (Jules Dassin)                                 |
+| 1959 | Hiroshima Mon Amour (Alain Resnais)                   |
+| 1957 | Wild Strawberries (Ingmar Bergman)                    |
+| 1939 | The Story of the Last Chrysanthemum (Kenji Mizoguchi) |
+| 1957 | The Nights of Cabiria (Federico Fellini)              |
+| 1962 | La Jetée (Chris Marker)                               |
+| 1952 | Umberto D (Vittorio De Sica)                          |
+| 1972 | The Discreet Charm of the Bourgeoisie (Luis Buñuel)   |
+| 1954 | La Strada (Federico Fellini)                          |
+| 1974 | Celine and Julie Go Boating (Jacques Rivette)         |
+| 1950 | The Young and the Damned (Luis Buñuel)                |
+| 1985 | Ran (Akira Kurosawa)                                  |
+| 2000 | Crouching Tiger, Hidden Dragon (Ang Lee)              |
+| 1970 | The Conformist (Bernardo Bertolucci)                  |
+| 2001 | Y Tu Mamá También (Alfonso Cuarón)                    |
+| 1967 | Belle de Jour (Luis Buñuel)                           |
+| 1965 | Pierrot Le Fou (Jean-Luc Godard)                      |
+| 1929 | Man with a Movie Camera (Dziga Vertov)                |
+| 1997 | Happy Together (Wong Kar-wai)                         |
+| 1962 | L’Eclisse (Michelangelo Antonioni)                    |
+| 2012 | Amour (Michael Haneke)                                |
+| 1953 | Ugetsu (Kenji Mizoguchi)                              |
+| 1962 | The Exterminating Angel (Luis Buñuel)                 |
+| 1973 | Ali: Fear Eats the Soul (Rainer Werner Fassbinder)    |
+| 1955 | Ordet (Carl Theodor Dreyer)                           |
+| 1948 | Spring in a Small Town (Fei Mu)                       |
+| 1973 | Touki Bouki (Djibril Diop Mambéty)                    |
+| 1954 | Sansho the Bailiff (Kenji Mizoguchi)                  |
+| 1963 | Contempt (Jean-Luc Godard)                            |
+| 1985 | Come and See (Elem Klimov)                            |
+| 1953 | The Earrings of Madame de... (Max Ophüls)             |
+| 1972 | Solaris (Andrei Tarkovsky)                            |
+| 1994 | Chungking Express (Wong Kar-wai)                      |
+| 1962 | Jules and Jim (François Truffaut)                     |
+| 1994 | Eat Drink Man Woman (Ang Lee)                         |
+| 1966 | Au Hasard Balthazar (Robert Bresson)                  |
+| 1964 | The Umbrellas of Cherbourg (Jacques Demy)             |
+| 1934 | L’Atalante (Jean Vigo)                                |
+| 1961 | Viridiana (Luis Buñuel)                               |
+| 2007 | 4 Months, 3 Weeks and 2 Days (Cristian Mungiu)        |
+| 1945 | Children of Paradise (Marcel Carné)                   |
+| 1960 | L’Avventura (Michelangelo Antonioni)                  |
+| 1962 | Cleo from 5 to 7 (Agnès Varda)                        |
+| 1999 | Beau Travail (Claire Denis)                           |
+| 1994 | To Live (Zhang Yimou)                                 |
+| 1966 | Andrei Rublev (Andrei Tarkovsky)                      |
+| 1990 | Close-Up (Abbas Kiarostami)                           |
+| 1991 | A Brighter Summer Day (Edward Yang)                   |
+| 1937 | La Grande Illusion (Jean Renoir)                      |
+| 1963 | The Leopard (Luchino Visconti)                        |
+| 1987 | Wings of Desire (Wim Wenders)                         |
+| 1967 | Playtime (Jacques Tati)                               |
+| 1999 | All About My Mother (Pedro Almodóvar)                 |
+| 1957 | The Seventh Seal (Ingmar Bergman)                     |
+| 1982 | Fanny and Alexander (Ingmar Bergman)                  |
+| 1973 | The Spirit of the Beehive (Victor Erice)              |
+| 1988 | Cinema Paradiso (Giuseppe Tornatore)                  |
+| 2000 | Yi Yi (Edward Yang)                                   |
+| 1925 | Battleship Potemkin (Sergei Eisenstein)               |
+| 1928 | The Passion of Joan of Arc (Carl Theodor Dreyer)      |
+| 2006 | Pan’s Labyrinth (Guillermo del Toro)                  |
+| 2011 | A Separation (Asghar Farhadi)                         |
+| 1974 | The Mirror (Andrei Tarkovsky)                         |
+| 1966 | The Battle of Algiers (Gillo Pontecorvo)              |
+| 1989 | A City of Sadness (Hou Hsiao-hsien)                   |
+| 1972 | Aguirre, the Wrath of God (Werner Herzog)             |
+| 1927 | Metropolis (Fritz Lang)                               |
+| 1955 | Pather Panchali (Satyajit Ray)                        |
+| 1975 | Jeanne Dielman, 23 Commerce Quay,                     |
+
+Here is the cleaned and organized list of unseen films and series, separated by genre, following your preferred format:
+
+---
+
+## Unseen Documentaries
+
+| Year | Title                                             |
+| ---- | ------------------------------------------------- |
+| 2023 | Bobby Kennedy for President                       |
+| 2021 | Night Stalker                                     |
+| 2020 | Pretend It’s a City                               |
+| 2019 | The Ripper                                        |
+| 2017 | Humans of New York                                |
+| 2011 | The Fabric of the Cosmos                          |
+| 2022 | DEF CON                                           |
+| 2014 | Aaron Swartz: The Internet’s Own Boy              |
+| 2016 | The Truth is Not Absolute                         |
+| 2007 | Taxi to the Dark Side                             |
+| 2015 | Going Clear: Scientology and the Prison of Belief |
+| 2005 | Enron: The Smartest Guys in the Room              |
+| 2019 | The Inventor: Out for Blood in Silicon Valley     |
+| 2019 | Citizen K                                         |
+| 2020 | Crazy, Not Insane                                 |
+| 2020 | The Way I See It                                  |
+| 2017 | One Strange Rock                                  |
+| 2014 | Citizenfour                                       |
+| 2015 | Deep Web                                          |
+| 2020 | The Social Dilemma                                |
+| 2002 | 102 Minutes That Changed America                  |
+| 2011 | Life in a Day                                     |
+| 2019 | The Age of A.I                                    |
+| 2020 | Our Man in Tehran                                 |
+| 2019 | Apollo 11                                         |
+| 2019 | Inside Bill’s Brain                               |
+| 2020 | Where’s My Ray Cohn                               |
+| 2017 | The Other Side of Everything                      |
+| 2020 | Compaq                                            |
+| 2016 | I Am Not Your Negro                               |
+| 2015 | Human                                             |
+
+---
+
+## Unseen Animation & Anime
+
+| Year | Title                    |
+| ---- | ------------------------ |
+| 2024 | Ninja Kamui              |
+| 2022 | Death Note (series)      |
+| 2007 | Naissance des Pieuvres   |
+| 1979 | The Castle of Cagliostro |
+| 1992 | Porco Rosso              |
+| 2013 | The Wind Rises           |
+
+---
+
+## Unseen Drama / Thriller / Psychological
+
+| Year | Title                        |
+| ---- | ---------------------------- |
+| 1959 | Ballad of a Soldier          |
+| 2022 | Lady Chatterley’s Lover      |
+| 2024 | Dilig                        |
+| 1997 | The Abbot’s Invention        |
+| 2007 | Timecrimes                   |
+| 1986 | Man Facing South East        |
+| 1997 | Open Your Eyes               |
+| 1993 | Mutant Action                |
+| 1996 | Moebius                      |
+| 2013 | The Last Days                |
+| 2011 | Eva                          |
+| 2011 | Extraterrestrial             |
+| 1977 | Eraserhead                   |
+| 1995 | 12 Monkeys                   |
+| 1990 | Jacob’s Ladder               |
+| 2022 | Lady Chatterley’s Lover      |
+| 2023 | Septembers of Shiraz         |
+| 2023 | Jailbreak Pact               |
+| 2023 | The Cook of Castamar         |
+| 2023 | The Valhalla Murders         |
+| 2023 | House of Secrets             |
+| 2018 | The Florida Project          |
+| 2014 | A Most Violent Year          |
+| 2016 | Green Room                   |
+| 2015 | Slow West                    |
+| 2018 | First Reformed               |
+| 2016 | 20th Century Women           |
+| 2023 | Neposlushnaya                |
+| 2023 | Tantiram                     |
+| 2023 | The Fabric of the Human Body |
+| 2023 | Beyond Utopia                |
+| 2023 | Sebastian Fitzek's Therapy   |
+| 2014 | Miss Granny                  |
+| 2023 | About Dry Grasses            |
+| 2011 | We Need To Talk About Kevin  |
+
+---
+
+## Unseen Classic / Art / World Cinema
+
+| Year | Title                                                 |
+| ---- | ----------------------------------------------------- |
+| 1959 | The 400 Blows (François Truffaut)                     |
+| 1963 | 8 1/2 (Federico Fellini)                              |
+| 1966 | Persona (Ingmar Bergman)                              |
+| 1939 | The Rules of the Game (Jean Renoir)                   |
+| 1950 | Rashomon (Akira Kurosawa)                             |
+| 1948 | Bicycle Thieves (Vittorio de Sica)                    |
+| 1954 | Seven Samurai (Akira Kurosawa)                        |
+| 1988 | Landscape in the Mist (Theo Angelopoulos)             |
+| 1958 | Ashes and Diamonds (Andrzej Wajda)                    |
+| 1994 | In the Heat of the Sun (Jiang Wen)                    |
+| 1997 | Taste of Cherry (Abbas Kiarostami)                    |
+| 1985 | Shoah (Claude Lanzmann)                               |
+| 1955 | Floating Clouds (Mikio Naruse)                        |
+| 1987 | Where Is the Friend's Home? (Abbas Kiarostami)        |
+| 1991 | Raise the Red Lantern (Zhang Yimou)                   |
+| 1973 | Scenes from a Marriage (Ingmar Bergman)               |
+| 1955 | Rififi (Jules Dassin)                                 |
+| 1959 | Hiroshima Mon Amour (Alain Resnais)                   |
+| 1957 | Wild Strawberries (Ingmar Bergman)                    |
+| 1939 | The Story of the Last Chrysanthemum (Kenji Mizoguchi) |
+| 1957 | The Nights of Cabiria (Federico Fellini)              |
+| 1962 | La Jetée (Chris Marker)                               |
+| 1952 | Umberto D (Vittorio De Sica)                          |
+| 1972 | The Discreet Charm of the Bourgeoisie (Luis Buñuel)   |
+| 1954 | La Strada (Federico Fellini)                          |
+| 1974 | Celine and Julie Go Boating (Jacques Rivette)         |
+| 1950 | The Young and the Damned (Luis Buñuel)                |
+| 1985 | Ran (Akira Kurosawa)                                  |
+| 2000 | Crouching Tiger, Hidden Dragon (Ang Lee)              |
+| 1970 | The Conformist (Bernardo Bertolucci)                  |
+| 2001 | Y Tu Mamá También (Alfonso Cuarón)                    |
+| 1967 | Belle de Jour (Luis Buñuel)                           |
+| 1965 | Pierrot Le Fou (Jean-Luc Godard)                      |
+| 1929 | Man with a Movie Camera (Dziga Vertov)                |
+| 1997 | Happy Together (Wong Kar-wai)                         |
+| 1962 | L’Eclisse (Michelangelo Antonioni)                    |
+| 2012 | Amour (Michael Haneke)                                |
+| 1953 | Ugetsu (Kenji Mizoguchi)                              |
+| 1962 | The Exterminating Angel (Luis Buñuel)                 |
+| 1973 | Ali: Fear Eats the Soul (Rainer Werner Fassbinder)    |
+| 1955 | Ordet (Carl Theodor Dreyer)                           |
+| 1948 | Spring in a Small Town (Fei Mu)                       |
+| 1973 | Touki Bouki (Djibril Diop Mambéty)                    |
+| 1954 | Sansho the Bailiff (Kenji Mizoguchi)                  |
+| 1963 | Contempt (Jean-Luc Godard)                            |
+| 1985 | Come and See (Elem Klimov)                            |
+| 1953 | The Earrings of Madame de... (Max Ophüls)             |
+| 1972 | Solaris (Andrei Tarkovsky)                            |
+| 1994 | Chungking Express (Wong Kar-wai)                      |
+| 1962 | Jules and Jim (François Truffaut)                     |
+| 1994 | Eat Drink Man Woman (Ang Lee)                         |
+| 1966 | Au Hasard Balthazar (Robert Bresson)                  |
+| 1964 | The Umbrellas of Cherbourg (Jacques Demy)             |
+| 1934 | L’Atalante (Jean Vigo)                                |
+| 1961 | Viridiana (Luis Buñuel)                               |
+| 2007 | 4 Months, 3 Weeks and 2 Days (Cristian Mungiu)        |
+| 1945 | Children of Paradise (Marcel Carné)                   |
+| 1960 | L’Avventura (Michelangelo Antonioni)                  |
+| 1962 | Cleo from 5 to 7 (Agnès Varda)                        |
+| 1999 | Beau Travail (Claire Denis)                           |
+| 1994 | To Live (Zhang Yimou)                                 |
+| 1966 | Andrei Rublev (Andrei Tarkovsky)                      |
+| 1990 | Close-Up (Abbas Kiarostami)                           |
+| 1991 | A Brighter Summer Day (Edward Yang)                   |
+| 1937 | La Grande Illusion (Jean Renoir)                      |
+| 1963 | The Leopard (Luchino Visconti)                        |
+| 1987 | Wings of Desire (Wim Wenders)                         |
+| 1967 | Playtime (Jacques Tati)                               |
+| 1999 | All About My Mother (Pedro Almodóvar)                 |
+| 1957 | The Seventh Seal (Ingmar Bergman)                     |
+| 1982 | Fanny and Alexander (Ingmar Bergman)                  |
+| 1973 | The Spirit of the Beehive (Victor Erice)              |
+| 1988 | Cinema Paradiso (Giuseppe Tornatore)                  |
+| 2000 | Yi Yi (Edward Yang)                                   |
+| 1925 | Battleship Potemkin (Sergei Eisenstein)               |
+| 1928 | The Passion of Joan of Arc (Carl Theodor Dreyer)      |
+| 2006 | Pan’s Labyrinth (Guillermo del Toro)                  |
+| 2011 | A Separation (Asghar Farhadi)                         |
+| 1974 | The Mirror (Andrei Tarkovsky)                         |
+| 1966 | The Battle of Algiers (Gillo Pontecorvo)              |
+| 1989 | A City of Sadness (Hou Hsiao-hsien)                   |
+| 1972 | Aguirre, the Wrath of God (Werner Herzog)             |
+| 1927 | Metropolis (Fritz Lang)                               |
+| 1955 | Pather Panchali (Satyajit Ray)                        |
+| 1975 | Jeanne Dielman, 23 Commerce Quay,                     |
+
+1080 Brussels |
+| 1931 | M (Fritz Lang) |
+| 1993 | Farewell My Concubine (Chen Kaige) |
+| 1960 | Breathless (Jean-Luc Godard) |
+| 1960 | La Dolce Vita (Federico Fellini) |
+
+---
+
+## Unseen Series
+
+| Title                       |
+| --------------------------- |
+| Mindhunter                  |
+| Fleabag                     |
+| Line of Duty                |
+| The Railway Men (India)     |
+| Generation War              |
+| The Leftovers               |
+| 5 Days At Memorial          |
+| The Durrells in Corfu       |
+| In the Face of Crime        |
+| Pagan Peak                  |
+| Deutschland 83              |
+| Babylon Berlin              |
+| Liebeskind                  |
+| Master Eder and His Pumuckl |
+| The Virtues                 |
+
+---
+
+## Unseen Crime / Serial Killer Films
+
+| Title                                      |
+| ------------------------------------------ |
+| Zodiac                                     |
+| Seven                                      |
+| Monster                                    |
+| Silence of the Lambs                       |
+| Extremely Wicked, Shockingly Evil and Vile |
+| Mr. Brooks                                 |
+| The Bone Collector                         |
+| Halloween                                  |
+| Scream                                     |
+| American Psycho                            |
+
+---
+
+## Unseen Romance / Family / Literary Adaptations
+
+| Title                        |
+| ---------------------------- |
+| So I Married an Axe Murderer |
+| When Harry Met Sally...      |
+| Breakfast at Tiffany's       |
+| Annie Hall                   |
+| Before Sunrise               |
+| Meet Joe Black               |
+| Speechless                   |
+| Splendor in the Grass        |
+| Guess Who's Coming to Dinner |
+| The Lady In The Van          |
+| An American Pickle           |
+| The Wild Pear Tree           |
+| Buladó                       |
+| Ashes in the Snow            |
+| The Intouchables             |
+| The Terminal                 |
+| Anna Karenina                |
+| Atonement                    |
+| Beastly                      |
+| The Best of Me               |
+| Birdsong                     |
+| Brooklyn                     |
+| Cheri                        |
+| Carol                        |
+| Cruel Intentions             |
+| Cinderella                   |
+| The Choice                   |
+| Dear John                    |
+| The English Patient          |
+| Fifty Shades Darker          |
+| Fifty Shades of Grey         |
+| Jane Eyre                    |
+
+---
+
+## Unseen Sci-Fi / Thriller / Mystery
+
+| Year | Title              |
+| ---- | ------------------ |
+| 2009 | Moon               |
+| 2020 | The Superdeep      |
+| 1979 | Mad Max            |
+| 2017 | The Discovery      |
+| 2018 | Prospect           |
+| 2011 | Another Earth      |
+| 1997 | Cube               |
+| 2004 | Primer             |
+| 2014 | Predestination     |
+| 2013 | Coherence          |
+| 2007 | The Man from Earth |
+| 2004 | The Free Will      |
+| 1970 | Catch-22           |
+
+---
+
+## Unseen Recent Drama / International Cinema
+
+| Year | Title                                   |
+| ---- | --------------------------------------- |
+| 2023 | Monster                                 |
+| 2023 | Perfect Days                            |
+| 2023 | Decisions to Leave                      |
+| 2021 | Wheel of Fortune and Fantasy            |
+| 2023 | Argentina 1985                          |
+| 2022 | Close                                   |
+| 2020 | Rider of Justice                        |
+| 2021 | Great Freedom                           |
+| 2024 | Maidaan                                 |
+| 2021 | Hi Nanna                                |
+| 2023 | The Taste of Things                     |
+| 2022 | Forgotten Love                          |
+| 2022 | The Blue Caftan                         |
+| 2023 | The Zone of Interest                    |
+| 2024 | Flow (animation)                        |
+| —    | Anora                                   |
+| —    | Devils                                  |
+| 2024 | Dying                                   |
+| —    | Silence Escorsizi                       |
+| —    | A Personal Journey with Martin Scorsese |
+| —    | Kneecap                                 |
+| —    | Turning Point                           |
+| —    | Keyke Mahbobe Man                       |
+| —    | Rooster                                 |
+
+---
+
+## Unseen Adult / Erotic / Mature Films
+
+| Title               |
+| ------------------- |
+| Amour               |
+| Original Sin        |
+| Sex and Lucia       |
+| Irreversible        |
+| Cashback            |
+| Intimacy            |
+| Eyes Wide Shut      |
+| Unfaithful          |
+| Anna Karenina       |
+| Shortbus            |
+| Basic Instinct      |
+| Wild Things         |
+| Philadelphia        |
+| Dressed to Kill     |
+| Last Tango in Paris |
+| The Reader          |
+
+---
+
+## Unseen Animation & Anime
+
+| Title                               |
+| ----------------------------------- |
+| Maquia: When Promised Flower Blooms |
+| Belle: The Dragon and The Princess  |
+| Josee, The Tiger and The Fish       |
+| I Want to Eat Your Pancreas         |
+| In This Corner of the World         |
+| The Anthem of The Heart             |
+| School Babysitters (anime series)   |
+| Black Knight                        |
+| The Great North (series)            |
+
+---
+
+## Unseen TV Series (German / International)
+
+| Title                       |
+| --------------------------- |
+| Bad Banks                   |
+| Doctor’s Diary              |
+| In the Face of Crime        |
+| Stromberg                   |
+| Dear Child                  |
+| Tatort                      |
+| Bad Banks (2018–2020)       |
+| In the Face of Crime        |
+| 8 Days (2019–)              |
+| Weinberg (2015)             |
+| The Typist (2018–)          |
+| Bauhaus – A New Era (2019–) |
+| Shades of Guilt (2015–2019) |
+| The Same Sky (2017)         |
+
+---
+
+## Unseen Other / Miscellaneous
+
+| Title                                     |
+| ----------------------------------------- |
+| Don’t Believe Everything You Think (book) |
+| Arabian Nights                            |
+| The Phoenix Project (book)                |
+| The Unicorn Project (book)                |
+| Emotional Intelligence                    |
+| The First 90 Days                         |
+| Oz (HBO series)                           |
+| Iran is a Woman's Name                    |
+| The Heist of the Century                  |
+| Megalopolis                               |
+| Goebbels and the Führer (2024)            |
+| Money Electric: The Bitcoin Mystery       |
+
+---
