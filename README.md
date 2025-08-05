@@ -2,7 +2,7 @@
 
 ## A list of **beautiful, emotional, and powerful movies** from all kinds of genres. Each one was picked for its great story, strong visuals, and creative style.
 
-## 🎞️ photographer_must_seen
+## 🎞️ photographer must seen
 
 | Year | Title                                              |
 | ---- | -------------------------------------------------- |
@@ -68,76 +68,61 @@
 
 ## Animation & Cartoons Series
 
-| Year | Title                                             |
-| ---- | ------------------------------------------------- |
-| ---- | Rick and Morty                                    |
-| 2021 | Arcane                                            |
-| ---- | Bojack Horseman                                   |
-| ---- | Love, Death & Robots                              |
-| ---- | The Simpsons                                      |
-| ---- | Inside Job                                        |
-| 1988 | My Neighbor Totoro                                |
-| 1988 | Grave of the Fireflies                            |
-| 2001 | Spirited Away                                     |
-| 1989 | Kiki's Delivery Service                           |
-| 1994 | Pom Poko                                          |
-| 1986 | Castle in the Sky                                 |
-| 2013 | The Tale of the Princess Kaguya                   |
-| 2016 | The Red Turtle                                    |
-| 2008 | Ponyo                                             |
-| 1991 | Only Yesterday                                    |
-| 2011 | From Up On Poppy Hill                             |
-| 2013 | The Wind Rises                                    |
-| 1995 | Whisper Of The Heart                              |
-| 2004 | Howl's Moving Castle                              |
-| 2001 | Spirited Away (listed twice)                      |
-| 1997 | Princess Mononoke                                 |
-| 2002 | The Cat Returns                                   |
-| 2013 | The Tale of the Princess Kaguya (listed twice)    |
-| 1992 | Porco Rosso                                       |
-| 1984 | Nausicaä of the Valley of the Wind                |
-| ---- | Song of the Sea                                   |
-| ---- | Wolf Walkers                                      |
-| ---- | Day of the Crows                                  |
-| ---- | Over the Garden Wall                              |
-| ---- | Long Way North                                    |
-| ---- | The Big Bad Fox and Other Tales                   |
-| ---- | Dream Builders                                    |
-| ---- | Ernest and Celestine                              |
-| ---- | Arthur Christmas                                  |
-| ---- | Klaus                                             |
-| ---- | 9 (Nine)                                          |
-| ---- | Luca                                              |
-| ---- | Treasure Planet                                   |
-| ---- | Spirited Away                                     |
-| ---- | My Neighbor Totoro (listed again)                 |
-| ---- | Howl's Moving Castle (listed again)               |
-| ---- | The Wind Rises (listed again)                     |
-| ---- | Castle in the Sky (listed again)                  |
-| ---- | Ponyo (listed again)                              |
-| ---- | Kiki's Delivery Service (listed again)            |
-| ---- | Porco Rosso (listed again)                        |
-| ---- | The Secret World of Arrietty                      |
-| ---- | Whisper of the Heart (listed again)               |
-| ---- | Coraline                                          |
-| ---- | The Nightmare Before Christmas                    |
-| ---- | In This Corner of the World                       |
-| ---- | Grave of the Fireflies (listed again)             |
-| ---- | Death Note                                        |
-| ---- | Your Name                                         |
-| ---- | A Silent Voice                                    |
-| ---- | Attack on Titan                                   |
-| ---- | Weathering with You                               |
-| ---- | The Girl Who Leapt Through Time                   |
-| ---- | When Marnie Was There                             |
-| ---- | Nausicaa of the Valley of the Wind (listed again) |
-| ---- | Wolf Children                                     |
-| ---- | Only Yesterday (listed again)                     |
-| ---- | Arcane                                            |
-| ---- | Scavengers Reign                                  |
-| ---- | Blue Eye Samurai                                  |
-| ---- | The Apothecary Diaries                            |
-| ---- | Serial Experiments Lain                           |
+| Year | Title                                |
+| ---- | ------------------------------------ |
+| ---- | _Rick and Morty_                     |
+| 2021 | _Arcane_                             |
+| ---- | _Bojack Horseman_                    |
+| ---- | _Love, Death & Robots_               |
+| ---- | _The Simpsons_                       |
+| ---- | _Inside Job_                         |
+| 1988 | _My Neighbor Totoro_                 |
+| 1988 | _Grave of the Fireflies_             |
+| 2001 | _Spirited Away_                      |
+| 1989 | _Kiki's Delivery Service_            |
+| 1994 | _Pom Poko_                           |
+| 1986 | _Castle in the Sky_                  |
+| 2013 | _The Tale of the Princess Kaguya_    |
+| 2016 | _The Red Turtle_                     |
+| 2008 | _Ponyo_                              |
+| 1991 | _Only Yesterday_                     |
+| 2011 | _From Up On Poppy Hill_              |
+| 2013 | _The Wind Rises_                     |
+| 1995 | _Whisper of the Heart_               |
+| 2004 | _Howl's Moving Castle_               |
+| 1997 | _Princess Mononoke_                  |
+| 2002 | _The Cat Returns_                    |
+| 1992 | _Porco Rosso_                        |
+| 1984 | _Nausicaä of the Valley of the Wind_ |
+| ---- | _Song of the Sea_                    |
+| ---- | _Wolf Walkers_                       |
+| ---- | _Day of the Crows_                   |
+| ---- | _Over the Garden Wall_               |
+| ---- | _Long Way North_                     |
+| ---- | _The Big Bad Fox and Other Tales_    |
+| ---- | _Dream Builders_                     |
+| ---- | _Ernest and Celestine_               |
+| ---- | _Arthur Christmas_                   |
+| ---- | _Klaus_                              |
+| ---- | _9 (Nine)_                           |
+| ---- | _Luca_                               |
+| ---- | _Treasure Planet_                    |
+| ---- | _The Secret World of Arrietty_       |
+| ---- | _Coraline_                           |
+| ---- | _The Nightmare Before Christmas_     |
+| ---- | _In This Corner of the World_        |
+| ---- | _Death Note_                         |
+| ---- | _Your Name_                          |
+| ---- | _A Silent Voice_                     |
+| ---- | _Attack on Titan_                    |
+| ---- | _Weathering with You_                |
+| ---- | _The Girl Who Leapt Through Time_    |
+| ---- | _When Marnie Was There_              |
+| ---- | _Wolf Children_                      |
+| ---- | _Scavengers Reign_                   |
+| ---- | _Blue Eye Samurai_                   |
+| ---- | _The Apothecary Diaries_             |
+| ---- | _Serial Experiments Lain_            |
 
 ---
 
@@ -167,69 +152,67 @@
 
 ## 🎞️ Indian
 
-| Year | Title         |
-| ---- | ------------- |
-| 2018 | _Sir_         |
-| 2013 | The Lunchbox  |
-| 2016 | Pink          |
-| 2019 | Badla         |
-| —    | The Fame Game |
+| Year | Title           |
+| ---- | --------------- |
+| 2018 | _Sir_           |
+| 2013 | _The Lunchbox_  |
+| 2016 | _Pink_          |
+| 2019 | _Badla_         |
+| ---- | _The Fame Game_ |
 
 ## 🎥 Documentary
 
-| Title |
-| ----- | ------------------------------------------------------ |
-| ----  | _Samsara_                                              |
-| ----  | _Baraka_                                               |
-| ----  | _Dirty Money_                                          |
-| ----  | _Everybody Street_                                     |
-| ----  | _Wild_                                                 |
-| ----  | _Alice Neel Documentary from Herfeh Honarmand Channel_ |
-| ----  | _Heaven and Earth by Marleen Gorris_                   |
-| ----  | _Seven Worlds One Planet Documentary_                  |
-| 1946  | _Shoeshine_                                            |
-| 1983  | _L'Argent_                                             |
-| 1994  | _Immortal Beloved_                                     |
-| 2005  | _Earthlings_                                           |
-| 2006  | _Rang de Bastani_                                      |
-| 2007  | _Nanking_                                              |
-| 2012  | _The Act of Killing_                                   |
-| 2016  | _The White Helmets_                                    |
-| 2019  | _American Factory_                                     |
-| 2011  | _Arirang_                                              |
-| 2018  | _The Photographer of Mauthausen_                       |
-| 2003  | _Elephant_                                             |
-| 1999  | _The Matrix_                                           |
-| 1941  | _Citizen Kane_                                         |
-| 1957  | _Twelve Angry Men_                                     |
-| 1999  | _Go_                                                   |
-| 2015  | _Talvar_                                               |
-| 2014  | _Gone Girl_                                            |
-| 2002  | _Hero_                                                 |
-| 2014  | _Predestination_                                       |
-| 2008  | _Vantage Point_                                        |
-| 1958  | Touch of Evil                                          |
-| 1949  | The Third Man                                          |
-| 1946  | Notorious                                              |
-| 1946  | The Big Sleep                                          |
-| 1944  | Double Indemnity                                       |
-| 1950  | Sunset Boulevard                                       |
-| 1941  | The Maltese Falcon                                     |
-| 1955  | Kiss Me Deadly                                         |
-| 1953  | The Big Heat                                           |
-| 1945  | Scarlet Street                                         |
-| 1944  | The Woman In the Window                                |
-| 1956  | The Killing                                            |
-| 1950  | In a Lonely Place                                      |
-| ----  | Turning Point: 9/11 and the War on Terror              |
-| ----  | American Manhunt: The Search for Osama bin Laden       |
-| ----  | Zafar War                                              |
-| 2012  | _Beyond the Hills_                                     |
-| 2016  | _The White Helmets_                                    |
-| 2018  | _Un homme press_                                       |
-| 2019  | _American Factory_                                     |
-| 2019  | _The Great Hack_                                       |
-| 2020  | _I Wish I Knew_                                        |
+| Year | Title                                                  |
+| ---- | ------------------------------------------------------ |
+| ---- | _Samsara_                                              |
+| ---- | _Baraka_                                               |
+| ---- | _Dirty Money_                                          |
+| ---- | _Everybody Street_                                     |
+| ---- | _Wild_                                                 |
+| ---- | _Alice Neel Documentary from Herfeh Honarmand Channel_ |
+| ---- | _Heaven and Earth by Marleen Gorris_                   |
+| ---- | _Seven Worlds One Planet Documentary_                  |
+| 1946 | _Shoeshine_                                            |
+| 1983 | _L'Argent_                                             |
+| 1994 | _Immortal Beloved_                                     |
+| 2005 | _Earthlings_                                           |
+| 2006 | _Rang de Bastani_                                      |
+| 2007 | _Nanking_                                              |
+| 2012 | _The Act of Killing_                                   |
+| 2016 | _The White Helmets_                                    |
+| 2019 | _American Factory_                                     |
+| 2011 | _Arirang_                                              |
+| 2018 | _The Photographer of Mauthausen_                       |
+| 2003 | _Elephant_                                             |
+| 1999 | _The Matrix_                                           |
+| 1941 | _Citizen Kane_                                         |
+| 1957 | _Twelve Angry Men_                                     |
+| 1999 | _Go_                                                   |
+| 2015 | _Talvar_                                               |
+| 2014 | _Gone Girl_                                            |
+| 2002 | _Hero_                                                 |
+| 2014 | _Predestination_                                       |
+| 2008 | _Vantage Point_                                        |
+| 1958 | _Touch of Evil_                                        |
+| 1949 | _The Third Man_                                        |
+| 1946 | _Notorious_                                            |
+| 1946 | _The Big Sleep_                                        |
+| 1944 | _Double Indemnity_                                     |
+| 1950 | _Sunset Boulevard_                                     |
+| 1941 | _The Maltese Falcon_                                   |
+| 1955 | _Kiss Me Deadly_                                       |
+| 1953 | _The Big Heat_                                         |
+| 1945 | _Scarlet Street_                                       |
+| 1944 | _The Woman In the Window_                              |
+| 1956 | _The Killing_                                          |
+| 1950 | _In a Lonely Place_                                    |
+| ---- | _Turning Point: 9/11 and the War on Terror_            |
+| ---- | _American Manhunt: The Search for Osama bin Laden_     |
+| ---- | _Zafar War_                                            |
+| 2012 | _Beyond the Hills_                                     |
+| 2018 | _Un homme press_                                       |
+| 2019 | _The Great Hack_                                       |
+| 2020 | _I Wish I Knew_                                        |
 
 ## ⏳ Time Traveling Movies
 
