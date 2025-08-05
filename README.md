@@ -1,12 +1,10 @@
 # Awesome-List
 
-## 🎞️ photographer_must_seen
-
 A list of **beautiful, emotional, and powerful movies** from all kinds of genres. Each one was picked for its great story, strong visuals, and creative style.
 
 ---
 
-## 🎬 Must-See Movies
+## 🎞️ photographer_must_seen
 
 | Year | Title                                              |
 | ---- | -------------------------------------------------- |
