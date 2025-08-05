@@ -1,3 +1,4 @@
+```markdown
 # Awwsomw-List
 
 ## 🎞️ photographer_must_seen
@@ -19,3 +20,19 @@ A curated list of **visually stunning, slow cinema, and emotionally rich films**
 | 2015 | _Mountains May Depart_                             |
 | 2016 | _American Honey_                                   |
 | 2022 | _Belfast_                                          |
+
+---
+
+## 🎞️ animation
+
+| Year | Title                      |
+| ---- | -------------------------- |
+| 1997 | _Princess Mononoke_        |
+| 2007 | _5 Centimetres per Second_ |
+| 2012 | _Wolf Children_            |
+| 2014 | _When Marnie Was There_    |
+| 2016 | _Live by Night_            |
+| 2016 | _Planetarium_              |
+| 2016 | _Personal Shopper_         |
+| 2017 | _A Silent Voice_           |
+```
