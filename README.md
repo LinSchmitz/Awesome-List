@@ -3181,32 +3181,82 @@ Here is the cleaned and organized list of unseen films and series, separated by 
 
 ---
 
+Sure! Here’s everything in the same table format you used, including placeholders where info is missing:
+
 ## Iranian
 
-| Year | English Title                         | Persian Title        |
-| ---- | ------------------------------------- | -------------------- |
-| —    | Retouch (short)                       | Retouch (short)      |
-| —    | Wind’s Screenplays                    | فیلم‌نامه‌های باد    |
-| 1970 | Tranquility in the Presence of Others | آرامش در حضور دیگران |
-| 1973 | A Simple Event                        | یک اتفاق ساده        |
-| 1977 | The Report                            | گزارش                |
-| 1986 | The Tenants                           | اجاره‌نشین‌ها        |
-| 1986 | The Peddler                           | دستفروش              |
-| 1988 | The Lead                              | سرب                  |
-| 1992 | Abadanis                              | آبادانی‌ها           |
-| 2002 | Dancing in the Dust                   | رقص در غبار          |
-| 2003 | Crimson Gold                          | طلای سرخ             |
-| 2009 | The White Meadows                     | کشتزارهای سپید       |
-| 2017 | Searing Rush / The Host               | هجوم                 |
-| -    | In the Arms of the Tree               |                      |
-| -    | Old Road                              |                      |
-| -    | Here Without Me                       |
-| -    | Cause of Unknown Death                |
-| -    | Last Snow                             |
-| -    | Aziz                                  |
-| -    | Endless Borders                       |
-| —    | Beautiful City                        |
-| —    | Atabai                                |
-| —    | Boutique                              |
-| —    | Alone, Alone, Alone                   |
-| —    | Silver Carnation                      |
+| Year | English Title                         | Persian Title                       |
+| ---- | ------------------------------------- | ----------------------------------- |
+| —    | Retouch (short)                       | Retouch (short)                     |
+| —    | Wind’s Screenplays                    | فیلم‌نامه‌های باد                   |
+| 1970 | Tranquility in the Presence of Others | آرامش در حضور دیگران                |
+| 1973 | A Simple Event                        | یک اتفاق ساده                       |
+| 1977 | The Report                            | گزارش                               |
+| 1986 | The Tenants                           | اجاره‌نشین‌ها                       |
+| 1986 | The Peddler                           | دستفروش                             |
+| 1988 | The Lead                              | سرب                                 |
+| 1992 | Abadanis                              | آبادانی‌ها                          |
+| 2002 | Dancing in the Dust                   | رقص در غبار                         |
+| 2003 | Crimson Gold                          | طلای سرخ                            |
+| 2009 | The White Meadows                     | کشتزارهای سپید                      |
+| 2017 | Searing Rush / The Host               | هجوم                                |
+| —    | In the Arms of the Tree               | —                                   |
+| —    | Old Road                              | —                                   |
+| —    | Here Without Me                       | —                                   |
+| —    | Cause of Unknown Death                | —                                   |
+| —    | Last Snow                             | —                                   |
+| —    | Aziz                                  | —                                   |
+| —    | Endless Borders                       | —                                   |
+| —    | Beautiful City                        | —                                   |
+| —    | Atabai                                | —                                   |
+| —    | Boutique                              | —                                   |
+| —    | Alone, Alone, Alone                   | —                                   |
+| —    | Silver Carnation                      | —                                   |
+| —    | My Favorite Cake                      | کیک محبوب من                        |
+| 2019 | Hava Maryam Ayesha                    | حوا مریم عایشه                      |
+| —    | My Life is Wind                       | زندگی من باد (Anahita Qazvinizade)  |
+| —    | Mehr Giah (Film)                      | فیلم مهر گیاه                       |
+| —    | Murphy’s Law (Film)                   | فیلم قانون مورفی                    |
+| —    | Raftan                                | رفتن                                |
+| —    | Khanom                                | خانوم                               |
+| —    | Eteraf                                | اعتراف                              |
+| —    | One of Us Two                         | یکی از ما دو نفر                    |
+| —    | Best Hours                            | بهترین ساعات                        |
+| —    | Appendix                              | آپاندیس                             |
+| —    | Farari                                | فراری                               |
+| —    | Money Train                           | قطار پول                            |
+| —    | Apalosa                               | آپالوسا                             |
+| —    | Hostage                               | گروگانگیر                           |
+| —    | Land of Tomorrow (Film)               | سرزمین فردا (فیلم)                  |
+| —    | Darkoob (Film)                        | فیلم دارکوب                         |
+| —    | Zafar War Documentary                 | مستند جنگ ظفار                      |
+| —    | Orion (Short Film)                    | فیلم کوتاه اوریون (علی زمانی عصمتی) |
+| —    | Maryam’s Sin                          | گناه مریم (پریسا شاهنده)            |
+| —    | Bamdad Khomar (Series)                | سریال بامداد خمار                   |
+
+---
+
+## Seen Films List 3
+
+| Year | Title                                    |
+| ---- | ---------------------------------------- |
+| 1995 | Eternal Beloved                          |
+| 2003 | Copy Beethoven                           |
+| 1964 | Hamlet                                   |
+| 1932 | Blood of a Poet                          |
+| 1950 | Orpheus                                  |
+| 1960 | The Testament of Orpheus                 |
+| 2003 | Girl with a Pearl Earring                |
+| 2016 | Egon Schiele                             |
+| 2018 | Never Look Away                          |
+| 1956 | The Passion of Life                      |
+| 2017 | Gauguin                                  |
+| 2002 | Chopin                                   |
+| 2007 | Molière                                  |
+| 2010 | Young Goethe in Love                     |
+| 1965 | The Suffering and Ecstasy                |
+| 2016 | Silent Storm                             |
+| 1984 | Amadeus                                  |
+| 1959 | Rudaki, The Story of a Poet              |
+|      | Saadi Shirazi (Tajikistan, Soviet Union) |
+|      | Pollock                                  |
