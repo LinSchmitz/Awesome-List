@@ -1,4 +1,4 @@
-# Awwsomw-List
+# Awesome-List
 
 ## 🎞️ photographer_must_seen
 
