@@ -340,367 +340,365 @@
 
 ## Philosophical Genre
 
-| Year | Title                  |
-| ---- | ---------------------- |
-| 1979 | _Stalker_              |
-| 1982 | _Blade Runner_         |
-| 1999 | _The Matrix_           |
-| 2001 | _Memento_              |
-| 2010 | _Inception_            |
-| 2014 | _Interstellar_         |
-| ---- | _Seventh Seal_         |
-| ---- | _The Mirror_           |
-| ---- | _Mr Nobody_            |
-| ---- | _The Fountain_         |
-| ---- | _Mother!_              |
-| ---- | _The Tree of Life_     |
-| ---- | _A Serious Man_        |
-| ---- | _Synecdoche, New York_ |
-| ---- | _Melancholia_          |
-| ---- | _The Truman Show_      |
-| ---- | _Irrational Man_       |
+| Year | Title                  | Director(s)            |
+| ---- | ---------------------- | ---------------------- |
+| 1979 | _Stalker_              | Andrei Tarkovsky       |
+| 1982 | _Blade Runner_         | Ridley Scott           |
+| 1999 | _The Matrix_           | Lana & Lilly Wachowski |
+| 2001 | _Memento_              | Christopher Nolan      |
+| 2010 | _Inception_            | Christopher Nolan      |
+| 2014 | _Interstellar_         | Christopher Nolan      |
+| ---- | _Seventh Seal_         | Ingmar Bergman         |
+| ---- | _The Mirror_           | Andrei Tarkovsky       |
+| ---- | _Mr Nobody_            | Jaco Van Dormael       |
+| ---- | _The Fountain_         | Darren Aronofsky       |
+| ---- | _Mother!_              | Darren Aronofsky       |
+| ---- | _The Tree of Life_     | Terrence Malick        |
+| ---- | _A Serious Man_        | Joel & Ethan Coen      |
+| ---- | _Synecdoche, New York_ | Charlie Kaufman        |
+| ---- | _Melancholia_          | Lars von Trier         |
+| ---- | _The Truman Show_      | Peter Weir             |
+| ---- | _Irrational Man_       | Woody Allen            |
 
 ## [Back to Top](#top)
 
 ## Psychological Genre
 
-| Year | Title                          |
-| ---- | ------------------------------ |
-| 1965 | _Repulsion_                    |
-| 1977 | _Annie Hall_                   |
-| 1991 | _The Double Life of Veronique_ |
-| 1993 | _Blue_                         |
-| 1994 | _Red_                          |
-| 1994 | _White_                        |
-| 1996 | _Shine_                        |
-| 1999 | _Girl, Interrupted_            |
-| 2001 | _The Piano Teacher_            |
-| 2004 | _Birth_                        |
-| 2006 | _The Science of Sleep_         |
-| 2008 | _Changeling_                   |
-| 2011 | _A Dangerous Method_           |
-| 2011 | _Detachment_                   |
-| 2011 | _Shame_                        |
-| 2011 | _We Need to Talk About Kevin_  |
-| 2012 | _Amour_                        |
-| 2012 | _Paradise: Love_               |
-| 2013 | _Blue Jasmine_                 |
-| 2013 | _The Double_                   |
-| 2015 | _Anomalisa_                    |
+| Year | Title                          | Director(s)                   |
+| ---- | ------------------------------ | ----------------------------- |
+| 1965 | _Repulsion_                    | Roman Polanski                |
+| 1977 | _Annie Hall_                   | Woody Allen                   |
+| 1991 | _The Double Life of Veronique_ | Krzysztof Kieślowski          |
+| 1993 | _Blue_                         | Krzysztof Kieślowski          |
+| 1994 | _Red_                          | Krzysztof Kieślowski          |
+| 1994 | _White_                        | Krzysztof Kieślowski          |
+| 1996 | _Shine_                        | Scott Hicks                   |
+| 1999 | _Girl, Interrupted_            | James Mangold                 |
+| 2001 | _The Piano Teacher_            | Michael Haneke                |
+| 2004 | _Birth_                        | Jonathan Glazer               |
+| 2006 | _The Science of Sleep_         | Michel Gondry                 |
+| 2008 | _Changeling_                   | Clint Eastwood                |
+| 2011 | _A Dangerous Method_           | David Cronenberg              |
+| 2011 | _Detachment_                   | Tony Kaye                     |
+| 2011 | _Shame_                        | Steve McQueen                 |
+| 2011 | _We Need to Talk About Kevin_  | Lynne Ramsay                  |
+| 2012 | _Amour_                        | Michael Haneke                |
+| 2012 | _Paradise: Love_               | Ulrich Seidl                  |
+| 2013 | _Blue Jasmine_                 | Woody Allen                   |
+| 2013 | _The Double_                   | Richard Ayoade                |
+| 2015 | _Anomalisa_                    | Charlie Kaufman, Duke Johnson |
 
 ## [Back to Top](#top)
 
 ## Horror & Psychological
 
-| Year | Title                               |
-| ---- | ----------------------------------- |
-| 1977 | _Eraserhead_                        |
-| 1980 | _Shining_                           |
-| 1988 | _Colors_                            |
-| 1988 | _Grave of the Fireflies_            |
-| 1990 | _Jacob’s Ladder_                    |
-| 1991 | _The Silence of the Lambs_          |
-| 1997 | _Perfect Blue_                      |
-| 1998 | _Akira_                             |
-| 1999 | _Eyes Wide Shut_                    |
-| 1999 | _Fight Club_                        |
-| 2001 | _Donnie Darko_                      |
-| 2003 | _The Touch_                         |
-| 2004 | _Howl’s Moving Castle_              |
-| 2004 | _The Machinist_                     |
-| 2006 | _Paprika_                           |
-| 2007 | _Paranormal Activity_               |
-| 2007 | _The Diving Bell and the Butterfly_ |
-| 2009 | _District 9_                        |
-| 2010 | _Sarah’s Key_                       |
-| 2011 | _The Turin Horse_                   |
-| 2012 | _Mud_                               |
-| 2012 | _The Act of Killing_                |
-| 2013 | _Enemy_                             |
-| 2014 | _Hard to Be a God_                  |
-| 2015 | _Er ist wieder da_                  |
-| 2017 | _Icarus_                            |
-| 2018 | _Hereditary_                        |
-| 2018 | _Shadow_                            |
-| 2018 | _The Cave_                          |
-| 2019 | _Midsommar_                         |
-| 2019 | _Vitalina Varela_                   |
+| Year | Title                               | Director(s)           |
+| ---- | ----------------------------------- | --------------------- |
+| 1977 | _Eraserhead_                        | David Lynch           |
+| 1980 | _Shining_                           | Stanley Kubrick       |
+| 1988 | _Colors_                            | Dennis Hopper         |
+| 1988 | _Grave of the Fireflies_            | Isao Takahata         |
+| 1990 | _Jacob’s Ladder_                    | Adrian Lyne           |
+| 1991 | _The Silence of the Lambs_          | Jonathan Demme        |
+| 1997 | _Perfect Blue_                      | Satoshi Kon           |
+| 1998 | _Akira_                             | Katsuhiro Otomo       |
+| 1999 | _Eyes Wide Shut_                    | Stanley Kubrick       |
+| 1999 | _Fight Club_                        | David Fincher         |
+| 2001 | _Donnie Darko_                      | Richard Kelly         |
+| 2003 | _The Touch_                         | Peter Pau             |
+| 2004 | _Howl’s Moving Castle_              | Hayao Miyazaki        |
+| 2004 | _The Machinist_                     | Brad Anderson         |
+| 2006 | _Paprika_                           | Satoshi Kon           |
+| 2007 | _Paranormal Activity_               | Oren Peli             |
+| 2007 | _The Diving Bell and the Butterfly_ | Julian Schnabel       |
+| 2009 | _District 9_                        | Neill Blomkamp        |
+| 2010 | _Sarah’s Key_                       | Gilles Paquet-Brenner |
+| 2011 | _The Turin Horse_                   | Béla Tarr             |
+| 2012 | _Mud_                               | Jeff Nichols          |
+| 2012 | _The Act of Killing_                | Joshua Oppenheimer    |
+| 2013 | _Enemy_                             | Denis Villeneuve      |
+| 2014 | _Hard to Be a God_                  | Aleksei German        |
+| 2015 | _Er ist wieder da_                  | David Wnendt          |
+| 2017 | _Icarus_                            | Bryan Fogel           |
+| 2018 | _Hereditary_                        | Ari Aster             |
+| 2018 | _Shadow_                            | Zhang Yimou           |
+| 2018 | _The Cave_                          | Tom Waller            |
+| 2019 | _Midsommar_                         | Ari Aster             |
+| 2019 | _Vitalina Varela_                   | Pedro Costa           |
 
 ## [Back to Top](#top)
 
 ## Japanese Cinema
 
-| Year | Title                                                                           |
-| ---- | ------------------------------------------------------------------------------- |
-| 1953 | _Tokyo Story_                                                                   |
-| 1958 | _Stolen Desire_                                                                 |
-| 1958 | _Nishi Ginza Station_                                                           |
-| 1958 | _Endless Desire_                                                                |
-| 1959 | _My Second Brother_                                                             |
-| 1960 | _When a Woman Ascends the Stairs_                                               |
-| 1961 | _Pigs and Battleships_                                                          |
-| 1962 | _Foundry Town_ (Co-writer)                                                      |
-| 1963 | _She and He_                                                                    |
-| 1963 | _The Insect Woman_                                                              |
-| 1964 | _Unholy Desire_ or _Intentions of Murder_                                       |
-| 1966 | _The Pornographers_                                                             |
-| 1967 | _A Man Vanishes_                                                                |
-| 1968 | _Higashi Shinakai_ (Screenplay and Producer)                                    |
-| 1968 | _Profound Desires of the Gods_ or _Kuragejima - Legends from a Southern Island_ |
-| 1970 | _History of Postwar Japan as Told by a Bar Hostess_                             |
-| 1975 | _Karayuki-san, the Making of a Prostitute_                                      |
-| 1976 | _The Youth Killer_ or _Seishun no Satsujinsha_ (Producer only)                  |
-| 1979 | _Vengeance is Mine_                                                             |
-| 1981 | _Eijanaika_ or _Why Not?_                                                       |
-| 1983 | _The Ballad of Narayama_ (Palme d'Or)                                           |
-| 1985 | _Tampopo_ (Juzo Itami)                                                          |
-| 1987 | _Zegen_                                                                         |
-| 1988 | _Akira_ (Katsuhiro Otomo)                                                       |
-| 1989 | _Black Rain_                                                                    |
-| 1997 | _The Eel_ (Palme d'Or)                                                          |
-| 1998 | _Dr. Akagi_                                                                     |
-| 2001 | _Warm Water Under a Red Bridge_                                                 |
-| 2002 | _11'09"01 September 11_                                                         |
-| 2004 | _Nobody Knows_                                                                  |
-| 2007 | _The Mourning Forest_ (Naomi Kawase)                                            |
-| 2008 | _Tokyo Sonata_                                                                  |
-| ---- | _Branded to Kill_                                                               |
-| ---- | _Still Walking_                                                                 |
-| ---- | _Lady Snowblood_                                                                |
+| Year | Title                                               | Director(s)       |
+| ---- | --------------------------------------------------- | ----------------- |
+| 1953 | _Tokyo Story_                                       | Yasujirō Ozu      |
+| 1958 | _Stolen Desire_                                     | Shōhei Imamura    |
+| 1958 | _Nishi Ginza Station_                               | Nobuo Nakagawa    |
+| 1958 | _Endless Desire_                                    | Shohei Imamura    |
+| 1959 | _My Second Brother_                                 | Shōhei Imamura    |
+| 1960 | _When a Woman Ascends the Stairs_                   | Mikio Naruse      |
+| 1961 | _Pigs and Battleships_                              | Shohei Imamura    |
+| 1962 | _Foundry Town_ (Co-writer)                          | Kirio Urayama     |
+| 1963 | _She and He_                                        | Susumu Hani       |
+| 1963 | _The Insect Woman_                                  | Shōhei Imamura    |
+| 1964 | _Unholy Desire_ or _Intentions of Murder_           | Shohei Imamura    |
+| 1966 | _The Pornographers_                                 | Shohei Imamura    |
+| 1967 | _A Man Vanishes_                                    | Shohei Imamura    |
+| 1968 | _Higashi Shinakai_ (Screenplay and Producer)        | Shohei Imamura    |
+| 1968 | _Profound Desires of the Gods_                      | Shohei Imamura    |
+| 1970 | _History of Postwar Japan as Told by a Bar Hostess_ | Shohei Imamura    |
+| 1975 | _Karayuki-san, the Making of a Prostitute_          | Shohei Imamura    |
+| 1976 | _The Youth Killer_                                  | Shohei Imamura    |
+| 1979 | _Vengeance is Mine_                                 | Shohei Imamura    |
+| 1981 | _Eijanaika_ or _Why Not?_                           | Shohei Imamura    |
+| 1983 | _The Ballad of Narayama_ (Palme d'Or)               | Shohei Imamura    |
+| 1985 | _Tampopo_                                           | Juzo Itami        |
+| 1987 | _Zegen_                                             | Shohei Imamura    |
+| 1988 | _Akira_                                             | Katsuhiro Otomo   |
+| 1989 | _Black Rain_                                        | Shohei Imamura    |
+| 1997 | _The Eel_ (Palme d'Or)                              | Shohei Imamura    |
+| 1998 | _Dr. Akagi_                                         | Shohei Imamura    |
+| 2001 | _Warm Water Under a Red Bridge_                     | Shohei Imamura    |
+| 2002 | _11'09"01 September 11_                             | Various (omnibus) |
+| 2004 | _Nobody Knows_                                      | Hirokazu Koreeda  |
+| 2007 | _The Mourning Forest_                               | Naomi Kawase      |
+| 2008 | _Tokyo Sonata_                                      | Kiyoshi Kurosawa  |
+| ---- | _Branded to Kill_                                   | Seijun Suzuki     |
+| ---- | _Still Walking_                                     | Hirokazu Koreeda  |
+| ---- | _Lady Snowblood_                                    | Toshiya Fujita    |
 
 ## [Back to Top](#top)
 
 ## South Korea
 
-| Year | Title                |
-| ---- | -------------------- |
-| 2003 | _Oldboy_             |
-| 2016 | _The Handmaiden_     |
-| 2004 | _Taegukgi_           |
-| 2010 | _I Saw The Devil_    |
-| 2008 | _The Chaser_         |
-| 2004 | _The Scarlet Letter_ |
+| Year | Title                | Director(s)    |
+| ---- | -------------------- | -------------- |
+| 2003 | _Oldboy_             | Park Chan-wook |
+| 2016 | _The Handmaiden_     | Park Chan-wook |
+| 2004 | _Taegukgi_           | Kang Je-gyu    |
+| 2010 | _I Saw The Devil_    | Kim Jee-woon   |
+| 2008 | _The Chaser_         | Na Hong-jin    |
+| 2004 | _The Scarlet Letter_ | Byun Hyuk      |
 
 ## [Back to Top](#top)
 
 ## Italian Neorealism
 
-| Year | Title               |
-| ---- | ------------------- |
-| 1945 | _Rome, Open City_   |
-| 1946 | _Shoeshine_         |
-| 1948 | _Germany Year Zero_ |
-| 1948 | _Bicycle Thieves_   |
-| 1948 | _La Terra Trema_    |
-| 1949 | _Bitter Rice_       |
-| 1950 | _Stromboli_         |
-| 1952 | _Europe '51_        |
-| 1952 | _Umberto D._        |
-| 1952 | _Rome 11:00_        |
-| 1957 | _White Nights_      |
-| 1963 | _The Leopard_       |
+| Year | Title               | Director(s)        |
+| ---- | ------------------- | ------------------ |
+| 1945 | _Rome, Open City_   | Roberto Rossellini |
+| 1946 | _Shoeshine_         | Vittorio De Sica   |
+| 1948 | _Germany Year Zero_ | Roberto Rossellini |
+| 1948 | _Bicycle Thieves_   | Vittorio De Sica   |
+| 1948 | _La Terra Trema_    | Luchino Visconti   |
+| 1949 | _Bitter Rice_       | Giuseppe De Santis |
+| 1950 | _Stromboli_         | Roberto Rossellini |
+| 1952 | _Europe '51_        | Roberto Rossellini |
+| 1952 | _Umberto D._        | Vittorio De Sica   |
+| 1952 | _Rome 11:00_        | Giuseppe De Santis |
+| 1957 | _White Nights_      | Luchino Visconti   |
+| 1963 | _The Leopard_       | Luchino Visconti   |
 
 ## [Back to Top](#top)
 
 ## Classic & Notable Films
 
-| Year | Title                                               |
-| ---- | --------------------------------------------------- |
-| 1939 | _Gone with the Wind_                                |
-| 1943 | _The Song of Bernadette_                            |
-| 1946 | _It's a Wonderful Life_                             |
-| 1953 | _Ugetsu_                                            |
-| 1954 | _Rear Window_                                       |
-| 1960 | _Le Trou_                                           |
-| 1960 | _Psycho_                                            |
-| 1960 | _The Island_                                        |
-| 1963 | _The Great Escape_                                  |
-| 1964 | _Woman in the Dunes_                                |
-| 1966 | _The Good, the Bad and the Ugly_                    |
-| 1972 | _Solaris_                                           |
-| 1972 | _The Godfather I_                                   |
-| 1974 | _Chinatown_                                         |
-| 1974 | _The Godfather II_                                  |
-| 1976 | _Network_                                           |
-| 1976 | _Taxi Driver_                                       |
-| 1979 | _Stalker_                                           |
-| 1980 | _The Elephant Man_                                  |
-| 1982 | _Blade Runner_                                      |
-| 1982 | _Salyut 7_                                          |
-| 1982 | _The Thing_                                         |
-| 1984 | _Amadeus_                                           |
-| 1984 | _The Terminator_                                    |
-| 1985 | _Back to the Future_                                |
-| 1985 | _Brazil_                                            |
-| 1988 | _Die Hard_                                          |
-| 1988 | _The Navigator: A Medieval Odyssey_                 |
-| 1989 | _Visitor of a Museum_                               |
-| 1990 | _Goodfellas_                                        |
-| 1991 | _Beauty and the Beast_                              |
-| 1992 | _Basic Instinct_                                    |
-| 1993 | _In the Name of the Father_                         |
-| 1993 | _Jurassic Park_                                     |
-| 1993 | _Schindler's List_                                  |
-| 1994 | _Death and the Maiden_                              |
-| 1994 | _Forrest Gump_                                      |
-| 1994 | _Léon: The Professional_                            |
-| 1994 | _Pulp Fiction_                                      |
-| 1994 | _The Shawshank Redemption_                          |
-| 1995 | _Braveheart_                                        |
-| 1995 | _Seven_                                             |
-| 1995 | _Twelve Monkeys_                                    |
-| 1995 | _Underground_                                       |
-| 1997 | _Cube_                                              |
-| 1997 | _Life Is Beautiful_                                 |
-| 1997 | _Lost Highway_                                      |
-| 1997 | _The Fifth Element_                                 |
-| 1997 | _The Game_                                          |
-| 1998 | _Saving Private Ryan_                               |
-| 1998 | _The Truman Show_                                   |
-| 1999 | _The Green Mile_                                    |
-| 1999 | _The Matrix_                                        |
-| 1999 | _The Sixth Sense_                                   |
-| 1999 | _The Thirteenth Floor_                              |
-| 2000 | _Catch Me If You Can_                               |
-| 2000 | _Gladiator_                                         |
-| 2000 | _Malena_                                            |
-| 2000 | _Memento_                                           |
-| 2000 | _Quills_                                            |
-| 2001 | _A Beautiful Mind_                                  |
-| 2001 | _Mulholland Drive_                                  |
-| 2001 | _The Lord of the Rings: The Fellowship of the Ring_ |
-| 2001 | _The One_                                           |
-| 2002 | _City of God_                                       |
-| 2002 | _Frida_                                             |
-| 2002 | _Irreversible_                                      |
-| 2002 | _The Hours_                                         |
-| 2002 | _The Lord of the Rings: The Two Towers_             |
-| 2002 | _The Pianist_                                       |
-| 2003 | _Identity_                                          |
-| 2003 | _Memories of Murder_                                |
-| 2003 | _Mystic River_                                      |
-| 2003 | _Spring, Summer, Fall, Winter and Spring_           |
-| 2003 | _The Dreamers_                                      |
-| 2003 | _The Lord of the Rings: The Return of the King_     |
-| 2004 | _3-Iron_                                            |
-| 2004 | _Hotel Rwanda_                                      |
-| 2004 | _Primer_                                            |
-| 2004 | _Troy_                                              |
-| 2005 | _Match Point_                                       |
-| 2005 | _The Jacket_                                        |
-| 2006 | _Basic Instinct 2_                                  |
-| 2006 | _Deja Vu_                                           |
-| 2006 | _Goya's Ghosts_                                     |
-| 2006 | _Peaceful Warrior_                                  |
-| 2006 | _The Departed_                                      |
-| 2006 | _The Fountain_                                      |
-| 2006 | _The Lives of Others_                               |
-| 2006 | _The Prestige_                                      |
-| 2006 | _V for Vendetta_                                    |
-| 2007 | _Becoming Jane_                                     |
-| 2007 | _Lost in Beijing_                                   |
-| 2008 | _Gran Torino_                                       |
-| 2009 | _3 Idiots_                                          |
-| 2009 | _District 9_                                        |
-| 2009 | _Mr. Nobody_                                        |
-| 2009 | _The Girl with the Dragon Tattoo_                   |
-| 2009 | _Triangle_                                          |
-| 2010 | _127 Hours_                                         |
-| 2010 | _Biutiful_                                          |
-| 2010 | _Black Swan_                                        |
-| 2010 | _Exam_                                              |
-| 2010 | _Incendies_                                         |
-| 2010 | _Inception_                                         |
-| 2010 | _Shutter Island_                                    |
-| 2010 | _The King's Speech_                                 |
-| 2010 | _The Lovely Bones_                                  |
-| 2011 | _A Dangerous Method_                                |
-| 2011 | _Detachment_                                        |
-| 2011 | _The Help_                                          |
-| 2011 | _The Hidden Face_                                   |
-| 2011 | _The Tree of Life_                                  |
-| 2011 | _Warrior_                                           |
-| 2012 | _Barbara_                                           |
-| 2012 | _Gravity_                                           |
-| 2012 | _Like Someone in Love_                              |
-| 2012 | _Looper_                                            |
-| 2012 | _Man on a Ledge_                                    |
-| 2012 | _Prometheus_                                        |
-| 2012 | _The Hunt_                                          |
-| 2012 | _The Words_                                         |
-| 2013 | _12 Years a Slave_                                  |
-| 2013 | _Blue Is the Warmest Color_                         |
-| 2013 | _Coherence_                                         |
-| 2013 | _Her_                                               |
-| 2013 | _Night Train to Lisbon_                             |
-| 2013 | _Oldboy_                                            |
-| 2013 | _Prisoners_                                         |
-| 2013 | _Rush_                                              |
-| 2013 | _Stoker_                                            |
-| 2013 | _Upstream Color_                                    |
-| 2014 | _Coherence_                                         |
-| 2014 | _Gone Girl_                                         |
-| 2014 | _Interstellar_                                      |
-| 2014 | _Lucy_                                              |
-| 2014 | _PK_                                                |
-| 2014 | _Predestination_                                    |
-| 2014 | _Son of God_                                        |
-| 2014 | _Under the Skin_                                    |
-| 2014 | _Whiplash_                                          |
-| 2014 | _Who Am I_                                          |
-| 2015 | _A Man Called Ove_                                  |
-| 2015 | _Delibal_                                           |
-| 2015 | _III_                                               |
-| 2015 | _Mad Max: Fury Road_                                |
-| 2015 | _Our Little Sister_                                 |
-| 2015 | _Room_                                              |
-| 2015 | _The Martian_                                       |
-| 2016 | _10 Cloverfield Lane_                               |
-| 2016 | _Arrival_                                           |
-| 2016 | _Atomic Blonde_                                     |
-| 2016 | _Dangal_                                            |
-| 2016 | _Elle_                                              |
-| 2016 | _Hacksaw Ridge_                                     |
-| 2016 | _Silence_                                           |
-| 2016 | _Split_                                             |
-| 2017 | _Bokeh_                                             |
-| 2017 | _Denial_                                            |
-| 2017 | _Logan_                                             |
-| 2017 | _The Battleship Island_                             |
-| 2017 | _The Invisible Guest_                               |
-| 2017 | _The Shack_                                         |
-| 2017 | _Three Billboards Outside Ebbing, Missouri_         |
-| 2017 | _Voice from the Stone_                              |
-| 2018 | _A Quiet Place_                                     |
-| 2018 | _A Star Is Born_                                    |
-| 2018 | _Annihilation_                                      |
-| 2018 | _Bird Box_                                          |
-| 2018 | _Black Panther_                                     |
-| 2018 | _Burning_                                           |
-| 2018 | _Free Solo_                                         |
-| 2018 | _Green Book_                                        |
-| 2018 | _Replica_                                           |
-| 2018 | _Roma_                                              |
-| 2018 | _Sanju_                                             |
-| 2018 | _Second Act_                                        |
-| 2018 | _Shoplifters_                                       |
-| 2018 | _Transit_                                           |
-| 2018 | _Upgrade_                                           |
-| 2018 | _Vice_                                              |
-| 2019 | _1917_                                              |
-| 2019 | _Ashfall_                                           |
-| 2019 | _Bacurau_                                           |
-| 2019 | _Honeyland_                                         |
-| 2019 | _Klaus_                                             |
-| 2019 | _Parasite_                                          |
-| 2019 | _The Farewell_                                      |
-| 2019 | _The Platform_                                      |
-| 2019 | _The Professor and the Madman_                      |
-| 2019 | _The Two Popes_                                     |
-| 2020 | _Emma_                                              |
-| 2020 | _My Name Is Sara_                                   |
-| 2020 | _Never Rarely Sometimes Always_                     |
-| 2020 | _The Blackout_                                      |
+| Year | Title                                       | Director                                 |
+| ---- | ------------------------------------------- | ---------------------------------------- |
+| 1939 | _Gone with the Wind_                        | Victor Fleming                           |
+| 1943 | _The Song of Bernadette_                    | Henry King                               |
+| 1946 | _It's a Wonderful Life_                     | Frank Capra                              |
+| 1953 | _Ugetsu_                                    | Kenji Mizoguchi                          |
+| 1954 | _Rear Window_                               | Alfred Hitchcock                         |
+| 1960 | _Le Trou_                                   | Jacques Becker                           |
+| 1960 | _Psycho_                                    | Alfred Hitchcock                         |
+| 1960 | _The Island_                                | Kōzaburō Yoshimura                       |
+| 1963 | _The Great Escape_                          | John Sturges                             |
+| 1964 | _Woman in the Dunes_                        | Hiroshi Teshigahara                      |
+| 1966 | _The Good, the Bad and the Ugly_            | Sergio Leone                             |
+| 1972 | _Solaris_                                   | Andrei Tarkovsky                         |
+| 1972 | _The Godfather I_                           | Francis Ford Coppola                     |
+| 1974 | _Chinatown_                                 | Roman Polanski                           |
+| 1974 | _The Godfather II_                          | Francis Ford Coppola                     |
+| 1976 | _Network_                                   | Sidney Lumet                             |
+| 1976 | _Taxi Driver_                               | Martin Scorsese                          |
+| 1979 | _Stalker_                                   | Andrei Tarkovsky                         |
+| 1980 | _The Elephant Man_                          | David Lynch                              |
+| 1982 | _Blade Runner_                              | Ridley Scott                             |
+| 1982 | _Salyut 7_                                  | Klim Shipenko                            |
+| 1982 | _The Thing_                                 | John Carpenter                           |
+| 1984 | _Amadeus_                                   | Miloš Forman                             |
+| 1984 | _The Terminator_                            | James Cameron                            |
+| 1985 | _Back to the Future_                        | Robert Zemeckis                          |
+| 1985 | _Brazil_                                    | Terry Gilliam                            |
+| 1988 | _Die Hard_                                  | John McTiernan                           |
+| 1988 | _The Navigator: A Medieval Odyssey_         | Vincent Ward                             |
+| 1989 | _Visitor of a Museum_                       | Konstantin Lopushansky                   |
+| 1990 | _Goodfellas_                                | Martin Scorsese                          |
+| 1991 | _Beauty and the Beast_                      | Gary Trousdale, Kirk Wise                |
+| 1992 | _Basic Instinct_                            | Paul Verhoeven                           |
+| 1993 | _In the Name of the Father_                 | Jim Sheridan                             |
+| 1993 | _Jurassic Park_                             | Steven Spielberg                         |
+| 1993 | _Schindler's List_                          | Steven Spielberg                         |
+| 1994 | _Death and the Maiden_                      | Roman Polanski                           |
+| 1994 | _Forrest Gump_                              | Robert Zemeckis                          |
+| 1994 | _Léon: The Professional_                    | Luc Besson                               |
+| 1994 | _Pulp Fiction_                              | Quentin Tarantino                        |
+| 1994 | _The Shawshank Redemption_                  | Frank Darabont                           |
+| 1995 | _Braveheart_                                | Mel Gibson                               |
+| 1995 | _Seven_                                     | David Fincher                            |
+| 1995 | _Twelve Monkeys_                            | Terry Gilliam                            |
+| 1995 | _Underground_                               | Emir Kusturica                           |
+| 1997 | _Cube_                                      | Vincenzo Natali                          |
+| 1997 | _Life Is Beautiful_                         | Roberto Benigni                          |
+| 1997 | _Lost Highway_                              | David Lynch                              |
+| 1997 | _The Fifth Element_                         | Luc Besson                               |
+| 1997 | _The Game_                                  | David Fincher                            |
+| 1998 | _Saving Private Ryan_                       | Steven Spielberg                         |
+| 1998 | _The Truman Show_                           | Peter Weir                               |
+| 1999 | _The Green Mile_                            | Frank Darabont                           |
+| 1999 | _The Matrix_                                | Lana Wachowski, Lilly Wachowski          |
+| 1999 | _The Sixth Sense_                           | M. Night Shyamalan                       |
+| 1999 | _The Thirteenth Floor_                      | Josef Rusnak                             |
+| 2000 | _Catch Me If You Can_                       | Steven Spielberg                         |
+| 2000 | _Gladiator_                                 | Ridley Scott                             |
+| 2000 | _Malena_                                    | Giuseppe Tornatore                       |
+| 2000 | _Memento_                                   | Christopher Nolan                        |
+| 2000 | _Quills_                                    | Philip Kaufman                           |
+| 2001 | _A Beautiful Mind_                          | Ron Howard                               |
+| 2001 | _Mulholland Drive_                          | David Lynch                              |
+| 2001 | _The Lord of the Rings_                     | Peter Jackson                            |
+| 2001 | _The One_                                   | James Wong                               |
+| 2002 | _City of God_                               | Fernando Meirelles, Kátia Lund           |
+| 2002 | _Frida_                                     | Julie Taymor                             |
+| 2002 | _Irreversible_                              | Gaspar Noé                               |
+| 2002 | _The Hours_                                 | Stephen Daldry                           |
+| 2002 | _The Pianist_                               | Roman Polanski                           |
+| 2003 | _Identity_                                  | James Mangold                            |
+| 2003 | _Memories of Murder_                        | Bong Joon-ho                             |
+| 2003 | _Mystic River_                              | Clint Eastwood                           |
+| 2003 | _Spring, Summer, Fall, Winter and Spring_   | Kim Ki-duk                               |
+| 2003 | _The Dreamers_                              | Bernardo Bertolucci                      |
+| 2004 | _3-Iron_                                    | Kim Ki-duk                               |
+| 2004 | _Hotel Rwanda_                              | Terry George                             |
+| 2004 | _Primer_                                    | Shane Carruth                            |
+| 2004 | _Troy_                                      | Wolfgang Petersen                        |
+| 2005 | _Match Point_                               | Woody Allen                              |
+| 2005 | _The Jacket_                                | John Maybury                             |
+| 2006 | _Basic Instinct 2_                          | Michael Caton-Jones                      |
+| 2006 | _Deja Vu_                                   | Tony Scott                               |
+| 2006 | _Goya's Ghosts_                             | Miloš Forman                             |
+| 2006 | _Peaceful Warrior_                          | Victor Salva                             |
+| 2006 | _The Departed_                              | Martin Scorsese                          |
+| 2006 | _The Fountain_                              | Darren Aronofsky                         |
+| 2006 | _The Lives of Others_                       | Florian Henckel von Donnersmarck         |
+| 2006 | _The Prestige_                              | Christopher Nolan                        |
+| 2006 | _V for Vendetta_                            | James McTeigue                           |
+| 2007 | _Becoming Jane_                             | Julian Jarrold                           |
+| 2007 | _Lost in Beijing_                           | Li Yu                                    |
+| 2008 | _Gran Torino_                               | Clint Eastwood                           |
+| 2009 | _3 Idiots_                                  | Rajkumar Hirani                          |
+| 2009 | _District 9_                                | Neill Blomkamp                           |
+| 2009 | _Mr. Nobody_                                | Jaco Van Dormael                         |
+| 2009 | _The Girl with the Dragon Tattoo_           | Niels Arden Oplev                        |
+| 2009 | _Triangle_                                  | Christopher Smith                        |
+| 2010 | _127 Hours_                                 | Danny Boyle                              |
+| 2010 | _Biutiful_                                  | Alejandro González Iñárritu              |
+| 2010 | _Black Swan_                                | Darren Aronofsky                         |
+| 2010 | _Exam_                                      | Stuart Hazeldine                         |
+| 2010 | _Incendies_                                 | Denis Villeneuve                         |
+| 2010 | _Inception_                                 | Christopher Nolan                        |
+| 2010 | _Shutter Island_                            | Martin Scorsese                          |
+| 2010 | _The King's Speech_                         | Tom Hooper                               |
+| 2010 | _The Lovely Bones_                          | Peter Jackson                            |
+| 2011 | _A Dangerous Method_                        | David Cronenberg                         |
+| 2011 | _Detachment_                                | Tony Kaye                                |
+| 2011 | _The Help_                                  | Tate Taylor                              |
+| 2011 | _The Hidden Face_                           | Andrés Baiz                              |
+| 2011 | _The Tree of Life_                          | Terrence Malick                          |
+| 2011 | _Warrior_                                   | Gavin O'Connor                           |
+| 2012 | _Barbara_                                   | Christian Petzold                        |
+| 2012 | _Gravity_                                   | Alfonso Cuarón                           |
+| 2012 | _Like Someone in Love_                      | Abbas Kiarostami                         |
+| 2012 | _Looper_                                    | Rian Johnson                             |
+| 2012 | _Man on a Ledge_                            | Asger Leth                               |
+| 2012 | _Prometheus_                                | Ridley Scott                             |
+| 2012 | _The Hunt_                                  | Thomas Vinterberg                        |
+| 2012 | _The Words_                                 | Brian Klugman, Lee Sternthal             |
+| 2013 | _12 Years a Slave_                          | Steve McQueen                            |
+| 2013 | _Blue Is the Warmest Color_                 | Abdellatif Kechiche                      |
+| 2013 | _Coherence_                                 | James Ward Byrkit                        |
+| 2013 | _Her_                                       | Spike Jonze                              |
+| 2013 | _Night Train to Lisbon_                     | Bille August                             |
+| 2013 | _Oldboy_                                    | Park Chan-wook                           |
+| 2013 | _Prisoners_                                 | Denis Villeneuve                         |
+| 2013 | _Rush_                                      | Ron Howard                               |
+| 2013 | _Stoker_                                    | Park Chan-wook                           |
+| 2013 | _Upstream Color_                            | Shane Carruth                            |
+| 2014 | _Coherence_                                 | James Ward Byrkit                        |
+| 2014 | _Gone Girl_                                 | David Fincher                            |
+| 2014 | _Interstellar_                              | Christopher Nolan                        |
+| 2014 | _Lucy_                                      | Luc Besson                               |
+| 2014 | _PK_                                        | Rajkumar Hirani                          |
+| 2014 | _Predestination_                            | Michael Spierig, Peter Spierig           |
+| 2014 | _Son of God_                                | Christopher Spencer                      |
+| 2014 | _Under the Skin_                            | Jonathan Glazer                          |
+| 2014 | _Whiplash_                                  | Damien Chazelle                          |
+| 2014 | _Who Am I_                                  | Baran bo Odar                            |
+| 2015 | _A Man Called Ove_                          | Hannes Holm                              |
+| 2015 | _Delibal_                                   | Ali Bilgin                               |
+| 2015 | _III_                                       | Ivaylo Hristov                           |
+| 2015 | _Mad Max: Fury Road_                        | George Miller                            |
+| 2015 | _Our Little Sister_                         | Hirokazu Kore-eda                        |
+| 2015 | _Room_                                      | Lenny Abrahamson                         |
+| 2015 | _The Martian_                               | Ridley Scott                             |
+| 2016 | _10 Cloverfield Lane_                       | Dan Trachtenberg                         |
+| 2016 | _Arrival_                                   | Denis Villeneuve                         |
+| 2016 | _Atomic Blonde_                             | David Leitch                             |
+| 2016 | _Dangal_                                    | Nitesh Tiwari                            |
+| 2016 | _Elle_                                      | Paul Verhoeven                           |
+| 2016 | _Hacksaw Ridge_                             | Mel Gibson                               |
+| 2016 | _Silence_                                   | Martin Scorsese                          |
+| 2016 | _Split_                                     | M. Night Shyamalan                       |
+| 2017 | _Bokeh_                                     | Geoffrey Orthwein, Andrew Sullivan       |
+| 2017 | _Denial_                                    | Mick Jackson                             |
+| 2017 | _Logan_                                     | James Mangold                            |
+| 2017 | _The Battleship Island_                     | Ryoo Seung-wan                           |
+| 2017 | _The Invisible Guest_                       | Oriol Paulo                              |
+| 2017 | _The Shack_                                 | Stuart Hazeldine                         |
+| 2017 | _Three Billboards Outside Ebbing, Missouri_ | Martin McDonagh                          |
+| 2017 | _Voice from the Stone_                      | Eric D. Howell                           |
+| 2018 | _A Quiet Place_                             | John Krasinski                           |
+| 2018 | _A Star Is Born_                            | Bradley Cooper                           |
+| 2018 | _Annihilation_                              | Alex Garland                             |
+| 2018 | _Bird Box_                                  | Susanne Bier                             |
+| 2018 | _Black Panther_                             | Ryan Coogler                             |
+| 2018 | _Burning_                                   | Lee Chang-dong                           |
+| 2018 | _Free Solo_                                 | Elizabeth Chai Vasarhelyi, Jimmy Chin    |
+| 2018 | _Green Book_                                | Peter Farrelly                           |
+| 2018 | _Replica_                                   | Jenn Wexler                              |
+| 2018 | _Roma_                                      | Alfonso Cuarón                           |
+| 2018 | _Sanju_                                     | Rajkumar Hirani                          |
+| 2018 | _Second Act_                                | Peter Segal                              |
+| 2018 | _Shoplifters_                               | Hirokazu Kore-eda                        |
+| 2018 | _Transit_                                   | Christian Petzold                        |
+| 2018 | _Upgrade_                                   | Leigh Whannell                           |
+| 2018 | _Vice_                                      | Adam McKay                               |
+| 2019 | _1917_                                      | Sam Mendes                               |
+| 2019 | _Ashfall_                                   | Lee Hae-jun, Kim Byung-seo               |
+| 2019 | _Bacurau_                                   | Kleber Mendonça Filho, Juliano Dornelles |
+| 2019 | _Honeyland_                                 | Tamara Kotevska, Ljubomir Stefanov       |
+| 2019 | _Klaus_                                     | Sergio Pablos                            |
+| 2019 | _Parasite_                                  | Bong Joon-ho                             |
+| 2019 | _The Farewell_                              | Lulu Wang                                |
+| 2019 | _The Platform_                              | Galder Gaztelu-Urrutia                   |
+| 2019 | _The Professor and the Madman_              | Farhad Safinia                           |
+| 2019 | _The Two Popes_                             | Fernando Meirelles                       |
+| 2020 | _Emma_                                      | Autumn de Wilde                          |
+| 2020 | _My Name Is Sara_                           | Steven Oritt                             |
+| 2020 | _Never Rarely Sometimes Always_             | Eliza Hittman                            |
+| 2020 | _The Blackout_                              | Egor Baranov                             |
 
 ## [Back to Top](#top)
 
