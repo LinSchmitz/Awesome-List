@@ -10,22 +10,39 @@
 
 ## 🎞️ photographer must seen
 
-| Year | Title                                              |
-| ---- | -------------------------------------------------- |
-| 2000 | _Songs from the Second Floor_                      |
-| 2005 | _Sin City_                                         |
-| 2007 | _You, the Living_                                  |
-| 2011 | _Once Upon a Time in Anatolia_                     |
-| 2011 | _The Tree of Life_                                 |
-| 2011 | _The Turin Horse_                                  |
-| 2013 | _Her_                                              |
-| 2014 | _A Pigeon Sat on a Branch Reflecting on Existence_ |
-| 2014 | _Jauja_                                            |
-| 2014 | _Mommy_                                            |
-| 2015 | _Mad Max: Fury Road_                               |
-| 2015 | _Mountains May Depart_                             |
-| 2016 | _American Honey_                                   |
-| 2022 | _Belfast_                                          |
+| Year | Title                                              | Director(s)                          |
+| ---- | -------------------------------------------------- | ------------------------------------ |
+| 1954 | _Rear Window_                                      | Alfred Hitchcock                     |
+| 1966 | _Blow-Up_                                          | Michelangelo Antonioni               |
+| 1983 | _Under Fire_                                       | Roger Spottiswoode                   |
+| 1984 | _The Killing Fields_                               | Roland Joffé                         |
+| 1991 | _Proof_                                            | Jocelyn Moorhouse                    |
+| 2000 | _Songs from the Second Floor_                      | Roy Andersson                        |
+| 2001 | _War Photographer_                                 | Christian Frei                       |
+| 2002 | _City of God_                                      | Fernando Meirelles, Kátia Lund       |
+| 2002 | _One Hour Photo_                                   | Mark Romanek                         |
+| 2005 | _Sin City_                                         | Robert Rodriguez, Frank Miller       |
+| 2006 | _Annie Leibovitz: Life Through a Lens_             | Barbara Leibovitz                    |
+| 2007 | _You, the Living_                                  | Roy Andersson                        |
+| 2008 | _Visual Acoustics_                                 | Eric Bricker                         |
+| 2008 | _Everlasting Moments_                              | Jan Troell                           |
+| 2010 | _The Bang Bang Club_                               | Steven Silver                        |
+| 2011 | _Once Upon a Time in Anatolia_                     | Nuri Bilge Ceylan                    |
+| 2011 | _The Tree of Life_                                 | Terrence Malick                      |
+| 2011 | _The Turin Horse_                                  | Béla Tarr, Ágnes Hranitzky           |
+| 2013 | _Finding Vivian Maier_                             | John Maloof, Charlie Siskel          |
+| 2013 | _Her_                                              | Spike Jonze                          |
+| 2013 | _The Secret Life of Walter Mitty_                  | Ben Stiller                          |
+| 2014 | _A Pigeon Sat on a Branch Reflecting on Existence_ | Roy Andersson                        |
+| 2014 | _Jauja_                                            | Lisandro Alonso                      |
+| 2014 | _Mommy_                                            | Xavier Dolan                         |
+| 2014 | _Monk with a Camera_                               | Guido Santi, Tina Mascara            |
+| 2014 | _The Salt of the Earth_                            | Wim Wenders, Juliano Ribeiro Salgado |
+| 2015 | _Mad Max: Fury Road_                               | George Miller                        |
+| 2015 | _Mountains May Depart_                             | Jia Zhangke                          |
+| 2016 | _American Honey_                                   | Andrea Arnold                        |
+| 2022 | _Belfast_                                          | Kenneth Branagh                      |
+| 2022 | _Lee_                                              | Ellen Kuras                          |
 
 ---
 
