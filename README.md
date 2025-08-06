@@ -3,7 +3,12 @@
 ## A list of **beautiful, emotional, and powerful movies** from all kinds of genres. Each one was picked for its great story, strong visuals, and creative style.
 
 [Sort By Genre/README](genre/README.md)
-[Sort By Director/README](director/README.md)
+
+---
+
+## [Sort By Director/README](director/README.md)
+
+---
 
 ## 🎞️ photographer must seen
 
