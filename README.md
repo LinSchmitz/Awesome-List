@@ -10,20 +10,39 @@
 
 <a id="top"></a>
 
-## Table of Contents
+# Table of Contents
 
-- [⭐ Additional Mentions](#additional-mentions)
-- [🎌 Anime & Animation Series](#anime--animation-series)
-- [🎥 Classic & Notable Films](#classic--notable-films)
-- [🎞️ Films](#films)
-- [🇮🇷 Iranian Series](#iranian-series)
-- [🇮🇹 Italian Neorealism](#italian-neorealism)
-- [🕵️‍♂️ Mystery & Thriller](#mystery--thriller)
-- [📸 Photographer Must Seen](#photographer-must-seen)
-- [❤️ Romance](#romance)
-- [🔪 Thriller / Crime](#thriller--crime)
-- [🔄 Similar](#similar)
-- [🇰🇷 South Korea](#south-korea)
+- [Additional Mentions](#additional-mentions)
+- [Action](#action)
+- [Anime & Animation Movie](#anime--animation-movie)
+- [Anime & Animation Series](#anime--animation-series)
+- [Classic & Notable Films](#classic--notable-films)
+- [Comedy & Romance](#comedy--romance)
+- [Documentary](#documentary)
+- [Drama](#drama)
+- [Films](#films)
+- [Holocaust and World War II Movies](#holocaust-and-world-war-ii-movies)
+- [Horror & Psychological](#horror--psychological)
+- [Indian](#indian)
+- [Iranian Moview](#iranian-moview)
+- [Iranian Series](#iranian-series)
+- [Italian Neorealism](#italian-neorealism)
+- [Japanese Cinema](#japanese-cinema)
+- [Mystery & Thriller](#mystery--thriller)
+- [Photographer Must Seen](#photographer-must-seen)
+- [Plot Twist Themed Films](#plot-twist-themed-films)
+- [Psychological Genre](#psychological-genre)
+- [Philosophical Genre](#philosophical-genre)
+- [Romance](#romance)
+- [Sci-Fi / Fantasy / Fantasy /Dystopia](#sci-fi--fantasy--fantasy--dystopia)
+- [Series & TV Shows](#series--tv-shows)
+- [South Korea](#south-korea)
+- [Similar](#similar)
+- [Time Loop Themed Films](#time-loop-themed-films)
+- [Time Traveling Movies](#time-traveling-movies)
+- [Thriller / Crime](#thriller--crime)
+- [Trilogy](#trilogy)
+- [Turkish Movies](#turkish-movies)
 
 ---
 
