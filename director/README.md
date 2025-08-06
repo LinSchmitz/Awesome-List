@@ -1,14 +1,36 @@
+## 📌 Table of Contents
+
+- [🎮 Yorgos Lanthimos](#-yorgos-lanthimos)
+- [🎮 Lars von Trier](#-lars-von-trier)
+- [🎮 Nuri Bilge Ceylan](#-nuri-bilge-ceylan)
+- [🎮 Kim Ki-duk](#-kim-ki-duk)
+- [🎮 Lynch](#-lynch)
+- [🎮 Krzysztof Kieslowski](#-krzysztof-kieslowski)
+- [🎮 Yasujiro Ozu](#-yasujiro-ozu)
+- [🎮 Joon-ho Bong](#-joon-ho-bong)
+- [🎮 Emir Kusturica](#-emir-kusturica)
+- [🎮 Abdellatif Kechiche](#-abdellatif-kechiche)
+- [🎮 Terrence Malick](#-terrence-malick)
+- [🎮 Akira Kurosawa](#-akira-kurosawa)
+- [🎮 Bernardo Bertolucci](#-bernardo-bertolucci)
+- [🎮 Andrei Tarkovsky](#-andrei-tarkovsky)
+- [Christopher Nolan](#christopher-nolan)
+- [Harun Farocki Filmography](#harun-farocki-filmography)
+
+---
 
 ## 🎬 Yorgos Lanthimos
 
-| 2001 | _My Best Friend_ |
-| 2005 | _Kinetta_ |
-| 2009 | _Dogtooth_ |
-| 2010 | _Attenberg_ |
-| 2011 | _Alps_ |
-| 2015 | _The Lobster_ |
+| Year | Title                          |
+| ---- | ------------------------------ |
+| 2001 | _My Best Friend_               |
+| 2005 | _Kinetta_                      |
+| 2009 | _Dogtooth_                     |
+| 2010 | _Attenberg_                    |
+| 2011 | _Alps_                         |
+| 2015 | _The Lobster_                  |
 | 2017 | _The Killing of a Sacred Deer_ |
-| 2018 | _The Favourite_ |
+| 2018 | _The Favourite_                |
 
 ## 🎬 Lars von Trier
 
@@ -34,11 +56,13 @@
 
 ## 🎬 Nuri Bilge Ceylan
 
-| 1997 | _The Town_ |
-| 1999 | _Clouds of May_ |
-| 2003 | _Distant_ |
-| 2008 | _Three Monkeys_ |
-| 2014 | _Winter Sleep_ |
+| Year | Title                |
+| ---- | -------------------- |
+| 1997 | _The Town_           |
+| 1999 | _Clouds of May_      |
+| 2003 | _Distant_            |
+| 2008 | _Three Monkeys_      |
+| 2014 | _Winter Sleep_       |
 | 2018 | _The Wild Pear Tree_ |
 
 ## 🎬 Kim Ki-duk
@@ -82,16 +106,18 @@
 
 ## 🎬 Yasujiro Ozu
 
+| Year | Title                       |
+| ---- | --------------------------- |
 | 1934 | _A Story of Floating Weeds_ |
-| 1936 | _The Only Son_ |
-| 1942 | _There Was a Father_ |
-| 1949 | _Late Spring_ |
-| 1951 | _Early Summer_ |
-| 1953 | _Tokyo Story_ |
-| 1957 | _Tokyo Twilight_ |
-| 1959 | _Floating Weeds_ |
-| 1961 | _The End of Summer_ |
-| 2010 | _Late Autumn_ |
+| 1936 | _The Only Son_              |
+| 1942 | _There Was a Father_        |
+| 1949 | _Late Spring_               |
+| 1951 | _Early Summer_              |
+| 1953 | _Tokyo Story_               |
+| 1957 | _Tokyo Twilight_            |
+| 1959 | _Floating Weeds_            |
+| 1961 | _The End of Summer_         |
+| 2010 | _Late Autumn_               |
 
 ## 🎬 Joon-ho Bong
 
@@ -151,18 +177,22 @@
 
 ## 🎬 Bernardo Bertolucci
 
+| Year | Title                |
+| ---- | -------------------- |
 | 1990 | _The Sheltering Sky_ |
-| 1993 | _Little Buddha_ |
+| 1993 | _Little Buddha_      |
 
 ## 🎬 Andrei Tarkovsky
 
+| Year | Title              |
+| ---- | ------------------ |
 | 1962 | _Ivan's Childhood_ |
-| 1966 | _Andrei Rublev_ |
-| 1972 | _Solaris_ |
-| 1975 | _Mirror_ |
-| 1979 | _Stalker_ |
-| 1983 | _Nostalghia_ |
-| 1986 | _The Sacrifice_ |
+| 1966 | _Andrei Rublev_    |
+| 1972 | _Solaris_          |
+| 1975 | _Mirror_           |
+| 1979 | _Stalker_          |
+| 1983 | _Nostalghia_       |
+| 1986 | _The Sacrifice_    |
 
 ## Christopher Nolan
 
