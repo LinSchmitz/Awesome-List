@@ -86,104 +86,104 @@
 
 ## 🎞️ Anime & Animation Movie
 
-| Year | Title                                 |
-| ---- | ------------------------------------- |
-| 1980 | _Zigeunerweisen_                      |
-| 1986 | _Castle in the Sky_                   |
-| 1988 | _Grave of the Fireflies_              |
-| 1997 | _Princess Mononoke_                   |
-| 1998 | _Birdcage Inn_                        |
-| 2001 | _Mulholland Drive_                    |
-| 2001 | _Spirited Away_                       |
-| 2003 | _Porco Rosso_                         |
-| 2004 | _Howl’s Moving Castle_                |
-| 2004 | _The Girl Who Leapt Through Time_     |
-| 2006 | _Paprika_                             |
-| 2006 | _Naussicaä of the Valley of the Wind_ |
-| 2007 | _Parasyte_                            |
-| 2008 | _Hana Yori Dango: Final_              |
-| 2009 | _WALL•E_                              |
-| 2009 | _Up_                                  |
-| 2009 | _Mary and Max_                        |
-| 2010 | _How to Train Your Dragon_            |
-| 2010 | _My Neighbor Totoro_                  |
-| 2011 | _Arirang_                             |
-| 2013 | _The Tale of The Princess Kaguya_     |
-| 2014 | _When Marnie Was There_               |
-| 2014 | _Your Name_                           |
-| 2014 | _Jauja_                               |
-| 2016 | _American Honey_                      |
-| 2016 | _Planetarium_                         |
-| 2016 | _Personal Shopper_                    |
-| 2016 | _Live by Night_                       |
-| 2016 | _A Girl Leapt Through Time_           |
-| 2017 | _A Silent Voice_                      |
-| 2018 | _Wolf Children_                       |
-| 2019 | _Fullmetal Alchemist: Brotherhood_    |
-| ---- | _The Boy and the Heron_               |
-| ---- | _Elemental_                           |
-| ---- | _Kiki’s Delivery Service_             |
-| ---- | _Ponyo_                               |
+| Year | Title                                 | Director(s)                             |
+| ---- | ------------------------------------- | --------------------------------------- |
+| 1980 | _Zigeunerweisen_                      | Seijun Suzuki                           |
+| 1986 | _Castle in the Sky_                   | Hayao Miyazaki                          |
+| 1988 | _Grave of the Fireflies_              | Isao Takahata                           |
+| 1997 | _Princess Mononoke_                   | Hayao Miyazaki                          |
+| 1998 | _Birdcage Inn_                        | Kim Ki-duk                              |
+| 2001 | _Mulholland Drive_                    | David Lynch                             |
+| 2001 | _Spirited Away_                       | Hayao Miyazaki                          |
+| 2003 | _Porco Rosso_                         | Hayao Miyazaki                          |
+| 2004 | _Howl’s Moving Castle_                | Hayao Miyazaki                          |
+| 2004 | _The Girl Who Leapt Through Time_     | Mamoru Hosoda                           |
+| 2006 | _Paprika_                             | Satoshi Kon                             |
+| 2006 | _Naussicaä of the Valley of the Wind_ | Hayao Miyazaki                          |
+| 2007 | _Parasyte_                            | Kenichi Shimizu (anime series director) |
+| 2008 | _Hana Yori Dango: Final_              | Yasuharu Ishii                          |
+| 2009 | _WALL•E_                              | Andrew Stanton                          |
+| 2009 | _Up_                                  | Pete Docter                             |
+| 2009 | _Mary and Max_                        | Adam Elliot                             |
+| 2010 | _How to Train Your Dragon_            | Dean DeBlois, Chris Sanders             |
+| 2010 | _My Neighbor Totoro_                  | Hayao Miyazaki                          |
+| 2011 | _Arirang_                             | Kim Ki-duk                              |
+| 2013 | _The Tale of The Princess Kaguya_     | Isao Takahata                           |
+| 2014 | _When Marnie Was There_               | Hiromasa Yonebayashi                    |
+| 2014 | _Your Name_                           | Makoto Shinkai                          |
+| 2014 | _Jauja_                               | Lisandro Alonso                         |
+| 2016 | _American Honey_                      | Andrea Arnold                           |
+| 2016 | _Planetarium_                         | Rebecca Zlotowski                       |
+| 2016 | _Personal Shopper_                    | Olivier Assayas                         |
+| 2016 | _Live by Night_                       | Ben Affleck                             |
+| 2016 | _A Girl Leapt Through Time_           | Makoto Shinkai                          |
+| 2017 | _A Silent Voice_                      | Naoko Yamada                            |
+| 2018 | _Wolf Children_                       | Mamoru Hosoda                           |
+| 2019 | _Fullmetal Alchemist: Brotherhood_    | Yasuhiro Irie                           |
+| ---- | _The Boy and the Heron_               | Hayao Miyazaki                          |
+| ---- | _Elemental_                           | Peter Sohn                              |
+| ---- | _Kiki’s Delivery Service_             | Hayao Miyazaki                          |
+| ---- | _Ponyo_                               | Hayao Miyazaki                          |
 
 ## [Back to Top](#top)
 
 ## Anime & Animation Series
 
-| Year | Title                                |
-| ---- | ------------------------------------ |
-| ---- | _Rick and Morty_                     |
-| 2021 | _Arcane_                             |
-| ---- | _Bojack Horseman_                    |
-| ---- | _Love, Death & Robots_               |
-| ---- | _The Simpsons_                       |
-| ---- | _Inside Job_                         |
-| 1988 | _My Neighbor Totoro_                 |
-| 1988 | _Grave of the Fireflies_             |
-| 2001 | _Spirited Away_                      |
-| 1989 | _Kiki's Delivery Service_            |
-| 1994 | _Pom Poko_                           |
-| 1986 | _Castle in the Sky_                  |
-| 2013 | _The Tale of the Princess Kaguya_    |
-| 2016 | _The Red Turtle_                     |
-| 2008 | _Ponyo_                              |
-| 1991 | _Only Yesterday_                     |
-| 2011 | _From Up On Poppy Hill_              |
-| 2013 | _The Wind Rises_                     |
-| 1995 | _Whisper of the Heart_               |
-| 2004 | _Howl's Moving Castle_               |
-| 1997 | _Princess Mononoke_                  |
-| 2002 | _The Cat Returns_                    |
-| 1992 | _Porco Rosso_                        |
-| 1984 | _Nausicaä of the Valley of the Wind_ |
-| ---- | _Song of the Sea_                    |
-| ---- | _Wolf Walkers_                       |
-| ---- | _Day of the Crows_                   |
-| ---- | _Over the Garden Wall_               |
-| ---- | _Long Way North_                     |
-| ---- | _The Big Bad Fox and Other Tales_    |
-| ---- | _Dream Builders_                     |
-| ---- | _Ernest and Celestine_               |
-| ---- | _Arthur Christmas_                   |
-| ---- | _Klaus_                              |
-| ---- | _9 (Nine)_                           |
-| ---- | _Luca_                               |
-| ---- | _Treasure Planet_                    |
-| ---- | _The Secret World of Arrietty_       |
-| ---- | _Coraline_                           |
-| ---- | _The Nightmare Before Christmas_     |
-| ---- | _In This Corner of the World_        |
-| ---- | _Death Note_                         |
-| ---- | _Your Name_                          |
-| ---- | _A Silent Voice_                     |
-| ---- | _Attack on Titan_                    |
-| ---- | _Weathering with You_                |
-| ---- | _The Girl Who Leapt Through Time_    |
-| ---- | _When Marnie Was There_              |
-| ---- | _Wolf Children_                      |
-| ---- | _Scavengers Reign_                   |
-| ---- | _Blue Eye Samurai_                   |
-| ---- | _The Apothecary Diaries_             |
-| ---- | _Serial Experiments Lain_            |
+| Year | Title                                | Director(s)                    |
+| ---- | ------------------------------------ | ------------------------------ |
+| ---- | _Rick and Morty_                     |                                |
+| 2021 | _Arcane_                             |                                |
+| ---- | _Bojack Horseman_                    |                                |
+| ---- | _Love, Death & Robots_               |                                |
+| ---- | _The Simpsons_                       |                                |
+| ---- | _Inside Job_                         |                                |
+| 1988 | _My Neighbor Totoro_                 | Hayao Miyazaki                 |
+| 1988 | _Grave of the Fireflies_             | Isao Takahata                  |
+| 2001 | _Spirited Away_                      | Hayao Miyazaki                 |
+| 1989 | _Kiki's Delivery Service_            | Hayao Miyazaki                 |
+| 1994 | _Pom Poko_                           | Isao Takahata                  |
+| 1986 | _Castle in the Sky_                  | Hayao Miyazaki                 |
+| 2013 | _The Tale of the Princess Kaguya_    | Isao Takahata                  |
+| 2016 | _The Red Turtle_                     | Michaël Dudok de Wit           |
+| 2008 | _Ponyo_                              | Hayao Miyazaki                 |
+| 1991 | _Only Yesterday_                     | Isao Takahata                  |
+| 2011 | _From Up On Poppy Hill_              | Gorō Miyazaki                  |
+| 2013 | _The Wind Rises_                     | Hayao Miyazaki                 |
+| 1995 | _Whisper of the Heart_               | Yoshifumi Kondō                |
+| 2004 | _Howl's Moving Castle_               | Hayao Miyazaki                 |
+| 1997 | _Princess Mononoke_                  | Hayao Miyazaki                 |
+| 2002 | _The Cat Returns_                    | Hiroyuki Morita                |
+| 1992 | _Porco Rosso_                        | Hayao Miyazaki                 |
+| 1984 | _Nausicaä of the Valley of the Wind_ | Hayao Miyazaki                 |
+| ---- | _Song of the Sea_                    | Tomm Moore                     |
+| ---- | _Wolf Walkers_                       | Tomm Moore, Ross Stewart       |
+| ---- | _Day of the Crows_                   | Jean-Christophe Dessaint       |
+| ---- | _Over the Garden Wall_               | Patrick McHale                 |
+| ---- | _Long Way North_                     | Rémi Chayé                     |
+| ---- | _The Big Bad Fox and Other Tales_    | Benjamin Renner                |
+| ---- | _Dream Builders_                     | Kim Hagen                      |
+| ---- | _Ernest and Celestine_               | Stéphane Aubier, Vincent Patar |
+| ---- | _Arthur Christmas_                   | Sarah Smith                    |
+| ---- | _Klaus_                              | Sergio Pablos                  |
+| ---- | _9 (Nine)_                           | Shane Acker                    |
+| ---- | _Luca_                               | Enrico Casarosa                |
+| ---- | _Treasure Planet_                    | Ron Clements, John Musker      |
+| ---- | _The Secret World of Arrietty_       | Hiromasa Yonebayashi           |
+| ---- | _Coraline_                           | Henry Selick                   |
+| ---- | _The Nightmare Before Christmas_     | Henry Selick                   |
+| ---- | _In This Corner of the World_        | Sunao Katabuchi                |
+| ---- | _Death Note_                         | Tetsurō Araki                  |
+| ---- | _Your Name_                          | Makoto Shinkai                 |
+| ---- | _A Silent Voice_                     | Naoko Yamada                   |
+| ---- | _Attack on Titan_                    | Tetsurō Araki                  |
+| ---- | _Weathering with You_                | Makoto Shinkai                 |
+| ---- | _The Girl Who Leapt Through Time_    | Mamoru Hosoda                  |
+| ---- | _When Marnie Was There_              | Hiromasa Yonebayashi           |
+| ---- | _Wolf Children_                      | Mamoru Hosoda                  |
+| ---- | _Scavengers Reign_                   | Connor Hall                    |
+| ---- | _Blue Eye Samurai_                   | Eric Calderon                  |
+| ---- | _The Apothecary Diaries_             | Kazuya Nomura                  |
+| ---- | _Serial Experiments Lain_            | Ryūtarō Nakamura               |
 
 ## [Back to Top](#top)
 
@@ -191,150 +191,150 @@
 
 ## 🎞️ Turkish Movies
 
-| Year | Title                          |
-| ---- | ------------------------------ |
-| 1982 | _Yol_                          |
-| 1997 | _Innocence_                    |
-| 2002 | _Uzak_                         |
-| 2004 | _Everything About Mustafa_     |
-| 2005 | _My Father and My Son_         |
-| 2006 | _Climates_                     |
-| 2006 | _Destiny_                      |
-| 2007 | _The Edge of Heaven_           |
-| 2007 | _For Love and Honour_          |
-| 2008 | _Autumn_                       |
-| 2008 | _The Messenger_                |
-| 2009 | _De ademtocht_                 |
-| 2010 | _Hunting Season_               |
-| 2011 | _My Grandfather's People_      |
-| 2011 | _Once Upon a Time in Anatolia_ |
-| 2013 | _The Butterfly's Dream_        |
-| 2015 | _Ivy_                          |
-| 2016 | _İkimizin Yerine_              |
-| 2017 | _Ayla: The Daughter of War_    |
+| Year | Title                          | Director(s)               |
+| ---- | ------------------------------ | ------------------------- |
+| 1982 | _Yol_                          | Şerif Gören, Yılmaz Güney |
+| 1997 | _Innocence_                    | Zeki Demirkubuz           |
+| 2002 | _Uzak_                         | Nuri Bilge Ceylan         |
+| 2004 | _Everything About Mustafa_     | Çağan Irmak               |
+| 2005 | _My Father and My Son_         | Çağan Irmak               |
+| 2006 | _Climates_                     | Nuri Bilge Ceylan         |
+| 2006 | _Destiny_                      | Zeki Demirkubuz           |
+| 2007 | _The Edge of Heaven_           | Fatih Akın                |
+| 2007 | _For Love and Honour_          | Ömer Vargı                |
+| 2008 | _Autumn_                       | Özcan Alper               |
+| 2008 | _The Messenger_                | Çağan Irmak               |
+| 2009 | _De ademtocht_                 | Reha Erdem                |
+| 2010 | _Hunting Season_               | Yavuz Turgul              |
+| 2011 | _My Grandfather's People_      | Çağan Irmak               |
+| 2011 | _Once Upon a Time in Anatolia_ | Nuri Bilge Ceylan         |
+| 2013 | _The Butterfly's Dream_        | Yılmaz Erdoğan            |
+| 2015 | _Ivy_                          | Tolga Karaçelik           |
+| 2016 | _İkimizin Yerine_              | Hülya Gezer               |
+| 2017 | _Ayla: The Daughter of War_    | Can Ulkay                 |
 
 ## [Back to Top](#top)
 
 ## 🎞️ Indian
 
-| Year | Title           |
-| ---- | --------------- |
-| 2013 | _The Lunchbox_  |
-| 2016 | _Pink_          |
-| 2018 | _Sir_           |
-| 2019 | _Badla_         |
-| ---- | _The Fame Game_ |
-| ---- | _PK_            |
+| Year | Title           | Director(s)             |
+| ---- | --------------- | ----------------------- |
+| 2013 | _The Lunchbox_  | Ritesh Batra            |
+| 2016 | _Pink_          | Aniruddha Roy Chowdhury |
+| 2018 | _Sir_           | Rohena Gera             |
+| 2019 | _Badla_         | Sujoy Ghosh             |
+| ---- | _The Fame Game_ | Leena Yadav             |
+| ---- | _PK_            | Rajkumar Hirani         |
 
 ## [Back to Top](#top)
 
 ## 🎥 Documentary
 
-| Year | Title                                                  |
-| ---- | ------------------------------------------------------ |
-| ---- | _Samsara_                                              |
-| ---- | _Baraka_                                               |
-| ---- | _Dirty Money_                                          |
-| ---- | _Everybody Street_                                     |
-| ---- | _Wild_                                                 |
-| ---- | _Alice Neel Documentary from Herfeh Honarmand Channel_ |
-| ---- | _Heaven and Earth by Marleen Gorris_                   |
-| ---- | _Seven Worlds One Planet Documentary_                  |
-| ---- | _Turning Point: 9/11 and the War on Terror_            |
-| ---- | _American Manhunt: The Search for Osama bin Laden_     |
-| ---- | _Zafar War_                                            |
-| 1946 | _Shoeshine_                                            |
-| 1983 | _L'Argent_                                             |
-| 1994 | _Immortal Beloved_                                     |
-| 2005 | _Earthlings_                                           |
-| 2006 | _Rang de Bastani_                                      |
-| 2007 | _Nanking_                                              |
-| 2012 | _The Act of Killing_                                   |
-| 2016 | _The White Helmets_                                    |
-| 2019 | _American Factory_                                     |
-| 2011 | _Arirang_                                              |
-| 2018 | _The Photographer of Mauthausen_                       |
-| 2003 | _Elephant_                                             |
-| 1999 | _The Matrix_                                           |
-| 1941 | _Citizen Kane_                                         |
-| 1957 | _Twelve Angry Men_                                     |
-| 1999 | _Go_                                                   |
-| 2015 | _Talvar_                                               |
-| 2014 | _Gone Girl_                                            |
-| 2002 | _Hero_                                                 |
-| 2014 | _Predestination_                                       |
-| 2008 | _Vantage Point_                                        |
-| 1958 | _Touch of Evil_                                        |
-| 1949 | _The Third Man_                                        |
-| 1946 | _Notorious_                                            |
-| 1946 | _The Big Sleep_                                        |
-| 1944 | _Double Indemnity_                                     |
-| 1950 | _Sunset Boulevard_                                     |
-| 1941 | _The Maltese Falcon_                                   |
-| 1955 | _Kiss Me Deadly_                                       |
-| 1953 | _The Big Heat_                                         |
-| 1945 | _Scarlet Street_                                       |
-| 1944 | _The Woman In the Window_                              |
-| 1956 | _The Killing_                                          |
-| 1950 | _In a Lonely Place_                                    |
-| 2012 | _Beyond the Hills_                                     |
-| 2018 | _Un homme press_                                       |
-| 2019 | _The Great Hack_                                       |
-| 2020 | _I Wish I Knew_                                        |
+| Year | Title                                                  | Director(s)                     |
+| ---- | ------------------------------------------------------ | ------------------------------- |
+| ---- | _Samsara_                                              | Ron Fricke                      |
+| ---- | _Baraka_                                               | Ron Fricke                      |
+| ---- | _Dirty Money_                                          | Alex Gibney                     |
+| ---- | _Everybody Street_                                     | Cheryl Dunn                     |
+| ---- | _Wild_                                                 | Jean-Michel Cousteau            |
+| ---- | _Alice Neel Documentary from Herfeh Honarmand Channel_ | Herfeh Honarmand (channel name) |
+| ---- | _Heaven and Earth by Marleen Gorris_                   | Marleen Gorris                  |
+| ---- | _Seven Worlds One Planet Documentary_                  | BBC Natural History Unit        |
+| ---- | _Turning Point: 9/11 and the War on Terror_            | Brian Knappenberger             |
+| ---- | _American Manhunt: The Search for Osama bin Laden_     | Greg Barker                     |
+| ---- | _Zafar War_                                            | Unknown                         |
+| 1946 | _Shoeshine_                                            | Vittorio De Sica                |
+| 1983 | _L'Argent_                                             | Robert Bresson                  |
+| 1994 | _Immortal Beloved_                                     | Bernard Rose                    |
+| 2005 | _Earthlings_                                           | Shaun Monson                    |
+| 2006 | _Rang de Bastani_                                      | Abbas Kiarostami                |
+| 2007 | _Nanking_                                              | Bill Guttentag, Dan Sturman     |
+| 2012 | _The Act of Killing_                                   | Joshua Oppenheimer              |
+| 2016 | _The White Helmets_                                    | Orlando von Einsiedel           |
+| 2019 | _American Factory_                                     | Steven Bognar, Julia Reichert   |
+| 2011 | _Arirang_                                              | Kim Ki-duk                      |
+| 2018 | _The Photographer of Mauthausen_                       | Mar Targarona                   |
+| 2003 | _Elephant_                                             | Gus Van Sant                    |
+| 1999 | _The Matrix_                                           | Lana Wachowski, Lilly Wachowski |
+| 1941 | _Citizen Kane_                                         | Orson Welles                    |
+| 1957 | _Twelve Angry Men_                                     | Sidney Lumet                    |
+| 1999 | _Go_                                                   | Doug Liman                      |
+| 2015 | _Talvar_                                               | Meghna Gulzar                   |
+| 2014 | _Gone Girl_                                            | David Fincher                   |
+| 2002 | _Hero_                                                 | Zhang Yimou                     |
+| 2014 | _Predestination_                                       | Michael Spierig, Peter Spierig  |
+| 2008 | _Vantage Point_                                        | Pete Travis                     |
+| 1958 | _Touch of Evil_                                        | Orson Welles                    |
+| 1949 | _The Third Man_                                        | Carol Reed                      |
+| 1946 | _Notorious_                                            | Alfred Hitchcock                |
+| 1946 | _The Big Sleep_                                        | Howard Hawks                    |
+| 1944 | _Double Indemnity_                                     | Billy Wilder                    |
+| 1950 | _Sunset Boulevard_                                     | Billy Wilder                    |
+| 1941 | _The Maltese Falcon_                                   | John Huston                     |
+| 1955 | _Kiss Me Deadly_                                       | Robert Aldrich                  |
+| 1953 | _The Big Heat_                                         | Fritz Lang                      |
+| 1945 | _Scarlet Street_                                       | Fritz Lang                      |
+| 1944 | _The Woman In the Window_                              | Fritz Lang                      |
+| 1956 | _The Killing_                                          | Stanley Kubrick                 |
+| 1950 | _In a Lonely Place_                                    | Nicholas Ray                    |
+| 2012 | _Beyond the Hills_                                     | Cristian Mungiu                 |
+| 2018 | _Un homme press_                                       | Unknown                         |
+| 2019 | _The Great Hack_                                       | Karim Amer, Jehane Noujaim      |
+| 2020 | _I Wish I Knew_                                        | Jia Zhangke                     |
 
 ## [Back to Top](#top)
 
 ## ⏳ Time Traveling Movies
 
-| Year | Title                             |
-| ---- | --------------------------------- |
-| 1962 | _La Jetée_                        |
-| 1985 | _Back to the Future_              |
-| 1995 | _12 Monkeys_                      |
-| 2001 | _Donnie Darko_                    |
-| 2004 | _Primer_                          |
-| 2006 | _The Girl Who Leapt Through Time_ |
-| 2011 | _Source Code_                     |
-| 2012 | _Looper_                          |
-| 2014 | _Predestination_                  |
-| 2014 | _Interstellar_                    |
-| 2014 | _Edge of Tomorrow_                |
-| 2016 | _Your Name_                       |
-| 2016 | _Arrival_                         |
-| 2018 | _Mirage_                          |
+| Year | Title                             | Director(s)                    |
+| ---- | --------------------------------- | ------------------------------ |
+| 1962 | _La Jetée_                        | Chris Marker                   |
+| 1985 | _Back to the Future_              | Robert Zemeckis                |
+| 1995 | _12 Monkeys_                      | Terry Gilliam                  |
+| 2001 | _Donnie Darko_                    | Richard Kelly                  |
+| 2004 | _Primer_                          | Shane Carruth                  |
+| 2006 | _The Girl Who Leapt Through Time_ | Mamoru Hosoda                  |
+| 2011 | _Source Code_                     | Duncan Jones                   |
+| 2012 | _Looper_                          | Rian Johnson                   |
+| 2014 | _Predestination_                  | Michael Spierig, Peter Spierig |
+| 2014 | _Interstellar_                    | Christopher Nolan              |
+| 2014 | _Edge of Tomorrow_                | Doug Liman                     |
+| 2016 | _Your Name_                       | Makoto Shinkai                 |
+| 2016 | _Arrival_                         | Denis Villeneuve               |
+| 2018 | _Mirage_                          | Oriol Paulo                    |
 
 ## [Back to Top](#top)
 
 ## Holocaust and World War II Movies
 
-| Year | Title                                                          |
-| ---- | -------------------------------------------------------------- |
-| 1959 | _The Diary of Anne Frank_                                      |
-| 1961 | _Judgment at Nuremberg_                                        |
-| 1964 | _The Pawnbroker_                                               |
-| 1971 | _Fiddler on the Roof_                                          |
-| 1982 | _Sophie’s Choice_                                              |
-| 1989 | _Enemies: A Love Story_                                        |
-| 1993 | _Schindler’s List_                                             |
-| 1997 | _Life is Beautiful_                                            |
-| 1999 | _The Devil’s Arithmetic_                                       |
-| 1999 | _Gloomy Sunday_                                                |
-| 2001 | _Conspiracy_                                                   |
-| 2002 | _Secret Lives: Hidden Children and Their Rescuers During WWII_ |
-| 2002 | _Amen_                                                         |
-| 2003 | _The Pianist_                                                  |
-| 2006 | _Black Book_                                                   |
-| 2007 | _Fugitive Pieces_                                              |
-| 2008 | _The Reader_                                                   |
-| 2008 | _Valentina’s Mother_                                           |
-| 2008 | _Defiance_                                                     |
-| 2012 | _Numbered_                                                     |
-| 2013 | _The Lady in Number 6: Music Saved My Life_                    |
-| 2013 | _The Book Thief_                                               |
-| 2015 | _Son of Saul_                                                  |
-| 2015 | _Ida_                                                          |
-| 2016 | _Denial_                                                       |
-| 2017 | _Denial_                                                       |
+| Year | Title                                                          | Director(s)                   |
+| ---- | -------------------------------------------------------------- | ----------------------------- |
+| 1959 | _The Diary of Anne Frank_                                      | George Stevens                |
+| 1961 | _Judgment at Nuremberg_                                        | Stanley Kramer                |
+| 1964 | _The Pawnbroker_                                               | Sidney Lumet                  |
+| 1971 | _Fiddler on the Roof_                                          | Norman Jewison                |
+| 1982 | _Sophie’s Choice_                                              | Alan J. Pakula                |
+| 1989 | _Enemies: A Love Story_                                        | Paul Mazursky                 |
+| 1993 | _Schindler’s List_                                             | Steven Spielberg              |
+| 1997 | _Life is Beautiful_                                            | Roberto Benigni               |
+| 1999 | _The Devil’s Arithmetic_                                       | Donna Deitch                  |
+| 1999 | _Gloomy Sunday_                                                | Rolf Schübel                  |
+| 2001 | _Conspiracy_                                                   | Frank Pierson                 |
+| 2002 | _Secret Lives: Hidden Children and Their Rescuers During WWII_ | Various (Documentary)         |
+| 2002 | _Amen_                                                         | Costa-Gavras                  |
+| 2003 | _The Pianist_                                                  | Roman Polanski                |
+| 2006 | _Black Book_                                                   | Paul Verhoeven                |
+| 2007 | _Fugitive Pieces_                                              | Jeremy Podeswa                |
+| 2008 | _The Reader_                                                   | Stephen Daldry                |
+| 2008 | _Valentina’s Mother_                                           | Various (Documentary)         |
+| 2008 | _Defiance_                                                     | Edward Zwick                  |
+| 2012 | _Numbered_                                                     | Various (Documentary)         |
+| 2013 | _The Lady in Number 6: Music Saved My Life_                    | Malcolm Clarke, Nicholas Reed |
+| 2013 | _The Book Thief_                                               | Brian Percival                |
+| 2015 | _Son of Saul_                                                  | László Nemes                  |
+| 2015 | _Ida_                                                          | Paweł Pawlikowski             |
+| 2016 | _Denial_                                                       | Mick Jackson                  |
+| 2017 | _Denial_                                                       | Mick Jackson                  |
 
 ## [Back to Top](#top)
 
