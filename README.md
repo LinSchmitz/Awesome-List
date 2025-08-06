@@ -8,6 +8,23 @@
 
 ---
 
+## Table of Contents
+
+- [📸 Photographer Must Seen](#photographer-must-seen)
+- [🕵️‍♂️ Mystery & Thriller](#mystery--thriller)
+- [⭐ Additional Mentions](#additional-mentions)
+- [🎞️ Films](#films)
+- [🇰🇷 South Korea](#south-korea)
+- [🇮🇹 Italian Neorealism](#italian-neorealism)
+- [🎥 Classic & Notable Films](#classic--notable-films)
+- [❤️ Romance](#romance)
+- [🔪 Thriller / Crime](#thriller--crime)
+- [🇮🇷 Iranian Series](#iranian-series)
+- [🔄 Similar](#-similar)
+- [🎌 Anime & Animation Series](#anime--animation-series)
+
+---
+
 ## 🎞️ photographer must seen
 
 | Year | Title                                              | Director(s)                          |

@@ -2,28 +2,51 @@
 
 ## A list of **beautiful, emotional, and powerful movies** from all kinds of genres. Each one was picked for its great story, strong visuals, and creative style.
 
-## 🎞️ photographer must seen
+## [By Genre](genre/README.md)
 
-| Year | Title                                              |
-| ---- | -------------------------------------------------- |
-| 2000 | _Songs from the Second Floor_                      |
-| 2005 | _Sin City_                                         |
-| 2007 | _You, the Living_                                  |
-| 2011 | _Once Upon a Time in Anatolia_                     |
-| 2011 | _The Tree of Life_                                 |
-| 2011 | _The Turin Horse_                                  |
-| 2013 | _Her_                                              |
-| 2014 | _A Pigeon Sat on a Branch Reflecting on Existence_ |
-| 2014 | _Jauja_                                            |
-| 2014 | _Mommy_                                            |
-| 2015 | _Mad Max: Fury Road_                               |
-| 2015 | _Mountains May Depart_                             |
-| 2016 | _American Honey_                                   |
-| 2022 | _Belfast_                                          |
+## [By Director](director/README.md)
 
 ---
 
-## 🎞️ Anime & Animation
+## 🎞️ photographer must seen
+
+| Year | Title                                              | Director(s)                          |
+| ---- | -------------------------------------------------- | ------------------------------------ |
+| 1954 | _Rear Window_                                      | Alfred Hitchcock                     |
+| 1966 | _Blow-Up_                                          | Michelangelo Antonioni               |
+| 1983 | _Under Fire_                                       | Roger Spottiswoode                   |
+| 1984 | _The Killing Fields_                               | Roland Joffé                         |
+| 1991 | _Proof_                                            | Jocelyn Moorhouse                    |
+| 2000 | _Songs from the Second Floor_                      | Roy Andersson                        |
+| 2001 | _War Photographer_                                 | Christian Frei                       |
+| 2002 | _City of God_                                      | Fernando Meirelles, Kátia Lund       |
+| 2002 | _One Hour Photo_                                   | Mark Romanek                         |
+| 2005 | _Sin City_                                         | Robert Rodriguez, Frank Miller       |
+| 2006 | _Annie Leibovitz: Life Through a Lens_             | Barbara Leibovitz                    |
+| 2007 | _You, the Living_                                  | Roy Andersson                        |
+| 2008 | _Visual Acoustics_                                 | Eric Bricker                         |
+| 2008 | _Everlasting Moments_                              | Jan Troell                           |
+| 2010 | _The Bang Bang Club_                               | Steven Silver                        |
+| 2011 | _Once Upon a Time in Anatolia_                     | Nuri Bilge Ceylan                    |
+| 2011 | _The Tree of Life_                                 | Terrence Malick                      |
+| 2011 | _The Turin Horse_                                  | Béla Tarr, Ágnes Hranitzky           |
+| 2013 | _Finding Vivian Maier_                             | John Maloof, Charlie Siskel          |
+| 2013 | _Her_                                              | Spike Jonze                          |
+| 2013 | _The Secret Life of Walter Mitty_                  | Ben Stiller                          |
+| 2014 | _A Pigeon Sat on a Branch Reflecting on Existence_ | Roy Andersson                        |
+| 2014 | _Jauja_                                            | Lisandro Alonso                      |
+| 2014 | _Mommy_                                            | Xavier Dolan                         |
+| 2014 | _Monk with a Camera_                               | Guido Santi, Tina Mascara            |
+| 2014 | _The Salt of the Earth_                            | Wim Wenders, Juliano Ribeiro Salgado |
+| 2015 | _Mad Max: Fury Road_                               | George Miller                        |
+| 2015 | _Mountains May Depart_                             | Jia Zhangke                          |
+| 2016 | _American Honey_                                   | Andrea Arnold                        |
+| 2022 | _Belfast_                                          | Kenneth Branagh                      |
+| 2022 | _Lee_                                              | Ellen Kuras                          |
+
+---
+
+## 🎞️ Anime & Animation Movie
 
 | Year | Title                                 |
 | ---- | ------------------------------------- |
@@ -39,7 +62,7 @@
 | 2004 | _The Girl Who Leapt Through Time_     |
 | 2006 | _Paprika_                             |
 | 2006 | _Naussicaä of the Valley of the Wind_ |
-| 2007 | _Parasyte_ (anime)                    |
+| 2007 | _Parasyte_                            |
 | 2008 | _Hana Yori Dango: Final_              |
 | 2009 | _WALL•E_                              |
 | 2009 | _Up_                                  |
@@ -59,14 +82,14 @@
 | 2017 | _A Silent Voice_                      |
 | 2018 | _Wolf Children_                       |
 | 2019 | _Fullmetal Alchemist: Brotherhood_    |
-|      | _The Boy and the Heron_               |
-|      | _Elemental_                           |
-|      | _Kiki’s Delivery Service_             |
-|      | _Ponyo_                               |
+| ---- | _The Boy and the Heron_               |
+| ---- | _Elemental_                           |
+| ---- | _Kiki’s Delivery Service_             |
+| ---- | _Ponyo_                               |
 
 ---
 
-## Animation & Cartoons Series
+## Anime & Animation Series
 
 | Year | Title                                |
 | ---- | ------------------------------------ |
@@ -159,6 +182,7 @@
 | 2018 | _Sir_           |
 | 2019 | _Badla_         |
 | ---- | _The Fame Game_ |
+| ---- | _PK_            |
 
 ## 🎥 Documentary
 
@@ -172,6 +196,9 @@
 | ---- | _Alice Neel Documentary from Herfeh Honarmand Channel_ |
 | ---- | _Heaven and Earth by Marleen Gorris_                   |
 | ---- | _Seven Worlds One Planet Documentary_                  |
+| ---- | _Turning Point: 9/11 and the War on Terror_            |
+| ---- | _American Manhunt: The Search for Osama bin Laden_     |
+| ---- | _Zafar War_                                            |
 | 1946 | _Shoeshine_                                            |
 | 1983 | _L'Argent_                                             |
 | 1994 | _Immortal Beloved_                                     |
@@ -206,9 +233,6 @@
 | 1944 | _The Woman In the Window_                              |
 | 1956 | _The Killing_                                          |
 | 1950 | _In a Lonely Place_                                    |
-| ---- | _Turning Point: 9/11 and the War on Terror_            |
-| ---- | _American Manhunt: The Search for Osama bin Laden_     |
-| ---- | _Zafar War_                                            |
 | 2012 | _Beyond the Hills_                                     |
 | 2018 | _Un homme press_                                       |
 | 2019 | _The Great Hack_                                       |
@@ -259,7 +283,6 @@
 | 2012 | _Numbered_                                                     |
 | 2013 | _The Lady in Number 6: Music Saved My Life_                    |
 | 2013 | _The Book Thief_                                               |
-| 2013 | _Colette_                                                      |
 | 2015 | _Son of Saul_                                                  |
 | 2015 | _Ida_                                                          |
 | 2016 | _Denial_                                                       |
@@ -385,9 +408,9 @@
 | 2004 | _Nobody Knows_                                                                  |
 | 2007 | _The Mourning Forest_ (Naomi Kawase)                                            |
 | 2008 | _Tokyo Sonata_                                                                  |
-| —    | _Branded to Kill_                                                               |
-| —    | _Still Walking_                                                                 |
-| —    | _Lady Snowblood_                                                                |
+| ---- | _Branded to Kill_                                                               |
+| ---- | _Still Walking_                                                                 |
+| ---- | _Lady Snowblood_                                                                |
 
 ## South Korea
 
@@ -706,6 +729,7 @@
 | 2012 | _Eyes of Darkness_                           |
 | 2013 | _A Thousand Times Goodnight_                 |
 | 2013 | _Moebius_                                    |
+| 2013 | _Colette_                                    |
 | 2014 | _A Pigeon Sat on a Branch Reflecting_        |
 | 2014 | _The Grand Budapest Hotel_                   |
 | 2014 | _The Loft_                                   |
@@ -892,146 +916,146 @@
 
 | Year | Title                                               |
 | ---- | --------------------------------------------------- |
-| —    | _13 Reasons Why_                                    |
-| —    | _3 Body Problem (2024)_                             |
-| —    | _A Friend of the Family_                            |
-| —    | _A Murder at the End of the World_                  |
-| —    | _A Small Light_                                     |
-| —    | _After Life_                                        |
-| —    | _Atlanta's Missing and Murdered: The Lost Children_ |
-| —    | _Barkskins (NatGeo)_                                |
-| —    | _Better Call Saul_                                  |
-| —    | _Behind Her Eyes_                                   |
-| —    | _Big Little Lies_                                   |
-| —    | _Bojack Horseman_                                   |
-| —    | _Bodyguard_                                         |
-| —    | _Breaking Bad_                                      |
-| —    | _Castle Rock_                                       |
-| —    | _Catch-22_                                          |
-| —    | _Chernobyl_                                         |
-| —    | _Counterpart_                                       |
-| —    | _Dark_                                              |
-| —    | _Dead Ringers_                                      |
-| —    | _Dead To Me_                                        |
-| —    | _Death and Love_                                    |
-| —    | _Death Parade_                                      |
-| —    | _Des_                                               |
-| —    | _Devs_                                              |
-| —    | _Emily in Paris_                                    |
-| —    | _Elite_                                             |
-| —    | _Family Guy_                                        |
-| —    | _Friends_                                           |
-| —    | _Fringe_                                            |
-| —    | _From_                                              |
-| —    | _Game of Thrones_                                   |
-| —    | _Gefährliche Liebschaften_                          |
-| —    | _Genius_                                            |
-| —    | _Gunpowder_                                         |
-| —    | _House of Cards_                                    |
-| —    | _House of the Dragon_                               |
-| —    | _I Hate Suzie_                                      |
-| —    | _I May Destroy You_                                 |
-| —    | _I'll Be Gone In The Dark_                          |
-| —    | _Industry_                                          |
-| —    | _Inside Job_                                        |
-| —    | _Killing Eve_                                       |
-| —    | _La Casa de Papel_                                  |
-| —    | _Liebes Kind_                                       |
-| —    | _Little Fires Everywhere_                           |
-| —    | _Lovecraft Country_                                 |
-| —    | _Lucifer_                                           |
-| —    | _Maid_                                              |
-| —    | _Maniac_                                            |
-| —    | _Mare of Easttown_                                  |
-| —    | _Money Heist_                                       |
-| —    | _Monsters at Work_                                  |
-| —    | _Murder to Mercy_                                   |
-| —    | _My Brilliant Friend_                               |
-| —    | _Narcos_                                            |
-| —    | _New Girl_                                          |
-| —    | _Normal People_                                     |
-| —    | _Obsession (2023)_                                  |
-| —    | _Once Upon a Time_                                  |
-| —    | _Ozark_                                             |
-| —    | _Panchayat_                                         |
-| —    | _Patria_                                            |
-| —    | _Peaky Blinders_                                    |
-| —    | _Poker Face_                                        |
-| —    | _Pretty Little Liars_                               |
-| —    | _Queen's Gambit_                                    |
-| —    | _Quiz_                                              |
-| —    | _Rick and Morty_                                    |
-| —    | _River_                                             |
-| —    | _Riverdale_                                         |
-| —    | _Scenes from a Marriage_                            |
-| —    | _Schitt's Creek S6_                                 |
-| —    | _Scinfield_                                         |
-| —    | _Sex Education_                                     |
-| —    | _Sharp Objects_                                     |
-| —    | _Sherlock_                                          |
-| —    | _Sherlock Holmes_                                   |
-| —    | _Shrinking_                                         |
-| —    | _Silo_                                              |
-| —    | _Small Axe_                                         |
-| —    | _Spinoff: The Queen's Gambit_                       |
-| —    | _Succession_                                        |
-| —    | _Tabo_                                              |
-| —    | _Taboo_                                             |
-| —    | _Ted Lasso_                                         |
-| —    | _Tehran_                                            |
-| —    | _The Americans_                                     |
-| —    | _The Bear_                                          |
-| —    | _The Billion Dollar Code_                           |
-| —    | _The Booksellers_                                   |
-| —    | _The Boys S2_                                       |
-| —    | _The City and the City_                             |
-| —    | _The Crown S4_                                      |
-| —    | _The Deuce_                                         |
-| —    | _The Diplomat_                                      |
-| —    | _The Eddy_                                          |
-| —    | _The Fall_                                          |
-| —    | _The Fame Game_                                     |
-| —    | _The Great Heist_                                   |
-| —    | _The Handmaid’s Tale_                               |
-| —    | _The Hot Zone_                                      |
-| —    | _The Innocent_                                      |
-| —    | _The Killing Vote_                                  |
-| —    | _The Killing_                                       |
-| —    | _The Last Dance_                                    |
-| —    | _The Mandalorian S1 + S2_                           |
-| —    | _The Marvelous Mrs. Maisel_                         |
-| —    | _The Missing_                                       |
-| —    | _The Night Of_                                      |
-| —    | _The Queen’s Gambit_                                |
-| —    | _The Romanoffs_                                     |
-| —    | _The Secret in Their Eyes_                          |
-| —    | _The Sinner_                                        |
-| —    | _The Spanish Princess_                              |
-| —    | _The Spy_                                           |
-| —    | _The Stranger_                                      |
-| —    | _The Terror_                                        |
-| —    | _The Tattooist of Auschwitz (2024)_                 |
-| —    | _The Undoing_                                       |
-| —    | _The White Princess_                                |
-| —    | _The White Queen_                                   |
-| —    | _The Wire_                                          |
-| —    | _The World of the Married_                          |
-| —    | _TWIN PEAKS_                                        |
-| —    | _True Detective_                                    |
-| —    | _True Detectives_                                   |
-| —    | _Twin Peaks_                                        |
-| —    | _Unorthodox_                                        |
-| —    | _Undone_                                            |
-| —    | _Under the Bridge_                                  |
-| —    | _Vis a Vis_                                         |
-| —    | _Vikings_                                           |
-| —    | _Waco_                                              |
-| —    | _We Are Who We Are_                                 |
-| —    | _Westworld_                                         |
-| —    | _What We Do In The Shadows_                         |
-| —    | _You_                                               |
-| —    | _Your Honor_                                        |
-| —    | _Zeitgeist_                                         |
+| ---- | _13 Reasons Why_                                    |
+| ---- | _3 Body Problem (2024)_                             |
+| ---- | _A Friend of the Family_                            |
+| ---- | _A Murder at the End of the World_                  |
+| ---- | _A Small Light_                                     |
+| ---- | _After Life_                                        |
+| ---- | _Atlanta's Missing and Murdered: The Lost Children_ |
+| ---- | _Barkskins (NatGeo)_                                |
+| ---- | _Better Call Saul_                                  |
+| ---- | _Behind Her Eyes_                                   |
+| ---- | _Big Little Lies_                                   |
+| ---- | _Bojack Horseman_                                   |
+| ---- | _Bodyguard_                                         |
+| ---- | _Breaking Bad_                                      |
+| ---- | _Castle Rock_                                       |
+| ---- | _Catch-22_                                          |
+| ---- | _Chernobyl_                                         |
+| ---- | _Counterpart_                                       |
+| ---- | _Dark_                                              |
+| ---- | _Dead Ringers_                                      |
+| ---- | _Dead To Me_                                        |
+| ---- | _Death and Love_                                    |
+| ---- | _Death Parade_                                      |
+| ---- | _Des_                                               |
+| ---- | _Devs_                                              |
+| ---- | _Emily in Paris_                                    |
+| ---- | _Elite_                                             |
+| ---- | _Family Guy_                                        |
+| ---- | _Friends_                                           |
+| ---- | _Fringe_                                            |
+| ---- | _From_                                              |
+| ---- | _Game of Thrones_                                   |
+| ---- | _Gefährliche Liebschaften_                          |
+| ---- | _Genius_                                            |
+| ---- | _Gunpowder_                                         |
+| ---- | _House of Cards_                                    |
+| ---- | _House of the Dragon_                               |
+| ---- | _I Hate Suzie_                                      |
+| ---- | _I May Destroy You_                                 |
+| ---- | _I'll Be Gone In The Dark_                          |
+| ---- | _Industry_                                          |
+| ---- | _Inside Job_                                        |
+| ---- | _Killing Eve_                                       |
+| ---- | _La Casa de Papel_                                  |
+| ---- | _Liebes Kind_                                       |
+| ---- | _Little Fires Everywhere_                           |
+| ---- | _Lovecraft Country_                                 |
+| ---- | _Lucifer_                                           |
+| ---- | _Maid_                                              |
+| ---- | _Maniac_                                            |
+| ---- | _Mare of Easttown_                                  |
+| ---- | _Money Heist_                                       |
+| ---- | _Monsters at Work_                                  |
+| ---- | _Murder to Mercy_                                   |
+| ---- | _My Brilliant Friend_                               |
+| ---- | _Narcos_                                            |
+| ---- | _New Girl_                                          |
+| ---- | _Normal People_                                     |
+| ---- | _Obsession (2023)_                                  |
+| ---- | _Once Upon a Time_                                  |
+| ---- | _Ozark_                                             |
+| ---- | _Panchayat_                                         |
+| ---- | _Patria_                                            |
+| ---- | _Peaky Blinders_                                    |
+| ---- | _Poker Face_                                        |
+| ---- | _Pretty Little Liars_                               |
+| ---- | _Queen's Gambit_                                    |
+| ---- | _Quiz_                                              |
+| ---- | _Rick and Morty_                                    |
+| ---- | _River_                                             |
+| ---- | _Riverdale_                                         |
+| ---- | _Scenes from a Marriage_                            |
+| ---- | _Schitt's Creek S6_                                 |
+| ---- | _Scinfield_                                         |
+| ---- | _Sex Education_                                     |
+| ---- | _Sharp Objects_                                     |
+| ---- | _Sherlock_                                          |
+| ---- | _Sherlock Holmes_                                   |
+| ---- | _Shrinking_                                         |
+| ---- | _Silo_                                              |
+| ---- | _Small Axe_                                         |
+| ---- | _Spinoff: The Queen's Gambit_                       |
+| ---- | _Succession_                                        |
+| ---- | _Tabo_                                              |
+| ---- | _Taboo_                                             |
+| ---- | _Ted Lasso_                                         |
+| ---- | _Tehran_                                            |
+| ---- | _The Americans_                                     |
+| ---- | _The Bear_                                          |
+| ---- | _The Billion Dollar Code_                           |
+| ---- | _The Booksellers_                                   |
+| ---- | _The Boys S2_                                       |
+| ---- | _The City and the City_                             |
+| ---- | _The Crown S4_                                      |
+| ---- | _The Deuce_                                         |
+| ---- | _The Diplomat_                                      |
+| ---- | _The Eddy_                                          |
+| ---- | _The Fall_                                          |
+| ---- | _The Fame Game_                                     |
+| ---- | _The Great Heist_                                   |
+| ---- | _The Handmaid’s Tale_                               |
+| ---- | _The Hot Zone_                                      |
+| ---- | _The Innocent_                                      |
+| ---- | _The Killing Vote_                                  |
+| ---- | _The Killing_                                       |
+| ---- | _The Last Dance_                                    |
+| ---- | _The Mandalorian S1 + S2_                           |
+| ---- | _The Marvelous Mrs. Maisel_                         |
+| ---- | _The Missing_                                       |
+| ---- | _The Night Of_                                      |
+| ---- | _The Queen’s Gambit_                                |
+| ---- | _The Romanoffs_                                     |
+| ---- | _The Secret in Their Eyes_                          |
+| ---- | _The Sinner_                                        |
+| ---- | _The Spanish Princess_                              |
+| ---- | _The Spy_                                           |
+| ---- | _The Stranger_                                      |
+| ---- | _The Terror_                                        |
+| ---- | _The Tattooist of Auschwitz (2024)_                 |
+| ---- | _The Undoing_                                       |
+| ---- | _The White Princess_                                |
+| ---- | _The White Queen_                                   |
+| ---- | _The Wire_                                          |
+| ---- | _The World of the Married_                          |
+| ---- | _TWIN PEAKS_                                        |
+| ---- | _True Detective_                                    |
+| ---- | _True Detectives_                                   |
+| ---- | _Twin Peaks_                                        |
+| ---- | _Unorthodox_                                        |
+| ---- | _Undone_                                            |
+| ---- | _Under the Bridge_                                  |
+| ---- | _Vis a Vis_                                         |
+| ---- | _Vikings_                                           |
+| ---- | _Waco_                                              |
+| ---- | _We Are Who We Are_                                 |
+| ---- | _Westworld_                                         |
+| ---- | _What We Do In The Shadows_                         |
+| ---- | _You_                                               |
+| ---- | _Your Honor_                                        |
+| ---- | _Zeitgeist_                                         |
 
 ---
 
@@ -1303,11 +1327,11 @@
 | 2017 | _Happy Death Day_                 |
 | 2020 | _Palm Springs_                    |
 | 2021 | _The Map of Tiny Perfect Things_  |
-| —    | _Boss Level_                      |
-| —    | _Summertime Rendering_            |
-| —    | _Re\:Zero_                        |
-| —    | _Steins Gate_                     |
-| —    | _Deja Vu_                         |
+| ---- | _Boss Level_                      |
+| ---- | _Summertime Rendering_            |
+| ---- | _Re\:Zero_                        |
+| ---- | _Steins Gate_                     |
+| ---- | _Deja Vu_                         |
 
 ## Plot Twist Themed Films
 
@@ -1333,37 +1357,37 @@
 | 2011 | _The Skin I Live In_          |
 | 2012 | _Incendies_                   |
 | 2014 | _Predestination_              |
-| —    | _Mulholland Drive_            |
-| —    | _Shutter Island_              |
-| —    | _The Shawshank Redemption_    |
-| —    | _Gone Girl_                   |
-| —    | _Seven_                       |
-| —    | _Memento_                     |
-| —    | _Parasite_                    |
-| —    | _The Mist_                    |
-| —    | _A Beautiful Mind_            |
-| —    | _Witness for the Prosecution_ |
-| —    | _Se7en_                       |
-| —    | _Handmaiden_                  |
-| —    | _Guilty_                      |
-| —    | _A Pure Formality_            |
-| —    | _The Life of David Gale_      |
-| —    | _The Host DL_                 |
-| —    | _Behind Her Eyes_             |
-| —    | _Dangerous Beauty_            |
-| —    | _Eastern Promises_            |
-| —    | _The Irishman_                |
-| —    | _Blue is the Warmest Colour_  |
-| —    | _Anatomy of a Fall_           |
-| —    | _Secrets and Lies_            |
-| —    | _Man on Fire_                 |
-| —    | _Pulp Fiction_                |
-| —    | _Vanilla Sky_                 |
-| —    | _Capharnaum_                  |
-| —    | _Prisoners_                   |
-| —    | _The Spy Gone North_          |
-| —    | _Pianist_                     |
-| —    | _Life is Beautiful_           |
+| ---- | _Mulholland Drive_            |
+| ---- | _Shutter Island_              |
+| ---- | _The Shawshank Redemption_    |
+| ---- | _Gone Girl_                   |
+| ---- | _Seven_                       |
+| ---- | _Memento_                     |
+| ---- | _Parasite_                    |
+| ---- | _The Mist_                    |
+| ---- | _A Beautiful Mind_            |
+| ---- | _Witness for the Prosecution_ |
+| ---- | _Se7en_                       |
+| ---- | _Handmaiden_                  |
+| ---- | _Guilty_                      |
+| ---- | _A Pure Formality_            |
+| ---- | _The Life of David Gale_      |
+| ---- | _The Host DL_                 |
+| ---- | _Behind Her Eyes_             |
+| ---- | _Dangerous Beauty_            |
+| ---- | _Eastern Promises_            |
+| ---- | _The Irishman_                |
+| ---- | _Blue is the Warmest Colour_  |
+| ---- | _Anatomy of a Fall_           |
+| ---- | _Secrets and Lies_            |
+| ---- | _Man on Fire_                 |
+| ---- | _Pulp Fiction_                |
+| ---- | _Vanilla Sky_                 |
+| ---- | _Capharnaum_                  |
+| ---- | _Prisoners_                   |
+| ---- | _The Spy Gone North_          |
+| ---- | _Pianist_                     |
+| ---- | _Life is Beautiful_           |
 
 ---
 
@@ -1383,41 +1407,41 @@
 | 2009 | _The White Meadows_                     | کشتزارهای سپید                      |
 | 2017 | _Searing Rush / The Host_               | هجوم                                |
 | 2019 | _Hava Maryam Ayesha_                    | حوا مریم عایشه                      |
-| —    | _Retouch_                               | Retouch                             |
-| —    | _Wind’s Screenplays_                    | فیلم‌نامه‌های باد                   |
-| —    | _In the Arms of the Tree_               | —                                   |
-| —    | _Old Road_                              | —                                   |
-| —    | _Here Without Me_                       | —                                   |
-| —    | _Cause of Unknown Death_                | —                                   |
-| —    | _Last Snow_                             | —                                   |
-| —    | _Aziz_                                  | —                                   |
-| —    | _Endless Borders_                       | —                                   |
-| —    | _Beautiful City_                        | —                                   |
-| —    | _Atabai_                                | —                                   |
-| —    | _Boutique_                              | —                                   |
-| —    | _Alone, Alone, Alone_                   | —                                   |
-| —    | _Silver Carnation_                      | —                                   |
-| —    | _My Favorite Cake_                      | کیک محبوب من                        |
-| —    | _My Life is Wind_                       | زندگی من باد (Anahita Qazvinizade)  |
-| —    | _Mehr Giah_                             | فیلم مهر گیاه                       |
-| —    | _Murphy’s Law_                          | فیلم قانون مورفی                    |
-| —    | _Raftan_                                | رفتن                                |
-| —    | _Khanom_                                | خانوم                               |
-| —    | _Eteraf_                                | اعتراف                              |
-| —    | _One of Us Two_                         | یکی از ما دو نفر                    |
-| —    | _Best Hours_                            | بهترین ساعات                        |
-| —    | _Appendix_                              | آپاندیس                             |
-| —    | _Farari_                                | فراری                               |
-| —    | _Money Train_                           | قطار پول                            |
-| —    | _Apalosa_                               | آپالوسا                             |
-| —    | _Hostage_                               | گروگانگیر                           |
-| —    | _Land of Tomorrow_                      | سرزمین فردا (فیلم)                  |
-| —    | _Darkoob_                               | فیلم دارکوب                         |
-| —    | _Orion_                                 | فیلم کوتاه اوریون (علی زمانی عصمتی) |
-| —    | _Maryam’s Sin_                          | گناه مریم (پریسا شاهنده)            |
-| —    |                                         | برادرم خسرو                         |
-| —    |                                         | کاغذ بی خط                          |
-| —    |                                         | سد معبر                             |
+| ---- | _Retouch_                               | Retouch                             |
+| ---- | _Wind’s Screenplays_                    | فیلم‌نامه‌های باد                   |
+| ---- | _In the Arms of the Tree_               | —                                   |
+| ---- | _Old Road_                              | —                                   |
+| ---- | _Here Without Me_                       | —                                   |
+| ---- | _Cause of Unknown Death_                | —                                   |
+| ---- | _Last Snow_                             | —                                   |
+| ---- | _Aziz_                                  | —                                   |
+| ---- | _Endless Borders_                       | —                                   |
+| ---- | _Beautiful City_                        | —                                   |
+| ---- | _Atabai_                                | —                                   |
+| ---- | _Boutique_                              | —                                   |
+| ---- | _Alone, Alone, Alone_                   | —                                   |
+| ---- | _Silver Carnation_                      | —                                   |
+| ---- | _My Favorite Cake_                      | کیک محبوب من                        |
+| ---- | _My Life is Wind_                       | زندگی من باد (Anahita Qazvinizade)  |
+| ---- | _Mehr Giah_                             | فیلم مهر گیاه                       |
+| ---- | _Murphy’s Law_                          | فیلم قانون مورفی                    |
+| ---- | _Raftan_                                | رفتن                                |
+| ---- | _Khanom_                                | خانوم                               |
+| ---- | _Eteraf_                                | اعتراف                              |
+| ---- | _One of Us Two_                         | یکی از ما دو نفر                    |
+| ---- | _Best Hours_                            | بهترین ساعات                        |
+| ---- | _Appendix_                              | آپاندیس                             |
+| ---- | _Farari_                                | فراری                               |
+| ---- | _Money Train_                           | قطار پول                            |
+| ---- | _Apalosa_                               | آپالوسا                             |
+| ---- | _Hostage_                               | گروگانگیر                           |
+| ---- | _Land of Tomorrow_                      | سرزمین فردا (فیلم)                  |
+| ---- | _Darkoob_                               | فیلم دارکوب                         |
+| ---- | _Orion_                                 | فیلم کوتاه اوریون (علی زمانی عصمتی) |
+| ---- | _Maryam’s Sin_                          | گناه مریم (پریسا شاهنده)            |
+| ---- |                                         | برادرم خسرو                         |
+| ---- |                                         | کاغذ بی خط                          |
+| ---- |                                         | سد معبر                             |
 
 ---
 
@@ -1425,7 +1449,7 @@
 
 | Year | English Title | Persian Title     |
 | ---- | ------------- | ----------------- |
-| —    | Bamdad Khomar | سریال بامداد خمار |
+| ---- | Bamdad Khomar | سریال بامداد خمار |
 
 ---
 
@@ -1434,3 +1458,5 @@
 | Year | Title                  |
 | ---- | ---------------------- |
 | 2019 | _Badla = Hidden Guest_ |
+
+---
