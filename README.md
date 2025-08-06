@@ -12,18 +12,18 @@
 
 ## Table of Contents
 
-- [📸 Photographer Must Seen](#photographer-must-seen)
-- [🕵️‍♂️ Mystery & Thriller](#mystery--thriller)
 - [⭐ Additional Mentions](#additional-mentions)
-- [🎞️ Films](#films)
-- [🇰🇷 South Korea](#south-korea)
-- [🇮🇹 Italian Neorealism](#italian-neorealism)
+- [🎌 Anime & Animation Series](#anime--animation-series)
 - [🎥 Classic & Notable Films](#classic--notable-films)
+- [🎞️ Films](#films)
+- [🇮🇷 Iranian Series](#iranian-series)
+- [🇮🇹 Italian Neorealism](#italian-neorealism)
+- [🕵️‍♂️ Mystery & Thriller](#mystery--thriller)
+- [📸 Photographer Must Seen](#photographer-must-seen)
 - [❤️ Romance](#romance)
 - [🔪 Thriller / Crime](#thriller--crime)
-- [🇮🇷 Iranian Series](#iranian-series)
-- [🔄 Similar](#-similar)
-- [🎌 Anime & Animation Series](#anime--animation-series)
+- [🔄 Similar](#similar)
+- [🇰🇷 South Korea](#south-korea)
 
 ---
 
@@ -194,6 +194,8 @@
 | 2016 | _İkimizin Yerine_              |
 | 2017 | _Ayla: The Daughter of War_    |
 
+## [Back to Top](#top)
+
 ## 🎞️ Indian
 
 | Year | Title           |
@@ -204,6 +206,8 @@
 | 2019 | _Badla_         |
 | ---- | _The Fame Game_ |
 | ---- | _PK_            |
+
+## [Back to Top](#top)
 
 ## 🎥 Documentary
 
@@ -259,6 +263,8 @@
 | 2019 | _The Great Hack_                                       |
 | 2020 | _I Wish I Knew_                                        |
 
+## [Back to Top](#top)
+
 ## ⏳ Time Traveling Movies
 
 | Year | Title                             |
@@ -277,6 +283,8 @@
 | 2016 | _Your Name_                       |
 | 2016 | _Arrival_                         |
 | 2018 | _Mirage_                          |
+
+## [Back to Top](#top)
 
 ## Holocaust and World War II Movies
 
@@ -309,6 +317,8 @@
 | 2016 | _Denial_                                                       |
 | 2017 | _Denial_                                                       |
 
+## [Back to Top](#top)
+
 ## Philosophical Genre
 
 | Year | Title                  |
@@ -330,6 +340,8 @@
 | ---- | _Melancholia_          |
 | ---- | _The Truman Show_      |
 | ---- | _Irrational Man_       |
+
+## [Back to Top](#top)
 
 ## Psychological Genre
 
@@ -356,6 +368,8 @@
 | 2013 | _Blue Jasmine_                 |
 | 2013 | _The Double_                   |
 | 2015 | _Anomalisa_                    |
+
+## [Back to Top](#top)
 
 ## Horror & Psychological
 
@@ -392,6 +406,8 @@
 | 2018 | _The Cave_                          |
 | 2019 | _Midsommar_                         |
 | 2019 | _Vitalina Varela_                   |
+
+## [Back to Top](#top)
 
 ## Japanese Cinema
 
@@ -433,6 +449,8 @@
 | ---- | _Still Walking_                                                                 |
 | ---- | _Lady Snowblood_                                                                |
 
+## [Back to Top](#top)
+
 ## South Korea
 
 | Year | Title                |
@@ -443,6 +461,8 @@
 | 2010 | _I Saw The Devil_    |
 | 2008 | _The Chaser_         |
 | 2004 | _The Scarlet Letter_ |
+
+## [Back to Top](#top)
 
 ## Italian Neorealism
 
@@ -460,6 +480,8 @@
 | 1952 | _Rome 11:00_        |
 | 1957 | _White Nights_      |
 | 1963 | _The Leopard_       |
+
+## [Back to Top](#top)
 
 ## Classic & Notable Films
 
@@ -661,6 +683,8 @@
 | 2020 | _Never Rarely Sometimes Always_                     |
 | 2020 | _The Blackout_                                      |
 
+## [Back to Top](#top)
+
 ## Drama
 
 | Year | Title                                        |
@@ -769,6 +793,8 @@
 | 2020 | _Your Honor_                                 |
 | 2020 | _Pieces of a Woman_                          |
 
+## [Back to Top](#top)
+
 ## Comedy & Romance
 
 | Year | Title                                       |
@@ -788,6 +814,8 @@
 | 2016 | _Lavender_                                  |
 | 2017 | _Three Billboards Outside Ebbing, Missouri_ |
 
+## [Back to Top](#top)
+
 ## Romance
 
 | 1962 | _Lolita_ |
@@ -797,6 +825,8 @@
 | 2009 | _The Time Traveler's Wife_ |
 | 2015 | _Love_ |
 | 2016 | _Goddess of Love_ |
+
+## [Back to Top](#top)
 
 ## Thriller / Crime
 
@@ -866,6 +896,8 @@
 | 2019 | _The Great Hack_                 |
 | 2020 | _Train To Busan 2_               |
 
+## [Back to Top](#top)
+
 ## Sci-Fi / Fantasy / Fantasy /Dystopia
 
 | Year | Title                                  |
@@ -912,11 +944,15 @@
 | 2020 | _Raised By Wolves_                     |
 | 2019 | _The Platform_                         |
 
+## [Back to Top](#top)
+
 ## Action
 
 | 1954 | _7 Samurai_ |
 | 2014 | _The Admiral Roaring Currents_ |
 | 2017 | _The Battleship Island_ |
+
+## [Back to Top](#top)
 
 ## Trilogy
 
@@ -932,6 +968,8 @@
 | Hiroshi Inagaki Samurai     | _Samurai I_, _Samurai II_, _Samurai III_                      |
 | Fritz Lang Mabuse           | _Dr. Mabuse_ series                                           |
 | Abbas Kiarostami Koker      | _Friend's Home?_, _Life Goes On_, _Olive Trees_               |
+
+## [Back to Top](#top)
 
 ## Series & TV Shows
 
@@ -1078,6 +1116,8 @@
 | ---- | _Your Honor_                                        |
 | ---- | _Zeitgeist_                                         |
 
+## [Back to Top](#top)
+
 ---
 
 ## Mystery & Thriller
@@ -1099,6 +1139,8 @@
 | 2018 | _The Guilty_      |
 | 2019 | _Dear Comrades_   |
 
+## [Back to Top](#top)
+
 ## Additional Mentions
 
 | Year | Title                                                       |
@@ -1116,6 +1158,8 @@
 | 2020 | _Preparations to Be Together for an Unknown Period of Time_ |
 | 2021 | _Judas and the Black Messiah_                               |
 | 2021 | _Mare of Easttown_                                          |
+
+## [Back to Top](#top)
 
 ## Films
 
@@ -1331,6 +1375,8 @@
 | 2022 | _Everything Everywhere All at Once_     |
 | 2023 | _Oppenheimer_                           |
 
+## [Back to Top](#top)
+
 ## Time Loop Themed Films
 
 | Year | Title                             |
@@ -1353,6 +1399,8 @@
 | ---- | _Re\:Zero_                        |
 | ---- | _Steins Gate_                     |
 | ---- | _Deja Vu_                         |
+
+## [Back to Top](#top)
 
 ## Plot Twist Themed Films
 
@@ -1410,6 +1458,8 @@
 | ---- | _Pianist_                     |
 | ---- | _Life is Beautiful_           |
 
+## [Back to Top](#top)
+
 ---
 
 ## Iranian Moview
@@ -1464,6 +1514,8 @@
 | ---- |                                         | کاغذ بی خط                          |
 | ---- |                                         | سد معبر                             |
 
+## [Back to Top](#top)
+
 ---
 
 ## Iranian Series
@@ -1481,3 +1533,5 @@
 | 2019 | _Badla = Hidden Guest_ |
 
 ---
+
+## [Back to Top](#top)
