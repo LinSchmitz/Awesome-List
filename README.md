@@ -24,7 +24,7 @@
 - [Holocaust and World War II Movies](#holocaust-and-world-war-ii-movies)
 - [Horror & Psychological](#horror--psychological)
 - [Indian](#indian)
-- [Iranian Moview](#iranian-moview)
+- [Iranian Moview](#iranian-movies)
 - [Iranian Series](#iranian-series)
 - [Italian Neorealism](#italian-neorealism)
 - [Japanese Cinema](#japanese-cinema)
@@ -1481,7 +1481,7 @@
 
 ---
 
-## Iranian Moview
+## Iranian Movies
 
 | Year | English Title                           | Persian Title                       |
 | ---- | --------------------------------------- | ----------------------------------- |
