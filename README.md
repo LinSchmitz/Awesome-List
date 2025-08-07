@@ -1427,59 +1427,59 @@
 
 ## Plot Twist Themed Films
 
-| Year | Title                         |
-| ---- | ----------------------------- |
-| 1955 | _Les Diaboliques_             |
-| 1960 | _Psycho_                      |
-| 1968 | _Planet of the Apes_          |
-| 1973 | _Soylent Green_               |
-| 1973 | _Sting_                       |
-| 1974 | _Chinatown_                   |
-| 1993 | _Body of Evidence_            |
-| 1995 | _The Usual Suspects_          |
-| 1996 | _Primal Fear_                 |
-| 1997 | _The Game_                    |
-| 1999 | _Fight Club_                  |
-| 1999 | _The Sixth Sense_             |
-| 2003 | _The Others_                  |
-| 2003 | _Memories of Murder_          |
-| 2006 | _The Prestige_                |
-| 2006 | _The Departed_                |
-| 2007 | _Atonement_                   |
-| 2011 | _The Skin I Live In_          |
-| 2012 | _Incendies_                   |
-| 2014 | _Predestination_              |
-| ---- | _Mulholland Drive_            |
-| ---- | _Shutter Island_              |
-| ---- | _The Shawshank Redemption_    |
-| ---- | _Gone Girl_                   |
-| ---- | _Seven_                       |
-| ---- | _Memento_                     |
-| ---- | _Parasite_                    |
-| ---- | _The Mist_                    |
-| ---- | _A Beautiful Mind_            |
-| ---- | _Witness for the Prosecution_ |
-| ---- | _Se7en_                       |
-| ---- | _Handmaiden_                  |
-| ---- | _Guilty_                      |
-| ---- | _A Pure Formality_            |
-| ---- | _The Life of David Gale_      |
-| ---- | _The Host DL_                 |
-| ---- | _Behind Her Eyes_             |
-| ---- | _Dangerous Beauty_            |
-| ---- | _Eastern Promises_            |
-| ---- | _The Irishman_                |
-| ---- | _Blue is the Warmest Colour_  |
-| ---- | _Anatomy of a Fall_           |
-| ---- | _Secrets and Lies_            |
-| ---- | _Man on Fire_                 |
-| ---- | _Pulp Fiction_                |
-| ---- | _Vanilla Sky_                 |
-| ---- | _Capharnaum_                  |
-| ---- | _Prisoners_                   |
-| ---- | _The Spy Gone North_          |
-| ---- | _Pianist_                     |
-| ---- | _Life is Beautiful_           |
+| Year | Title                         | Director                |
+| ---- | ----------------------------- | ----------------------- |
+| 1955 | _Les Diaboliques_             | Henri-Georges Clouzot   |
+| 1960 | _Psycho_                      | Alfred Hitchcock        |
+| 1968 | _Planet of the Apes_          | Franklin J. Schaffner   |
+| 1973 | _Soylent Green_               | Richard Fleischer       |
+| 1973 | _Sting_                       | George Roy Hill         |
+| 1974 | _Chinatown_                   | Roman Polanski          |
+| 1993 | _Body of Evidence_            | Uli Edel                |
+| 1995 | _The Usual Suspects_          | Bryan Singer            |
+| 1996 | _Primal Fear_                 | Gregory Hoblit          |
+| 1997 | _The Game_                    | David Fincher           |
+| 1999 | _Fight Club_                  | David Fincher           |
+| 1999 | _The Sixth Sense_             | M. Night Shyamalan      |
+| 2003 | _The Others_                  | Alejandro Amenábar      |
+| 2003 | _Memories of Murder_          | Bong Joon-ho            |
+| 2006 | _The Prestige_                | Christopher Nolan       |
+| 2006 | _The Departed_                | Martin Scorsese         |
+| 2007 | _Atonement_                   | Joe Wright              |
+| 2011 | _The Skin I Live In_          | Pedro Almodóvar         |
+| 2012 | _Incendies_                   | Denis Villeneuve        |
+| 2014 | _Predestination_              | Michael & Peter Spierig |
+| ---- | _Mulholland Drive_            | David Lynch             |
+| ---- | _Shutter Island_              | Martin Scorsese         |
+| ---- | _The Shawshank Redemption_    | Frank Darabont          |
+| ---- | _Gone Girl_                   | David Fincher           |
+| ---- | _Seven_                       | David Fincher           |
+| ---- | _Memento_                     | Christopher Nolan       |
+| ---- | _Parasite_                    | Bong Joon-ho            |
+| ---- | _The Mist_                    | Frank Darabont          |
+| ---- | _A Beautiful Mind_            | Ron Howard              |
+| ---- | _Witness for the Prosecution_ | Billy Wilder            |
+| ---- | _Se7en_                       | David Fincher           |
+| ---- | _Handmaiden_                  | Park Chan-wook          |
+| ---- | _Guilty_                      | Gustav Möller           |
+| ---- | _A Pure Formality_            | Giuseppe Tornatore      |
+| ---- | _The Life of David Gale_      | Alan Parker             |
+| ---- | _The Host DL_                 | Bong Joon-ho            |
+| ---- | _Behind Her Eyes_             | Erik Richter Strand     |
+| ---- | _Dangerous Beauty_            | Marshall Herskovitz     |
+| ---- | _Eastern Promises_            | David Cronenberg        |
+| ---- | _The Irishman_                | Martin Scorsese         |
+| ---- | _Blue is the Warmest Colour_  | Abdellatif Kechiche     |
+| ---- | _Anatomy of a Fall_           | Justine Triet           |
+| ---- | _Secrets and Lies_            | Mike Leigh              |
+| ---- | _Man on Fire_                 | Tony Scott              |
+| ---- | _Pulp Fiction_                | Quentin Tarantino       |
+| ---- | _Vanilla Sky_                 | Cameron Crowe           |
+| ---- | _Capharnaum_                  | Nadine Labaki           |
+| ---- | _Prisoners_                   | Denis Villeneuve        |
+| ---- | _The Spy Gone North_          | Yoon Jong-bin           |
+| ---- | _Pianist_                     | Roman Polanski          |
+| ---- | _Life is Beautiful_           | Roberto Benigni         |
 
 ## [Back to Top](#top)
 
