@@ -1164,26 +1164,6 @@
 
 ## [Back to Top](#top)
 
-## Additional Mentions
-
-| Year | Title                                                       |
-| ---- | ----------------------------------------------------------- |
-| 1920 | _The Cabinet of Dr. Caligari_                               |
-| 1939 | _The Rules of the Game_                                     |
-| 1999 | _Go_                                                        |
-| 2003 | _A Tale of Two Sisters_                                     |
-| 2004 | _The Notebook_                                              |
-| 2007 | _Lust, Caution_                                             |
-| 2015 | _Little Forest: Winter & Spring_                            |
-| 2017 | _Memoir of a Murderer_                                      |
-| 2020 | _Biohackers_                                                |
-| 2020 | _I Care a Lot_                                              |
-| 2020 | _Preparations to Be Together for an Unknown Period of Time_ |
-| 2021 | _Judas and the Black Messiah_                               |
-| 2021 | _Mare of Easttown_                                          |
-
-## [Back to Top](#top)
-
 ## Films
 
 | Year | Title                                   | Director                         |
@@ -1548,6 +1528,24 @@
 
 ---
 
+## 📺 Series & TV Shows
+
+| 1920 | _The Cabinet of Dr. Caligari_ | Robert Wiene |
+| 1939 | _The Rules of the Game_ | Jean Renoir |
+| 1999 | _Go_ | Doug Liman |
+| 2003 | _A Tale of Two Sisters_ | Kim Jee-woon |
+| 2004 | _The Notebook_ | Nick Cassavetes |
+| 2007 | _Lust, Caution_ | Ang Lee |
+| 2015 | _Little Forest: Winter & Spring_ | Yim Soon-rye |
+| 2017 | _Memoir of a Murderer_ | Won Shin-yun |
+| 2020 | _Biohackers_ | Christian Ditter |
+| 2020 | _I Care a Lot_ | J Blakeson |
+| 2020 | _Preparations to Be Together for an Unknown Period of Time_ | Lili Horvát |
+| 2021 | _Judas and the Black Messiah_ | Shaka King |
+| 2021 | _Mare of Easttown_ | Craig Zobel |
+
+---
+
 ## 🔄 Similar
 
 | Year | Title                  |
@@ -1557,3 +1555,5 @@
 ---
 
 ## [Back to Top](#top)
+
+---
