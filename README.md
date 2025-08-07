@@ -1186,217 +1186,216 @@
 
 ## Films
 
-| Year | Title                                   |
-| ---- | --------------------------------------- |
-| 1920 | _The Cabinet of Dr. Caligari_           |
-| 1925 | _The Gold Rush_                         |
-| 1926 | _The General_                           |
-| 1927 | _Metropolis_                            |
-| 1928 | _The Passion of Joan of Arc_            |
-| 1931 | _City Lights_                           |
-| 1934 | _It Happened One Night_                 |
-| 1936 | _Modern Times_                          |
-| 1939 | _Mr. Smith Goes to Washington_          |
-| 1939 | _The Wizard of Oz_                      |
-| 1940 | _Rebecca_                               |
-| 1940 | _The Grapes of Wrath_                   |
-| 1941 | _Citizen Kane_                          |
-| 1942 | _Casablanca_                            |
-| 1942 | _To Be or Not to Be_                    |
-| 1944 | _Double Indemnity_                      |
-| 1946 | _The Best Years of Our Lives_           |
-| 1948 | _Bicycle Thieves_                       |
-| 1948 | _The Treasure of the Sierra Madre_      |
-| 1949 | _The Third Man_                         |
-| 1949 | _Late Spring_                           |
-| 1950 | _Sunset Boulevard_                      |
-| 1951 | _Strangers on a Train_                  |
-| 1952 | _Singin' in the Rain_                   |
-| 1952 | _Ikiru_                                 |
-| 1953 | _The Wages of Fear_                     |
-| 1953 | _Tokyo Story_                           |
-| 1953 | _Welcome, Mr Marshall_                  |
-| 1954 | _On the Waterfront_                     |
-| 1954 | _Dial M for Murder_                     |
-| 1954 | _Rear Window_                           |
-| 1955 | _Diabolique_                            |
-| 1955 | _Escuela De Vagabundos_                 |
-| 1957 | _12 Angry Men_                          |
-| 1957 | _Witness for the Prosecution_           |
-| 1957 | _The Bridge on the River Kwai_          |
-| 1958 | _Vertigo_                               |
-| 1958 | _Touch of Evil_                         |
-| 1959 | _Some Like It Hot_                      |
-| 1959 | _North by Northwest_                    |
-| 1959 | _The 400 Blows_                         |
-| 1960 | _Macario_                               |
-| 1961 | _Judgment at Nuremberg_                 |
-| 1961 | _Viridiana_                             |
-| 1961 | _Placido_                               |
-| 1962 | _Jessica_                               |
-| 1962 | _Lawrence of Arabia_                    |
-| 1962 | _To Kill a Mockingbird_                 |
-| 1962 | _The Exterminating Angel_               |
-| 1963 | _8½_                                    |
-| 1963 | _The Executioner_                       |
-| 1963 | _The Great Escape_                      |
-| 1964 | _Dr. Strangelove_                       |
-| 1967 | _Cool Hand Luke_                        |
-| 1968 | _Once Upon a Time in the West_          |
-| 1973 | _Amarcord_                              |
-| 1973 | _Malizia_                               |
-| 1973 | _El Espíritu de la Colmena_             |
-| 1973 | _The Sting_                             |
-| 1974 | _Emmanuelle_                            |
-| 1974 | _Chinatown_                             |
-| 1975 | _Monty Python and the Holy Grail_       |
-| 1975 | _Dog Day Afternoon_                     |
-| 1975 | _One Flew Over the Cuckoo's Nest_       |
-| 1976 | _Taxi Driver_                           |
-| 1976 | _Network_                               |
-| 1979 | _Alien_                                 |
-| 1979 | _Apocalypse Now_                        |
-| 1979 | _Stalker_                               |
-| 1980 | _The Elephant Man_                      |
-| 1981 | _Raiders of the Lost Ark_               |
-| 1981 | _Das Boot_                              |
-| 1982 | _Gandhi_                                |
-| 1982 | _The Thing_                             |
-| 1984 | _Once Upon a Time in America_           |
-| 1984 | _The Holy Innocents_                    |
-| 1985 | _Ran_                                   |
-| 1985 | _Back to the Future_                    |
-| 1986 | _What Every Frenchwoman Wants_          |
-| 1986 | _Aliens_                                |
-| 1986 | _Platoon_                               |
-| 1986 | _Castle in the Sky_                     |
-| 1987 | _The Princess Bride_                    |
-| 1988 | _Cinema Paradiso_                       |
-| 1988 | _My Neighbor Totoro_                    |
-| 1990 | _Ghost_                                 |
-| 1990 | _Miller's Crossing_                     |
-| 1990 | _Goodfellas_                            |
-| 1991 | _Beauty and the Beast_                  |
-| 1993 | _Jurassic Park_                         |
-| 1993 | _In the Name of the Father_             |
-| 1994 | _In The Heat Of The Sun_                |
-| 1994 | _Andaz Apna Apna_                       |
-| 1994 | _Léon: The Professional_                |
-| 1994 | _Forrest Gump_                          |
-| 1995 | _The Star Maker_                        |
-| 1995 | _All Things Fair_                       |
-| 1995 | _Heat_                                  |
-| 1995 | _Casino_                                |
-| 1995 | _La Haine_                              |
-| 1995 | _Before Sunrise_                        |
-| 1995 | _Braveheart_                            |
-| 1996 | _Fargo_                                 |
-| 1996 | _The Bandit_                            |
-| 1996 | _Tesis_                                 |
-| 1997 | _L.A. Confidential_                     |
-| 1997 | _Funny Games_                           |
-| 1997 | _Open Your Eyes_                        |
-| 1998 | _Lock, Stock and Two Smoking Barrels_   |
-| 1998 | _Saving Private Ryan_                   |
-| 1999 | _The Matrix_                            |
-| 1999 | _American Beauty_                       |
-| 1999 | _La Lengua de las Mariposas_            |
-| 1999 | _All About My Mother_                   |
-| 1999 | _The Green Mile_                        |
-| 1999 | _The Sixth Sense_                       |
-| 2000 | _Cast Away_                             |
-| 2000 | _Amores Perros_                         |
-| 2000 | _Memento_                               |
-| 2000 | _In the Mood for Love_                  |
-| 2001 | _Y Tu Mama También_                     |
-| 2001 | _Donnie Darko_                          |
-| 2001 | _Mulholland Drive_                      |
-| 2001 | _Amélie_                                |
-| 2002 | _Mondays in the Sun_                    |
-| 2002 | _City of God_                           |
-| 2002 | _Talk to Her_                           |
-| 2003 | _The Notebook_                          |
-| 2003 | _Big Fish_                              |
-| 2003 | _Oldboy_                                |
-| 2004 | _The Machinist_                         |
-| 2004 | _Bad Education_                         |
-| 2004 | _Eternal Sunshine of the Spotless Mind_ |
-| 2004 | _Primer_                                |
-| 2004 | _The Sea Inside_                        |
-| 2004 | _Hotel Rwanda_                          |
-| 2005 | _Batman Begins_                         |
-| 2005 | _My Father and My Son_                  |
-| 2005 | _Munich_                                |
-| 2006 | _Rang De Basanti_                       |
-| 2006 | _Volver_                                |
-| 2006 | _The Lives of Others_                   |
-| 2006 | _Pan’s Labyrinth_                       |
-| 2006 | _The Prestige_                          |
-| 2007 | _P.S. I Love You_                       |
-| 2007 | _Sky of Love_                           |
-| 2007 | _The Orphanage_                         |
-| 2007 | _REC_                                   |
-| 2007 | _The Diving Bell and the Butterfly_     |
-| 2007 | _There Will Be Blood_                   |
-| 2008 | _The Reader_                            |
-| 2008 | _102 Minutes That Changed America_      |
-| 2008 | _A Short Film About Killing_            |
-| 2008 | _The Secret Life of Walter Mitty_       |
-| 2009 | _The Time Traveler's Wife_              |
-| 2009 | _The Killing of a Sacred Deer_          |
-| 2009 | _Hachi: A Dog's Tale_                   |
-| 2009 | _The Secret in Their Eyes_              |
-| 2010 | _Wasteland_                             |
-| 2010 | _Biutiful_                              |
-| 2010 | _Even the Rain_                         |
-| 2010 | _Inception_                             |
-| 2010 | _Incendies_                             |
-| 2010 | _Shutter Island_                        |
-| 2011 | _The Intouchables_                      |
-| 2011 | _The Skin I Live In_                    |
-| 2011 | _Limitless_                             |
-| 2011 | _The Help_                              |
-| 2012 | _Blancanieves_                          |
-| 2013 | _The Place Beyond the Pines_            |
-| 2013 | _Nebraska_                              |
-| 2013 | _Beyond the Hills_                      |
-| 2013 | _Stories We Tell_                       |
-| 2013 | _Prisoners_                             |
-| 2014 | _Gone Girl_                             |
-| 2014 | _The Fault in Our Stars_                |
-| 2014 | _Wild Tales_                            |
-| 2014 | _Leviathan_                             |
-| 2014 | _The Grand Budapest Hotel_              |
-| 2014 | _Interstellar_                          |
-| 2014 | _Predestination_                        |
-| 2014 | _Scarlet Innocence_                     |
-| 2015 | _Creed_                                 |
-| 2015 | _Spotlight_                             |
-| 2015 | _The Revenant_                          |
-| 2015 | _Mad Max: Fury Road_                    |
-| 2016 | _Silence_                               |
-| 2016 | _The Distinguished Citizen_             |
-| 2016 | _The Invisible Guest_                   |
-| 2016 | _100 Metros_                            |
-| 2016 | _Zootopia_                              |
-| 2017 | _Call Me by Your Name_                  |
-| 2017 | _Coco_                                  |
-| 2017 | _Orbiter 9_                             |
-| 2017 | _A Ghost Story_                         |
-| 2018 | _The Guilty_                            |
-| 2018 | _Roma_                                  |
-| 2018 | _Shoplifters_                           |
-| 2018 | _The Biggest Little Farm_               |
-| 2019 | _Joker_                                 |
-| 2019 | _Parasite_                              |
-| 2019 | _Pain and Glory_                        |
-| 2020 | _Tenet_                                 |
-| 2020 | _The Trial of the Chicago 7_            |
-| 2020 | _Palm Springs_                          |
-| 2021 | _Dune_                                  |
-| 2021 | _The Power of the Dog_                  |
-| 2022 | _Everything Everywhere All at Once_     |
-| 2023 | _Oppenheimer_                           |
+| Year | Title                                   | Director                         |
+| ---- | --------------------------------------- | -------------------------------- |
+| 1920 | _The Cabinet of Dr. Caligari_           | Robert Wiene                     |
+| 1925 | _The Gold Rush_                         | Charlie Chaplin                  |
+| 1926 | _The General_                           | Clyde Bruckman, Buster Keaton    |
+| 1927 | _Metropolis_                            | Fritz Lang                       |
+| 1928 | _The Passion of Joan of Arc_            | Carl Theodor Dreyer              |
+| 1931 | _City Lights_                           | Charlie Chaplin                  |
+| 1934 | _It Happened One Night_                 | Frank Capra                      |
+| 1936 | _Modern Times_                          | Charlie Chaplin                  |
+| 1939 | _Mr. Smith Goes to Washington_          | Frank Capra                      |
+| 1939 | _The Wizard of Oz_                      | Victor Fleming                   |
+| 1940 | _Rebecca_                               | Alfred Hitchcock                 |
+| 1940 | _The Grapes of Wrath_                   | John Ford                        |
+| 1941 | _Citizen Kane_                          | Orson Welles                     |
+| 1942 | _Casablanca_                            | Michael Curtiz                   |
+| 1942 | _To Be or Not to Be_                    | Ernst Lubitsch                   |
+| 1944 | _Double Indemnity_                      | Billy Wilder                     |
+| 1946 | _The Best Years of Our Lives_           | William Wyler                    |
+| 1948 | _Bicycle Thieves_                       | Vittorio De Sica                 |
+| 1948 | _The Treasure of the Sierra Madre_      | John Huston                      |
+| 1949 | _The Third Man_                         | Carol Reed                       |
+| 1949 | _Late Spring_                           | Yasujirō Ozu                     |
+| 1950 | _Sunset Boulevard_                      | Billy Wilder                     |
+| 1951 | _Strangers on a Train_                  | Alfred Hitchcock                 |
+| 1952 | _Singin' in the Rain_                   | Gene Kelly, Stanley Donen        |
+| 1952 | _Ikiru_                                 | Akira Kurosawa                   |
+| 1953 | _The Wages of Fear_                     | Henri-Georges Clouzot            |
+| 1953 | _Tokyo Story_                           | Yasujirō Ozu                     |
+| 1953 | _Welcome, Mr Marshall_                  | Luis García Berlanga             |
+| 1954 | _On the Waterfront_                     | Elia Kazan                       |
+| 1954 | _Dial M for Murder_                     | Alfred Hitchcock                 |
+| 1954 | _Rear Window_                           | Alfred Hitchcock                 |
+| 1955 | _Diabolique_                            | Henri-Georges Clouzot            |
+| 1955 | _Escuela De Vagabundos_                 | Rogelio A. González              |
+| 1957 | _12 Angry Men_                          | Sidney Lumet                     |
+| 1957 | _Witness for the Prosecution_           | Billy Wilder                     |
+| 1957 | _The Bridge on the River Kwai_          | David Lean                       |
+| 1958 | _Vertigo_                               | Alfred Hitchcock                 |
+| 1958 | _Touch of Evil_                         | Orson Welles                     |
+| 1959 | _Some Like It Hot_                      | Billy Wilder                     |
+| 1959 | _North by Northwest_                    | Alfred Hitchcock                 |
+| 1959 | _The 400 Blows_                         | François Truffaut                |
+| 1960 | _Macario_                               | Roberto Gavaldón                 |
+| 1961 | _Judgment at Nuremberg_                 | Stanley Kramer                   |
+| 1961 | _Viridiana_                             | Luis Buñuel                      |
+| 1961 | _Placido_ (not yet listed)              | —                                |
+| 1962 | _Lawrence of Arabia_                    | —                                |
+| 1962 | _To Kill a Mockingbird_                 | —                                |
+| 1962 | _The Exterminating Angel_               | —                                |
+| 1963 | _8½_                                    | —                                |
+| 1963 | _The Executioner_                       | —                                |
+| 1963 | _The Great Escape_                      | —                                |
+| 1964 | _Dr. Strangelove_                       | —                                |
+| 1967 | _Cool Hand Luke_                        | —                                |
+| 1968 | _Once Upon a Time in the West_          | —                                |
+| 1973 | _Amarcord_                              | —                                |
+| 1973 | _Malizia_                               | —                                |
+| 1973 | _El Espíritu de la Colmena_             | —                                |
+| 1973 | _The Sting_                             | —                                |
+| 1974 | _Emmanuelle_                            | —                                |
+| 1974 | _Chinatown_                             | —                                |
+| 1975 | _Monty Python and the Holy Grail_       | —                                |
+| 1975 | _Dog Day Afternoon_                     | —                                |
+| 1975 | _One Flew Over the Cuckoo's Nest_       | —                                |
+| 1976 | _Taxi Driver_                           | —                                |
+| 1976 | _Network_                               | —                                |
+| 1979 | _Alien_                                 | —                                |
+| 1979 | _Apocalypse Now_                        | —                                |
+| 1979 | _Stalker_                               | —                                |
+| 1980 | _The Elephant Man_                      | —                                |
+| 1981 | _Raiders of the Lost Ark_               | —                                |
+| 1981 | _Das Boot_                              | —                                |
+| 1982 | _Gandhi_                                | —                                |
+| 1982 | _The Thing_                             | —                                |
+| 1984 | _Once Upon a Time in America_           | —                                |
+| 1984 | _The Holy Innocents_                    | —                                |
+| 1985 | _Ran_                                   | —                                |
+| 1985 | _Back to the Future_                    | —                                |
+| 1986 | _What Every Frenchwoman Wants_          | —                                |
+| 1986 | _Aliens_                                | —                                |
+| 1986 | _Platoon_                               | —                                |
+| 1986 | _Castle in the Sky_                     | —                                |
+| 1987 | _The Princess Bride_                    | —                                |
+| 1988 | _Cinema Paradiso_                       | —                                |
+| 1988 | _My Neighbor Totoro_                    | —                                |
+| 1990 | _Ghost_                                 | —                                |
+| 1990 | _Miller's Crossing_                     | —                                |
+| 1990 | _Goodfellas_                            | —                                |
+| 1991 | _Beauty and the Beast_                  | —                                |
+| 1993 | _Jurassic Park_                         | —                                |
+| 1993 | _In the Name of the Father_             | —                                |
+| 1994 | _In The Heat Of The Sun_                | —                                |
+| 1994 | _Andaz Apna Apna_                       | —                                |
+| 1994 | _Léon: The Professional_                | —                                |
+| 1994 | _Forrest Gump_                          | —                                |
+| 1995 | _The Star Maker_                        | —                                |
+| 1995 | _All Things Fair_                       | —                                |
+| 1995 | _Heat_                                  | —                                |
+| 1995 | _Casino_                                | —                                |
+| 1995 | _La Haine_                              | —                                |
+| 1995 | _Before Sunrise_                        | —                                |
+| 1995 | _Braveheart_                            | —                                |
+| 1996 | _Fargo_                                 | —                                |
+| 1996 | _The Bandit_                            | —                                |
+| 1996 | _Tesis_                                 | —                                |
+| 1997 | _L.A. Confidential_                     | —                                |
+| 1997 | _Funny Games_                           | —                                |
+| 1997 | _Open Your Eyes_                        | —                                |
+| 1998 | _Lock, Stock and Two Smoking Barrels_   | —                                |
+| 1998 | _Saving Private Ryan_                   | —                                |
+| 1999 | _The Matrix_                            | —                                |
+| 1999 | _American Beauty_                       | —                                |
+| 1999 | _La Lengua de las Mariposas_            | —                                |
+| 1999 | _All About My Mother_                   | —                                |
+| 1999 | _The Green Mile_                        | —                                |
+| 1999 | _The Sixth Sense_                       | —                                |
+| 2000 | _Cast Away_                             | —                                |
+| 2000 | _Amores Perros_                         | —                                |
+| 2000 | _Memento_                               | Christopher Nolan                |
+| 2000 | _In the Mood for Love_                  | Wong Kar-wai                     |
+| 2001 | _Y Tu Mama También_                     | Alfonso Cuarón                   |
+| 2001 | _Donnie Darko_                          | Richard Kelly                    |
+| 2001 | _Mulholland Drive_                      | David Lynch                      |
+| 2001 | _Amélie_                                | Jean-Pierre Jeunet               |
+| 2002 | _Mondays in the Sun_                    | Fernando León de Aranoa          |
+| 2002 | _City of God_                           | Fernando Meirelles, Kátia Lund   |
+| 2002 | _Talk to Her_                           | Pedro Almodóvar                  |
+| 2003 | _The Notebook_                          | Nick Cassavetes                  |
+| 2003 | _Big Fish_                              | Tim Burton                       |
+| 2003 | _Oldboy_                                | Park Chan-wook                   |
+| 2004 | _The Machinist_                         | Brad Anderson                    |
+| 2004 | _Bad Education_                         | Pedro Almodóvar                  |
+| 2004 | _Eternal Sunshine of the Spotless Mind_ | Michel Gondry                    |
+| 2004 | _Primer_                                | Shane Carruth                    |
+| 2004 | _The Sea Inside_                        | Alejandro Amenábar               |
+| 2004 | _Hotel Rwanda_                          | Terry George                     |
+| 2005 | _Batman Begins_                         | Christopher Nolan                |
+| 2005 | _My Father and My Son_                  | Çağan Irmak                      |
+| 2005 | _Munich_                                | Steven Spielberg                 |
+| 2006 | _Rang De Basanti_                       | Rakeysh Omprakash Mehra          |
+| 2006 | _Volver_                                | Pedro Almodóvar                  |
+| 2006 | _The Lives of Others_                   | Florian Henckel von Donnersmarck |
+| 2006 | _Pan’s Labyrinth_                       | Guillermo del Toro               |
+| 2006 | _The Prestige_                          | Christopher Nolan                |
+| 2007 | _P.S. I Love You_                       | Richard LaGravenese              |
+| 2007 | _Sky of Love_                           | Reza Mirkarimi                   |
+| 2007 | _The Orphanage_                         | J.A. Bayona                      |
+| 2007 | _REC_                                   | Jaume Balagueró, Paco Plaza      |
+| 2007 | _The Diving Bell and the Butterfly_     | Julian Schnabel                  |
+| 2007 | _There Will Be Blood_                   | Paul Thomas Anderson             |
+| 2008 | _The Reader_                            | Stephen Daldry                   |
+| 2008 | _102 Minutes That Changed America_      | Dan Lindsay, Paul Perry          |
+| 2008 | _A Short Film About Killing_            | Krzysztof Kieślowski             |
+| 2008 | _The Secret Life of Walter Mitty_       | Ben Stiller                      |
+| 2009 | _The Time Traveler's Wife_              | Robert Schwentke                 |
+| 2009 | _The Killing of a Sacred Deer_          | Yorgos Lanthimos                 |
+| 2009 | _Hachi: A Dog's Tale_                   | Lasse Hallström                  |
+| 2009 | _The Secret in Their Eyes_              | Juan José Campanella             |
+| 2010 | _Wasteland_                             | Jia Zhangke                      |
+| 2010 | _Biutiful_                              | Alejandro González Iñárritu      |
+| 2010 | _Even the Rain_                         | Icíar Bollaín                    |
+| 2010 | _Inception_                             | Christopher Nolan                |
+| 2010 | _Incendies_                             | Denis Villeneuve                 |
+| 2010 | _Shutter Island_                        | Martin Scorsese                  |
+| 2011 | _The Intouchables_                      | Olivier Nakache, Éric Toledano   |
+| 2011 | _The Skin I Live In_                    | Pedro Almodóvar                  |
+| 2011 | _Limitless_                             | Neil Burger                      |
+| 2011 | _The Help_                              | Tate Taylor                      |
+| 2012 | _Blancanieves_                          | Pablo Berger                     |
+| 2013 | _The Place Beyond the Pines_            | Derek Cianfrance                 |
+| 2013 | _Nebraska_                              | Alexander Payne                  |
+| 2013 | _Beyond the Hills_                      | Cristian Mungiu                  |
+| 2013 | _Stories We Tell_                       | Sarah Polley                     |
+| 2013 | _Prisoners_                             | Denis Villeneuve                 |
+| 2014 | _Gone Girl_                             | David Fincher                    |
+| 2014 | _The Fault in Our Stars_                | Josh Boone                       |
+| 2014 | _Wild Tales_                            | Damián Szifron                   |
+| 2014 | _Leviathan_                             | Andrey Zvyagintsev               |
+| 2014 | _The Grand Budapest Hotel_              | Wes Anderson                     |
+| 2014 | _Interstellar_                          | Christopher Nolan                |
+| 2014 | _Predestination_                        | Michael Spierig, Peter Spierig   |
+| 2014 | _Scarlet Innocence_                     | Yim Pil-sung                     |
+| 2015 | _Creed_                                 | Ryan Coogler                     |
+| 2015 | _Spotlight_                             | Tom McCarthy                     |
+| 2015 | _The Revenant_                          | Alejandro González Iñárritu      |
+| 2015 | _Mad Max: Fury Road_                    | George Miller                    |
+| 2016 | _Silence_                               | Martin Scorsese                  |
+| 2016 | _The Distinguished Citizen_             | Gastón Duprat, Mariano Cohn      |
+| 2016 | _The Invisible Guest_                   | Oriol Paulo                      |
+| 2016 | _100 Metros_                            | Marcel Barrena                   |
+| 2016 | _Zootopia_                              | Byron Howard, Rich Moore         |
+| 2017 | _Call Me by Your Name_                  | Luca Guadagnino                  |
+| 2017 | _Coco_                                  | Lee Unkrich, Adrian Molina       |
+| 2017 | _Orbiter 9_                             | Hatem Khraiche                   |
+| 2017 | _A Ghost Story_                         | David Lowery                     |
+| 2018 | _The Guilty_                            | Gustav Möller                    |
+| 2018 | _Roma_                                  | Alfonso Cuarón                   |
+| 2018 | _Shoplifters_                           | Hirokazu Kore-eda                |
+| 2018 | _The Biggest Little Farm_               | John Chester                     |
+| 2019 | _Joker_                                 | Todd Phillips                    |
+| 2019 | _Parasite_                              | Bong Joon-ho                     |
+| 2019 | _Pain and Glory_                        | Pedro Almodóvar                  |
+| 2020 | _Tenet_                                 | Christopher Nolan                |
+| 2020 | _The Trial of the Chicago 7_            | Aaron Sorkin                     |
+| 2020 | _Palm Springs_                          | Max Barbakow                     |
+| 2021 | _Dune_                                  | Denis Villeneuve                 |
+| 2021 | _The Power of the Dog_                  | Jane Campion                     |
+| 2022 | _Everything Everywhere All at Once_     | Daniel Kwan, Daniel Scheinert    |
+| 2023 | _Oppenheimer_                           | Christopher Nolan                |
 
 ## [Back to Top](#top)
 
