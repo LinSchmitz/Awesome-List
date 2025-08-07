@@ -969,11 +969,11 @@
 
 ## Action
 
-| Year | Title                          |
-| ---- | ------------------------------ |
-| 1954 | _7 Samurai_                    |
-| 2014 | _The Admiral Roaring Currents_ |
-| 2017 | _The Battleship Island_        |
+| Year | Title                           | Director       |
+| ---- | ------------------------------- | -------------- |
+| 1954 | _7 Samurai_                     | Akira Kurosawa |
+| 2014 | _The Admiral: Roaring Currents_ | Kim Han-min    |
+| 2017 | _The Battleship Island_         | Ryoo Seung-wan |
 
 ## [Back to Top](#top)
 
