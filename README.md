@@ -549,7 +549,6 @@
 | 1994 | _Pulp Fiction_                              | Quentin Tarantino                        |
 | 1994 | _The Shawshank Redemption_                  | Frank Darabont                           |
 | 1995 | _Braveheart_                                | Mel Gibson                               |
-| 1995 | _Seven_                                     | David Fincher                            |
 | 1995 | _Twelve Monkeys_                            | Terry Gilliam                            |
 | 1995 | _Underground_                               | Emir Kusturica                           |
 | 1997 | _Cube_                                      | Vincenzo Natali                          |
@@ -923,7 +922,6 @@
 
 | Year | Title                                  | Director               |
 | ---- | -------------------------------------- | ---------------------- |
-| 1957 | _The Seventh Seal_                     | Ingmar Bergman         |
 | 1966 | _Persona_                              | Ingmar Bergman         |
 | 1971 | _A Clockwork Orange_                   | Stanley Kubrick        |
 | 1979 | _Stalker_                              | Andrei Tarkovsky       |
@@ -998,154 +996,145 @@
 
 | Year                 | Title                              | Director                            |
 | -------------------- | ---------------------------------- | ----------------------------------- |
-| 1920                 | _The Cabinet of Dr. Caligari_      | Robert Wiene                        |
-| 1939                 | _The Rules of the Game_            | Jean Renoir                         |
-| 1999                 | _Go_                               | Doug Liman                          |
+| 1990–1991, 2017      | _Twin Peaks_                       | David Lynch, Mark Frost             |
+| 1994–2004, 2016–2020 | _Friends_                          | Various directors                   |
+| 1999–present         | _Family Guy_                       | Seth MacFarlane                     |
+| 2002–2008            | _The Wire_                         | David Simon                         |
 | 2003                 | _A Tale of Two Sisters_            | Kim Jee-woon                        |
 | 2004                 | _The Notebook_                     | Nick Cassavetes                     |
 | 2007                 | _Lust, Caution_                    | Ang Lee                             |
-| 2015                 | _Little Forest: Winter & Spring_   | Yim Soon-rye                        |
-| 2017                 | _Memoir of a Murderer_             | Won Shin-yun                        |
-| 2020                 | _Biohackers_                       | Christian Ditter                    |
-| 2020                 | _I Care a Lot_                     | J Blakeson                          |
-| 2021                 | _Judas and the Black Messiah_      | Shaka King                          |
-| 2021                 | _Mare of Easttown_                 | Craig Zobel                         |
-| 2017                 | _13 Reasons Why_                   | Brian Yorkey                        |
-| 2024                 | _3 Body Problem (2024)_            | Zhang Yong                          |
-| 2019                 | _A Friend of the Family_           | Jim Sheridan                        |
-| 2023                 | _A Murder at the End of the World_ | Dustin Bowser                       |
-| 2022                 | _A Small Light_                    | Erik Poppe                          |
-| 2019                 | _After Life_                       | Ricky Gervais                       |
-| 2020                 | _Barkskins (NatGeo)_               | Elwood Reid                         |
-| 2009–2022            | _Better Call Saul_                 | Vince Gilligan, Peter Gould         |
-| 2021                 | _Behind Her Eyes_                  | Erik Richter Strand                 |
-| 2017–2019            | _Big Little Lies_                  | Jean-Marc Vallée, Andrea Arnold     |
-| 2014–2020            | _Bojack Horseman_                  | Raphael Bob-Waksberg                |
-| 2018–2019            | _Bodyguard_                        | Jed Mercurio                        |
 | 2008–2013            | _Breaking Bad_                     | Vince Gilligan                      |
-| 2018–2019            | _Castle Rock_                      | Various (Doc Harry Williams et al.) |
-| 2019                 | _Catch-22_                         | George Clooney, Grant Heslov        |
-| 2019                 | _Chernobyl_                        | Johan Renck                         |
-| 2017–2019            | _Counterpart_                      | Justin Marks                        |
-| 2017–2020            | _Dark_                             | Baran bo Odar, Jantje Friese        |
-| 1988                 | _Dead Ringers_ (film)              | David Cronenberg                    |
-| 2019–2022            | _Dead To Me_                       | Liz Feldman                         |
-| 2022                 | _Death and Love_ (short film)      | Various                             |
-| 2015                 | _Death Parade_ (anime series)      | Yuzuru Tachikawa                    |
-| 2020                 | _Des_ (TV miniseries)              | Lewis Arnold                        |
-| 2020                 | _Devs_                             | Alex Garland                        |
-| 2020–present         | _Emily in Paris_                   | Darren Star                         |
-| 2018–2023            | _Elite_                            | Carlos Montero, Darío Madrona       |
-| 1999–present         | _Family Guy_                       | Seth MacFarlane                     |
-| 1994–2004, 2016–2020 | _Friends_                          | Various directors                   |
 | 2008–2013            | _Fringe_                           | J. J. Abrams, Alex Kurtzman         |
-| 2022                 | _From_                             | John Griffin                        |
+| 2009–2022            | _Better Call Saul_                 | Vince Gilligan, Peter Gould         |
+| 2010–2017            | _Pretty Little Liars_              | I. Marlene King                     |
+| 2010–2017            | _Sherlock_                         | Steven Moffat, Mark Gatiss          |
+| 2011–2014            | _The Killing_                      | Veena Sud                           |
+| 2011–2018            | _New Girl_                         | Elizabeth Meriwether                |
+| 2011–2018            | _Once Upon a Time_                 | Edward Kitsis, Adam Horowitz        |
 | 2011–2019            | _Game of Thrones_                  | David Benioff, D. B. Weiss          |
-| 2022                 | _Gefährliche Liebschaften_         | Sebastian Marka                     |
+| 2013                 | _The White Queen_                  | Colin Teague                        |
+| 2013–2016            | _The Fall_                         | Allan Cubitt                        |
+| 2013–2018            | _House of Cards_                   | Beau Willimon                       |
+| 2013–2018            | _The Americans_                    | Joe Weisberg                        |
+| 2013–2020            | _Vikings_                          | Michael Hirst                       |
+| 2013–2022            | _Peaky Blinders_                   | Steven Knight                       |
+| 2014–2016            | _The Missing_                      | Harry and Jack Williams             |
+| 2014–2019            | _True Detective_                   | Nic Pizzolatto                      |
+| 2015                 | _Death Parade_ (anime series)      | Yuzuru Tachikawa                    |
+| 2015                 | _Little Forest: Winter & Spring_   | Yim Soon-rye                        |
+| 2015                 | _The Secret in Their Eyes_         | Juan José Campanella                |
+| 2015–2017            | _Narcos_                           | Chris Brancato, Carlo Bernard       |
+| 2015–2019            | _Vis a Vis_                        | Álex Pina                           |
+| 2016                 | _The Night Of_                     | Richard Price, Steven Zaillian      |
+| 2016–2021            | _Lucifer_                          | Tom Kapinos                         |
+| 2016–2022            | _Westworld_                        | Jonathan Nolan, Lisa Joy            |
+| 2017                 | _13 Reasons Why_                   | Brian Yorkey                        |
 | 2017                 | _Genius_ (season 1)                | Ron Howard                          |
 | 2017                 | _Gunpowder_                        | James Kent                          |
-| 2013–2018            | _House of Cards_                   | Beau Willimon                       |
-| 2022–present         | _House of the Dragon_              | Miguel Sapochnik, Ryan Condal       |
+| 2017                 | _River_                            | Abi Morgan                          |
+| 2017                 | _Taboo_                            | Steven Knight                       |
+| 2017                 | _The White Princess_               | Jamie Payne                         |
+| 2017                 | _La Casa de Papel_ / _Money Heist_ | Álex Pina                           |
+| 2017                 | _Memoir of a Murderer_             | Won Shin-yun                        |
+| 2017                 | _The Deuce_                        | David Simon, George Pelecanos       |
+| 2017                 | _The Spanish Princess_             | Emma Frost                          |
+| 2017–2019            | _Big Little Lies_                  | Jean-Marc Vallée, Andrea Arnold     |
+| 2017–2019            | _Counterpart_                      | Justin Marks                        |
+| 2017–2019            | _The Deuce_                        | David Simon, George Pelecanos       |
+| 2017–2020            | _Dark_                             | Baran bo Odar, Jantje Friese        |
+| 2017–2021            | _La Casa de Papel_ / _Money Heist_ | Álex Pina                           |
+| 2017–2021            | _Monsters at Work_                 | Bobs Gannaway                       |
+| 2017–2021            | _The Sinner_                       | Derek Simonds                       |
+| 2017–2022            | _Ozark_                            | Bill Dubuque, Mark Williams         |
+| 2018                 | _Maniac_                           | Cary Joji Fukunaga                  |
+| 2018                 | _Sharp Objects_                    | Jean-Marc Vallée                    |
+| 2018                 | _The City and the City_            | Peter Kosminsky                     |
+| 2018                 | _The Romanoffs_                    | Matthew Weiner                      |
+| 2018                 | _Waco_                             | John Erick Dowdle, Drew Dowdle      |
+| 2018–2019            | _Bodyguard_                        | Jed Mercurio                        |
+| 2018–2019            | _Castle Rock_                      | Various (Doc Harry Williams et al.) |
+| 2018–2019            | _The Terror_                       | David Kajganich, Soo Hugh           |
+| 2018–2022            | _Killing Eve_                      | Phoebe Waller-Bridge, others        |
+| 2018–2023            | _Elite_                            | Carlos Montero, Darío Madrona       |
+| 2018–2023            | _Succession_                       | Jesse Armstrong                     |
+| 2018–present         | _You_                              | Greg Berlanti, Sera Gamble          |
+| 2019                 | _A Friend of the Family_           | Jim Sheridan                        |
+| 2019                 | _After Life_                       | Ricky Gervais                       |
+| 2019                 | _Catch-22_                         | George Clooney, Grant Heslov        |
+| 2019                 | _Chernobyl_                        | Johan Renck                         |
+| 2019                 | _The Hot Zone_                     | Pablo Larraín, others               |
+| 2019                 | _The Spy_                          | Gideon Raff                         |
+| 2019                 | _Undone_                           | Raphael Bob-Waksberg, Kate Purdy    |
+| 2019                 | _What We Do In The Shadows_        | Jemaine Clement, Taika Waititi      |
+| 2019–2020            | _The Mandalorian_ (S1 + S2)        | Jon Favreau                         |
+| 2019–2022            | _Dead To Me_                       | Liz Feldman                         |
+| 2019–2023            | _Sex Education_                    | Laurie Nunn                         |
+| 2020                 | _Biohackers_                       | Christian Ditter                    |
+| 2020                 | _Barkskins (NatGeo)_               | Elwood Reid                         |
+| 2020                 | _Des_ (TV miniseries)              | Lewis Arnold                        |
+| 2020                 | _Devs_                             | Alex Garland                        |
+| 2020                 | _I Care a Lot_                     | J Blakeson                          |
 | 2020                 | _I Hate Suzie_                     | Lucy Prebble                        |
 | 2020                 | _I May Destroy You_                | Michaela Coel                       |
 | 2020                 | _I'll Be Gone In The Dark_         | Elizabeth Wolff, Liz Garbus         |
-| 2020–2022            | _Industry_                         | Mickey Down, Konrad Kay             |
-| 2021                 | _Inside Job_                       | Shion Takeuchi                      |
-| 2018–2022            | _Killing Eve_                      | Phoebe Waller-Bridge, others        |
-| 2017–2021            | _La Casa de Papel_ / _Money Heist_ | Álex Pina                           |
-| 2023                 | _Liebes Kind_                      | Christopher Schier                  |
 | 2020                 | _Little Fires Everywhere_          | Liz Tigelaar                        |
 | 2020                 | _Lovecraft Country_                | Misha Green                         |
-| 2016–2021            | _Lucifer_                          | Tom Kapinos                         |
-| 2021                 | _Maid_                             | Molly Smith Metzler                 |
-| 2018                 | _Maniac_                           | Cary Joji Fukunaga                  |
-| 2021                 | _Mare of Easttown_                 | Craig Zobel                         |
-| 2017–2021            | _Monsters at Work_                 | Bobs Gannaway                       |
 | 2020                 | _Murder to Mercy_                  | Daniel Lindsay, T. J. Martin        |
-| 2018–2020            | _My Brilliant Friend_              | Saverio Costanzo                    |
-| 2015–2017            | _Narcos_                           | Chris Brancato, Carlo Bernard       |
-| 2011–2018            | _New Girl_                         | Elizabeth Meriwether                |
 | 2020                 | _Normal People_                    | Lenny Abrahamson, Hettie Macdonald  |
-| 2023                 | _Obsession_                        | Various                             |
-| 2011–2018            | _Once Upon a Time_                 | Edward Kitsis, Adam Horowitz        |
-| 2017–2022            | _Ozark_                            | Bill Dubuque, Mark Williams         |
-| 2020–present         | _Panchayat_                        | Deepak Kumar Mishra                 |
 | 2020                 | _Patria_                           | Félix Viscarret                     |
-| 2013–2022            | _Peaky Blinders_                   | Steven Knight                       |
-| 2023                 | _Poker Face_                       | Rian Johnson                        |
-| 2010–2017            | _Pretty Little Liars_              | I. Marlene King                     |
 | 2020                 | _Queen's Gambit_                   | Scott Frank                         |
 | 2020                 | _Quiz_                             | James Graham                        |
-| 2013–present         | _Rick and Morty_                   | Dan Harmon, Justin Roiland          |
-| 2017                 | _River_                            | Abi Morgan                          |
-| 2017–present         | _Riverdale_                        | Roberto Aguirre-Sacasa              |
-| 2021                 | _Scenes from a Marriage_           | Hagai Levi                          |
 | 2020                 | _Schitt's Creek_ (S6)              | Dan Levy, Eugene Levy               |
-| —                    | _Scinfield_                        | Info not available                  |
-| 2019–2023            | _Sex Education_                    | Laurie Nunn                         |
-| 2018                 | _Sharp Objects_                    | Jean-Marc Vallée                    |
-| 2010–2017            | _Sherlock_                         | Steven Moffat, Mark Gatiss          |
-| Various              | _Sherlock Holmes_ (films)          | Guy Ritchie                         |
-| 2023                 | _Shrinking_                        | Bill Lawrence                       |
-| 2023–present         | _Silo_                             | David Benioff, D. B. Weiss          |
-| 2020–2021            | _Small Axe_                        | Steve McQueen                       |
-| 2023                 | _Spinoff: The Queen's Gambit_      | Info not available                  |
-| 2018–2023            | _Succession_                       | Jesse Armstrong                     |
-| 2023                 | _Tabo_                             | I don't have info on this show      |
-| 2017                 | _Taboo_                            | Steven Knight                       |
-| 2020–2023            | _Ted Lasso_                        | Bill Lawrence, Jason Sudeikis       |
-| 2020–2023            | _Tehran_                           | Moshe Zonder                        |
-| 2013–2018            | _The Americans_                    | Joe Weisberg                        |
-| 2022–present         | _The Bear_                         | Christopher Storer                  |
-| 2021                 | _The Billion Dollar Code_          | Robert Thalheim                     |
 | 2020                 | _The Booksellers_                  | D.W. Young                          |
 | 2020                 | _The Boys_ (S2)                    | Eric Kripke                         |
-| 2018                 | _The City and the City_            | Peter Kosminsky                     |
 | 2020                 | _The Crown_ (S4)                   | Peter Morgan                        |
-| 2017–2019            | _The Deuce_                        | David Simon, George Pelecanos       |
-| 2023                 | _The Diplomat_                     | Debora Cahn                         |
 | 2020                 | _The Eddy_                         | Damien Chazelle                     |
-| 2013–2016            | _The Fall_                         | Allan Cubitt                        |
+| 2020                 | _The Last Dance_                   | Jason Hehir                         |
+| 2020                 | _The Queen’s Gambit_               | Scott Frank                         |
+| 2020                 | _The Stranger_                     | Hans Rosenfeldt                     |
+| 2020                 | _The Undoing_                      | Susanne Bier                        |
+| 2020                 | _The World of the Married_         | Mo Wan-il                           |
+| 2020                 | _Unorthodox_                       | Anna Winger                         |
+| 2020                 | _We Are Who We Are_                | Luca Guadagnino                     |
+| 2020                 | _Your Honor_                       | Peter Moffat                        |
+| 2020–2021            | _Small Axe_                        | Steve McQueen                       |
+| 2020–2022            | _Industry_                         | Mickey Down, Konrad Kay             |
+| 2020–2022            | _Killing Eve_                      | Phoebe Waller-Bridge, others        |
+| 2020–2023            | _Ted Lasso_                        | Bill Lawrence, Jason Sudeikis       |
+| 2020–2023            | _Tehran_                           | Moshe Zonder                        |
+| 2020–2023            | _Your Honor_                       | Peter Moffat                        |
+| 2020–present         | _Emily in Paris_                   | Darren Star                         |
+| 2020–present         | _Panchayat_                        | Deepak Kumar Mishra                 |
+| 2021                 | _Inside Job_                       | Shion Takeuchi                      |
+| 2021                 | _Judas and the Black Messiah_      | Shaka King                          |
+| 2021                 | _Maid_                             | Molly Smith Metzler                 |
+| 2021                 | _Mare of Easttown_                 | Craig Zobel                         |
+| 2021                 | _Scenes from a Marriage_           | Hagai Levi                          |
+| 2021                 | _The Billion Dollar Code_          | Robert Thalheim                     |
+| 2021                 | _The Innocent_                     | Oriol Paulo                         |
+| 2021                 | _Under the Bridge_                 | Info not available                  |
+| 2022                 | _A Small Light_                    | Erik Poppe                          |
+| 2022                 | _Death and Love_ (short film)      | Various                             |
+| 2022                 | _From_                             | John Griffin                        |
+| 2022                 | _Gefährliche Liebschaften_         | Sebastian Marka                     |
+| 2022                 | _House of the Dragon_              | Miguel Sapochnik, Ryan Condal       |
 | 2022                 | _The Fame Game_                    | Mira Nair                           |
 | 2022                 | _The Great Heist_                  | Carlos Moreno                       |
-| 2017–present         | _The Handmaid’s Tale_              | Bruce Miller                        |
-| 2019                 | _The Hot Zone_                     | Pablo Larraín, others               |
-| 2021                 | _The Innocent_                     | Oriol Paulo                         |
 | 2022                 | _The Killing Vote_                 | Kim Hyeong-jun                      |
-| 2011–2014            | _The Killing_                      | Veena Sud                           |
-| 2020                 | _The Last Dance_                   | Jason Hehir                         |
-| 2019–2020            | _The Mandalorian_ (S1 + S2)        | Jon Favreau                         |
-| 2017–2023            | _The Marvelous Mrs. Maisel_        | Amy Sherman-Palladino               |
-| 2014–2016            | _The Missing_                      | Harry and Jack Williams             |
-| 2016                 | _The Night Of_                     | Richard Price, Steven Zaillian      |
-| 2020                 | _The Queen’s Gambit_               | Scott Frank                         |
-| 2018                 | _The Romanoffs_                    | Matthew Weiner                      |
-| 2015                 | _The Secret in Their Eyes_         | Juan José Campanella                |
-| 2017–2021            | _The Sinner_                       | Derek Simonds                       |
-| 2017–2019            | _The Spanish Princess_             | Emma Frost                          |
-| 2019                 | _The Spy_                          | Gideon Raff                         |
-| 2020                 | _The Stranger_                     | Hans Rosenfeldt                     |
-| 2018–2019            | _The Terror_                       | David Kajganich, Soo Hugh           |
-| 2024                 | _The Tattooist of Auschwitz_       | Info not yet available              |
-| 2020                 | _The Undoing_                      | Susanne Bier                        |
-| 2017                 | _The White Princess_               | Jamie Payne                         |
-| 2013                 | _The White Queen_                  | Colin Teague                        |
-| 2002–2008            | _The Wire_                         | David Simon                         |
-| 2020                 | _The World of the Married_         | Mo Wan-il                           |
-| 1990–1991, 2017      | _Twin Peaks_                       | David Lynch, Mark Frost             |
-| 2014–2019            | _True Detective_                   | Nic Pizzolatto                      |
+| 2022                 | _The Bear_                         | Christopher Storer                  |
+| 2023                 | _A Murder at the End of the World_ | Dustin Bowser                       |
+| 2023                 | _Liebes Kind_                      | Christopher Schier                  |
+| 2023                 | _Obsession_                        | Various                             |
+| 2023                 | _Poker Face_                       | Rian Johnson                        |
+| 2023                 | _Shrinking_                        | Bill Lawrence                       |
+| 2023                 | _Silo_                             | David Benioff, D. B. Weiss          |
+| 2023                 | _Spinoff: The Queen's Gambit_      | Info not available                  |
+| 2023                 | _Tabo_                             | Info not available                  |
+| 2023                 | _The Diplomat_                     | Debora Cahn                         |
+| 2023                 | _The Marvelous Mrs. Maisel_        | Amy Sherman-Palladino               |
+| Various              | _Sherlock Holmes_ (films)          | Guy Ritchie                         |
+| —                    | _Scinfield_                        | Info not available                  |
 | —                    | _True Detectives_                  | Info not available                  |
-| 2020                 | _Unorthodox_                       | Anna Winger                         |
-| 2019                 | _Undone_                           | Raphael Bob-Waksberg, Kate Purdy    |
-| 2021                 | _Under the Bridge_                 | Info not available                  |
-| 2015–2019            | _Vis a Vis_                        | Álex Pina                           |
-| 2013–2020            | _Vikings_                          | Michael Hirst                       |
-| 2018                 | _Waco_                             | John Erick Dowdle, Drew Dowdle      |
-| 2020                 | _We Are Who We Are_                | Luca Guadagnino                     |
-| 2016–2022            | _Westworld_                        | Jonathan Nolan, Lisa Joy            |
-| 2019–present         | _What We Do In The Shadows_        | Jemaine Clement, Taika Waititi      |
-| 2018–present         | _You_                              | Greg Berlanti, Sera Gamble          |
-| 2020–2023            | _Your Honor_                       | Peter Moffat                        |
 | —                    | _Zeitgeist_                        | Info not available                  |
 
 ## [Back to Top](#top)
@@ -1441,7 +1430,6 @@
 | ---- | _Shutter Island_              | Martin Scorsese         |
 | ---- | _The Shawshank Redemption_    | Frank Darabont          |
 | ---- | _Gone Girl_                   | David Fincher           |
-| ---- | _Seven_                       | David Fincher           |
 | ---- | _Memento_                     | Christopher Nolan       |
 | ---- | _Parasite_                    | Bong Joon-ho            |
 | ---- | _The Mist_                    | Frank Darabont          |
