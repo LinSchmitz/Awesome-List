@@ -1402,26 +1402,26 @@
 
 ## Time Loop Themed Films
 
-| Year | Title                             |
-| ---- | --------------------------------- |
-| 1993 | _Groundhog Day_                   |
-| 2006 | _The Girl Who Leapt Through Time_ |
-| 2007 | _Timecrimes_                      |
-| 2009 | _Triangle_                        |
-| 2011 | _Source Code_                     |
-| 2012 | _Looper_                          |
-| 2014 | _Predestination_                  |
-| 2014 | _Edge of Tomorrow_                |
-| 2017 | _The Endless_                     |
-| 2017 | _Before I Fall_                   |
-| 2017 | _Happy Death Day_                 |
-| 2020 | _Palm Springs_                    |
-| 2021 | _The Map of Tiny Perfect Things_  |
-| ---- | _Boss Level_                      |
-| ---- | _Summertime Rendering_            |
-| ---- | _Re\:Zero_                        |
-| ---- | _Steins Gate_                     |
-| ---- | _Deja Vu_                         |
+| Year | Title                             | Director(s)                           |
+| ---- | --------------------------------- | ------------------------------------- |
+| 1993 | _Groundhog Day_                   | Harold Ramis                          |
+| 2006 | _The Girl Who Leapt Through Time_ | Mamoru Hosoda                         |
+| 2007 | _Timecrimes_                      | Nacho Vigalondo                       |
+| 2009 | _Triangle_                        | Christopher Smith                     |
+| 2011 | _Source Code_                     | Duncan Jones                          |
+| 2012 | _Looper_                          | Rian Johnson                          |
+| 2014 | _Predestination_                  | Michael & Peter Spierig               |
+| 2014 | _Edge of Tomorrow_                | Doug Liman                            |
+| 2017 | _The Endless_                     | Justin Benson, Aaron Moorhead         |
+| 2017 | _Before I Fall_                   | Ry Russo-Young                        |
+| 2017 | _Happy Death Day_                 | Christopher Landon                    |
+| 2020 | _Palm Springs_                    | Max Barbakow                          |
+| 2021 | _The Map of Tiny Perfect Things_  | Ian Samuels                           |
+| ---- | _Boss Level_                      | Joe Carnahan                          |
+| ---- | _Summertime Rendering_            | Ayumu Watanabe                        |
+| ---- | _Re:Zero_                         | Masaharu Watanabe (anime series)      |
+| ---- | _Steins;Gate_                     | Hiroshi Hamasaki, Takuya Satō (anime) |
+| ---- | _Deja Vu_                         | Tony Scott                            |
 
 ## [Back to Top](#top)
 
