@@ -1,4 +1,4 @@
-# Awesome-List
+# Awesome Movies/Series List
 
 ## A list of all kinds of genres.
 
