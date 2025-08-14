@@ -1,6 +1,6 @@
 # Awesome-List
 
-## A list of **beautiful, emotional, and powerful movies** from all kinds of genres. Each one was picked for its great story, strong visuals, and creative style.
+## A list of all kinds of genres. Each one was picked for its great story, strong visuals, and creative style.
 
 ## [By Genre](genre/README.md)
 
